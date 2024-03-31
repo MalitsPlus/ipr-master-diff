@@ -768,6 +768,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-april-medal-24-0401",
+    "name": "魚魚メダル",
+    "assetId": "medal-gyogyo-24-0401",
+    "description": "魚魚メダル交換所で様々なアイテムと交換できる\n期限を過ぎるとメダルは消失します",
+    "howToGet": "魚魚っとさんが新社長就任!キャンペーン",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-beginner-ticket-22-0328",
     "name": "★5契約書",
     "assetId": "card-exchange-05",
@@ -1313,6 +1325,18 @@
     "assetId": "gacha-free-ticket-1s",
     "description": "有効期限：入手後7日\nチケットガチャを1回引くことができる",
     "howToGet": "TRINITYAiLEフェス開催記念特別ログインボーナス",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-24-0401",
+    "name": "魚魚っとさんのヒレ10連ガチャチケ",
+    "assetId": "gacha-free-april-24-0401-ticket-10s",
+    "description": "有効期限：4/2(火) 23:59\n魚魚っとさんのヒレ10連ガチャを1回引くことができる",
+    "howToGet": "魚魚っとさん新社長就任！キャンペーン",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -5261,6 +5285,18 @@
     "assetId": "photo-shooting-contest",
     "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
     "howToGet": "フォトオーディション、フォトアルバムなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-photo_contest_create-24-0401",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトアルバム、プロモーション",
     "type": 12001,
     "value": 1,
     "order": 99,

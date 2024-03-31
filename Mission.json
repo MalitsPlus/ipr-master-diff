@@ -32820,6 +32820,72 @@
     "linkDetail": ""
   },
   {
+    "id": "event-shelf-24-0401-photo-album-complete",
+    "categoryType": 3,
+    "missionType": 1902,
+    "targetIds": [
+      "shelf-24-0401"
+    ],
+    "name": "フォトを1回現像",
+    "shortDescription": "フォトを1回現像",
+    "longDescription": "フォトを1回現像しましょう。",
+    "order": 2,
+    "linkType": 112,
+    "linkDetail": "shelf-24-0401",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-exchange-april-medal-24-0401;10"
+      }
+    ],
+    "eventMissionId": "event-shelf-24-0401",
+    "viewConditionId": ""
+  },
+  {
+    "id": "event-shelf-24-0401-photo-album-creating",
+    "categoryType": 3,
+    "missionType": 1904,
+    "targetIds": [
+      "shelf-24-0401"
+    ],
+    "name": "アルバムを1回現像",
+    "shortDescription": "アルバムを1回現像",
+    "longDescription": "アルバムを1回現像しましょう。",
+    "order": 3,
+    "linkType": 112,
+    "linkDetail": "shelf-24-0401",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-exchange-april-medal-24-0401;10"
+      }
+    ],
+    "eventMissionId": "event-shelf-24-0401",
+    "viewConditionId": ""
+  },
+  {
+    "id": "event-shelf-24-0401-photo-save",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-event-shelf-24-0401-ms-login-001"
+    ],
+    "name": "ログイン{threshold}回",
+    "shortDescription": "ログイン{threshold}回",
+    "longDescription": "ログインを{threshold}回しましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-exchange-april-medal-24-0401;5"
+      }
+    ],
+    "eventMissionId": "event-shelf-24-0401",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
     "id": "event_story-mission-23-0619-story-read-001-005",
     "categoryType": 3,
     "missionType": 4,
