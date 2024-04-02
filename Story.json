@@ -384,6 +384,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-skr-24-0403",
+    "name": "川咲さくら 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はさくらの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "魚魚っとさんのケーキ",
+        "advAssetId": "hbd_04_skr_01"
+      },
+      {
+        "index": 2,
+        "text": "芸人さんのライブチケット",
+        "advAssetId": "hbd_04_skr_02"
+      },
+      {
+        "index": 3,
+        "text": "とんかつの写真集",
+        "advAssetId": "hbd_04_skr_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-suz-23-0913",
     "name": "成宮すず 誕生日2023",
     "advPlayTypes": [
@@ -7652,6 +7684,60 @@
     ],
     "advAssetIds": [
       "card_ski_06_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-birt-00-01",
+    "name": "家族は大事に\nしないと",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-birt-00-02",
+    "name": "魚魚っと\nバイク",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-birt-00-03",
+    "name": "サプライズ\nサプライズ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_51_03"
     ],
     "sectionName": "",
     "description": "",

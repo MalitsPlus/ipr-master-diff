@@ -10662,6 +10662,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-skr-05-birt-00",
+    "assetId": "skr-05-birt-00",
+    "name": "感謝伝えるバースデー",
+    "description": "どうかこの想いが、空の向こうまで届きますように\r\n――私、『アイドル』に出会えて、とっても幸せです",
+    "type": 3,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 417,
+    "danceRatioPermil": 310,
+    "visualRatioPermil": 273,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-birt-00-1",
+    "skillId2": "sk-skr-05-birt-00-2",
+    "skillId3": "sk-skr-05-birt-00-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 354,
+    "releaseDate": "1712070000000",
+    "imageType1": 3,
+    "displayPositionX1": -0.094,
+    "displayPositionY1": 0.143,
+    "displayScale1": 1.4,
+    "highlightDisplayPositionX1": 0.011,
+    "highlightDisplayPositionY1": 0.532,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.094,
+    "displayPositionY2": 0.143,
+    "displayScale2": 1.4,
+    "highlightDisplayPositionX2": 0.011,
+    "highlightDisplayPositionY2": 0.532,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "――私、『アイドル』に出会えて、\nとっても幸せです",
+    "rewardHairId": "hair-skr-hair-10",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-birt-00-01"
+      },
+      {
+        "storyId": "st-card-skr-05-birt-00-02"
+      },
+      {
+        "storyId": "st-card-skr-05-birt-00-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-skr-05-chia-00",
     "assetId": "skr-05-chia-00",
     "name": "スマイル・コネクト！",
