@@ -660,6 +660,42 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_gold-24-0404",
+    "name": "すごろくコイン",
+    "assetId": "gold-dice",
+    "description": "マップ内のショップでアイテムを購入することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-dice_medal-24-0404",
+    "name": "すごろくメダル",
+    "assetId": "medal-dice",
+    "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-dice_stamina_recovery-24-0404",
+    "name": "すごろくキャンディ",
+    "assetId": "dice-stamina-recovery",
+    "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント、ファンイベント、プロモーション など",
+    "type": 3001,
+    "value": 10,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dream-generate-dream-23-0912",
     "name": "イメトレマニュアル",
     "assetId": "dream-generate",
@@ -2402,6 +2438,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-24-0226",
     "name": "繋ぐ、みんなのピースガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-24-0404",
+    "name": "獅子搏兎のAll inガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -5580,6 +5628,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-prm-fan-meeting-24-0404-01-winning",
+    "name": "マネージャーミーティング当選券",
+    "assetId": "23-0605-01-winning",
+    "description": "「マネージャーミーティング」当選券です\nお知らせやメールから参加登録をご対応ください。\n入力期限：4/11 23:59",
+    "howToGet": "「マネージャーミーティング」に当選",
+    "type": 3001,
+    "value": 1,
+    "order": 2001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-promo_2nd-anniv-23-0605-01",
     "name": "2周年記念公開生放送当選券",
     "assetId": "23-0605-01-winning",
@@ -6232,6 +6292,18 @@
     "name": "★5アイドル1人確定アイプラフェスガチャチケ",
     "assetId": "shop-gacha-ticket-r5",
     "description": "★5アイドル1人確定アイプラフェスチケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-r5-24-0404",
+    "name": "獅子搏兎のAll in★5確定ガチャチケ",
+    "assetId": "shop-gacha-ticket-r5",
+    "description": "獅子搏兎のAll in★5アイドル1人確定チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
     "type": 8,
     "value": 1,

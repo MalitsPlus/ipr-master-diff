@@ -620,6 +620,36 @@
     "colorCode": ""
   },
   {
+    "id": "area-daily-sp-24-0405",
+    "type": 3,
+    "name": "スペシャル",
+    "description": "デイリーライブ",
+    "order": 1,
+    "viewConditionId": "cd-time-daily-sp-24-0405-24-0420",
+    "unlockConditionId": "cd-time-daily-sp-24-0405-24-0420",
+    "dailyLimitCount": 3,
+    "rewardAssetId": "img_item_thumb_card-skill",
+    "dailySpecialTicketItemId": "item-daily_quest_ticket_sp-24-0327",
+    "dailyRewardName": "スキルパウダー",
+    "questIds": [
+      "qt-daily-sp-24-0405-01",
+      "qt-daily-sp-24-0405-02",
+      "qt-daily-sp-24-0405-03",
+      "qt-daily-sp-24-0405-04",
+      "qt-daily-sp-24-0405-05",
+      "qt-daily-sp-24-0405-06",
+      "qt-daily-sp-24-0405-07",
+      "qt-daily-sp-24-0405-08",
+      "qt-daily-sp-24-0405-09",
+      "qt-daily-sp-24-0405-10",
+      "qt-daily-sp-24-0405-11"
+    ],
+    "areaGroupId": "",
+    "dailyTicketItemType": 0,
+    "assetId": "",
+    "colorCode": ""
+  },
+  {
     "id": "area-ex-tower-001",
     "type": 5,
     "name": "月のテンペスト",

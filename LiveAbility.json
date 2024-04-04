@@ -6477,6 +6477,3446 @@
     "description": ""
   },
   {
+    "id": "dice_live_bonus-active_skill_score_multiply",
+    "name": "Aスキルスコア上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "Aスキルスコア5.0%上昇",
+        "type": 20,
+        "value": 50,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "Aスキルスコア10.0%上昇",
+        "type": 20,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 100,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "Aスキルスコア15.0%上昇",
+        "type": 20,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 150,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-beat_score_multiply",
+    "name": "ビートスコア上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "ビートスコア20.0%上昇",
+        "type": 18,
+        "value": 200,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "ビートスコア35.0%上昇",
+        "type": 18,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 350,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "ビートスコア50.0%上昇",
+        "type": 18,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 500,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-critical_score_multiply",
+    "name": "クリティカルスコア上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "クリティカルスコア5.0%上昇",
+        "type": 23,
+        "value": 50,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "クリティカルスコア10.0%上昇",
+        "type": 23,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 100,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "クリティカルスコア15.0%上昇",
+        "type": 23,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 150,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-dance_add",
+    "name": "ダンス上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "ダンス3000上昇",
+        "type": 1,
+        "value": 3000,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "ダンス6500上昇",
+        "type": 1,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 6500,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "ダンス10000上昇",
+        "type": 1,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 10000,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-mental_add",
+    "name": "メンタル上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "メンタル450上昇",
+        "type": 9,
+        "value": 450,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "メンタル600上昇",
+        "type": 9,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 600,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "メンタル750上昇",
+        "type": 9,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 750,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-001",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-beat_score_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-beat_score_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-beat_score_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-002",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-003",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-004",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-005",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-4",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-4",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-dance_up-4",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-006",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-score_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-score_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-score_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-007",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-score_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-score_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-score_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-008",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-score_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-score_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-score_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-009",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_cool_time_reduction-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_cool_time_reduction-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_cool_time_reduction-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-010",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_cool_time_reduction-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_cool_time_reduction-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_cool_time_reduction-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-011",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_bonus_permil_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_bonus_permil_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_bonus_permil_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-012",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_bonus_permil_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_bonus_permil_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_bonus_permil_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-013",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_rate_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_rate_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_rate_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-014",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_rate_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_rate_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_critical_rate_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-015",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_fix_stamina_recovery-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_fix_stamina_recovery-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_fix_stamina_recovery-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-016",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_fix_stamina_recovery-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_fix_stamina_recovery-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_fix_stamina_recovery-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-017",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_score_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_score_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_score_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-018",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_score_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_score_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_score_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-019",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_count_increase-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_count_increase-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_count_increase-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-020",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_count_increase-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_count_increase-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_count_increase-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-021",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_value_increase-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_value_increase-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_value_increase-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-022",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_value_increase-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_value_increase-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-skill_strength_effect_value_increase-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-023",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-024",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-025",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-026",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-4",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-4",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-visual_up-4",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-027",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-028",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-029",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-030",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-4",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-4",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-backside-lba-passive_skill-vocal_up-4",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-031",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-dance_boost-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-dance_boost-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-dance_boost-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-032",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-dance_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-dance_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-dance_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-033",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-skill_cool_time_reduction-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-skill_cool_time_reduction-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-skill_cool_time_reduction-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-034",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-skill_cool_time_reduction-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-skill_cool_time_reduction-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-skill_cool_time_reduction-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-035",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-critical_bonus_permil_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-critical_bonus_permil_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-critical_bonus_permil_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-036",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-skill_fix_stamina_recovery-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-skill_fix_stamina_recovery-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-skill_fix_stamina_recovery-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-037",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-skill_strength_effect_count_increase-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-skill_strength_effect_count_increase-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-skill_strength_effect_count_increase-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-038",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-skill_strength_effect_value_increase-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-skill_strength_effect_value_increase-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-skill_strength_effect_value_increase-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-039",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-visual_boost-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-visual_boost-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-visual_boost-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-040",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-visual_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-visual_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-visual_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-041",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-vocal_boost-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-vocal_boost-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-vocal_boost-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-042",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-marathon-lba-passive_skill-vocal_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-marathon-lba-passive_skill-vocal_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-marathon-lba-passive_skill-vocal_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-043",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-044",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-045",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-046",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-4",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-4",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-4",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-047",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-5",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-048",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-6",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-6",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-cool_time_reduction-6",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-049",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-050",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-051",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-dance_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-052",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-score_get-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-score_get-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-score_get-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-053",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-054",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-055",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-056",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-4",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-4",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-4",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-057",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-5",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-5",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-score_up-5",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-058",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-059",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-060",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-061",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-4",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-4",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-skill_success_rate_up-4",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-062",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-063",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-064",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-3",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-3",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-3",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-065",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-4",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-4",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-strength_effect_value_increase-4",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-066",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-tension_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-tension_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-tension_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-067",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-tension_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-tension_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-tension_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-068",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-069",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-visual_up-2",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-passive_skill-070",
+    "name": "パッシブスキル",
+    "levels": [
+      {
+        "level": 1,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "value": 1,
+        "skillId": "sk-race-lba-passive_skill-ef-vocal_up-1",
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 2,
+        "skillId": "sk-race-lba-passive_skill-ef-vocal_up-1",
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "パッシブスキル発動",
+        "type": 13,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 3,
+        "skillId": "sk-race-lba-passive_skill-ef-vocal_up-1",
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-special_skill_score_multiply",
+    "name": "SPスキルスコア上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "SPスキルスコア5.0%上昇",
+        "type": 22,
+        "value": 50,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "SPスキルスコア10.0%上昇",
+        "type": 22,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 100,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "SPスキルスコア15.0%上昇",
+        "type": 22,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 150,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-stamina_add",
+    "name": "スタミナ上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "スタミナ300上昇",
+        "type": 7,
+        "value": 300,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "スタミナ400上昇",
+        "type": 7,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 400,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "スタミナ500上昇",
+        "type": 7,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 500,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-technique_add",
+    "name": "クリティカル率上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "クリティカル450上昇",
+        "type": 11,
+        "value": 450,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "クリティカル600上昇",
+        "type": 11,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 600,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "クリティカル750上昇",
+        "type": 11,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 750,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-visual_add",
+    "name": "ビジュアル上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "ビジュアル3000上昇",
+        "type": 5,
+        "value": 3000,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "ビジュアル6500上昇",
+        "type": 5,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 6500,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "ビジュアル10000上昇",
+        "type": 5,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 10000,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
+    "id": "dice_live_bonus-vocal_add",
+    "name": "ボーカル上昇",
+    "levels": [
+      {
+        "level": 1,
+        "description": "ボーカル3000上昇",
+        "type": 3,
+        "value": 3000,
+        "backgroundRankType": 1,
+        "shortDescription": "",
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 2,
+        "description": "ボーカル6500上昇",
+        "type": 3,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 1,
+        "value": 6500,
+        "backgroundRankType": 2,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      },
+      {
+        "level": 3,
+        "description": "ボーカル10000上昇",
+        "type": 3,
+        "requiredItemAmount": 1,
+        "requiredCardLevel": 2,
+        "value": 10000,
+        "backgroundRankType": 3,
+        "shortDescription": "",
+        "skillId": "",
+        "moodType": 0
+      }
+    ],
+    "description": ""
+  },
+  {
     "id": "lba-active_skill_score_multiply",
     "name": "Aスキルスコアアップ",
     "levels": [

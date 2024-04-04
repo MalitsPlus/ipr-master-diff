@@ -2736,7 +2736,7 @@
     "skillId2": "sk-hrk-05-pajm-00-2",
     "skillId3": "sk-hrk-05-pajm-00-3",
     "activityAbilityId": "aab-fan_event_manager_exp_up",
-    "order": 364,
+    "order": 362,
     "releaseDate": "1710730800000",
     "rewardCostumeId": "cos-hrk-pajm-00",
     "imageType1": 3,
@@ -2941,6 +2941,67 @@
     "rewardHairId": "",
     "stories": [],
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-kan-05-buny-00",
+    "assetId": "kan-05-buny-00",
+    "name": "バズらせバニー",
+    "description": "明日からは、日本のアイドルをチェックしたくて\r\nたまらなくなるから",
+    "type": 1,
+    "characterId": "char-kan",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 323,
+    "danceRatioPermil": 272,
+    "visualRatioPermil": 435,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-05-buny-00-1",
+    "skillId2": "sk-kan-05-buny-00-2",
+    "skillId3": "sk-kan-05-buny-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 364,
+    "releaseDate": "1712199600000",
+    "rewardCostumeId": "cos-kan-buny-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.215,
+    "displayPositionY1": 0.045,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.245,
+    "highlightDisplayPositionY1": 0.216,
+    "highlightDisplayScale1": 0.9,
+    "imageType2": 3,
+    "displayPositionX2": 0.215,
+    "displayPositionY2": 0.045,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": -0.245,
+    "highlightDisplayPositionY2": 0.216,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "まだまだ、\n最高のショーは終わらないよ！",
+    "stories": [
+      {
+        "storyId": "st-card-kan-05-buny-00-01"
+      },
+      {
+        "storyId": "st-card-kan-05-buny-00-02"
+      },
+      {
+        "storyId": "st-card-kan-05-buny-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kan-05-buny-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kan-05-buny-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
     "homeTalks": []
   },
   {
@@ -3858,6 +3919,67 @@
     "activityAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-kor-05-buny-00",
+    "assetId": "kor-05-buny-00",
+    "name": "逆転のジーニアスラビット",
+    "description": "kana達と一緒なのは嫌ですけど、我慢します\r\nこんな才能、眠らせておく方がもったいないでしょ？",
+    "type": 2,
+    "characterId": "char-kor",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 405,
+    "danceRatioPermil": 319,
+    "visualRatioPermil": 276,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kor-05-buny-00-1",
+    "skillId2": "sk-kor-05-buny-00-2",
+    "skillId3": "sk-kor-05-buny-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 363,
+    "releaseDate": "1712199600000",
+    "rewardCostumeId": "cos-kor-buny-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.172,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": 0.275,
+    "highlightDisplayPositionY1": 0.187,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.172,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": 0.275,
+    "highlightDisplayPositionY2": 0.187,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "こんな才能、\n眠らせておく方が\nもったいないでしょ？",
+    "stories": [
+      {
+        "storyId": "st-card-kor-05-buny-00-01"
+      },
+      {
+        "storyId": "st-card-kor-05-buny-00-02"
+      },
+      {
+        "storyId": "st-card-kor-05-buny-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kor-05-buny-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kor-05-buny-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairId": "",
     "homeTalks": []
   },
@@ -5760,6 +5882,48 @@
     "activityAbilityId": "",
     "rewardCostumeId": "",
     "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-mhk-02-eve-02",
+    "assetId": "mhk-02-eve-02",
+    "name": "獅子達のベガス征服",
+    "description": "正直、ハッタリの副産物ではあるけれど\n……まぁ、話題にさえなってしまえばこちらのものね",
+    "type": 1,
+    "characterId": "char-mhk",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 433,
+    "danceRatioPermil": 318,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-02-eve-02-1",
+    "skillId2": "sk-mhk-02-eve-02-2",
+    "skillId3": "sk-mhk-02-eve-02-3",
+    "order": 365,
+    "releaseDate": "1712199600000",
+    "imageType1": 1,
+    "displayPositionX1": -0.006,
+    "displayPositionY1": 0.274,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.017,
+    "highlightDisplayPositionY1": 0.315,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.123,
+    "displayPositionY2": -0.063,
+    "displayScale2": 2.0,
+    "highlightDisplayPositionX2": -0.142,
+    "highlightDisplayPositionY2": 0.02,
+    "highlightDisplayScale2": 1.3,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
     "obtainMessage": "",
     "rewardHairId": "",
     "stories": [],

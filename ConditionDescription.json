@@ -4680,6 +4680,18 @@
     "description": "最大総合力90000"
   },
   {
+    "id": "cd-dice-24-0404-exchange",
+    "description": "イベント交換可能"
+  },
+  {
+    "id": "cd-dice-24-0404-play",
+    "description": "マネージャーLv20以上 かつ メインライブ#4クリア"
+  },
+  {
+    "id": "cd-dice-play",
+    "description": "マネージャーLv20以上 かつ メインライブ#4クリア"
+  },
+  {
     "id": "cd-dokan-anime-camp-23-1125",
     "description": "期間：ABEMA一挙放送"
   },
@@ -9668,6 +9680,46 @@
     "description": "イベントバナー"
   },
   {
+    "id": "cd-event-dice-24-0404-story-001",
+    "description": "イベントストーリー第1話を視聴"
+  },
+  {
+    "id": "cd-event-dice-24-0404-story-002",
+    "description": "イベントストーリー第2話を視聴"
+  },
+  {
+    "id": "cd-event-dice-24-0404-story-003",
+    "description": "イベントストーリー第3話を視聴"
+  },
+  {
+    "id": "cd-event-dice-24-0404-story-004",
+    "description": "イベントストーリー第4話を視聴"
+  },
+  {
+    "id": "cd-event-dice-24-0404-story-005",
+    "description": "イベントストーリー第5話を視聴"
+  },
+  {
+    "id": "cd-event-dice-24-0404-story-01-unlock",
+    "description": "第0エリアをクリア"
+  },
+  {
+    "id": "cd-event-dice-24-0404-story-02-unlock",
+    "description": "第3エリアをクリア"
+  },
+  {
+    "id": "cd-event-dice-24-0404-story-03-unlock",
+    "description": "第5エリアをクリア"
+  },
+  {
+    "id": "cd-event-dice-24-0404-story-04-unlock",
+    "description": "第10エリアをクリア"
+  },
+  {
+    "id": "cd-event-dice-24-0404-story-05-unlock",
+    "description": "第15エリアをクリア"
+  },
+  {
     "id": "cd-event-exchange-0731-0818",
     "description": "マネージャーLv40"
   },
@@ -10426,6 +10478,10 @@
   {
     "id": "cd-event-story-24-0327",
     "description": "イベントストーリー"
+  },
+  {
+    "id": "cd-event-story-24-0404",
+    "description": "イベントストーリー視聴可能"
   },
   {
     "id": "cd-event-story-read-001",
@@ -11298,6 +11354,14 @@
   {
     "id": "cd-exchange-april-medal-24-0401",
     "description": "魚魚メダル交換所開催期間"
+  },
+  {
+    "id": "cd-exchange-buny-medal-24-0404",
+    "description": "未解放"
+  },
+  {
+    "id": "cd-exchange-buny-medal-24-0404-now-after",
+    "description": "衣装コレクション交換所"
   },
   {
     "id": "cd-exchange-christmas-medal-22-1128",
@@ -22984,6 +23048,10 @@
     "description": "メッセージ読了で解放"
   },
   {
+    "id": "cd-ms-read-message-card-kan-05-buny-00",
+    "description": "メッセージ読了で解放"
+  },
+  {
     "id": "cd-ms-read-message-card-kan-05-chna-00",
     "description": "メッセージ読了で解放"
   },
@@ -23029,6 +23097,10 @@
   },
   {
     "id": "cd-ms-read-message-card-kkr-05-vlnt-00",
+    "description": "メッセージ読了で解放"
+  },
+  {
+    "id": "cd-ms-read-message-card-kor-05-buny-00",
     "description": "メッセージ読了で解放"
   },
   {
@@ -23826,6 +23898,10 @@
   {
     "id": "cd-obtain_card-ktn-02-eve-01",
     "description": "未加入"
+  },
+  {
+    "id": "cd-obtain_card-mhk-02-eve-02",
+    "description": "イベントアイドルを所持"
   },
   {
     "id": "cd-obtain_card-rei-02-sush-00",
@@ -25162,6 +25238,10 @@
   {
     "id": "cd-premium-ticket-23-0624-possession-card-szk-05-prem-00-not",
     "description": "指定アイドル未加入"
+  },
+  {
+    "id": "cd-prm-fan-meeting-24-0404-01-winning",
+    "description": "「マネージャーミーティング」当選"
   },
   {
     "id": "cd-promo_2nd-anniv-23-0605-01-winning",
@@ -33040,6 +33120,22 @@
     "description": "TRINITYAiLEフェス開催記念ショップMlv120制御"
   },
   {
+    "id": "cd-shop-pack-24-0404",
+    "description": "【お知らせ】スプリングバニーショップ"
+  },
+  {
+    "id": "cd-shop-pack-24-0404-0420",
+    "description": "スプリングバニーショップ"
+  },
+  {
+    "id": "cd-shop-pack-24-0404-0420-dokan",
+    "description": "【ドカン】スプリングバニーショップ"
+  },
+  {
+    "id": "cd-shop-pack-24-0404-0420-mlv-120",
+    "description": "スプリングバニーショップMlv120制御"
+  },
+  {
     "id": "cd-shop-pack1-23-0809",
     "description": "【お知らせ】リリース777日記念ショップ"
   },
@@ -33433,6 +33529,10 @@
   },
   {
     "id": "cd-shop_dress-shop-24-0327-0404",
+    "description": "衣装ショップドカン&バナー期間"
+  },
+  {
+    "id": "cd-shop_dress-shop-24-0404-0420",
     "description": "衣装ショップドカン&バナー期間"
   },
   {
@@ -34716,6 +34816,10 @@
     "description": "リンクスキャンディパック期間"
   },
   {
+    "id": "cd-shop_special-shop-24-0404-24-0413",
+    "description": "すごろくキャンディパック期間"
+  },
+  {
     "id": "cd-shop_special-shop-banner-21-1125",
     "description": "サプライズショップSバナー期間"
   },
@@ -35234,6 +35338,22 @@
   {
     "id": "cd-special-shop-pack-24-0327-gacha",
     "description": "【ガチャ】★5アイドル1人確定アイプラフェスチケットガチャ"
+  },
+  {
+    "id": "cd-special-shop-pack-24-0404",
+    "description": "【お知らせ】スプリングバニー特別ショップ"
+  },
+  {
+    "id": "cd-special-shop-pack-24-0404-0419",
+    "description": "スプリングバニー特別ショップ"
+  },
+  {
+    "id": "cd-special-shop-pack-24-0404-0419-dokan",
+    "description": "【ドカン】スプリングバニー特別ショップ"
+  },
+  {
+    "id": "cd-special-shop-pack-24-0404-0419-gacha",
+    "description": "【ガチャ】獅子搏兎のAll in★5アイドル1人確定チケットガチャ"
   },
   {
     "id": "cd-st-eve-2108-marathon-001",
@@ -38544,6 +38664,10 @@
     "description": "#3視聴\nで解放"
   },
   {
+    "id": "cd-st-read-st-card-kan-05-buny-00-03",
+    "description": "#3視聴\nで解放"
+  },
+  {
     "id": "cd-st-read-st-card-kan-05-chna-00-03",
     "description": "#3視聴\nで解放"
   },
@@ -38589,6 +38713,10 @@
   },
   {
     "id": "cd-st-read-st-card-kkr-05-vlnt-00-03",
+    "description": "#3視聴\nで解放"
+  },
+  {
+    "id": "cd-st-read-st-card-kor-05-buny-00-03",
     "description": "#3視聴\nで解放"
   },
   {
@@ -40080,8 +40208,24 @@
     "description": "スペシャルデイリーライブ開催期間"
   },
   {
+    "id": "cd-time-daily-sp-24-0405-24-0420",
+    "description": "スペシャルデイリーライブ開催期間"
+  },
+  {
     "id": "cd-time-diary-21-1009",
     "description": "準備中"
+  },
+  {
+    "id": "cd-time-dice-24-0404-24-0414",
+    "description": "イベント期間"
+  },
+  {
+    "id": "cd-time-dice-24-0405-24-0421",
+    "description": "ログインミッション開催期間"
+  },
+  {
+    "id": "cd-time-dice-24-0405-24-0421-mlv-20",
+    "description": "ミッション開催期間"
   },
   {
     "id": "cd-time-dokan-lm-set-bloom-22-0103",
@@ -40186,6 +40330,14 @@
   {
     "id": "cd-time-event-ms-anniversary-22-0630-0711",
     "description": "1周年記念ミッション"
+  },
+  {
+    "id": "cd-time-event-ms-bunny-24-0409-0417",
+    "description": "スプリングバニーミッション"
+  },
+  {
+    "id": "cd-time-event-ms-bunny-24-0409-0417-mlv20",
+    "description": "スプリングバニーミッション"
   },
   {
     "id": "cd-time-event-ms-comeback-23-0428-0510",
@@ -42504,6 +42656,18 @@
     "description": "バナー期間終了条件：期間：さくら誕生日★5アイドル1人確定ピックアップガチャ"
   },
   {
+    "id": "cd-time-gacha-fixed-24-0404",
+    "description": "期間：獅子搏兎のAll in★5アイドル1人確定ピックアップガチャ"
+  },
+  {
+    "id": "cd-time-gacha-fixed-24-0404-banner",
+    "description": "バナー期間：期間：獅子搏兎のAll in★5アイドル1人確定ピックアップガチャ"
+  },
+  {
+    "id": "cd-time-gacha-fixed-24-0404-banner-end",
+    "description": "バナー期間終了条件：期間：獅子搏兎のAll in★5アイドル1人確定ピックアップガチャ"
+  },
+  {
     "id": "cd-time-gacha-fixed-selection-23-0328",
     "description": "期間：感謝祭記念1人★5確定セレクションガチャ"
   },
@@ -43798,6 +43962,30 @@
   {
     "id": "cd-time-gacha-lm-set-bloom-24-0311-free-ticket-1s",
     "description": "専用ガチャチケット所持"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-24-0404",
+    "description": "期間：獅子搏兎のAll inピックアップガチャ"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-24-0404-banner",
+    "description": "期間：獅子搏兎のAll inピックアップガチャ_バナー"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-24-0404-dokan",
+    "description": "期間：獅子搏兎のオール・インドカン"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-24-0404-free-check",
+    "description": "期間限定ガチャ無料10回の初回分引いたか"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-24-0404-free-open",
+    "description": "期間限定ガチャ無料10回の初回分"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-24-0404-key-get",
+    "description": "衣装コレクション交換所解放"
   },
   {
     "id": "cd-time-gacha-lm-set-bloom-dokan-22-1128",
@@ -45480,6 +45668,10 @@
     "description": "バナー期間：フェス開催記念復刻ロックオン"
   },
   {
+    "id": "cd-time-gacha-rev-rockon-01-24-0402-banner-close",
+    "description": "バナー期間：フェス開催記念復刻ロックオン"
+  },
+  {
     "id": "cd-time-gacha-rev-rockon-01-24-0402-banner-end",
     "description": "バナー期間終了条件：フェス開催記念復刻ロックオン"
   },
@@ -45738,6 +45930,14 @@
   {
     "id": "cd-time-gacha-rev-select-01-24-0402-banner",
     "description": "期間：選べる★5復刻ガチャ_バナー"
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-24-0402-banner-close",
+    "description": "期間：選べる★5復刻ガチャ_バナー"
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-24-0402-dokan",
+    "description": "期間：選べる★5復刻ガチャ"
   },
   {
     "id": "cd-time-gacha-rev-step-rockon-24-0319-1st",
@@ -46122,6 +46322,18 @@
   {
     "id": "cd-time-gacha-select-01-24-0313-banner-close",
     "description": "期間：選べる★5サポーターガチャ_バナー閉じ"
+  },
+  {
+    "id": "cd-time-gacha-select-01-24-0408",
+    "description": "cd-time-gacha-select-01-24-0408"
+  },
+  {
+    "id": "cd-time-gacha-select-01-24-0408-banner",
+    "description": "バナー期間：ロックオン"
+  },
+  {
+    "id": "cd-time-gacha-select-01-24-0408-banner-end",
+    "description": "バナー期間終了条件：ロックオン"
   },
   {
     "id": "cd-time-gift-21-0624-0627",
@@ -47252,6 +47464,14 @@
     "description": "TRINITYAiLE\nフェス開催記念ログボ受け取り期間"
   },
   {
+    "id": "cd-time-login-24-0405-0411",
+    "description": "スプリングバニーログボ期間"
+  },
+  {
+    "id": "cd-time-login-24-0405-0418",
+    "description": "スプリングバニーログボ受け取り期間"
+  },
+  {
     "id": "cd-time-market-phase-001-close",
     "description": "マーケット閉じ"
   },
@@ -47666,6 +47886,18 @@
   {
     "id": "cd-time-music-thrx-003-23-0703-close-shoot",
     "description": "開始：So What?楽曲"
+  },
+  {
+    "id": "cd-time-music-thrx-004-24-0404",
+    "description": "開始：Blow Up楽曲"
+  },
+  {
+    "id": "cd-time-music-thrx-004-24-0404-close",
+    "description": "期間：Blow Up楽曲"
+  },
+  {
+    "id": "cd-time-music-thrx-004-24-0404-close-shoot",
+    "description": "開始：Blow Up楽曲"
   },
   {
     "id": "cd-time-music-tri-002-22-0927",
@@ -48672,6 +48904,10 @@
     "description": ""
   },
   {
+    "id": "cd-wear-costume-cos-kan-buny-00",
+    "description": ""
+  },
+  {
     "id": "cd-wear-costume-cos-kan-chna-00",
     "description": ""
   },
@@ -48713,6 +48949,10 @@
   },
   {
     "id": "cd-wear-costume-cos-kkr-vlnt-00",
+    "description": ""
+  },
+  {
+    "id": "cd-wear-costume-cos-kor-buny-00",
     "description": ""
   },
   {

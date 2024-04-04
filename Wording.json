@@ -156,12 +156,148 @@
     "word": "装備制限"
   },
   {
+    "key": "dice.addDice",
+    "word": "スタミナ追加"
+  },
+  {
+    "key": "dice.main.button.daily.tomorrow",
+    "word": "進捗"
+  },
+  {
+    "key": "dice.main.button.rewardExchange.progress",
+    "word": "累計報酬 {0}/{1}"
+  },
+  {
+    "key": "dice.main.label.totalAreaCount",
+    "word": "第{0}エリア"
+  },
+  {
+    "key": "dice.main.panel.force.story",
+    "word": "特別ストーリーマス"
+  },
+  {
+    "key": "dice.main.panel.force.story.hover",
+    "word": "特別なストーリーを見ることができます。"
+  },
+  {
+    "key": "dice.main.panel.goal",
+    "word": "ゴールマス"
+  },
+  {
+    "key": "dice.main.panel.goal.justStop",
+    "word": "ピッタリ到着ボーナス!"
+  },
+  {
+    "key": "dice.main.panel.live.battle",
+    "word": "バトルマス"
+  },
+  {
+    "key": "dice.main.panel.live.battle.hover",
+    "word": "ライブバトルをプレイします。"
+  },
+  {
+    "key": "dice.main.panel.live.hover",
+    "word": "ライブをプレイします。"
+  },
+  {
+    "key": "dice.main.panel.live.score",
+    "word": "ライブマス"
+  },
+  {
+    "key": "dice.main.panel.live.score.hover",
+    "word": "ライブをプレイします。"
+  },
+  {
+    "key": "dice.main.panel.medal.hover",
+    "word": "メダルを獲得できます。"
+  },
+  {
+    "key": "dice.main.panel.money.hover",
+    "word": "コインを獲得できます。"
+  },
+  {
+    "key": "dice.main.panel.move",
+    "word": "{0}マス進む"
+  },
+  {
+    "key": "dice.main.panel.move.hover",
+    "word": "{0}マス進みます。"
+  },
+  {
+    "key": "dice.main.panel.shop",
+    "word": "ショップマス"
+  },
+  {
+    "key": "dice.main.panel.shop.hover",
+    "word": "コインでアイテムなどを購入できます。"
+  },
+  {
+    "key": "dice.main.panel.story",
+    "word": "ストーリーマス"
+  },
+  {
+    "key": "dice.main.panel.story.hover",
+    "word": "ストーリーを見ることができます。"
+  },
+  {
+    "key": "dice.main.shop.button",
+    "word": "メダル交換所"
+  },
+  {
+    "key": "dice.maxDice",
+    "word": "スタミナ最大"
+  },
+  {
+    "key": "dice.sheet.dailyReward.description",
+    "word": "進んだマス数に応じて翌日のログイン時に獲得できます。"
+  },
+  {
+    "key": "dice.sheet.ranking.description",
+    "word": "ゴールマスのハイスコア 上位{0}名 ({1})"
+  },
+  {
+    "key": "dice.sheet.selectItem.ownedMedal",
+    "word": "所持コイン"
+  },
+  {
+    "key": "dice.sheet.shop.money",
+    "word": "コイン"
+  },
+  {
+    "key": "dice.sheet.shop.Purchase.description",
+    "word": "コインでアイテムを購入します。"
+  },
+  {
+    "key": "dice.shop.description.purchase.max",
+    "word": "所持枠の上限に達しています。先に売却してください。"
+  },
+  {
+    "key": "dice.story.title",
+    "word": "ストーリー"
+  },
+  {
+    "key": "dice.top.bigTitle",
+    "word": "DICE"
+  },
+  {
+    "key": "dice.top.button.sheet.progress",
+    "word": "{0}マス"
+  },
+  {
+    "key": "dice.top.smallTitle",
+    "word": "すごろく"
+  },
+  {
     "key": "dream.generate.materialSelect.sort.rankPoint",
     "word": "GRADE"
   },
   {
     "key": "dream.top.receive.overlay.description",
     "word": "本日のイメトレマニュアルを受け取りました。\n※イベント終了後に自動で売却されます。"
+  },
+  {
+    "key": "enum.liveCategory.Dice",
+    "word": "すごろくイベント"
   },
   {
     "key": "enum.liveCategory.Dream",
@@ -556,8 +692,12 @@
     "word": "ミニマルチリンクス"
   },
   {
+    "key": "mosaic.title",
+    "word": "メダル交換"
+  },
+  {
     "key": "mosaic.totalConsumption.countLabel",
-    "word": "消費したポイント"
+    "word": "消費したメダル"
   },
   {
     "key": "notification.activity.fanEvent.message",
@@ -706,6 +846,10 @@
   {
     "key": "roulette.top.drawLabel",
     "word": "{0}/{1}回"
+  },
+  {
+    "key": "sheet.radioButtonSelectItem.title",
+    "word": "アイテム選択"
   },
   {
     "key": "shelf.home.tab.album.change.template.sheet.title",

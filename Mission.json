@@ -5202,6 +5202,306 @@
     "linkDetail": ""
   },
   {
+    "id": "event-ms-bunny-24-0409-00-card_skill_level_up_count",
+    "categoryType": 3,
+    "missionType": 14,
+    "name": "スキル強化{threshold}回",
+    "shortDescription": "スキル強化{threshold}回",
+    "longDescription": "アイドルのスキル強化を{threshold}回しましょう。",
+    "order": 9,
+    "linkType": 11,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-card_skill_level_up_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-card_skill_level_up_count-3"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-00-character_photo_shoot_count-kan",
+    "categoryType": 3,
+    "missionType": 68,
+    "targetIds": [
+      "char-kan"
+    ],
+    "name": "kanaを{threshold}回撮影",
+    "shortDescription": "kanaを{threshold}回撮影",
+    "longDescription": "kanaを{threshold}回撮影しましょう。",
+    "order": 4,
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-character_photo_shoot_count-kan-1"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-00-character_photo_shoot_count-kor",
+    "categoryType": 3,
+    "missionType": 68,
+    "targetIds": [
+      "char-kor"
+    ],
+    "name": "franを{threshold}回撮影",
+    "shortDescription": "franを{threshold}回撮影",
+    "longDescription": "franを{threshold}回撮影しましょう。",
+    "order": 3,
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-character_photo_shoot_count-kor-1"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-00-character_photo_shoot_count-mhk",
+    "categoryType": 3,
+    "missionType": 68,
+    "targetIds": [
+      "char-mhk"
+    ],
+    "name": "mihoを{threshold}回撮影",
+    "shortDescription": "mihoを{threshold}回撮影",
+    "longDescription": "mihoを{threshold}回撮影しましょう。",
+    "order": 5,
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-character_photo_shoot_count-mhk-1"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-00-login_count",
+    "categoryType": 3,
+    "missionType": 1,
+    "name": "ログイン{threshold}回",
+    "shortDescription": "ログイン{threshold}回",
+    "longDescription": "ログインを{threshold}回しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-login_count-2"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-login_count-3"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-00-market_exchange_count",
+    "categoryType": 3,
+    "missionType": 31,
+    "name": "マーケットで{threshold}回アイテム購入",
+    "shortDescription": "マーケットで{threshold}回アイテム購入",
+    "longDescription": "マーケットで{threshold}回アイテムを購入しましょう。",
+    "order": 7,
+    "linkType": 36,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-market_exchange_count-3"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-market_exchange_count-10"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-00-quest_contest_clear_count",
+    "categoryType": 3,
+    "missionType": 6,
+    "name": "ハイスコアライブ{threshold}回クリア",
+    "shortDescription": "ハイスコアライブ{threshold}回クリア",
+    "longDescription": "ハイスコアライブを{threshold}回クリアしましょう。",
+    "order": 11,
+    "linkType": 6,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-quest_contest_clear_count-3"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-quest_contest_clear_count-6"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-00-quest_pvp_play_count",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "VENUSバトルに挑戦{threshold}回",
+    "shortDescription": "VENUSバトルに挑戦{threshold}回",
+    "longDescription": "VENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 6,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-quest_pvp_play_count-3"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-quest_pvp_play_count-6"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-00-quest_pvp_play_count-9"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-01-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-bunny-24-0409-00-login_count",
+      "event-ms-bunny-24-0409-00-character_photo_shoot_count-kor",
+      "event-ms-bunny-24-0409-00-character_photo_shoot_count-kan",
+      "event-ms-bunny-24-0409-00-character_photo_shoot_count-mhk",
+      "event-ms-bunny-24-0409-00-quest_pvp_play_count",
+      "event-ms-bunny-24-0409-00-market_exchange_count",
+      "event-ms-bunny-24-0409-02-mission_clear_count",
+      "event-ms-bunny-24-0409-00-card_skill_level_up_count",
+      "event-ms-bunny-24-0409-03-mission_clear_count",
+      "event-ms-bunny-24-0409-00-quest_contest_clear_count"
+    ],
+    "name": "イベントミッションを{threshold}個クリア",
+    "shortDescription": "イベントミッションを{threshold}個クリア",
+    "longDescription": "イベントミッションを{threshold}個クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-01-mission_clear_count-15"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-02-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "ms-daily-phase-003_photo_shoot_count-1",
+      "ms-daily-phase-003_photo_shoot_count-20",
+      "ms-daily-phase-003_photo_shoot_count-40",
+      "ms-daily-phase-003_photo_shoot_count-50",
+      "ms-daily-phase-003_photo_shoot_count-60",
+      "ms-daily-phase-003_photo_shoot_count-70",
+      "ms-daily-phase-003_photo_shoot_count-80",
+      "ms-daily-phase-003_photo_shoot_count-90",
+      "ms-daily-phase-003_photo_shoot_count-100",
+      "ms-daily-phase-003_photo_shoot_count-110",
+      "ms-daily-phase-003_photo_shoot_count-120",
+      "ms-daily-phase-003_photo_shoot_count-130",
+      "ms-daily-phase-003_photo_shoot_count-140",
+      "ms-daily-phase-003_photo_shoot_count-150",
+      "ms-daily-phase-003_photo_shoot_count-160"
+    ],
+    "name": "デイリーミッション「フォト撮影1回」を{threshold}回クリア",
+    "shortDescription": "デイリーミッション「フォト撮影1回」を{threshold}回クリア",
+    "longDescription": "デイリーミッション「フォト撮影1回」を\n{threshold}回クリアしましょう。",
+    "order": 8,
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-02-mission_clear_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-02-mission_clear_count-3"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-bunny-24-0409-03-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "ms-daily-phase-003_accessory_enhance_count-20",
+      "ms-daily-phase-003_accessory_enhance_count-40",
+      "ms-daily-phase-003_accessory_enhance_count-50",
+      "ms-daily-phase-003_accessory_enhance_count-60",
+      "ms-daily-phase-003_accessory_enhance_count-70",
+      "ms-daily-phase-003_accessory_enhance_count-80",
+      "ms-daily-phase-003_accessory_enhance_count-90",
+      "ms-daily-phase-003_accessory_enhance_count-100",
+      "ms-daily-phase-003_accessory_enhance_count-110",
+      "ms-daily-phase-003_accessory_enhance_count-120",
+      "ms-daily-phase-003_accessory_enhance_count-130",
+      "ms-daily-phase-003_accessory_enhance_count-140",
+      "ms-daily-phase-003_accessory_enhance_count-150",
+      "ms-daily-phase-003_accessory_enhance_count-160"
+    ],
+    "name": "デイリーミッション「アクセサリ合成1回」を{threshold}回クリア",
+    "shortDescription": "デイリーミッション「アクセサリ合成1回」を{threshold}回クリア",
+    "longDescription": "デイリーミッション「アクセサリ合成1回」を\n{threshold}回クリアしましょう。",
+    "order": 10,
+    "viewConditionId": "cd-time-event-ms-bunny-24-0409-0417-mlv20",
+    "linkType": 15,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-03-mission_clear_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-bunny-24-0409-03-mission_clear_count-3"
+      }
+    ],
+    "eventMissionId": "event_bunny-mission-24-0409",
+    "linkDetail": ""
+  },
+  {
     "id": "event-ms-comeback-23-0428-condition_clear-1",
     "categoryType": 3,
     "missionType": 4,
@@ -23267,6 +23567,495 @@
       }
     ],
     "eventMissionId": "event-mosaic-24-0311",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-card_skill_level_up_count",
+    "categoryType": 3,
+    "missionType": 14,
+    "name": "スキル強化{threshold}回",
+    "shortDescription": "スキル強化{threshold}回",
+    "longDescription": "アイドルのスキル強化を{threshold}回しましょう。",
+    "order": 55,
+    "linkType": 11,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-condition_clear-story-001",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-event-dice-24-0404-story-001"
+    ],
+    "name": "イベントストーリー第1話を視聴",
+    "shortDescription": "イベントストーリー第1話を視聴",
+    "longDescription": "イベントストーリー第1話を視聴しましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;30"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-condition_clear-story-002",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-event-dice-24-0404-story-002"
+    ],
+    "name": "イベントストーリー第2話を視聴",
+    "shortDescription": "イベントストーリー第2話を視聴",
+    "longDescription": "イベントストーリー第2話を視聴しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;30"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-condition_clear-story-003",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-event-dice-24-0404-story-003"
+    ],
+    "name": "イベントストーリー第3話を視聴",
+    "shortDescription": "イベントストーリー第3話を視聴",
+    "longDescription": "イベントストーリー第3話を視聴しましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;30"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-condition_clear-story-004",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-event-dice-24-0404-story-004"
+    ],
+    "name": "イベントストーリー第4話を視聴",
+    "shortDescription": "イベントストーリー第4話を視聴",
+    "longDescription": "イベントストーリー第4話を視聴しましょう。",
+    "order": 4,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;30"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-condition_clear-story-005",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-event-dice-24-0404-story-005"
+    ],
+    "name": "イベントストーリー第5話を視聴",
+    "shortDescription": "イベントストーリー第5話を視聴",
+    "longDescription": "イベントストーリー第5話を視聴しましょう。",
+    "order": 5,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;30"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-dice_area_clear_count",
+    "categoryType": 3,
+    "missionType": 1802,
+    "name": "すごろくで{threshold}エリアクリア",
+    "shortDescription": "すごろくで{threshold}エリアクリア",
+    "longDescription": "すごろくで{threshold}エリアクリアしましょう。",
+    "order": 6,
+    "linkType": 111,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_medal-24-0404;500"
+      },
+      {
+        "threshold": "2",
+        "rewardSetId": "rd_auto;item;item-dice_medal-24-0404;500"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-dice_medal-24-0404;500"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd_auto;item;item-dice_medal-24-0404;500"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-dice_medal-24-0404;500"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-dice_panel_move_count",
+    "categoryType": 3,
+    "missionType": 1801,
+    "name": "すごろくで{threshold}マス進む",
+    "shortDescription": "すごろくで{threshold}マス進む",
+    "longDescription": "すごろくで{threshold}マス進みましょう。",
+    "order": 11,
+    "linkType": 111,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;100"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;100"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;100"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;100"
+      },
+      {
+        "threshold": "90",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;100"
+      },
+      {
+        "threshold": "110",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;100"
+      },
+      {
+        "threshold": "130",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;100"
+      },
+      {
+        "threshold": "150",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;100"
+      },
+      {
+        "threshold": "200",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;150"
+      },
+      {
+        "threshold": "250",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;150"
+      },
+      {
+        "threshold": "300",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;150"
+      },
+      {
+        "threshold": "350",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;150"
+      },
+      {
+        "threshold": "400",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;150"
+      },
+      {
+        "threshold": "450",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;150"
+      },
+      {
+        "threshold": "500",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "550",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "600",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "650",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "700",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-market_exchange_count",
+    "categoryType": 3,
+    "missionType": 31,
+    "name": "マーケットで{threshold}回アイテム購入",
+    "shortDescription": "マーケットで{threshold}回アイテム購入",
+    "longDescription": "マーケットで{threshold}回アイテムを購入しましょう。",
+    "order": 45,
+    "linkType": 36,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "7",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-photo_reroll_count",
+    "categoryType": 3,
+    "missionType": 25,
+    "name": "フォトの振り直し{threshold}回",
+    "shortDescription": "フォトの振り直し{threshold}回",
+    "longDescription": "フォトの振り直しを{threshold}回しましょう。",
+    "order": 57,
+    "linkType": 14,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-photo_shoot_count",
+    "categoryType": 3,
+    "missionType": 33,
+    "name": "フォト撮影{threshold}回",
+    "shortDescription": "フォト撮影{threshold}回",
+    "longDescription": "フォト撮影を{threshold}回しましょう。",
+    "order": 50,
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "7",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-quest_daily_clear_count",
+    "categoryType": 3,
+    "missionType": 7,
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア",
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "order": 40,
+    "viewConditionId": "cd-time-dice-24-0405-24-0421",
+    "linkType": 7,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-dice_gold-24-0404;200"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "targetIds": [],
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-01-quest_pvp_play_count",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "VENUSバトルに挑戦{threshold}回",
+    "shortDescription": "VENUSバトルに挑戦{threshold}回",
+    "longDescription": "VENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 30,
+    "viewConditionId": "cd-time-dice-24-0405-24-0421",
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "8",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "14",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "16",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "18",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
+    "targetIds": [],
+    "linkDetail": ""
+  },
+  {
+    "id": "event-ms-normal-24-0404-02-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "ms-daily-phase-003_accessory_enhance_count-20",
+      "ms-daily-phase-003_accessory_enhance_count-40",
+      "ms-daily-phase-003_accessory_enhance_count-50",
+      "ms-daily-phase-003_accessory_enhance_count-60",
+      "ms-daily-phase-003_accessory_enhance_count-70",
+      "ms-daily-phase-003_accessory_enhance_count-80",
+      "ms-daily-phase-003_accessory_enhance_count-90",
+      "ms-daily-phase-003_accessory_enhance_count-100",
+      "ms-daily-phase-003_accessory_enhance_count-110",
+      "ms-daily-phase-003_accessory_enhance_count-120",
+      "ms-daily-phase-003_accessory_enhance_count-130",
+      "ms-daily-phase-003_accessory_enhance_count-140",
+      "ms-daily-phase-003_accessory_enhance_count-150",
+      "ms-daily-phase-003_accessory_enhance_count-160"
+    ],
+    "name": "デイリーミッション「アクセサリ合成1回」を{threshold}回クリア",
+    "shortDescription": "デイリーミッション「アクセサリ合成1回」を{threshold}回クリア",
+    "longDescription": "デイリーミッション「アクセサリ合成1回」を\n{threshold}回クリアしましょう。",
+    "order": 58,
+    "viewConditionId": "cd-time-dice-24-0405-24-0421-mlv-20",
+    "linkType": 15,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-dice_stamina_recovery-24-0404;5"
+      }
+    ],
+    "eventMissionId": "event-dice-24-0404",
     "linkDetail": ""
   },
   {
