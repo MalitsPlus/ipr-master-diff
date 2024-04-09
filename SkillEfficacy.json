@@ -18667,6 +18667,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-6-target-character_type-1-2-32",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に6段階クリティカル率上昇効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-6-target-character_type-1-2-33",
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
@@ -19569,6 +19580,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-7-target-character_type-1-2-37",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に7段階クリティカル率上昇効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-7-target-character_type-1-2-38",
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
@@ -20086,10 +20108,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-8-target-character_type-1-2-37",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に8段階クリティカル率上昇効果[37ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-8-target-character_type-1-2-40",
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
     "description": "スコアラータイプ2人に8段階クリティカル率上昇効果[40ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-8-target-character_type-1-2-42",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に8段階クリティカル率上昇効果[42ビート]",
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -26532,10 +26576,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-7-target-self-24",
+    "name": "自身にダンス上昇効果",
+    "type": 13,
+    "description": "自身に7段階ダンス上昇効果[24ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-7-target-self-25",
     "name": "自身にダンス上昇効果",
     "type": 13,
     "description": "自身に7段階ダンス上昇効果[25ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-7-target-self-28",
+    "name": "自身にダンス上昇効果",
+    "type": 13,
+    "description": "自身に7段階ダンス上昇効果[28ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -54191,6 +54257,17 @@
     "type": 25,
     "description": "ダンスタイプ3人の強化効果を10延長",
     "skillTargetId": "target-dance-3",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-10-target-neighbor",
+    "name": "隣接するアイドルの強化効果を延長",
+    "type": 25,
+    "description": "隣接するアイドルの強化効果を10延長",
+    "skillTargetId": "target-neighbor",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,

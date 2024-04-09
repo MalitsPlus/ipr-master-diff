@@ -96,6 +96,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-kan-24-0410",
+    "name": "kana 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はkanaさんの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "数量限定のチーズケーキ",
+        "advAssetId": "hbd_04_kan_01"
+      },
+      {
+        "index": 2,
+        "text": "遊園地のチケット三枚",
+        "advAssetId": "hbd_04_kan_02"
+      },
+      {
+        "index": 3,
+        "text": "高級シャンパン",
+        "advAssetId": "hbd_04_kan_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-kkr-23-1206",
     "name": "赤崎こころ 誕生日2023",
     "advPlayTypes": [
@@ -2554,6 +2586,60 @@
     ],
     "advAssetIds": [
       "card_hrk_03_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kan-05-birt-00-01",
+    "name": "ちょうどいい\n引き立て役",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kan_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kan-05-birt-00-02",
+    "name": "『大好きな\nkana』の\nため",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kan_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kan-05-birt-00-03",
+    "name": "最低で\n最悪なやつら",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kan_51_03"
     ],
     "sectionName": "",
     "description": "",

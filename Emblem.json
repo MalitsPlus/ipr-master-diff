@@ -4815,6 +4815,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_kan-02",
+    "name": "【誕生日】kana",
+    "assetId": "birthday_kan-04",
+    "autoProvideConditionId": "cd-birthday_emblem_kan-24-0410",
+    "order": 602190,
+    "description": "kanaの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_kkr-03",
     "name": "【誕生日】赤崎こころ",
     "assetId": "birthday_kkr-03",
@@ -5306,6 +5315,24 @@
     "assetId": "gvg-season-033-top010",
     "order": 403320,
     "description": "ユニオンライブシーズン33 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-034-top001",
+    "name": "ユニオンシーズン34 No.1",
+    "assetId": "gvg-season-034-top001",
+    "order": 403410,
+    "description": "ユニオンライブシーズン34 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-034-top010",
+    "name": "ユニオンシーズン34 TOP10",
+    "assetId": "gvg-season-034-top010",
+    "order": 403420,
+    "description": "ユニオンライブシーズン34 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -6215,6 +6242,33 @@
     "assetId": "pvp-season-095-top100",
     "order": 309530,
     "description": "VENUSバトルシーズン95で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-096-top001",
+    "name": "VENUSシーズン96 No.1",
+    "assetId": "pvp-season-096-top001",
+    "order": 309610,
+    "description": "VENUSバトルシーズン96で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-096-top010",
+    "name": "VENUSシーズン96 TOP10",
+    "assetId": "pvp-season-096-top010",
+    "order": 309620,
+    "description": "VENUSバトルシーズン96で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-096-top100",
+    "name": "VENUSシーズン96 TOP100",
+    "assetId": "pvp-season-096-top100",
+    "order": 309630,
+    "description": "VENUSバトルシーズン96で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
