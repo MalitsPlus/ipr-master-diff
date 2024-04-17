@@ -6300,6 +6300,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-smr-05-maid-00-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-maid-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-maid-00",
+    "choiceText": "凄くいいよ。そのおかげもあって、\nすみれに新しい出演オファーが\n届いてるんだ。",
+    "managerText": "凄くいいよ。そのおかげもあって、\nすみれに新しい出演オファーが\n届いてるんだ。",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "ほんとですか？　凄く嬉しいです！\n今度のお仕事は…",
+        "voiceAssetId": "sud_vo_home_smr-05-maid-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "連続ドラマのレギュラー！？\nしかもこれ、とっても\n面白そうな役ですね。",
+        "voiceAssetId": "sud_vo_home_smr-05-maid-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どんな風に演じようかなって\n考えるだけで\nわくわくしちゃいます！",
+        "voiceAssetId": "sud_vo_home_smr-05-maid-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "う～～ん…\nでも、やっぱり\n今はやめておきます。",
+        "voiceAssetId": "sud_vo_home_smr-05-maid-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "長期のお仕事だと、もしかしたら\nアイドル活動に影響が出るかも\nしれませんし。",
+        "voiceAssetId": "sud_vo_home_smr-05-maid-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私の一番の目標は、\n瑠依ちゃんと優ちゃんと\nトップアイドルになることだから。",
+        "voiceAssetId": "sud_vo_home_smr-05-maid-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-smr-05-mizg-01-talk-01",
     "characterId": "char-smr",
     "placeType": 1,
