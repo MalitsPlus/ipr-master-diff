@@ -533,6 +533,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-05-mizg-02",
+    "assetId": "ai-05-mizg-02",
+    "name": "スプラッシュ・シーサイド",
+    "description": "頑張るって楽しい\r\nどんな悩みだって、楽しんで乗り越えられる\r\nみんなと、この筋肉と一緒なら！",
+    "type": 1,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 324,
+    "danceRatioPermil": 271,
+    "visualRatioPermil": 435,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-mizg-02-1",
+    "skillId2": "sk-ai-05-mizg-02-2",
+    "skillId3": "sk-ai-05-mizg-02-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 370,
+    "releaseDate": "1714100400000",
+    "rewardCostumeId": "cos-ai-mizg-02",
+    "imageType1": 3,
+    "displayPositionX1": -0.192,
+    "displayPositionY1": 0.032,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": 0.855,
+    "highlightDisplayPositionY1": 0.115,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": -0.192,
+    "displayPositionY2": 0.032,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": 0.855,
+    "highlightDisplayPositionY2": 0.115,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "私が\nリズノワのみんなを\n励まします！",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-mizg-02-01"
+      },
+      {
+        "storyId": "st-card-ai-05-mizg-02-02"
+      },
+      {
+        "storyId": "st-card-ai-05-mizg-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ai-05-mizg-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ai-05-mizg-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-rock-00",
     "assetId": "ai-05-rock-00",
     "name": "クールにキメるぼっち収録",
@@ -748,6 +809,48 @@
     "highlightDisplayPositionX2": -0.462,
     "highlightDisplayPositionY2": 0.085,
     "highlightDisplayScale2": 2.0,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-aoi-02-eve-02",
+    "assetId": "aoi-02-eve-02",
+    "name": "熱情クールダウン",
+    "description": "なんで僕まで……まさか、頭を冷やせってこと？\r\nあぁ……でも冷たくて気持ちいいなぁ",
+    "type": 1,
+    "characterId": "char-aoi",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 432,
+    "visualRatioPermil": 318,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-02-eve-02-1",
+    "skillId2": "sk-aoi-02-eve-02-2",
+    "skillId3": "sk-aoi-02-eve-02-3",
+    "order": 371,
+    "releaseDate": "1714100400000",
+    "imageType1": 1,
+    "displayPositionX1": -0.009,
+    "displayPositionY1": 0.248,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.019,
+    "highlightDisplayPositionY1": 0.29,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.128,
+    "displayPositionY2": 0.105,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": 0.348,
+    "highlightDisplayPositionY2": 0.193,
+    "highlightDisplayScale2": 0.9,
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
@@ -9110,6 +9213,67 @@
       },
       {
         "telephoneId": "tel-card-rio-05-kiok-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-05-mizg-02",
+    "assetId": "rio-05-mizg-02",
+    "name": "恥じらいのプールサイド",
+    "description": "まったくもう……\nそんなにまた、私の水着姿が見たかったの？",
+    "type": 3,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 271,
+    "danceRatioPermil": 417,
+    "visualRatioPermil": 312,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-mizg-02-1",
+    "skillId2": "sk-rio-05-mizg-02-2",
+    "skillId3": "sk-rio-05-mizg-02-3",
+    "liveAbilityId": "lba-critical_score_multiply",
+    "order": 369,
+    "releaseDate": "1714100400000",
+    "rewardCostumeId": "cos-rio-mizg-02",
+    "imageType1": 3,
+    "displayPositionX1": 0.248,
+    "displayPositionY1": 0.045,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": -0.542,
+    "highlightDisplayPositionY1": 0.141,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": 0.248,
+    "displayPositionY2": 0.045,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": -0.542,
+    "highlightDisplayPositionY2": 0.141,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "そんなにまた、\n私の水着姿が見たかったの？",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-mizg-02-01"
+      },
+      {
+        "storyId": "st-card-rio-05-mizg-02-02"
+      },
+      {
+        "storyId": "st-card-rio-05-mizg-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rio-05-mizg-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rio-05-mizg-02",
         "messageId": ""
       }
     ],

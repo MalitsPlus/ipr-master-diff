@@ -238,6 +238,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-ai-05-mizg-02-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-mizg-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-mizg-02",
+    "choiceText": "不穏な独り言が聞こえたんだが",
+    "managerText": "不穏な独り言が聞こえたんだが",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "いえ、筋トレって科学的にも\n体にいいことが沢山あることが\n証明されているみたいで。",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-018_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "せっかくなら、ファンのみなさんに\n「健康のためにどうですか」って\nおすすめしたいんですけど…",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どう伝えるのがいいのか\n悩んでしまって。",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こころが言うには、ライブのMCで\n筋肉を見せつけながら伝えるのが\nいいみたいなんですが…",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "MCでムキムキポーズを決めながら\n急に筋トレの良さを語り始めるのは\nさすがに驚かれそうな気もして…",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まずは普通にSNSで伝える…？\n確かに、それが無難そうですね。\n早速、試してみます！",
+        "voiceAssetId": "sud_vo_home_ai-05-mizg-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-rock-00-talk-01",
     "characterId": "char-ai",
     "placeType": 1,
@@ -4886,6 +4936,56 @@
         "voiceAssetId": "sud_vo_home_rio-05-kiok-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
         "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      }
+    ]
+  },
+  {
+    "homeTalkId": "home-talk-card-rio-05-mizg-02-talk-01",
+    "characterId": "char-rio",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rio-05-mizg-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rio-05-mizg-02",
+    "choiceText": "はい、とってもいい出来でした\n評判も上々です",
+    "managerText": "はい、とってもいい出来でした\n評判も上々です",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "なら、良かったわ。\n最初はとんでもない\n演出指示だったんだから。",
+        "voiceAssetId": "sud_vo_home_rio-05-mizg-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こころや愛はともかく\n私にまで アイドルスマイルを\nやってくれとか…",
+        "voiceAssetId": "sud_vo_home_rio-05-mizg-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_sad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私がやったらリズノワの\nイメージが台無しよ\n大体、私には似合わないし。",
+        "voiceAssetId": "sud_vo_home_rio-05-mizg-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "勉強にはなったけど\nほんと、大変な撮影だったわ。",
+        "voiceAssetId": "sud_vo_home_rio-05-mizg-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_deny-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　私のアイドルスマイルを\n見たかった……ですって？",
+        "voiceAssetId": "sud_vo_home_rio-05-mizg-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_ask-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……ちょっとこっちに来なさい\n二人だけで話があるから。",
+        "voiceAssetId": "sud_vo_home_rio-05-mizg-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
       }
     ]
   },
