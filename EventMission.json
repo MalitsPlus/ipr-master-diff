@@ -1399,8 +1399,27 @@
     "name": "イベントミッション",
     "order": 99,
     "viewConditionId": "cd-event-race-24-0426-exchange",
-    "unlockConditionId": "",
-    "missionIds": []
+    "missionIds": [
+      "event-race-24-0426-1",
+      "event-race-24-0426-10",
+      "event-race-24-0426-11",
+      "event-race-24-0426-12",
+      "event-race-24-0426-13",
+      "event-race-24-0426-14",
+      "event-race-24-0426-15",
+      "event-race-24-0426-16",
+      "event-race-24-0426-17",
+      "event-race-24-0426-18",
+      "event-race-24-0426-2",
+      "event-race-24-0426-3",
+      "event-race-24-0426-4",
+      "event-race-24-0426-5",
+      "event-race-24-0426-6",
+      "event-race-24-0426-7",
+      "event-race-24-0426-8",
+      "event-race-24-0426-9"
+    ],
+    "unlockConditionId": ""
   },
   {
     "id": "event-shelf-23-1128",
@@ -2682,6 +2701,25 @@
       "event_story-mission-23-0619-story-read-070-079",
       "event_story-mission-23-0619-story-read-080-089",
       "event_story-mission-23-0619-story-read-090-094"
+    ]
+  },
+  {
+    "id": "event_story-mission-24-0427",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-story-mission-24-gw",
+    "name": "GWメインストーリーミッション",
+    "order": 3,
+    "viewConditionId": "cd-time-event_story-mission-24-0427-0506",
+    "unlockConditionId": "cd-time-event_story-mission-24-0427-0506",
+    "missionIds": [
+      "event_story-mission-24-0427-story-read-001-010",
+      "event_story-mission-24-0427-story-read-011-025",
+      "event_story-mission-24-0427-story-read-026-035",
+      "event_story-mission-24-0427-story-read-036-045",
+      "event_story-mission-24-0427-story-read-046-055",
+      "event_story-mission-24-0427-story-read-056-069",
+      "event_story-mission-24-0427-story-shooting",
+      "event_story-mission-24-0427-url_tansition"
     ]
   },
   {
