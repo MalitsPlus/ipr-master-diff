@@ -448,6 +448,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-smr-24-0505",
+    "name": "奥山すみれ 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はすみれの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "さくらんぼのケーキ",
+        "advAssetId": "hbd_04_smr_01"
+      },
+      {
+        "index": 2,
+        "text": "さくらんぼの香りのリップ",
+        "advAssetId": "hbd_04_smr_02"
+      },
+      {
+        "index": 3,
+        "text": "さくらんぼ型のバッグ",
+        "advAssetId": "hbd_04_smr_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-suz-23-0913",
     "name": "成宮すず 誕生日2023",
     "advPlayTypes": [
@@ -8472,6 +8504,60 @@
     ],
     "advAssetIds": [
       "card_skr_07_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-smr-05-birt-00-01",
+    "name": "サプライズ\n過ぎるっ\nちゃ～！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_smr_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-smr-05-birt-00-02",
+    "name": "いっぱい\n知って\nほしいっちゃ！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_smr_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-smr-05-birt-00-03",
+    "name": "おしるこ\n美味しいっ\nちゃ！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_smr_51_03"
     ],
     "sectionName": "",
     "description": "",

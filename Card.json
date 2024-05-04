@@ -11800,6 +11800,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-smr-05-birt-00",
+    "assetId": "smr-05-birt-00",
+    "name": "幸せおしるこバースデー",
+    "description": "みなさーん、おしるこ、食べてますかー？\r\n今日はおしるこイベントを開催させてもらいました！\r\n山形もおしるこも大好きなみなさん、ようこそ！",
+    "type": 1,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 274,
+    "danceRatioPermil": 436,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-birt-00-1",
+    "skillId2": "sk-smr-05-birt-00-2",
+    "skillId3": "sk-smr-05-birt-00-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 372,
+    "releaseDate": "1714878000000",
+    "imageType1": 3,
+    "displayPositionX1": -0.164,
+    "displayPositionY1": 0.115,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": 0.178,
+    "highlightDisplayPositionY1": 0.226,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.164,
+    "displayPositionY2": 0.115,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": 0.178,
+    "highlightDisplayPositionY2": 0.226,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "みなさーん、おしるこ、\n食べてますかー？",
+    "rewardHairId": "hair-smr-hair-10",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-birt-00-01"
+      },
+      {
+        "storyId": "st-card-smr-05-birt-00-02"
+      },
+      {
+        "storyId": "st-card-smr-05-birt-00-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-smr-05-fest-00",
     "assetId": "smr-05-fest-00",
     "name": "歌詠み花",
