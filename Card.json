@@ -3891,6 +3891,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-kkr-05-mizg-02",
+    "assetId": "kkr-05-mizg-02",
+    "name": "出航！ユニコーンちゃん",
+    "description": "ほ～らほ～ら、ゆらゆら～、ゆらゆら～\r\n愛ちゃん、振り落とされちゃダメですよ！",
+    "type": 2,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 408,
+    "danceRatioPermil": 331,
+    "visualRatioPermil": 291,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-mizg-02-1",
+    "skillId2": "sk-kkr-05-mizg-02-2",
+    "skillId3": "sk-kkr-05-mizg-02-3",
+    "activityAbilityId": "aab-lesson_manager_exp_up",
+    "order": 373,
+    "releaseDate": "1715310000000",
+    "rewardCostumeId": "cos-kkr-mizg-02",
+    "imageType1": 3,
+    "displayPositionX1": -0.133,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.007,
+    "highlightDisplayPositionY1": 0.292,
+    "highlightDisplayScale1": 0.9,
+    "imageType2": 3,
+    "displayPositionX2": -0.133,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.007,
+    "highlightDisplayPositionY2": 0.292,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "さあ、行きますよ～、\n愛ちゃん！",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-mizg-02-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-mizg-02-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-mizg-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-mizg-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-mizg-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kkr-05-newy-00",
     "assetId": "kkr-05-newy-00",
     "name": "うれしはずかし初詣",

@@ -804,6 +804,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dream-generate-dream-24-0513",
+    "name": "イメトレマニュアル",
+    "assetId": "dream-generate",
+    "description": "イメージトレーニングのステージ生成に使用する",
+    "howToGet": "イメージトレーニング",
+    "type": 10001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-2nd-anniversary-medal-23-0528",
     "name": "2周年記念メダル",
     "assetId": "medal-2nd-anniversary",
@@ -3060,6 +3072,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-24-0510",
+    "name": "弾ける夏へ！Splash DiveガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -4013,6 +4037,18 @@
     "assetId": "gacha-ticket-just",
     "description": "「桜花爛漫はるうらら」ガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "桜花爛漫はるうららミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-24-0510-01",
+    "name": "「弾ける夏へ！Splash Dive」専用ガチャチケ",
+    "assetId": "gacha-ticket-just",
+    "description": "「弾ける夏へ！Splash Dive」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "弾ける夏へ！Splash Diveミッション",
     "type": 8,
     "value": 1,
     "order": 1000,
@@ -5309,6 +5345,18 @@
     "assetId": "mosaic-pt",
     "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
     "howToGet": "桜花爛漫はるうららミッション",
+    "type": 3001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-mosaic_pt_24-0510",
+    "name": "ミッションPt",
+    "assetId": "mosaic-pt",
+    "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "弾ける夏へ！Splash Diveミッション",
     "type": 3001,
     "value": 1,
     "order": 1000,

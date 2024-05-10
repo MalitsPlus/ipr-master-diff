@@ -10923,11 +10923,77 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-cool_time_increase-1-target-all",
+    "name": "全員のCTを増加",
+    "type": 50,
+    "description": "全員のCTを1増加",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_increase-10-target-opponent_character_type-1-2",
     "name": "相手のスコアラータイプ2人のCTを増加",
     "type": 50,
     "description": "[ライブバトルのみ]相手のスコアラータイプ2人のCTを10増加",
     "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_increase-2-target-all",
+    "name": "全員のCTを増加",
+    "type": 50,
+    "description": "全員のCTを2増加",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_increase-3-target-all",
+    "name": "全員のCTを増加",
+    "type": 50,
+    "description": "全員のCTを3増加",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_increase-4-target-all",
+    "name": "全員のCTを増加",
+    "type": 50,
+    "description": "全員のCTを4増加",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_increase-5-target-all",
+    "name": "全員のCTを増加",
+    "type": 50,
+    "description": "全員のCTを5増加",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_increase-6-target-all",
+    "name": "全員のCTを増加",
+    "type": 50,
+    "description": "全員のCTを6増加",
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -57552,6 +57618,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-strength_effect_value_increase-4-target-all",
+    "name": "全員の強化効果を増強",
+    "type": 26,
+    "description": "全員の強化効果を4段階増強",
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_value_increase-4-target-center",
     "name": "センターの強化効果を増強",
     "type": 26,
@@ -66704,6 +66781,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_boost-3-target-self-28",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に3段階ボーカルブースト効果[28ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-3-target-self-32",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に3段階ボーカルブースト効果[32ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_boost-3-target-vocal-1-20",
     "name": "ボーカルタイプ1人にボーカルブースト効果",
     "type": 56,
@@ -66832,6 +66931,17 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-position_attribute_vocal-3",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-4-target-self-32",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に4段階ボーカルブースト効果[32ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "limitBreakMaxGrade": 21,
     "shortDescription": ""
   },
@@ -67012,10 +67122,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_boost-5-target-self-32",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に5段階ボーカルブースト効果[32ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_boost-5-target-self-33",
     "name": "自身にボーカルブースト効果",
     "type": 56,
     "description": "自身に5段階ボーカルブースト効果[33ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-5-target-self-36",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に5段階ボーカルブースト効果[36ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -69289,6 +69421,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-3-target-self-24",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に3段階ボーカル上昇効果[24ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-3-target-self-26",
     "name": "自身にボーカル上昇効果",
     "type": 14,
@@ -69370,6 +69513,17 @@
     "name": "自身にボーカル上昇効果",
     "type": 14,
     "description": "自身に3段階ボーカル上昇効果[40ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-3-target-self-42",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に3段階ボーカル上昇効果[42ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
