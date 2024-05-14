@@ -3964,6 +3964,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-love-24-0517-01",
+    "assetId": "photo-love-24-0517-01",
+    "name": "早坂芽衣",
+    "rarity": 5,
+    "placeName": "もしも芽衣と恋をしたら",
+    "eventName": "メモリアルフォト",
+    "level": 80,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 290,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 290,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 290,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-stamina_multiply_distribution-5",
+        "effectValue": 110,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-active-skill-score-up_multiply_distribution-5",
+        "effectValue": 78,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-mei",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-prm-5-1",
     "assetId": "phot-prm-5-0001",
     "name": "伊吹渚",
@@ -4664,6 +4708,50 @@
       }
     ],
     "focusCharacterId": "char-szk",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-prm-5-63",
+    "assetId": "phot-prm-5-0063",
+    "name": "早坂芽衣",
+    "rarity": 5,
+    "placeName": "もし恋カウントダウン",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-beat-score-up_multiply_distribution-5",
+        "effectValue": 100,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-mei",
     "characterIds": [],
     "shootingTime": "0"
   },

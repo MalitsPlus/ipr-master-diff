@@ -8712,6 +8712,54 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-mei-05-casl-02-01",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+    "voiceAssetId": "sud_vo_home_mei-05-casl-02_01",
+    "text": "『もしも{user}さん\nと恋をしたら』。面白いゲームに\nなりそうだけどな～。",
+    "conditionId": "cd-wear-costume-cos-mei-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mei-05-casl-02-cos-01",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_emb-001_in",
+    "voiceAssetId": "sud_vo_home_mei-05-casl-02_cos-01",
+    "text": "もし恋って、自分でプレイすると\n照れちゃうんだね。怜ちゃん達の\n気持ちがちょっと分かったかも。",
+    "conditionId": "cd-wear-costume-cos-mei-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mei-05-casl-02-cos-02",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+    "voiceAssetId": "sud_vo_home_mei-05-casl-02_cos-02",
+    "text": "もし恋の主人公の名前を『芽衣』に\nしたんだけど、芽衣が二人になって\nちょっと混乱しちゃった。",
+    "conditionId": "cd-wear-costume-cos-mei-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mei-05-casl-02-cos-03",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+    "voiceAssetId": "sud_vo_home_mei-05-casl-02_cos-03",
+    "text": "もし恋が出た後、いろんな人から\n「好きな人はいますか」って\n聞かれるようになっちゃったよ～。",
+    "conditionId": "cd-wear-costume-cos-mei-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-mei-05-fest-00-01",
     "characterId": "char-mei",
     "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
@@ -9523,6 +9571,42 @@
     "text": "お菓子ももらうけど、\nイタズラもするよ～！",
     "conditionId": "cd-day_halloween",
     "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mei-love-01-true-01",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_pos-015_in",
+    "voiceAssetId": "sud_vo_home_mei_love-01-home-01",
+    "text": "浴衣着て一緒に花火大会行こうよ！\nもし恋で遊んでたら\n行きたくなっちゃったよ～。",
+    "conditionId": "cd-event-love-24-0517_love-end_true",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mei-love-01-true-02",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+    "voiceAssetId": "sud_vo_home_mei_love-01-home-02",
+    "text": "大変、大変！　沙季ちゃんに\n芽衣のもし恋は刺激が強過ぎる\nって怒られちゃったよ～。",
+    "conditionId": "cd-event-love-24-0517_love-end_true",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mei-love-01-true-03",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+    "voiceAssetId": "sud_vo_home_mei_love-01-home-03",
+    "text": "好きって沢山種類があるんだね。\n{user}さんのことも\n大好きだけどこれってどんな好き？",
+    "conditionId": "cd-event-love-24-0517_love-end_true",
+    "weight": 100,
     "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0

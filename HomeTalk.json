@@ -3018,6 +3018,56 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-mei-05-casl-02-talk-01",
+    "characterId": "char-mei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mei-05-casl-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mei-05-casl-02",
+    "choiceText": "なんて想像をしてるんだ",
+    "managerText": "なんて想像をしてるんだ",
+    "reliability": 5,
+    "characterTalks": [
+      {
+        "text": "前に渚ちゃんと、そういう話を\nしたことがあるんだよね。",
+        "voiceAssetId": "sud_vo_home_mei-05-casl-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "運動部かな～？　とか\n文化部かな～？　とか\n勉強は得意なのかな～？　とか。",
+        "voiceAssetId": "sud_vo_home_mei-05-casl-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんは\n鈍感そうだから、ストレートな\n選択肢を選ばないとダメそう…",
+        "voiceAssetId": "sud_vo_home_mei-05-casl-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "って渚ちゃんが言っててね。\n告白も、こっちからした方が\nいいかも～って。",
+        "voiceAssetId": "sud_vo_home_mei-05-casl-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "もう話してたら、\n実際に遊んでみたくて\nしょうがなくなっちゃったよ～。",
+        "voiceAssetId": "sud_vo_home_mei-05-casl-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もしゲーム会社さんから\nお話が来たら\n今度は芽衣が恋を教えてあげるね！",
+        "voiceAssetId": "sud_vo_home_mei-05-casl-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ]
+  },
+  {
     "homeTalkId": "home-talk-card-mei-05-fest-00-talk-01",
     "characterId": "char-mei",
     "placeType": 1,

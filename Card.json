@@ -5525,6 +5525,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-mei-05-casl-02",
+    "assetId": "mei-05-casl-02",
+    "name": "もしもひと夏の恋をしたら",
+    "description": "芽衣も、ゲームの中の芽衣と同じ気持ちだったのかな",
+    "type": 3,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 274,
+    "danceRatioPermil": 416,
+    "visualRatioPermil": 310,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-casl-02-1",
+    "skillId2": "sk-mei-05-casl-02-2",
+    "skillId3": "sk-mei-05-casl-02-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 374,
+    "releaseDate": "1715914800000",
+    "rewardCostumeId": "cos-mei-casl-02",
+    "imageType1": 3,
+    "displayPositionX1": 0.158,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.449,
+    "highlightDisplayPositionY1": 0.214,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.158,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.449,
+    "highlightDisplayPositionY2": 0.214,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "あれ？　顔が\n熱くなってきちゃった……",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-casl-02-01"
+      },
+      {
+        "storyId": "st-card-mei-05-casl-02-02"
+      },
+      {
+        "storyId": "st-card-mei-05-casl-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-casl-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-casl-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mei-05-fest-00",
     "assetId": "mei-05-fest-00",
     "name": "一人のアイドルとの出会い",
