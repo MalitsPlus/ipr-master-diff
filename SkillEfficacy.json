@@ -13508,10 +13508,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-3-target-neighbor-32",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに3段階クリティカル係数上昇効果[32ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-3-target-neighbor-33",
     "name": "隣接するアイドルにクリティカル係数上昇効果",
     "type": 20,
     "description": "隣接するアイドルに3段階クリティカル係数上昇効果[33ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-3-target-neighbor-35",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに3段階クリティカル係数上昇効果[35ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
@@ -13534,6 +13556,17 @@
     "name": "隣接するアイドルにクリティカル係数上昇効果",
     "type": 20,
     "description": "隣接するアイドルに3段階クリティカル係数上昇効果[37ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-3-target-neighbor-38",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに3段階クリティカル係数上昇効果[38ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
@@ -14216,6 +14249,50 @@
     "name": "隣接するアイドルにクリティカル係数上昇効果",
     "type": 20,
     "description": "隣接するアイドルに4段階クリティカル係数上昇効果[41ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-4-target-neighbor-42",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに4段階クリティカル係数上昇効果[42ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-4-target-neighbor-46",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに4段階クリティカル係数上昇効果[46ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-4-target-neighbor-50",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに4段階クリティカル係数上昇効果[50ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-4-target-neighbor-55",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに4段階クリティカル係数上昇効果[55ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
@@ -29425,6 +29502,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-2300-target-character_type-1-2",
+    "name": "スコアラータイプ2人のスタミナを回復",
+    "type": 23,
+    "description": "スコアラータイプ2人のスタミナを2300回復",
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-2300-target-self",
     "name": "自身のスタミナを回復",
     "type": 23,
@@ -29958,6 +30046,17 @@
     "type": 23,
     "description": "全員のスタミナを3400回復",
     "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-fix_stamina_recovery-3400-target-character_type-1-2",
+    "name": "スコアラータイプ2人のスタミナを回復",
+    "type": 23,
+    "description": "スコアラータイプ2人のスタミナを3400回復",
+    "skillTargetId": "target-character_type-1-2",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -31482,6 +31581,39 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-passive_score_multiplier_add-3-target-all-29",
+    "name": "全員にPスキルスコア追加効果",
+    "type": 61,
+    "description": "全員に3段階Pスキルスコア追加効果[29ビート]",
+    "grade": 3,
+    "maxGrade": 30,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-passive_score_multiplier_add-3-target-all-32",
+    "name": "全員にPスキルスコア追加効果",
+    "type": 61,
+    "description": "全員に3段階Pスキルスコア追加効果[32ビート]",
+    "grade": 3,
+    "maxGrade": 30,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-passive_score_multiplier_add-3-target-all-35",
+    "name": "全員にPスキルスコア追加効果",
+    "type": 61,
+    "description": "全員に3段階Pスキルスコア追加効果[35ビート]",
+    "grade": 3,
+    "maxGrade": 30,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-passive_score_multiplier_add-3-target-character_type-1-2-42",
     "name": "スコアラータイプ2人にPスキルスコア追加効果",
     "type": 61,
@@ -31500,6 +31632,39 @@
     "grade": 3,
     "maxGrade": 30,
     "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-passive_score_multiplier_add-4-target-all-35",
+    "name": "全員にPスキルスコア追加効果",
+    "type": 61,
+    "description": "全員に4段階Pスキルスコア追加効果[35ビート]",
+    "grade": 4,
+    "maxGrade": 30,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-passive_score_multiplier_add-4-target-all-38",
+    "name": "全員にPスキルスコア追加効果",
+    "type": 61,
+    "description": "全員に4段階Pスキルスコア追加効果[38ビート]",
+    "grade": 4,
+    "maxGrade": 30,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-passive_score_multiplier_add-4-target-all-42",
+    "name": "全員にPスキルスコア追加効果",
+    "type": 61,
+    "description": "全員に4段階Pスキルスコア追加効果[42ビート]",
+    "grade": 4,
+    "maxGrade": 30,
+    "skillTargetId": "target-all",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
@@ -43340,6 +43505,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-score_up-5-target-vocal-2-29",
+    "name": "ボーカルタイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "ボーカルタイプ2人に5段階スコア上昇効果[29ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-5-target-vocal-2-32",
+    "name": "ボーカルタイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "ボーカルタイプ2人に5段階スコア上昇効果[32ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-5-target-vocal-2-40",
     "name": "ボーカルタイプ2人にスコア上昇効果",
     "type": 16,
@@ -44004,6 +44191,17 @@
     "name": "ボーカルタイプ2人にスコア上昇効果",
     "type": 16,
     "description": "ボーカルタイプ2人に6段階スコア上昇効果[27ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-6-target-vocal-2-35",
+    "name": "ボーカルタイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "ボーカルタイプ2人に6段階スコア上昇効果[35ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-2",
@@ -44851,6 +45049,28 @@
     "name": "ボーカルタイプ2人にスコア上昇効果",
     "type": 16,
     "description": "ボーカルタイプ2人に7段階スコア上昇効果[31ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-7-target-vocal-2-38",
+    "name": "ボーカルタイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "ボーカルタイプ2人に7段階スコア上昇効果[38ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-7-target-vocal-2-42",
+    "name": "ボーカルタイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "ボーカルタイプ2人に7段階スコア上昇効果[42ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-2",
@@ -52217,6 +52437,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-stamina_consumption-1000-target-opponent_character_type-3-2",
+    "name": "相手のサポータータイプ2人のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]相手のサポータータイプ2人のスタミナを1000消費",
+    "skillTargetId": "target-opponent_character_type-3-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_consumption-1000-target-opponent_same_position",
     "name": "同じレーンの相手のスタミナを消費",
     "type": 49,
@@ -52233,6 +52464,17 @@
     "type": 49,
     "description": "[ライブバトルのみ]相手のスコアラータイプ1人のスタミナを1100消費",
     "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption-1100-target-opponent_character_type-3-2",
+    "name": "相手のサポータータイプ2人のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]相手のサポータータイプ2人のスタミナを1100消費",
+    "skillTargetId": "target-opponent_character_type-3-2",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -52272,6 +52514,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_consumption-1200-target-opponent_character_type-3-2",
+    "name": "相手のサポータータイプ2人のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]相手のサポータータイプ2人のスタミナを1200消費",
+    "skillTargetId": "target-opponent_character_type-3-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_consumption-1200-target-opponent_same_position",
     "name": "同じレーンの相手のスタミナを消費",
     "type": 49,
@@ -52288,6 +52541,17 @@
     "type": 49,
     "description": "[ライブバトルのみ]相手のスコアラータイプ1人のスタミナを1300消費",
     "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption-1300-target-opponent_character_type-3-2",
+    "name": "相手のサポータータイプ2人のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]相手のサポータータイプ2人のスタミナを1300消費",
+    "skillTargetId": "target-opponent_character_type-3-2",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -52327,11 +52591,33 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_consumption-1400-target-opponent_character_type-3-2",
+    "name": "相手のサポータータイプ2人のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]相手のサポータータイプ2人のスタミナを1400消費",
+    "skillTargetId": "target-opponent_character_type-3-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_consumption-1400-target-opponent_same_position",
     "name": "同じレーンの相手のスタミナを消費",
     "type": 49,
     "description": "[ライブバトルのみ]同じレーンの相手のスタミナを1400消費",
     "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption-1500-target-opponent_character_type-3-2",
+    "name": "相手のサポータータイプ2人のスタミナを消費",
+    "type": 49,
+    "description": "[ライブバトルのみ]相手のサポータータイプ2人のスタミナを1500消費",
+    "skillTargetId": "target-opponent_character_type-3-2",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
