@@ -1133,6 +1133,21 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-mini-marathon-raid-24-0528",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mini-marathon-raid-24-0528",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-date-mini-marathon-raid-24-0528",
+    "missionIds": [
+      "ms-daily-event-mini-marathon-raid-24-0528-marathon_raid_host_count",
+      "ms-event-mini-marathon-raid-24-0528-marathon_quest_clear_count",
+      "ms-event-mini-marathon-raid-24-0528-marathon_quest_clear_difficulty-ep4",
+      "ms-normal-event-mini-marathon-raid-24-0528-marathon_raid_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-mosaic-24-0311",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mosaic-24-0311",

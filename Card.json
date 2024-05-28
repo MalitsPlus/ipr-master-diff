@@ -7078,6 +7078,63 @@
     "homeTalks": []
   },
   {
+    "id": "card-mna-05-wedd-00",
+    "assetId": "mna-05-wedd-00",
+    "name": "隙間に覗く少女の顔",
+    "description": "ねぇ、どうかな？\r\n……今だけは、私が、きみの花嫁だよ",
+    "type": 2,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 406,
+    "visualRatioPermil": 316,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-wedd-00-1",
+    "skillId2": "sk-mna-05-wedd-00-2",
+    "skillId3": "sk-mna-05-wedd-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 376,
+    "releaseDate": "1716865200000",
+    "rewardCostumeId": "cos-mna-wedd-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.003,
+    "displayPositionY1": 0.026,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": 0.165,
+    "highlightDisplayPositionY1": 0.102,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.003,
+    "displayPositionY2": 0.026,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": 0.165,
+    "highlightDisplayPositionY2": 0.102,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "今だけは、私がきみの花嫁だよ",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-wedd-00-01"
+      },
+      {
+        "storyId": "st-card-mna-05-wedd-00-02"
+      },
+      {
+        "storyId": "st-card-mna-05-wedd-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mna-05-wedd-00",
+        "telephoneId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ngs-02-eve-01",
     "assetId": "ngs-02-eve-01",
     "name": "姉妹の活躍に染められて",
@@ -11792,6 +11849,67 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-skr-05-wedd-00",
+    "assetId": "skr-05-wedd-00",
+    "name": "marriage flower",
+    "description": "私、あなたと結婚出来るこの日を\r\nずっと待っていたの",
+    "type": 1,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 437,
+    "danceRatioPermil": 313,
+    "visualRatioPermil": 280,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-wedd-00-1",
+    "skillId2": "sk-skr-05-wedd-00-2",
+    "skillId3": "sk-skr-05-wedd-00-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 377,
+    "releaseDate": "1716865200000",
+    "rewardCostumeId": "cos-skr-wedd-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.137,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": 0.153,
+    "highlightDisplayPositionY1": 0.228,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.137,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": 0.153,
+    "highlightDisplayPositionY2": 0.228,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "幸せな結婚生活を送ろうね",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-wedd-00-01"
+      },
+      {
+        "storyId": "st-card-skr-05-wedd-00-02"
+      },
+      {
+        "storyId": "st-card-skr-05-wedd-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-wedd-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-wedd-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairId": "",
     "homeTalks": []
   },

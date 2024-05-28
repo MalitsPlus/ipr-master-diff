@@ -37695,6 +37695,26 @@
     "linkDetail": ""
   },
   {
+    "id": "ms-daily-event-mini-marathon-raid-24-0528-marathon_raid_host_count",
+    "categoryType": 1,
+    "missionType": 1204,
+    "name": "【デイリー】自身で協力ライブを{threshold}回挑戦する",
+    "shortDescription": "【デイリー】自身で協力ライブを{threshold}回挑戦する",
+    "longDescription": "【デイリー】自身で協力ライブを{threshold}回挑戦しましょう。",
+    "order": 4,
+    "viewConditionId": "cd-event-ms-001-0528-0604",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;500"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-raid-24-0528",
+    "targetIds": [],
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
     "id": "ms-daily-guild_check_in_count-100",
     "categoryType": 1,
     "missionType": 46,
@@ -46257,6 +46277,104 @@
     "linkDetail": ""
   },
   {
+    "id": "ms-event-mini-marathon-raid-24-0528-marathon_quest_clear_count",
+    "categoryType": 3,
+    "missionType": 1201,
+    "name": "いずれかの単独ライブを{threshold}回クリア",
+    "shortDescription": "いずれかの単独ライブを{threshold}回クリア",
+    "longDescription": "いずれかの単独ライブを{threshold}回クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "75",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "125",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;400"
+      },
+      {
+        "threshold": "150",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;400"
+      },
+      {
+        "threshold": "175",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;400"
+      },
+      {
+        "threshold": "200",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;400"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-raid-24-0528",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-event-mini-marathon-raid-24-0528-marathon_quest_clear_difficulty-ep4",
+    "categoryType": 3,
+    "missionType": 1202,
+    "targetIds": [
+      "mini-marathon-raid-24-0528-quest-4"
+    ],
+    "name": "No.4ステージの難易度Lv{threshold}以上をクリア",
+    "shortDescription": "No.4ステージの難易度Lv{threshold}以上をクリア",
+    "longDescription": "No.4ステージの難易度Lv{threshold}以上をクリアしましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;400"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;600"
+      },
+      {
+        "threshold": "7",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;800"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;1000"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-raid-24-0528",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
     "id": "ms-limited-login-ex-tower-005-sp-23-0625-001",
     "categoryType": 3,
     "missionType": 4,
@@ -49257,6 +49375,66 @@
       }
     ],
     "eventMissionId": "event-mini-marathon-raid-24-0327",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": ""
+  },
+  {
+    "id": "ms-normal-event-mini-marathon-raid-24-0528-marathon_raid_clear_count",
+    "categoryType": 3,
+    "missionType": 1203,
+    "name": "協力ライブを{threshold}回クリア",
+    "shortDescription": "協力ライブを{threshold}回クリア",
+    "longDescription": "協力ライブを{threshold}回クリアしましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;100"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;100"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;200"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;300"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;300"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;400"
+      },
+      {
+        "threshold": "35",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;400"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;500"
+      },
+      {
+        "threshold": "45",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;500"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_24-0528-raid;600"
+      }
+    ],
+    "eventMissionId": "event-mini-marathon-raid-24-0528",
     "targetIds": [],
     "viewConditionId": "",
     "linkType": 0,
