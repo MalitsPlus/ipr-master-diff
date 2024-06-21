@@ -257,6 +257,21 @@
     ]
   },
   {
+    "id": "event-dream-24-0610",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-dream-defalut",
+    "name": "イベントミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-dream-24-0610-24-0620",
+    "unlockConditionId": "cd-dream-24-0610-play",
+    "missionIds": [
+      "event-dream-24-0610-dream_area_generate_count",
+      "event-dream-24-0610-dream_quest_clear_count",
+      "event-dream-24-0610-dream_quest_clear_difficulty_level_achievement",
+      "event-dream-24-0610-dream_season_dream_max_grade_a"
+    ]
+  },
+  {
     "id": "event-ladder-22-0513",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-ladder-22-0513",
@@ -703,7 +718,7 @@
     "id": "event-love-23-1114-limited",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mission-21-0624",
-    "name": "もし恋初回限定課題",
+    "name": "もし恋デイリー",
     "order": 1,
     "viewConditionId": "cd-date-event-mission-love-23-1114-limited",
     "unlockConditionId": "cd-date-event-mission-love-23-1114-limited",
@@ -1211,6 +1226,27 @@
     ]
   },
   {
+    "id": "event-mosaic-24-0607",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mosaic-24-0607",
+    "name": "蒼の追懐ミッション",
+    "order": 99,
+    "viewConditionId": "cd-time-mosaic-24-0607-24-0625",
+    "unlockConditionId": "cd-mosaic-24-0607-play",
+    "missionIds": [
+      "event-ms-normal-24-0607-00-mission_clear_count",
+      "event-ms-normal-24-0607-01-card_skill_level_up_count",
+      "event-ms-normal-24-0607-01-character_photo_shoot_count",
+      "event-ms-normal-24-0607-01-login_count",
+      "event-ms-normal-24-0607-01-market_exchange_count",
+      "event-ms-normal-24-0607-01-photo_reroll_count",
+      "event-ms-normal-24-0607-01-quest_contest_clear_count",
+      "event-ms-normal-24-0607-01-quest_daily_clear_count",
+      "event-ms-normal-24-0607-01-quest_pvp_play_count",
+      "event-ms-normal-24-0607-02-mission_clear_count"
+    ]
+  },
+  {
     "id": "event-race-22-0228",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-race-22-0228",
@@ -1601,6 +1637,21 @@
       "event-shelf-24-0401-photo-album-complete",
       "event-shelf-24-0401-photo-album-creating",
       "event-shelf-24-0401-photo-save"
+    ]
+  },
+  {
+    "id": "event-shelf-24-0612",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-24-0612",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-event_story-mission-24-0612",
+    "unlockConditionId": "cd-shelf-24-0612-play",
+    "missionIds": [
+      "event-shelf-24-0612-photo-album-complete-1",
+      "event-shelf-24-0612-photo-album-creating-1",
+      "event-shelf-24-0612-photo-creating-1",
+      "event-shelf-24-0612-photo-save-1"
     ]
   },
   {
@@ -1998,6 +2049,27 @@
       "event-ms-medley-23-1228-01-mission_clear_count-01",
       "event-ms-medley-23-1228-02-mission_clear_count",
       "event-ms-medley-23-1228-03-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_medley-mission-24-0612",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-medley-mission-24-0612",
+    "name": "3周年メドレーミッション",
+    "order": 2,
+    "viewConditionId": "cd-time-event-ms-medley-24-0612-0623",
+    "missionIds": [
+      "event-ms-medley-24-0612-00-card_skill_level_up_count-05",
+      "event-ms-medley-24-0612-00-condition_clear",
+      "event-ms-medley-24-0612-00-login_count-01",
+      "event-ms-medley-24-0612-00-market_exchange_count-04",
+      "event-ms-medley-24-0612-00-quest_contest_clear_count",
+      "event-ms-medley-24-0612-00-quest_daily_clear_count-03",
+      "event-ms-medley-24-0612-00-quest_pvp_play_count-02",
+      "event-ms-medley-24-0612-01-mission_clear_count-01",
+      "event-ms-medley-24-0612-02-mission_clear_count",
+      "event-ms-medley-24-0612-03-mission_clear_count"
     ],
     "unlockConditionId": ""
   },
@@ -2712,6 +2784,25 @@
       "event-ms-pvp-24-0521-quest_pvp_play_count-18",
       "event-ms-pvp-24-0521-quest_pvp_play_count-21",
       "event-ms-pvp-24-0521-quest_pvp_play_count-24"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_pvp-mission-24-0610",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_sp-pvp",
+    "name": "スペシャルVENUSバトル特別ミッション",
+    "order": 2,
+    "viewConditionId": "cd-time-pvp-24-0610-0612_l-banner",
+    "missionIds": [
+      "event-ms-pvp-24-0610-quest_pvp_play_count-03",
+      "event-ms-pvp-24-0610-quest_pvp_play_count-06",
+      "event-ms-pvp-24-0610-quest_pvp_play_count-09",
+      "event-ms-pvp-24-0610-quest_pvp_play_count-12",
+      "event-ms-pvp-24-0610-quest_pvp_play_count-15",
+      "event-ms-pvp-24-0610-quest_pvp_play_count-18",
+      "event-ms-pvp-24-0610-quest_pvp_play_count-21",
+      "event-ms-pvp-24-0610-quest_pvp_play_count-24"
     ],
     "unlockConditionId": ""
   },

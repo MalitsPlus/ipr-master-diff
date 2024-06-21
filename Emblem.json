@@ -2232,6 +2232,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-412",
+    "name": "The MOON",
+    "assetId": "sp-the-moon-24-0621",
+    "order": 102001,
+    "description": "BIG4編完結記念",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-500",
     "name": "VENUSシーズン1 No.1",
     "assetId": "pvp-season-001-top001",
@@ -4797,6 +4806,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_aoi-03",
+    "name": "【誕生日】井川葵",
+    "assetId": "birthday_aoi-03",
+    "autoProvideConditionId": "cd-birthday_emblem_aoi-24-0619",
+    "order": 603150,
+    "description": "葵の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_chs-03",
     "name": "【誕生日】白石千紗",
     "assetId": "birthday_chs-03",
@@ -4838,6 +4856,15 @@
     "assetId": "birthday_kor-03",
     "autoProvideConditionId": "cd-birthday_emblem_kor-23-0611",
     "order": 601180,
+    "description": "franの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-birthday_kor-02",
+    "name": "【誕生日】fran",
+    "assetId": "birthday_kor-04",
+    "autoProvideConditionId": "cd-birthday_emblem_kor-24-0611",
+    "order": 603180,
     "description": "franの誕生日を迎える",
     "isViewableInInactive": false
   },
@@ -5391,6 +5418,24 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-gvg-season-036-top001",
+    "name": "ユニオンシーズン36 No.1",
+    "assetId": "gvg-season-036-top001",
+    "order": 403610,
+    "description": "ユニオンライブシーズン36 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-036-top010",
+    "name": "ユニオンシーズン36 TOP10",
+    "assetId": "gvg-season-036-top010",
+    "order": 403620,
+    "description": "ユニオンライブシーズン36 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-highscore-15-0",
     "name": "lumière",
     "assetId": "area_15_100",
@@ -5477,6 +5522,51 @@
     "assetId": "highscore-eve-2312-05",
     "order": 209050,
     "description": "「マネージャーおすすめ楽曲メドレー」ライブでS+80ランククリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-highscore-eve-2406-01",
+    "name": "メドレーライブ 3rd ANNIV.",
+    "assetId": "highscore-eve-24-0612-01",
+    "order": 209070,
+    "description": "「メドレーライブ 3rd ANNIV.」でSランククリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-highscore-eve-2406-02",
+    "name": "メドレーライブ 3rd ANNIV.",
+    "assetId": "highscore-eve-24-0612-02",
+    "order": 209080,
+    "description": "「メドレーライブ 3rd ANNIV.」でS+20ランククリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-highscore-eve-2406-03",
+    "name": "メドレーライブ 3rd ANNIV.",
+    "assetId": "highscore-eve-24-0612-03",
+    "order": 209090,
+    "description": "「メドレーライブ 3rd ANNIV.」でS+40ランククリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-highscore-eve-2406-04",
+    "name": "メドレーライブ 3rd ANNIV.",
+    "assetId": "highscore-eve-24-0612-04",
+    "order": 209100,
+    "description": "「メドレーライブ 3rd ANNIV.」でS+60ランククリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-highscore-eve-2406-05",
+    "name": "メドレーライブ 3rd ANNIV.",
+    "assetId": "highscore-eve-24-0612-05",
+    "order": 209110,
+    "description": "「メドレーライブ 3rd ANNIV.」でS+80ランククリア",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -5576,6 +5666,15 @@
     "assetId": "mission-24-0510",
     "order": 141003,
     "description": "「弾ける夏へ！Splash Dive」ミッション",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-mission-mosaic-24-0607",
+    "name": "蒼の追懐",
+    "assetId": "mission-24-0607",
+    "order": 141004,
+    "description": "「蒼の追懐」ミッション",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -6710,6 +6809,33 @@
     "assetId": "sp-pvp-season-005-top100",
     "order": 350530,
     "description": "スペシャルVENUSバトルシーズン5で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-006-top001",
+    "name": "SPVENUS-6 No.1",
+    "assetId": "sp-pvp-season-006-top1",
+    "order": 350610,
+    "description": "スペシャルVENUSバトルシーズン6で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-006-top010",
+    "name": "SPVENUS-6 TOP10",
+    "assetId": "sp-pvp-season-006-top10",
+    "order": 350620,
+    "description": "スペシャルVENUSバトルシーズン6で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-sp-pvp-season-006-top100",
+    "name": "SPVENUS-6 TOP100",
+    "assetId": "sp-pvp-season-006-top100",
+    "order": 350630,
+    "description": "スペシャルVENUSバトルシーズン6で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

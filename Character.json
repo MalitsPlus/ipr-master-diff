@@ -164,10 +164,15 @@
       "colorCode": "7ECCEE",
       "description": ""
     },
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_ai_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ai_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-aoi",
@@ -329,9 +334,14 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "LizNoir",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_aoi_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_aoi_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-chk",
@@ -459,12 +469,17 @@
     "unlockConditionId": "cd-chr-obtain-chk",
     "type": 4,
     "groupName": "Aqours",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_chk_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_chk_idle-001-start_in",
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "idiom": "",
     "facePositionX": 0.0,
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-chs",
@@ -626,11 +641,16 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "サニーピース",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_chs_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_chs_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-gyo",
@@ -656,6 +676,8 @@
     "defaultLiveCostumeId": "cos-stm-casl-00",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "zodiacSign": "",
     "hometown": "",
@@ -682,7 +704,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-hrk",
@@ -852,10 +877,15 @@
       "colorCode": "B77BF4",
       "description": ""
     },
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_hrk_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_hrk_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-kan",
@@ -1021,10 +1051,15 @@
     "unlockConditionId": "cd-chr-obtain-kan",
     "type": 1,
     "groupName": "ⅢX",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_kan_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_kan_idle-001-start_in",
     "enName": "",
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-kkr",
@@ -1183,11 +1218,16 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "LizNoir",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_kkr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_kkr_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-koh",
@@ -1284,6 +1324,8 @@
     "defaultLiveCostumeId": "cos-koh-casl-00",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "zodiacSign": "",
     "hometown": "",
@@ -1308,7 +1350,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-konazusa",
@@ -1342,6 +1387,8 @@
     "defaultLiveCostumeId": "cos-ai-schl-00",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "enName": "",
     "altCharacters": [],
@@ -1360,7 +1407,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-konmio",
@@ -1394,6 +1444,8 @@
     "defaultLiveCostumeId": "cos-ai-schl-00",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "enName": "",
     "altCharacters": [],
@@ -1412,7 +1464,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-konmugi",
@@ -1446,6 +1501,8 @@
     "defaultLiveCostumeId": "cos-ai-schl-00",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "enName": "",
     "altCharacters": [],
@@ -1464,7 +1521,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-konritsu",
@@ -1498,6 +1558,8 @@
     "defaultLiveCostumeId": "cos-ai-schl-00",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "enName": "",
     "altCharacters": [],
@@ -1516,7 +1578,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-konyui",
@@ -1550,6 +1615,8 @@
     "defaultLiveCostumeId": "cos-ai-schl-00",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "enName": "",
     "altCharacters": [],
@@ -1568,7 +1635,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-kor",
@@ -1732,11 +1802,16 @@
     "unlockConditionId": "cd-chr-obtain-kor",
     "type": 1,
     "groupName": "ⅢX",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_kor_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_kor_idle-001-start_in",
     "enName": "",
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-ktn",
@@ -1768,6 +1843,7 @@
       "cos-ktn-idol-00",
       "cos-ktn-idol-01",
       "cos-ktn-idol-02",
+      "cos-ktn-idol-03",
       "cos-ktn-idol-04",
       "cos-ktn-kiok-00",
       "cos-ktn-kion-00",
@@ -1900,10 +1976,15 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "月のテンペスト",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_ktn_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ktn_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-mei",
@@ -1935,6 +2016,7 @@
       "cos-mei-idol-00",
       "cos-mei-idol-01",
       "cos-mei-idol-02",
+      "cos-mei-idol-03",
       "cos-mei-idol-04",
       "cos-mei-kion-00",
       "cos-mei-miku-00",
@@ -2074,10 +2156,15 @@
       "colorCode": "E03E52",
       "description": "自然豊かな田舎町で暮らす高校一年生。人懐っこく誰とでもすぐに仲良くなれる。主人公の祖母の家の近くに住んでいる。"
     },
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_mei_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_mei_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-mhk",
@@ -2113,6 +2200,7 @@
       "cos-mhk-sdpl-00",
       "cos-mhk-sush-00",
       "cos-mhk-trng-00",
+      "cos-mhk-wedd-00",
       "cos-mhk-xmas-00"
     ],
     "altCharacters": [
@@ -2241,11 +2329,16 @@
     "unlockConditionId": "cd-chr-obtain-mhk",
     "type": 1,
     "groupName": "ⅢX",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_mhk_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_mhk_idle-001-start_in",
     "enName": "",
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-mku",
@@ -2382,13 +2475,18 @@
     "unlockConditionId": "cd-chr-obtain-mku",
     "type": 4,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_mku_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_mku_idle-001-start_in",
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "psylliumColorType": 0,
     "idiom": "",
     "facePositionX": 0.0,
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-mna",
@@ -2524,13 +2622,18 @@
     "unlockConditionId": "cd-chr-obtain-mna",
     "type": 3,
     "groupName": "長瀬麻奈",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_mna_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_mna_idle-001-start_in",
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "catchphraseColor": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-mng",
@@ -2579,6 +2682,9 @@
     "groupPositionY": 0.66,
     "type": 2,
     "groupName": "長瀬麻奈",
+    "homeMainCharacterStayMotionAssetId": "#N/A",
+    "homeMainCharacterStayAdditionMotionAssetId": "#N/A",
+    "homeMainCharacterStayStartMotionAssetId": "#N/A",
     "characterGroupId": "",
     "altCharacters": [],
     "activityFanEventWords": [],
@@ -2588,7 +2694,9 @@
     "facePositionX": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-ngs",
@@ -2621,6 +2729,7 @@
       "cos-ngs-idol-00",
       "cos-ngs-idol-01",
       "cos-ngs-idol-02",
+      "cos-ngs-idol-03",
       "cos-ngs-idol-04",
       "cos-ngs-kion-00",
       "cos-ngs-miku-00",
@@ -2758,11 +2867,16 @@
       "colorCode": "FF6AA0",
       "description": "恋愛小説が好きな高校二年生。面倒見がよく、クラスの人気者。主人公とは幼馴染で隣の家に住んでいる。"
     },
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_ngs_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ngs_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-rei",
@@ -2933,10 +3047,15 @@
       "colorCode": "68D2E9",
       "description": "ダンスが大好きな高校三年生。主人公のバイト先の先輩であり、クラスメイト。クールな性格で、周囲ともあまり関わろうとしない。"
     },
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_rei_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rei_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-rik",
@@ -3065,11 +3184,16 @@
     "unlockConditionId": "cd-chr-obtain-rik",
     "type": 4,
     "groupName": "Aqours",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_rik_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rik_idle-001-start_in",
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "idiom": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-rio",
@@ -3232,10 +3356,15 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "LizNoir",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_rio_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rio_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-rui",
@@ -3395,11 +3524,16 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "TRINITYAiLE",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_rui_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rui_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-ski",
@@ -3429,6 +3563,7 @@
       "cos-ski-idol-00",
       "cos-ski-idol-01",
       "cos-ski-idol-02",
+      "cos-ski-idol-03",
       "cos-ski-idol-04",
       "cos-ski-kifj-00",
       "cos-ski-kion-00",
@@ -3561,10 +3696,15 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "月のテンペスト",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_ski_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ski_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-skr",
@@ -3728,9 +3868,14 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "サニーピース",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-smr",
@@ -3898,11 +4043,16 @@
       "colorCode": "FFCA2E",
       "description": ""
     },
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_smr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_smr_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-stm",
@@ -3998,6 +4148,9 @@
     "defaultLiveCostumeId": "cos-stm-casl-00",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_adv_chr_stm_phonetalk-001_lp",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
+    "homeMainCharacterStayPropAssetId": "mdl_prp_smartphone-normal-l00_smartphone",
     "characterGroupId": "",
     "zodiacSign": "",
     "hometown": "",
@@ -4023,7 +4176,9 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": ""
   },
   {
     "id": "char-stm1",
@@ -4051,6 +4206,8 @@
     "defaultLiveCostumeId": "cos-stm1-idol-02",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "zodiacSign": "",
     "hometown": "",
@@ -4076,7 +4233,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-stm2",
@@ -4104,6 +4264,8 @@
     "defaultLiveCostumeId": "cos-stm2-idol-02",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "zodiacSign": "",
     "hometown": "",
@@ -4129,7 +4291,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-stm3",
@@ -4157,6 +4322,8 @@
     "defaultLiveCostumeId": "cos-stm3-idol-02",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "zodiacSign": "",
     "hometown": "",
@@ -4182,7 +4349,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-stm4",
@@ -4210,6 +4380,8 @@
     "defaultLiveCostumeId": "cos-stm4-idol-02",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "zodiacSign": "",
     "hometown": "",
@@ -4235,7 +4407,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-stm5",
@@ -4263,6 +4438,8 @@
     "defaultLiveCostumeId": "cos-stm5-idol-02",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "characterGroupId": "",
     "zodiacSign": "",
     "hometown": "",
@@ -4288,7 +4465,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-suz",
@@ -4318,6 +4498,7 @@
       "cos-suz-idol-00",
       "cos-suz-idol-01",
       "cos-suz-idol-02",
+      "cos-suz-idol-03",
       "cos-suz-idol-04",
       "cos-suz-kion-00",
       "cos-suz-miku-00",
@@ -4450,11 +4631,16 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "月のテンペスト",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_suz_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_suz_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-szk",
@@ -4618,10 +4804,15 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "サニーピース",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_szk_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_szk_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "facePositionX": 0.0,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-vns",
@@ -4716,6 +4907,8 @@
     "defaultLiveCostumeId": "cos-stm-casl-00",
     "type": 2,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_vns_idle-001-start_in",
     "characterGroupId": "",
     "cv": "",
     "zodiacSign": "",
@@ -4742,7 +4935,10 @@
     "groupPositionY": 0.0,
     "catchphraseColor": "",
     "unlockConditionId": "",
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-ymk",
@@ -4880,12 +5076,17 @@
     "unlockConditionId": "cd-chr-obtain-ymk",
     "type": 4,
     "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_ymk_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ymk_idle-001-start_in",
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "idiom": "",
     "facePositionX": 0.0,
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-yo",
@@ -5013,12 +5214,17 @@
     "unlockConditionId": "cd-chr-obtain-yo",
     "type": 4,
     "groupName": "Aqours",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_yo_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_yo_idle-001-start_in",
     "activityFanEventWords": [],
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "idiom": "",
     "facePositionX": 0.0,
-    "isHomeDanceTarget": false
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-yu",
@@ -5176,11 +5382,16 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "TRINITYAiLE",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_yu_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_yu_idle-001-start_in",
     "heightCorrectionPermil": 0,
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
-    "unlockConditionId": ""
+    "unlockConditionId": "",
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
   }
 ]

@@ -32,6 +32,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-aoi-24-0619",
+    "name": "井川葵 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は葵の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "リズムゲームのCD",
+        "advAssetId": "hbd_04_aoi_01"
+      },
+      {
+        "index": 2,
+        "text": "映画のチケット2枚",
+        "advAssetId": "hbd_04_aoi_02"
+      },
+      {
+        "index": 3,
+        "text": "変装セット",
+        "advAssetId": "hbd_04_aoi_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-chs-23-1122",
     "name": "白石千紗 誕生日2023",
     "advPlayTypes": [
@@ -151,6 +183,38 @@
         "index": 3,
         "text": "撮影で使ったのと同じぬいぐるみ",
         "advAssetId": "hbd_03_kkr_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-birthday-branch-kor-24-0611",
+    "name": "fran 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はfranさんの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "高級入浴剤",
+        "advAssetId": "hbd_04_kor_01"
+      },
+      {
+        "index": 2,
+        "text": "幸運を呼ぶブレスレット",
+        "advAssetId": "hbd_04_kor_02"
+      },
+      {
+        "index": 3,
+        "text": "四つ葉のクローバー",
+        "advAssetId": "hbd_04_kor_03"
       }
     ],
     "sectionName": "",
@@ -1106,6 +1170,60 @@
     ],
     "advAssetIds": [
       "card_ai_03_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-aoi-05-birt-00-01",
+    "name": "莉央と愛への\nドッキリ企画",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-aoi-05-birt-00-02",
+    "name": "激写される\nリアクション",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-aoi-05-birt-00-03",
+    "name": "葵に贈る\nプレゼント",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_51_03"
     ],
     "sectionName": "",
     "description": "",
@@ -3546,6 +3664,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-kor-05-birt-00-01",
+    "name": "クソガキに\n鉄槌を",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_51_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kor-05-birt-00-02",
+    "name": "て、手に\n痛みが",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_51_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kor-05-birt-00-03",
+    "name": "だって私は\n天才だもの",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_51_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-kor-05-buny-00-01",
     "name": "嘘、嘘でしょ\n……！？",
     "rewardId": "rd_auto;stone;;30",
@@ -5156,6 +5328,60 @@
     ],
     "advAssetIds": [
       "card_mhk_02_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-wedd-00-01",
+    "name": "なんて\n不気味な",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_06_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-wedd-00-02",
+    "name": "寂しいとしか\n言いようが\nない",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_06_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-wedd-00-03",
+    "name": "始まりに\n過ぎません\nから",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_06_03"
     ],
     "sectionName": "",
     "description": "",
@@ -23906,6 +24132,208 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-02-01-56",
+    "sectionName": "Illuminate",
+    "name": "自分なりの\n答え",
+    "description": "あなたは琴乃に、行きたい場所があると告げられる。そこは、あなたが麻奈と最後に別れた場所……星見高校の教室だった。月の光が照らす中、琴乃は自分なりの答えをあなたに伝える。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_12_01"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-57",
+    "sectionName": "Illuminate",
+    "name": "みんなの道を\n照らすこと",
+    "description": "暗闇の中で迷った時に、琴乃を照らしてくれたのは、月のテンペストのメンバー達だった。道を見つけ、進む勇気を持てたのは、周りが照らしてくれたからだった。琴乃は、今度は自分がそうなれるように、暗闇に迷う人々の力になれるよう、決意する。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_12_02"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-58",
+    "sectionName": "Illuminate",
+    "name": "意趣返し",
+    "description": "どりきゅんの過去を知り、自分達なりの答えも見つけ、改めて彼女達と真正面からぶつかり合いたいと望む琴乃達。だが、琴乃や月のテンペストへの興味を失ったどりきゅんは、再戦をする気はないようで……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_12_03"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-59",
+    "sectionName": "Illuminate",
+    "name": "獅子達と共に",
+    "description": "どりきゅんとの再戦を決めた月のテンペスト。決戦までの間に、可能な限り力をつけることにするが……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_12_04"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-60",
+    "sectionName": "Illuminate",
+    "name": "受け止めたい",
+    "description": "ⅢXとの合同練習を経て、大きく成長した琴乃達。どりきゅんとの三度目の対戦に向けて、心を一つにするのだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_12_05"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-61",
+    "sectionName": "The Moonlight",
+    "name": "私達の誇り",
+    "description": "どりきゅんとの決戦に向けて練習を続ける中、月のテンペストは琴乃とすず、どちらがセンターに立つか決まらずにいた。そんな中、すずは一人、意思を固め……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_13_01"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-62",
+    "sectionName": "The Moonlight",
+    "name": "BIG4\nチャレンジ",
+    "description": "ついに始まった、どりきゅんとの決戦。互いに譲れない想いを胸に、パフォーマンスに全てをかける。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_13_02"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-63",
+    "sectionName": "The Moonlight",
+    "name": "お願い",
+    "description": "パフォーマンスを終え、祈るように結果を待つ一同。果たして勝者は――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1,
+      2,
+      1
+    ],
+    "advAssetIds": [
+      "main_03_13_03_01",
+      "adv-live-main-cmn-02-01-61",
+      "main_03_13_03_02"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-64",
+    "sectionName": "The Moonlight",
+    "name": "ありがとう\nございました",
+    "description": "見事に勝利し、自分達の勇気と誇りを示した月のテンペスト。一方、真正面からぶつかり合い、想いを交わした相手である、どりきゅんの二人は……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_13_04"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-65",
+    "sectionName": "The Moonlight",
+    "name": "月と太陽",
+    "description": "BIG4になった月のテンペストには、どうしても対戦したい相手がいた。それは、デビュー前から互いに競い合ったライバルにして、奇跡の同時優勝を果たした、かけがえのないライバルだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_13_05"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-02-01-66",
+    "sectionName": "Epilogue",
+    "name": "エピローグ",
+    "description": "エキシビションマッチの後、星見市に里帰りをした月のテンペストとサニーピース。デビュー前から訪れていた、星見市の海に足を運び――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_03_14_01"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-original-cmn-01-01-01",
     "sectionName": "Shine Purity",
     "name": "長瀬麻奈",
@@ -28648,6 +29076,462 @@
     ],
     "advAssetIds": [
       "event_2402_01_05"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-001-001",
+    "name": "サニピ初の\n全国ツアー",
+    "description": "初の全国ツアーをすることが決まった、サニーピース。早速、会議室に集まり、ツアータイトルやDVDの特典映像について考えることに。結果、ツアータイトルは『繋ぐ』に決定。メンバー達は全国を回りながら、ファンレターに書かれていたファンの夢を叶えていくことになるのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-001-002",
+    "name": "沖縄＆福岡",
+    "description": "沖縄と福岡にて。メンバー達は現地で、ファンの夢を叶えることに。一緒に釣りをしたり、スーパーの呼び込みに協力するのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-001-003",
+    "name": "広島＆名古屋",
+    "description": "広島、名古屋にて。ファンと交流し、夢を叶えていくサニーピース。ただ、広島では、怜には酷なことが待っており……",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-001-004",
+    "name": "仙台＆札幌",
+    "description": "仙台、札幌でも、メンバーは合間の時間に、ファンの夢を叶えていく。さくら達の温かな想いに、ファンは元気をもらうのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-001-005",
+    "name": "サニーピース\n＆みんな",
+    "description": "全国ツアー終了後。各地で触れ合ったファンから、またファンレターが届いていた。そこに書かれていたのは、サニーピースへの感謝の言葉。手紙を読んだメンバー達は、ツアータイトルの意味を改めて噛みしめる。",
+    "advPlayTypes": [
+      1,
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_05_01",
+      "event_2403_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-002-001",
+    "name": "ⅢXの\n世界進出",
+    "description": "kanaの動画が海外で注目を浴び、ラスベガスのショーに出ないかとオファーを受けたⅢX。喜んで現地へ向かうと、そこで待っていたのは……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2404_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-002-002",
+    "name": "思ってたのと\n違う",
+    "description": "おんぼろのステージを紹介され、腹を立てるkana。海外の厳しさを知っているfranは、一人、現実的な意見を言う。だが、諦めたようなその言葉に、今度はmihoが怒りを覚え……三人は海を渡った地で散り散りになってしまう。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2404_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-002-003",
+    "name": "実力で\nぶちのめす",
+    "description": "現実を受け止めつつも、誇りを持って抗うことを決めた三人。全てをひっくり返すため、今だけは再び手を取り合うのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2404_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-002-004",
+    "name": "宣伝\nin カジノ",
+    "description": "いかなる手を使ってでも、ライブを成功させたいⅢX。正攻法だけでなく、他のグループが思いつきもしないような手段で宣伝を行う。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2404_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-002-005",
+    "name": "ジャック\nポット！",
+    "description": "ラスベガスで大成功を収めた三人。このまま海外で活動する道もあるが――",
+    "advPlayTypes": [
+      1,
+      1
+    ],
+    "advAssetIds": [
+      "event_2404_01_05_01",
+      "event_2404_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-003-001",
+    "name": "BIG4への\n道のり",
+    "description": "ライブツアーの評判も良く、順風満帆なLizNoirに新たな仕事が舞い込んでくる。なんでも、超大型娯楽施設とのタイアップで、全国ネットで出演するCMが放送されるのだとか。さらなる飛躍のためにも、莉央は仕事を受けることに決めるのだが……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2405_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-003-002",
+    "name": "いぇー、松P",
+    "description": "CM撮影に臨むLizNoir。だが、先方のプロデューサーからのオーダーは、これまでの自分達のイメージから、あまりにもかけ離れた内容だった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2405_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-003-003",
+    "name": "変化も\n必要だと思う",
+    "description": "とどまることを知らないプロデューサーのオーダーに、頭を抱えるメンバー達。このまま撮影を続けるべきか、葵は莉央と真剣に話し合うことにするのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2405_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-003-004",
+    "name": "見事なスライ\nディング土下\n座",
+    "description": "LizNoirらしさを守るためにも、今回の仕事は降りるべきだと語る葵と、プロとして仕事はまっとうすべきだと語る莉央。意見が二つに割れる中、プロデューサーからまさかの真実が明かされる。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2405_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-003-005",
+    "name": "その覚悟は\n出来てる？",
+    "description": "それぞれ思うところはあるが、無事にCM撮影を終えたメンバー達。後日、CMに合わせて作っていた新曲でライブバトルに挑むが――",
+    "advPlayTypes": [
+      1,
+      1
+    ],
+    "advAssetIds": [
+      "event_2405_01_05_01",
+      "event_2405_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-004-001",
+    "name": "目指すは\n100連勝",
+    "description": "NEXT VENUSグランプリでサニーピースに負けてから、悔しさをバネにして努力を続けてきたTRINITYAiLE。ライブバトルを重ね、現在は98連勝中。しかし、瑠依や優が選んだ次の対戦相手に、すみれは引っ掛かりを覚え――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2311_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-004-002",
+    "name": "負ける訳には\nいかない",
+    "description": "ライブバトルを経て、ついに99連勝を達成したトリエル。次の対戦相手として、VENUSプログラムにてランキング五位のアイドルはどうかとあなたから提案を受ける。上位ランカーに挑戦する、またとない機会を得るトリエルだったが――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2311_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-004-003",
+    "name": "挑戦か無謀か",
+    "description": "三人で話し合った結果、ランキング五位に挑戦しないことを決めたトリエル。しかし、すみれは違和感を拭いきれず、あなたに相談する。答えを見つけたすみれは、瑠依と優を呼び出し――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2311_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-004-004",
+    "name": "限界なんて\n決めないで",
+    "description": "すみれは瑠依と優に、サニピに負けた時のライブ映像や、ファンからのアンケートを見せる。ファンやすみれの言葉を受けた二人は、勝利にこだわるあまり、大切なことを忘れていたことに気づく。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2311_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-004-005",
+    "name": "三人でなら\nどこまでも",
+    "description": "ランキング五位に勝利し、100連勝を達成したトリエル。そのお祝いに、あなたのはからいで温泉旅行に出掛ける。穏やかなひとときを過ごす中、瑠依はトリエルの未来に思いを馳せ――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2311_01_05"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-005-001",
+    "name": "沙季の大掃除",
+    "description": "NEXT VENUSグランプリで同時優勝を果たした直後の正月。月ストのメンバーは、実家に戻ったり、親戚と過ごしたり、それぞれ自由に過ごしていた。そんな中、寮に残っていた沙季は、芽衣と大掃除をすることになるが……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-005-002",
+    "name": "芽衣の猫探し",
+    "description": "芽衣が目を覚ますと、なぜか廊下には猫の入ったカゴが置かれていた。カゴから飛び出した猫を慌てて追いかける芽衣だが、その途中、なぜか気を失っている沙季を発見し……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-005-003",
+    "name": "渚と\n大事な\nペンダント",
+    "description": "友達に頼まれ、猫を預かることになった渚。だが、必要なものを買いに出掛けている間に、猫がどこかに逃げてしまっていた。捜索のすえ、猫を見つけるも、なぜかその首には琴乃の大切なペンダントが提げられており……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-005-004",
+    "name": "すずの大暴れ",
+    "description": "成宮家特製の豪華なおせち料理を持って、寮に帰ってきたすず。お皿に盛り付けたり、独自のアレンジを加えたりしていると、首からペンダントを提げた猫を発見。ペンダントがほしいすずは、追いかけることにするが……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-24-0612-005-005",
+    "name": "琴乃と\n猫と\n修羅場",
+    "description": "寮に戻ってきた琴乃は、行く先々で驚くべき光景を目の当たりにする。すずの残したメッセージを見て混乱する琴乃。しかもなぜかベランダでは、芽衣と渚がにらみ合っており……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2401_01_05"
     ],
     "sectionName": "",
     "rewardId": "",
