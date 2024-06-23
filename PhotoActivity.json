@@ -252,6 +252,32 @@
     ]
   },
   {
+    "id": "photo_activity-lesson",
+    "name": "レッスン室",
+    "type": 1,
+    "thumbAssetId": "lesson-00",
+    "stageId": "stage-photo-lesson-00",
+    "costumeTypeIds": [
+      "casl",
+      "gene",
+      "idol",
+      "idol-miku",
+      "kion",
+      "mizg",
+      "mizg-water-ng",
+      "schl",
+      "trng",
+      "waso"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "lesson-00",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "cd-time-photo-lesson-00-01",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
     "id": "photo_activity-living",
     "name": "東京寮リビング",
     "type": 1,

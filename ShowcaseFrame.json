@@ -3,9 +3,27 @@
     "id": "frame-001",
     "order": 1,
     "name": "小",
-    "description": "小",
+    "description": "小\nサイズ：26×23×23",
     "assetId": "box-00-000",
     "showcaseToyPutCountLimit": 100,
     "unlockConditionId": ""
+  },
+  {
+    "id": "frame-002",
+    "order": 2,
+    "name": "小(ワイド)",
+    "description": "小(ワイド)\nサイズ：43×23×23",
+    "assetId": "box-01-000",
+    "unlockConditionId": "cd-showcase_toy-goods-frame-002",
+    "showcaseToyPutCountLimit": 100
+  },
+  {
+    "id": "frame-003",
+    "order": 3,
+    "name": "中",
+    "description": "中\nサイズ：43×38×38",
+    "assetId": "box-02-000",
+    "unlockConditionId": "cd-showcase_toy-goods-frame-003",
+    "showcaseToyPutCountLimit": 100
   }
 ]

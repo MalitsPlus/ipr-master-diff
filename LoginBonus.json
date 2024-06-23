@@ -1709,6 +1709,48 @@
     "receiveConditionId": "cd-time-login-24-0617-0630"
   },
   {
+    "id": "login_bonus-campaign-24-0626-01",
+    "name": "The MOON",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-24-0626-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;stone;;100",
+      "rd_auto;stone;;100",
+      "rd_auto;stone;;100",
+      "rd_auto;item;item-gacha_ticket-24-0624-01-r5;1",
+      "rd_auto;stone;;100",
+      "rd_auto;stone;;100",
+      "rd_auto;card;card-mei-05-fest-02;1"
+    ],
+    "openConditionId": "cd-time-login-24-0626-0702",
+    "receiveConditionId": "cd-time-login-24-0626-0709"
+  },
+  {
+    "id": "login_bonus-campaign-24-0627-01",
+    "name": "グッズメダル",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-24-0627-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-showcase_medal;30",
+      "rd_auto;item;item-showcase_medal;30",
+      "rd_auto;item;item-showcase_medal;30",
+      "rd_auto;item;item-showcase_medal;30",
+      "rd_auto;item;item-showcase_medal;30",
+      "rd_auto;item;item-showcase_medal;30",
+      "rd_auto;item;item-showcase_medal;30"
+    ],
+    "openConditionId": "cd-time-login-24-0627-0703",
+    "receiveConditionId": "cd-time-login-24-0627-0710"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

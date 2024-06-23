@@ -26,6 +26,7 @@
       "cos-ai-idol-00",
       "cos-ai-idol-02",
       "cos-ai-idol-03",
+      "cos-ai-idol-05",
       "cos-ai-kait-00",
       "cos-ai-kion-00",
       "cos-ai-miku-00",
@@ -164,13 +165,28 @@
       "colorCode": "7ECCEE",
       "description": ""
     },
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-ai-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-ai-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-ai-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-ai-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_ai_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ai_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -203,6 +219,7 @@
       "cos-aoi-idol-00",
       "cos-aoi-idol-02",
       "cos-aoi-idol-03",
+      "cos-aoi-idol-05",
       "cos-aoi-kait-00",
       "cos-aoi-kion-00",
       "cos-aoi-miku-00",
@@ -334,12 +351,27 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "LizNoir",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-aoi-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-aoi-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-aoi-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-aoi-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_aoi_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_aoi_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -512,6 +544,7 @@
       "cos-chs-idol-02",
       "cos-chs-idol-03",
       "cos-chs-idol-04",
+      "cos-chs-idol-05",
       "cos-chs-kion-00",
       "cos-chs-miku-00",
       "cos-chs-miku-03",
@@ -641,6 +674,22 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "サニーピース",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-chs-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-chs-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-chs-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-chs-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_chs_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_chs_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
@@ -648,7 +697,6 @@
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -739,6 +787,7 @@
       "cos-hrk-idol-02",
       "cos-hrk-idol-03",
       "cos-hrk-idol-04",
+      "cos-hrk-idol-05",
       "cos-hrk-kion-00",
       "cos-hrk-miku-00",
       "cos-hrk-miku-03",
@@ -877,13 +926,28 @@
       "colorCode": "B77BF4",
       "description": ""
     },
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-hrk-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-hrk-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-hrk-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-hrk-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_hrk_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_hrk_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -912,6 +976,7 @@
       "cos-kan-idol-00",
       "cos-kan-idol-02",
       "cos-kan-idol-03",
+      "cos-kan-idol-05",
       "cos-kan-kion-00",
       "cos-kan-miku-00",
       "cos-kan-miku-03",
@@ -1051,13 +1116,28 @@
     "unlockConditionId": "cd-chr-obtain-kan",
     "type": 1,
     "groupName": "ⅢX",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-kan-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-kan-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-kan-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-kan-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_kan_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_kan_idle-001-start_in",
     "enName": "",
     "talkArrivalAdditionMotionAssetId": "",
     "isLeftHanded": false,
     "isHomeDanceTarget": false,
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -1088,6 +1168,7 @@
       "cos-kkr-idol-00",
       "cos-kkr-idol-02",
       "cos-kkr-idol-03",
+      "cos-kkr-idol-05",
       "cos-kkr-kait-00",
       "cos-kkr-kion-00",
       "cos-kkr-miku-00",
@@ -1218,6 +1299,22 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "LizNoir",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-kkr-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-kkr-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-kkr-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-kkr-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_kkr_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_kkr_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
@@ -1225,7 +1322,6 @@
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -1664,6 +1760,7 @@
       "cos-kor-idol-00",
       "cos-kor-idol-02",
       "cos-kor-idol-03",
+      "cos-kor-idol-05",
       "cos-kor-kion-00",
       "cos-kor-miku-00",
       "cos-kor-miku-03",
@@ -1802,6 +1899,22 @@
     "unlockConditionId": "cd-chr-obtain-kor",
     "type": 1,
     "groupName": "ⅢX",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-kor-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-kor-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-kor-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-kor-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_kor_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_kor_idle-001-start_in",
     "enName": "",
@@ -1809,7 +1922,6 @@
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "isHomeDanceTarget": false,
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -1845,6 +1957,7 @@
       "cos-ktn-idol-02",
       "cos-ktn-idol-03",
       "cos-ktn-idol-04",
+      "cos-ktn-idol-05",
       "cos-ktn-kiok-00",
       "cos-ktn-kion-00",
       "cos-ktn-miku-00",
@@ -1976,13 +2089,28 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "月のテンペスト",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-ktn-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-ktn-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-ktn-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-ktn-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_ktn_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ktn_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -2018,6 +2146,7 @@
       "cos-mei-idol-02",
       "cos-mei-idol-03",
       "cos-mei-idol-04",
+      "cos-mei-idol-05",
       "cos-mei-kion-00",
       "cos-mei-miku-00",
       "cos-mei-miku-03",
@@ -2156,13 +2285,28 @@
       "colorCode": "E03E52",
       "description": "自然豊かな田舎町で暮らす高校一年生。人懐っこく誰とでもすぐに仲良くなれる。主人公の祖母の家の近くに住んでいる。"
     },
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-mei-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-mei-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-mei-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-mei-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_mei_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_mei_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -2190,6 +2334,7 @@
       "cos-mhk-idol-00",
       "cos-mhk-idol-02",
       "cos-mhk-idol-03",
+      "cos-mhk-idol-05",
       "cos-mhk-kion-00",
       "cos-mhk-miku-00",
       "cos-mhk-miku-03",
@@ -2329,6 +2474,22 @@
     "unlockConditionId": "cd-chr-obtain-mhk",
     "type": 1,
     "groupName": "ⅢX",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-mhk-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-mhk-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-mhk-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-mhk-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_mhk_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_mhk_idle-001-start_in",
     "enName": "",
@@ -2336,7 +2497,6 @@
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "isHomeDanceTarget": false,
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -2731,6 +2891,7 @@
       "cos-ngs-idol-02",
       "cos-ngs-idol-03",
       "cos-ngs-idol-04",
+      "cos-ngs-idol-05",
       "cos-ngs-kion-00",
       "cos-ngs-miku-00",
       "cos-ngs-miku-03",
@@ -2867,6 +3028,22 @@
       "colorCode": "FF6AA0",
       "description": "恋愛小説が好きな高校二年生。面倒見がよく、クラスの人気者。主人公とは幼馴染で隣の家に住んでいる。"
     },
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-ngs-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-ngs-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-ngs-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-ngs-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_ngs_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ngs_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
@@ -2874,7 +3051,6 @@
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -2910,6 +3086,7 @@
       "cos-rei-idol-02",
       "cos-rei-idol-03",
       "cos-rei-idol-04",
+      "cos-rei-idol-05",
       "cos-rei-kion-00",
       "cos-rei-miku-00",
       "cos-rei-miku-03",
@@ -3047,13 +3224,28 @@
       "colorCode": "68D2E9",
       "description": "ダンスが大好きな高校三年生。主人公のバイト先の先輩であり、クラスメイト。クールな性格で、周囲ともあまり関わろうとしない。"
     },
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-rei-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-rei-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-rei-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-rei-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_rei_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rei_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -3225,6 +3417,7 @@
       "cos-rio-idol-00",
       "cos-rio-idol-02",
       "cos-rio-idol-03",
+      "cos-rio-idol-05",
       "cos-rio-kait-00",
       "cos-rio-kiok-00",
       "cos-rio-kion-00",
@@ -3356,13 +3549,28 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "LizNoir",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-rio-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-rio-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-rio-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-rio-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_rio_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rio_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -3395,6 +3603,7 @@
       "cos-rui-idol-02",
       "cos-rui-idol-03",
       "cos-rui-idol-04",
+      "cos-rui-idol-05",
       "cos-rui-kion-00",
       "cos-rui-miku-00",
       "cos-rui-miku-03",
@@ -3524,6 +3733,22 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "TRINITYAiLE",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-rui-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-rui-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-rui-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-rui-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_rui_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rui_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
@@ -3531,7 +3756,6 @@
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -3565,6 +3789,7 @@
       "cos-ski-idol-02",
       "cos-ski-idol-03",
       "cos-ski-idol-04",
+      "cos-ski-idol-05",
       "cos-ski-kifj-00",
       "cos-ski-kion-00",
       "cos-ski-miku-00",
@@ -3696,13 +3921,28 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "月のテンペスト",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-ski-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-ski-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-ski-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-ski-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_ski_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_ski_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -3739,6 +3979,7 @@
       "cos-skr-idol-02",
       "cos-skr-idol-03",
       "cos-skr-idol-04",
+      "cos-skr-idol-05",
       "cos-skr-kion-00",
       "cos-skr-miku-00",
       "cos-skr-miku-03",
@@ -3868,12 +4109,27 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "サニーピース",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-skr-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-skr-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-skr-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-skr-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_skr_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_skr_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -3907,6 +4163,7 @@
       "cos-smr-idol-02",
       "cos-smr-idol-03",
       "cos-smr-idol-04",
+      "cos-smr-idol-05",
       "cos-smr-kion-00",
       "cos-smr-maid-00",
       "cos-smr-miku-00",
@@ -4043,6 +4300,22 @@
       "colorCode": "FFCA2E",
       "description": ""
     },
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-smr-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-smr-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-smr-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-smr-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_smr_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_smr_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
@@ -4050,7 +4323,6 @@
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -4500,6 +4772,7 @@
       "cos-suz-idol-02",
       "cos-suz-idol-03",
       "cos-suz-idol-04",
+      "cos-suz-idol-05",
       "cos-suz-kion-00",
       "cos-suz-miku-00",
       "cos-suz-miku-03",
@@ -4631,6 +4904,22 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "月のテンペスト",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-suz-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-suz-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-suz-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-suz-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_suz_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_suz_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
@@ -4638,7 +4927,6 @@
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -4673,6 +4961,7 @@
       "cos-szk-idol-02",
       "cos-szk-idol-03",
       "cos-szk-idol-04",
+      "cos-szk-idol-05",
       "cos-szk-kion-00",
       "cos-szk-miku-00",
       "cos-szk-miku-03",
@@ -4804,13 +5093,28 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "サニーピース",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-szk-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-szk-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-szk-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-szk-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_szk_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_szk_idle-001-start_in",
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "facePositionX": 0.0,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   },
@@ -5255,6 +5559,7 @@
       "cos-yu-idol-02",
       "cos-yu-idol-03",
       "cos-yu-idol-04",
+      "cos-yu-idol-05",
       "cos-yu-kion-00",
       "cos-yu-miku-00",
       "cos-yu-miku-03",
@@ -5382,6 +5687,22 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "TRINITYAiLE",
+    "companyEnjoyStories": [
+      {
+        "number": 1,
+        "storyId": "st-company-bond-yu-01-01",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-yu-010",
+        "assetId": "01"
+      },
+      {
+        "number": 2,
+        "storyId": "st-company-bond-yu-01-02",
+        "viewConditionId": "cd-function_lock-company",
+        "unlockConditionId": "cd-company-enjoy-story-yu-030",
+        "assetId": "02"
+      }
+    ],
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_yu_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_yu_idle-001-start_in",
     "heightCorrectionPermil": 0,
@@ -5390,7 +5711,6 @@
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "unlockConditionId": "",
-    "companyEnjoyStories": [],
     "homeMainCharacterStayAdditionMotionAssetId": "",
     "homeMainCharacterStayPropAssetId": ""
   }

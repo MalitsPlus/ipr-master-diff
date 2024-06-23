@@ -4735,6 +4735,48 @@
     "homeTalks": []
   },
   {
+    "id": "card-ktn-02-eve-03",
+    "assetId": "ktn-02-eve-03",
+    "name": "月と太陽",
+    "description": "待ってて、さくら。必ずどりきゅんに勝って\r\nサニーピースに追いついて――追い越してみせるから",
+    "type": 1,
+    "characterId": "char-ktn",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 278,
+    "visualRatioPermil": 432,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-02-eve-03-1",
+    "skillId2": "sk-ktn-02-eve-03-2",
+    "skillId3": "sk-ktn-02-eve-03-3",
+    "order": 387,
+    "releaseDate": "1719392400000",
+    "imageType1": 1,
+    "displayPositionX1": -0.028,
+    "displayPositionY1": 0.259,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.05,
+    "highlightDisplayPositionY1": 0.313,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.031,
+    "displayPositionY2": 0.045,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": 0.619,
+    "highlightDisplayPositionY2": 0.093,
+    "highlightDisplayScale2": 0.7,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-03-schl-00",
     "assetId": "ktn-03-schl-00",
     "name": "見なれた光景",
@@ -5086,6 +5128,67 @@
       },
       {
         "telephoneId": "tel-card-ktn-05-fest-01",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-ktn-05-fest-02",
+    "assetId": "ktn-05-fest-02",
+    "name": "私達ノ未来",
+    "description": "お姉ちゃん。私ね、もう迷わないよ\r\n月ストの五人で、雨雲だって、心のもやもやだって\r\n吹き飛ばして、みんなを優しく照らしてみせるから",
+    "type": 2,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 317,
+    "danceRatioPermil": 278,
+    "visualRatioPermil": 405,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-fest-02-1",
+    "skillId2": "sk-ktn-05-fest-02-2",
+    "skillId3": "sk-ktn-05-fest-02-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 382,
+    "releaseDate": "1719370800000",
+    "rewardCostumeId": "cos-ktn-idol-03",
+    "imageType1": 3,
+    "displayPositionX1": 0.001,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.187,
+    "highlightDisplayPositionY1": 0.194,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": 0.001,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.187,
+    "highlightDisplayPositionY2": 0.194,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "お姉ちゃん、もう迷わないよ",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-fest-02-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-fest-02-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-fest-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ktn-05-fest-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ktn-05-fest-02",
         "messageId": ""
       }
     ],
@@ -5747,6 +5850,67 @@
     "liveAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mei-05-fest-02",
+    "assetId": "mei-05-fest-02",
+    "name": "ヒカリ輝く新たな誓い",
+    "description": "麻奈ちゃん……芽衣、これからも\r\n月ストのみんなと一緒に進んでいくよ\r\n世界中の人がファンになってくれる\r\nそんな凄いアイドルになれるように",
+    "type": 1,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 432,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-fest-02-1",
+    "skillId2": "sk-mei-05-fest-02-2",
+    "skillId3": "sk-mei-05-fest-02-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 384,
+    "releaseDate": "1719327600000",
+    "rewardCostumeId": "cos-mei-idol-03",
+    "imageType1": 3,
+    "displayPositionX1": 0.155,
+    "displayPositionY1": 0.167,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.219,
+    "highlightDisplayPositionY1": 0.258,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": 0.155,
+    "displayPositionY2": 0.167,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.219,
+    "highlightDisplayPositionY2": 0.258,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "麻奈ちゃん……\n芽衣、これからも、\n月ストのみんなと一緒に\n進んでいくよ",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-fest-02-01"
+      },
+      {
+        "storyId": "st-card-mei-05-fest-02-02"
+      },
+      {
+        "storyId": "st-card-mei-05-fest-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-fest-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-fest-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "rewardHairId": "",
     "homeTalks": []
   },
@@ -7596,6 +7760,67 @@
     "activityAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-ngs-05-fest-02",
+    "assetId": "ngs-05-fest-02",
+    "name": "友を照らすヒカリ",
+    "description": "今度は私が琴乃ちゃんの道を照らしてみせる\r\n琴乃ちゃんが迷わず、勇気を持って\r\n一歩を踏み出せるように\r\nこれからの道のりを一緒に進めるように",
+    "type": 1,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 432,
+    "visualRatioPermil": 318,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-fest-02-1",
+    "skillId2": "sk-ngs-05-fest-02-2",
+    "skillId3": "sk-ngs-05-fest-02-3",
+    "activityAbilityId": "aab-promotion_accessory_multi_step_reward_up",
+    "order": 383,
+    "releaseDate": "1719370800000",
+    "rewardCostumeId": "cos-ngs-idol-03",
+    "imageType1": 3,
+    "displayPositionX1": -0.018,
+    "displayPositionY1": 0.129,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.031,
+    "highlightDisplayPositionY1": 0.247,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": -0.018,
+    "displayPositionY2": 0.129,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.031,
+    "highlightDisplayPositionY2": 0.247,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "今度は私が、\n琴乃ちゃんの道を\n照らしてみせる",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-fest-02-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-fest-02-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-fest-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ngs-05-fest-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ngs-05-fest-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "rewardHairId": "",
     "homeTalks": []
   },
@@ -11954,6 +12179,48 @@
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
     "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-skr-05-prem-00",
+    "assetId": "skr-05-prem-00",
+    "name": "あの頃の気持ちで",
+    "description": "こうして十人揃って海に来ると、あの頃を思い出すね\r\nお互いBIG4になったけど、今だけはあの頃に戻って\r\n思いっきり楽しんじゃおっか！",
+    "type": 3,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 311,
+    "danceRatioPermil": 273,
+    "visualRatioPermil": 416,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-prem-00-1",
+    "skillId2": "sk-skr-05-prem-00-2",
+    "skillId3": "sk-skr-05-prem-00-3",
+    "activityAbilityId": "aab-lesson_card_enhance_item_up",
+    "order": 381,
+    "releaseDate": "1719198000000",
+    "imageType1": 3,
+    "displayPositionX1": -0.263,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": 0.36,
+    "highlightDisplayPositionY1": 0.202,
+    "highlightDisplayScale1": 1.1,
+    "imageType2": 3,
+    "displayPositionX2": -0.263,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": 0.36,
+    "highlightDisplayPositionY2": 0.202,
+    "highlightDisplayScale2": 1.1,
+    "obtainMessage": "十人揃って\n遊べるなんて、\n夢みたいだよ！",
+    "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairId": "",
+    "stories": [],
+    "messages": [],
     "homeTalks": []
   },
   {
