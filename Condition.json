@@ -159820,6 +159820,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-24-0626-0628_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1719327600000",
+          "nowBefore": "1719586799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -160002,6 +160016,20 @@
         "term": {
           "nowAfter": "1719198000000",
           "nowBefore": "1721789999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-showcase-music-shop",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1719284400000",
+          "nowBefore": "0"
         }
       }
     ]
