@@ -640,5 +640,100 @@
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-24-0626-bedrock-00",
+    "name": "岩盤浴",
+    "type": 2,
+    "thumbAssetId": "bedrock-00",
+    "stageId": "stage-photo-bedrock-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "bedrock-00",
+    "isDeleteCharacter": true,
+    "order": 2,
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-rik",
+      "char-yo",
+      "char-ymk"
+    ],
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-24-0626-catstreet-00",
+    "name": "ショッピング",
+    "type": 2,
+    "thumbAssetId": "shopping-00",
+    "stageId": "stage-photo-catstreet-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "catstreet-00",
+    "isDeleteCharacter": true,
+    "order": 4,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-24-0626-hot_spring-00",
+    "name": "温泉",
+    "type": 2,
+    "thumbAssetId": "hot_spring-00",
+    "stageId": "stage-photo-spa-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "spa-00",
+    "isDeleteCharacter": true,
+    "order": 3,
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-rik",
+      "char-yo",
+      "char-ymk"
+    ],
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-24-0626-lesson-00",
+    "name": "レッスン室",
+    "type": 1,
+    "thumbAssetId": "lesson-00",
+    "stageId": "stage-photo-lesson-00",
+    "costumeTypeIds": [
+      "casl",
+      "gene",
+      "idol",
+      "idol-miku",
+      "kion",
+      "mizg",
+      "mizg-water-ng",
+      "schl",
+      "trng",
+      "waso"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "lesson-00",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   }
 ]

@@ -1655,6 +1655,26 @@
     ]
   },
   {
+    "id": "event-shelf-24-0626",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 2,
+    "viewConditionId": "cd-shelf-24-0626",
+    "unlockConditionId": "cd-shelf-24-0626-play",
+    "missionIds": [
+      "event-shelf-24-0626-photo-album-complete",
+      "event-shelf-24-0626-photo-album-creating",
+      "event-shelf-24-0626-photo-creating",
+      "event-shelf-24-0626-photo-save",
+      "event-shelf-24-0626-story-001",
+      "event-shelf-24-0626-story-002",
+      "event-shelf-24-0626-story-003",
+      "event-shelf-24-0626-story-004",
+      "event-shelf-24-0626-story-005"
+    ]
+  },
+  {
     "id": "event-tour-21-0630",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-tour-21-0630",
@@ -1719,6 +1739,27 @@
       "event-ms-2nd-23-0624-01-mission_clear_count-15",
       "event-ms-2nd-23-0624-04-mission_clear_count",
       "event-ms-2nd-23-0624-05-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_3th-aniv-mission-24-0628",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-3rd-anniversary-mission-24-0628",
+    "name": "3周年記念ミッション",
+    "order": 10,
+    "viewConditionId": "cd-time-event-ms-3th-aniv-24-0628-0705",
+    "missionIds": [
+      "event-ms-3th-aniv-24-0628-00-card_skill_level_up_count",
+      "event-ms-3th-aniv-24-0628-00-login_count",
+      "event-ms-3th-aniv-24-0628-00-market_exchange_count",
+      "event-ms-3th-aniv-24-0628-00-photo_reroll_count",
+      "event-ms-3th-aniv-24-0628-00-quest_contest_clear_count",
+      "event-ms-3th-aniv-24-0628-00-quest_daily_clear_count",
+      "event-ms-3th-aniv-24-0628-00-quest_pvp_play_count",
+      "event-ms-3th-aniv-24-0628-01-mission_clear_count",
+      "event-ms-3th-aniv-24-0628-02-mission_clear_count",
+      "event-ms-3th-aniv-24-0628-03-mission_clear_count"
     ],
     "unlockConditionId": ""
   },
