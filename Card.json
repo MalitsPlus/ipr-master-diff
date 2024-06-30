@@ -11050,6 +11050,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-ski-05-fest-02",
+    "assetId": "ski-05-fest-02",
+    "name": "道照らす叡智のヒカリ",
+    "description": "私にとって、千紗は大事な妹で、ライバルですから\r\n出来るなら、同じステージの上で――並んで、\r\n競い合って、手を取り合って、一緒に輝きたい\r\nBIG4になった今だからこそ、そう強く思うんです",
+    "type": 3,
+    "characterId": "char-ski",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 413,
+    "danceRatioPermil": 316,
+    "visualRatioPermil": 271,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-05-fest-02-1",
+    "skillId2": "sk-ski-05-fest-02-2",
+    "skillId3": "sk-ski-05-fest-02-3",
+    "liveAbilityId": "lba-critical_score_multiply",
+    "order": 386,
+    "releaseDate": "1719716400000",
+    "rewardCostumeId": "cos-ski-idol-03",
+    "imageType1": 3,
+    "displayPositionX1": -0.124,
+    "displayPositionY1": 0.115,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": 0.522,
+    "highlightDisplayPositionY1": 0.259,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": -0.124,
+    "displayPositionY2": 0.115,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": 0.522,
+    "highlightDisplayPositionY2": 0.259,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "後悔しないように、\n今この時を全力で輝きます！",
+    "stories": [
+      {
+        "storyId": "st-card-ski-05-fest-02-01"
+      },
+      {
+        "storyId": "st-card-ski-05-fest-02-02"
+      },
+      {
+        "storyId": "st-card-ski-05-fest-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ski-05-fest-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ski-05-fest-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ski-05-idol-00",
     "assetId": "ski-05-idol-00",
     "name": "手を取り合って",
@@ -13462,6 +13523,67 @@
     "displayPositionY2": 0.0,
     "rewardHairId": "",
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-suz-05-fest-02",
+    "assetId": "suz-05-fest-02",
+    "name": "私達ノ誇り",
+    "description": "あなたが照らしてくれたように\r\n私も、あなたを照らします\r\nもう、一人で迷わないように",
+    "type": 2,
+    "characterId": "char-suz",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 276,
+    "danceRatioPermil": 406,
+    "visualRatioPermil": 318,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-05-fest-02-1",
+    "skillId2": "sk-suz-05-fest-02-2",
+    "skillId3": "sk-suz-05-fest-02-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 385,
+    "releaseDate": "1719716400000",
+    "rewardCostumeId": "cos-suz-idol-03",
+    "imageType1": 3,
+    "displayPositionX1": -0.015,
+    "displayPositionY1": 0.11,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.111,
+    "highlightDisplayPositionY1": 0.193,
+    "highlightDisplayScale1": 0.8,
+    "imageType2": 3,
+    "displayPositionX2": -0.015,
+    "displayPositionY2": 0.11,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": -0.111,
+    "highlightDisplayPositionY2": 0.193,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "あの曲に\n一番想いを込められるのは――\n私だけですわ",
+    "stories": [
+      {
+        "storyId": "st-card-suz-05-fest-02-01"
+      },
+      {
+        "storyId": "st-card-suz-05-fest-02-02"
+      },
+      {
+        "storyId": "st-card-suz-05-fest-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-suz-05-fest-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-suz-05-fest-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
     "homeTalks": []
   },
   {

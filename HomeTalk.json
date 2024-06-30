@@ -6348,6 +6348,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-ski-05-fest-02-talk-01",
+    "characterId": "char-ski",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ski-05-fest-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ski-05-fest-02",
+    "choiceText": "楽しそうだな。\nどこに行ったんだ？",
+    "managerText": "楽しそうだな。\nどこに行ったんだ？",
+    "reliability": 5,
+    "title": "道照らす叡智のヒカリ",
+    "displayConditionDescription": "道照らす叡智のヒカリ 白石沙季\nストーリー3話を視聴",
+    "order": 286,
+    "characterTalks": [
+      {
+        "text": "一度回ったことのある、都内の\nスタンプラリーでしたが、誰かと\n一緒に回ると新鮮な気分でした。",
+        "voiceAssetId": "sud_vo_home_ski-05-fest-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そうだ、今度星見プロのスタンプ\nラリーも作ってみませんか？\n場所は…星見市がいいですね。",
+        "voiceAssetId": "sud_vo_home_ski-05-fest-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お魚屋さんでは、魚魚っとさんと\nさくらちゃんが並んでるスタンプが\n押せたりして。",
+        "voiceAssetId": "sud_vo_home_ski-05-fest-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "星見漁港では雫ちゃんのスタンプ。\nドーナツ屋さんでは芽衣ちゃんの\nスタンプが押せて…",
+        "voiceAssetId": "sud_vo_home_ski-05-fest-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "スーパータケミヤでは\n怜ちゃんと…ブリが並んでる\nスタンプが押せるとか？",
+        "voiceAssetId": "sud_vo_home_ski-05-fest-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "きっと可愛い絵柄になると\n思うんです。もし実現出来そうなら\nすぐにでも私に連絡して下さいね！",
+        "voiceAssetId": "sud_vo_home_ski-05-fest-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ski-05-idol-00-talk-01",
     "characterId": "char-ski",
     "placeType": 1,
@@ -7728,6 +7782,60 @@
         "text": "ちょ、ちょっとだけですわよ？",
         "voiceAssetId": "sud_vo_home_suz-05-anml-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_emb-003_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-suz-05-fest-02-talk-01",
+    "characterId": "char-suz",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-suz-05-fest-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-suz-05-fest-02",
+    "choiceText": "どんな感想をもらったんだ？",
+    "managerText": "どんな感想をもらったんだ？",
+    "reliability": 5,
+    "title": "私達ノ誇り",
+    "displayConditionDescription": "私達ノ誇り 成宮すず\nストーリー3話を視聴",
+    "order": 285,
+    "characterTalks": [
+      {
+        "text": "お父様とお母様は何度かライブを\nこっそり観に来ていたのですけど…",
+        "voiceAssetId": "sud_vo_home_suz-05-fest-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "おじい様とおばあ様は初めて\nライブにいらしたので\nそれはもう感動していましたわ！",
+        "voiceAssetId": "sud_vo_home_suz-05-fest-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "「あのすずがこんなに立派に\nなって…！」と涙ぐんで\nいましたわね。",
+        "voiceAssetId": "sud_vo_home_suz-05-fest-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それで…今度帰省する時は\n親族総出でパーティーを\nすることになりましたの。",
+        "voiceAssetId": "sud_vo_home_suz-05-fest-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "とんでもない勢いで褒めちぎられ\nそうなので、ちょっと恥ずかしくは\nあるんですけど…",
+        "voiceAssetId": "sud_vo_home_suz-05-fest-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なんにせよ、私がセンターに\n立つところを見せられて\n本当に良かったですわ。",
+        "voiceAssetId": "sud_vo_home_suz-05-fest-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
         "additionMotionAssetId": ""
       }
     ],
