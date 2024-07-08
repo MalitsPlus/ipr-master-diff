@@ -35940,6 +35940,120 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-received_strength_effect_value_increase-score_up_recipe_distribution-5",
+    "name": "被・スコア増強",
+    "description": "受けるスコア上昇効果を{0}増強します",
+    "abilityType": 27,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 2
+      },
+      {
+        "level": 145,
+        "value": 2
+      },
+      {
+        "level": 150,
+        "value": 2
+      },
+      {
+        "level": 155,
+        "value": 2
+      },
+      {
+        "level": 160,
+        "value": 2
+      },
+      {
+        "level": 165,
+        "value": 2
+      },
+      {
+        "level": 170,
+        "value": 2
+      },
+      {
+        "level": 175,
+        "value": 2
+      },
+      {
+        "level": 180,
+        "value": 2
+      },
+      {
+        "level": 185,
+        "value": 2
+      },
+      {
+        "level": 190,
+        "value": 2
+      },
+      {
+        "level": 195,
+        "value": 2
+      },
+      {
+        "level": 200,
+        "value": 2
+      },
+      {
+        "level": 205,
+        "value": 2
+      },
+      {
+        "level": 210,
+        "value": 2
+      },
+      {
+        "level": 215,
+        "value": 2
+      },
+      {
+        "level": 220,
+        "value": 2
+      },
+      {
+        "level": 225,
+        "value": 2
+      },
+      {
+        "level": 230,
+        "value": 2
+      },
+      {
+        "level": 235,
+        "value": 2
+      },
+      {
+        "level": 240,
+        "value": 2
+      },
+      {
+        "level": 245,
+        "value": 2
+      },
+      {
+        "level": 250,
+        "value": 2
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "statusEffectType": 4,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-received_strength_effect_value_increase-tension_up_recipe_distribution-5-cd-appeal",
     "name": "被・テンション増強",
     "description": "<スコアラータイプのみ> 受けるテンションUP効果を{0}段階増強します",

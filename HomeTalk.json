@@ -5208,6 +5208,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-rei-05-mizg-03-talk-01",
+    "characterId": "char-rei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rei-05-mizg-03-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rei-05-mizg-03",
+    "choiceText": "サニーピース号？",
+    "managerText": "サニーピース号？",
+    "reliability": 5,
+    "title": "時止まる常夏",
+    "displayConditionDescription": "時止まる常夏 一ノ瀬怜\nストーリー3話を視聴",
+    "order": 290,
+    "characterTalks": [
+      {
+        "text": "無人島ロケで私達が\n島から脱出するために作った\nいかだのことです。",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-03_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "さくらがそう呼び始めて\n気付くとみんなもその名前で\n呼ぶようになってました。",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-03_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そのサニーピース号に装飾で\n付けていたシーグラスを、千紗が\nロケの終わりに回収してたんです。",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-03_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なんに使うのかと思ってたら\n今朝、千紗が自作のアクセサリーを\n私にプレゼントしてくれて…",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-03_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ロケから帰った後、千紗は内緒で\n五人分のアクセサリーを作って\nみんなに配っていたんです。",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-03_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "南の島で千紗と一緒に集めた\nシーグラスのアクセサリー…\n素敵な夏の思い出が出来ました。",
+        "voiceAssetId": "sud_vo_home_rei-05-mizg-03_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-rei-05-newy-00-talk-01",
     "characterId": "char-rei",
     "placeType": 1,
@@ -8284,6 +8338,60 @@
         "additionMotionAssetId": ""
       }
     ]
+  },
+  {
+    "homeTalkId": "home-talk-card-szk-05-mizg-03-talk-01",
+    "characterId": "char-szk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-szk-05-mizg-03-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-szk-05-mizg-03",
+    "choiceText": "なんでそんなことになったんだ？",
+    "managerText": "なんでそんなことになったんだ？",
+    "reliability": 5,
+    "title": "ゆらゆらバケーション",
+    "displayConditionDescription": "ゆらゆらバケーション 兵藤雫\nストーリー3話を視聴",
+    "order": 289,
+    "characterTalks": [
+      {
+        "text": "「星見プロの寮をあの時の無人島\nっぽくアレンジしてみたい」って\nサニピのみんなに言ってみて…",
+        "voiceAssetId": "sud_vo_home_szk-05-mizg-03_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そしたら、思ったより盛り上がって\nみんなアイデアをどんどん\n出してくれた…",
+        "voiceAssetId": "sud_vo_home_szk-05-mizg-03_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "リビングにハンモック、寮の庭に\n遙子さんお手製のブランコ…",
+        "voiceAssetId": "sud_vo_home_szk-05-mizg-03_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "最終的にはヤシの木を植えよう\nなんてアイデアも出たんだけど…\nそこに莉央さんが通りかかって。",
+        "voiceAssetId": "sud_vo_home_szk-05-mizg-03_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "アイデアを熱弁したら「落ち着き\nなさい」ってピシャリ…サニピで\nついつい盛り上がり過ぎた…",
+        "voiceAssetId": "sud_vo_home_szk-05-mizg-03_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_sad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、自分で楽しむ分には問題\nないはず…まずはお部屋で\nハンモックを試してみたい…！",
+        "voiceAssetId": "sud_vo_home_szk-05-mizg-03_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-szk-05-pajm-00-talk-01",

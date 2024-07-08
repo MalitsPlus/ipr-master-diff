@@ -1702,6 +1702,13 @@
   },
   {
     "characterId": "char-rei",
+    "patternId": "call-pattern-card-rei-05-mizg-03",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "{user}さんは\nサニーピース号のことを\n覚えてますか？",
+    "characterArrivalVoiceAssetId": "sud_vo_home_rei-05-mizg-03_talk-01-start"
+  },
+  {
+    "characterId": "char-rei",
     "patternId": "call-pattern-card-rei-05-newy-00",
     "managerCallText": "お疲れさま",
     "characterArrivalText": "{user}さん\nもしかして衣装を着れなかったこと\n誰かに話しました？",
@@ -2707,6 +2714,13 @@
     "managerCallText": "お疲れさま",
     "characterArrivalText": "{user}さん\nこの前の釣り、どう、でした？",
     "characterArrivalVoiceAssetId": "sud_vo_home_szk-05-chna-00_talk-01-start"
+  },
+  {
+    "characterId": "char-szk",
+    "patternId": "call-pattern-card-szk-05-mizg-03",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "サニピが五人揃って\n莉央さんに叱られた…",
+    "characterArrivalVoiceAssetId": "sud_vo_home_szk-05-mizg-03_talk-01-start"
   },
   {
     "characterId": "char-szk",
