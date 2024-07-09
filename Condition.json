@@ -159713,7 +159713,7 @@
     ]
   },
   {
-    "id": "cd-time-market-discount-day-24-0710",
+    "id": "cd-time-market-discount-day",
     "settings": [
       {
         "term": {
@@ -159731,6 +159731,17 @@
         "term": {
           "nowAfter": "1722265200000",
           "nowBefore": "1722351599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-market-discount-day-24-0710",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1720537200000",
+          "nowBefore": "1720623599000"
         }
       }
     ]
@@ -159908,7 +159919,7 @@
     "settings": [
       {
         "notSatisfyCondition": {
-          "conditionId": "cd-time-market-discount-day-24-0710"
+          "conditionId": "cd-time-market-discount-day"
         },
         "term": {
           "nowAfter": "1704769200000",
@@ -159922,7 +159933,7 @@
     "settings": [
       {
         "satisfyCondition": {
-          "conditionId": "cd-time-market-discount-day-24-0710"
+          "conditionId": "cd-time-market-discount-day"
         },
         "term": {
           "nowAfter": "1704769200000",
@@ -159936,7 +159947,7 @@
     "settings": [
       {
         "notSatisfyCondition": {
-          "conditionId": "cd-time-market-discount-day-24-0710"
+          "conditionId": "cd-time-market-discount-day"
         },
         "managerLevel": {
           "levelGte": 30,
@@ -159954,7 +159965,7 @@
     "settings": [
       {
         "satisfyCondition": {
-          "conditionId": "cd-time-market-discount-day-24-0710"
+          "conditionId": "cd-time-market-discount-day"
         },
         "managerLevel": {
           "levelGte": 30,
@@ -159972,7 +159983,7 @@
     "settings": [
       {
         "notSatisfyCondition": {
-          "conditionId": "cd-time-market-discount-day-24-0710"
+          "conditionId": "cd-time-market-discount-day"
         },
         "managerLevel": {
           "levelGte": 40,
@@ -159990,7 +160001,7 @@
     "settings": [
       {
         "satisfyCondition": {
-          "conditionId": "cd-time-market-discount-day-24-0710"
+          "conditionId": "cd-time-market-discount-day"
         },
         "managerLevel": {
           "levelGte": 40,
@@ -160008,7 +160019,7 @@
     "settings": [
       {
         "notSatisfyCondition": {
-          "conditionId": "cd-time-market-discount-day-24-0710"
+          "conditionId": "cd-time-market-discount-day"
         },
         "managerLevel": {
           "levelGte": 56,
@@ -160026,7 +160037,7 @@
     "settings": [
       {
         "satisfyCondition": {
-          "conditionId": "cd-time-market-discount-day-24-0710"
+          "conditionId": "cd-time-market-discount-day"
         },
         "managerLevel": {
           "levelGte": 56,
