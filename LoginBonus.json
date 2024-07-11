@@ -1791,6 +1791,27 @@
     "receiveConditionId": "cd-time-login-24-0709-0722"
   },
   {
+    "id": "login_bonus-campaign-24-0715-01",
+    "name": "教えてアイプラ",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-24-0717-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-pvp_ticket;3",
+      "rd_auto;item;item-quest_contest_ticket;3",
+      "rd_auto;item;item-pvp_ticket;3",
+      "rd_auto;item;item-quest_contest_ticket;3",
+      "rd_auto;item;item-showcase_medal;50",
+      "rd_auto;item;item-quest_contest_ticket;3",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-24-0715-0721",
+    "receiveConditionId": "cd-time-login-24-0715-0728"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
