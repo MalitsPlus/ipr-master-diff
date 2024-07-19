@@ -516,6 +516,21 @@
             "isReleased": false
           }
         ]
+      },
+      {
+        "chapter": 2,
+        "route": 1,
+        "name": "Black Lily in the Storm",
+        "episodes": [
+          {
+            "episode": 1,
+            "assetId": "group_liz_07_01",
+            "storyId": "st-group-liz-01-02-01",
+            "viewConditionId": "cd-liz-check-0720-01",
+            "unlockConditionId": "",
+            "isReleased": false
+          }
+        ]
       }
     ],
     "subTitle": "",
@@ -2375,6 +2390,68 @@
             "storyId": "st-main-cmn-02-01-66",
             "viewConditionId": "cd-st-main-cmn-02-01-66-view",
             "unlockConditionId": "cd-st-main-cmn-02-01-66-unlock",
+            "isReleased": true
+          }
+        ]
+      }
+    ],
+    "subTitle": "",
+    "storyEpisodeConsumptionId": "",
+    "noteText": ""
+  },
+  {
+    "id": "st-part-main-03",
+    "assetId": "main-03",
+    "name": "星空編",
+    "order": 4,
+    "type": 1,
+    "viewConditionId": "cd-st-main-cmn-03-01-01-unlock",
+    "unlockConditionId": "cd-st-main-cmn-03-01-01-unlock",
+    "pointType": 3,
+    "chapters": [
+      {
+        "chapter": 1,
+        "route": 1,
+        "name": "To Soar High",
+        "episodes": [
+          {
+            "episode": 1,
+            "assetId": "main_04_01_01",
+            "storyId": "st-main-cmn-03-01-01",
+            "viewConditionId": "cd-st-main-cmn-03-01-01-view",
+            "unlockConditionId": "cd-st-main-cmn-03-01-01-unlock",
+            "isReleased": true
+          },
+          {
+            "episode": 2,
+            "assetId": "main_04_01_02",
+            "storyId": "st-main-cmn-03-01-02",
+            "viewConditionId": "cd-st-main-cmn-03-01-02-view",
+            "unlockConditionId": "cd-st-main-cmn-03-01-02-unlock",
+            "isReleased": true
+          },
+          {
+            "episode": 3,
+            "assetId": "main_04_01_03",
+            "storyId": "st-main-cmn-03-01-03",
+            "viewConditionId": "cd-st-main-cmn-03-01-03-view",
+            "unlockConditionId": "cd-st-main-cmn-03-01-03-unlock",
+            "isReleased": true
+          },
+          {
+            "episode": 4,
+            "assetId": "main_04_01_04",
+            "storyId": "st-main-cmn-03-01-04",
+            "viewConditionId": "cd-st-main-cmn-03-01-04-view",
+            "unlockConditionId": "cd-st-main-cmn-03-01-04-unlock",
+            "isReleased": true
+          },
+          {
+            "episode": 5,
+            "assetId": "main_04_01_05",
+            "storyId": "st-main-cmn-03-01-05",
+            "viewConditionId": "cd-st-main-cmn-03-01-05-view",
+            "unlockConditionId": "cd-st-main-cmn-03-01-05-unlock",
             "isReleased": true
           }
         ]

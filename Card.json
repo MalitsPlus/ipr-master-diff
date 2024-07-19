@@ -10966,6 +10966,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-05-yukt-00",
+    "assetId": "rui-05-yukt-00",
+    "name": "熱隠す涼やかな音色",
+    "description": "ゆっくり歩きたいんです\r\nもう少しだけ、この時間が続いてほしいから……",
+    "type": 3,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 275,
+    "danceRatioPermil": 414,
+    "visualRatioPermil": 311,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-yukt-00-1",
+    "skillId2": "sk-rui-05-yukt-00-2",
+    "skillId3": "sk-rui-05-yukt-00-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 392,
+    "releaseDate": "1721358000000",
+    "rewardCostumeId": "cos-rui-yukt-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.115,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.039,
+    "highlightDisplayPositionY1": 0.147,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": -0.115,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.039,
+    "highlightDisplayPositionY2": 0.147,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "思ってたより、\nずっとドキドキしてる……",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-yukt-00-01"
+      },
+      {
+        "storyId": "st-card-rui-05-yukt-00-02"
+      },
+      {
+        "storyId": "st-card-rui-05-yukt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rui-05-yukt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rui-05-yukt-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ski-02-mizg-01",
     "assetId": "ski-02-mizg-01",
     "name": "夏の夜に輝く星",
