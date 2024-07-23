@@ -45769,6 +45769,17 @@
     ]
   },
   {
+    "id": "cd-exchange-photo-medal-24-0724",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1721790000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-exchange-photo-medal-item-22-0724",
     "settings": [
       {
@@ -151173,6 +151184,39 @@
     ]
   },
   {
+    "id": "cd-time-gacha-premium-24-0724",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1721790000000",
+          "nowBefore": "1724468399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-24-0724-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1721790000000",
+          "nowBefore": "1722092399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-24-0724-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1724165999000",
+          "nowBefore": "1724468399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-premium-shop-23-1024",
     "settings": [
       {
@@ -151245,6 +151289,17 @@
         "term": {
           "nowAfter": "1719198000000",
           "nowBefore": "1721789999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop-24-0724",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1721790000000",
+          "nowBefore": "1724468399000"
         }
       }
     ]
@@ -155180,6 +155235,17 @@
           "gachaButtonIds": [
             "btn-10-gacha-select-01-24-0506"
           ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-24-0724",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1721790000000",
+          "nowBefore": "1722308399000"
         }
       }
     ]
@@ -165131,6 +165197,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-24-0726-0728_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1721919600000",
+          "nowBefore": "1722178799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -165324,6 +165404,17 @@
         "term": {
           "nowAfter": "1719198000000",
           "nowBefore": "1721789999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-shop-premium-24-0724-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1721790000000",
+          "nowBefore": "1724468399000"
         }
       }
     ]
@@ -165682,6 +165773,17 @@
       {
         "term": {
           "nowAfter": "1718247600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-tower-24-0725",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1721876400000",
           "nowBefore": "0"
         }
       }
