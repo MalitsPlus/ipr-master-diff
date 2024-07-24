@@ -18843,6 +18843,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-2-target-trigger-30",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に2段階クリティカル率上昇効果[30ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-2-target-trigger-31",
     "name": "対象にクリティカル率上昇効果",
     "type": 19,
@@ -18858,6 +18869,17 @@
     "name": "対象にクリティカル率上昇効果",
     "type": 19,
     "description": "対象1人に2段階クリティカル率上昇効果[34ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-2-target-trigger-38",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に2段階クリティカル率上昇効果[38ビート]",
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
@@ -19342,6 +19364,39 @@
     "name": "対象にクリティカル率上昇効果",
     "type": 19,
     "description": "対象1人に3段階クリティカル率上昇効果[36ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-3-target-trigger-38",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に3段階クリティカル率上昇効果[38ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-3-target-trigger-42",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に3段階クリティカル率上昇効果[42ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-3-target-trigger-46",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に3段階クリティカル率上昇効果[46ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
@@ -66275,6 +66330,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-4-target-trigger-30",
+    "name": "対象にビジュアルブースト効果",
+    "type": 58,
+    "description": "対象1人に4段階ビジュアルブースト効果[30ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-4-target-trigger-34",
+    "name": "対象にビジュアルブースト効果",
+    "type": 58,
+    "description": "対象1人に4段階ビジュアルブースト効果[34ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-4-target-trigger-38",
+    "name": "対象にビジュアルブースト効果",
+    "type": 58,
+    "description": "対象1人に4段階ビジュアルブースト効果[38ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-4-target-visual-1-25",
     "name": "ビジュアルタイプ1人にビジュアルブースト効果",
     "type": 58,
@@ -66634,6 +66722,39 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-5-target-trigger-38",
+    "name": "対象にビジュアルブースト効果",
+    "type": 58,
+    "description": "対象1人に5段階ビジュアルブースト効果[38ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-5-target-trigger-42",
+    "name": "対象にビジュアルブースト効果",
+    "type": 58,
+    "description": "対象1人に5段階ビジュアルブースト効果[42ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-5-target-trigger-46",
+    "name": "対象にビジュアルブースト効果",
+    "type": 58,
+    "description": "対象1人に5段階ビジュアルブースト効果[46ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
     "limitBreakMaxGrade": 21,
     "shortDescription": ""
   },
