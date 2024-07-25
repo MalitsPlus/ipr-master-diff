@@ -6576,6 +6576,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-photo_contest_create-24-0727",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -7248,6 +7260,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_medal-24-0727",
+    "name": "レースメダル",
+    "assetId": "medal-race",
+    "description": "ライブボーナスを習得・強化することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 3001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_point-22-0228",
     "name": "レースPt",
     "assetId": "race-pt",
@@ -7380,6 +7404,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_point-24-0727",
+    "name": "レースPt",
+    "assetId": "race-pt",
+    "description": "マスを進めたりVENUSステージに挑戦することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7001,
+    "value": 1,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_reset-live-bonus-22-0228",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
@@ -7501,6 +7537,18 @@
   },
   {
     "id": "item-race_reset-live-bonus-24-0426",
+    "name": "ボーナスイレイザー",
+    "assetId": "race-bonus-reset",
+    "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-race_reset-live-bonus-24-0727",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
     "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",

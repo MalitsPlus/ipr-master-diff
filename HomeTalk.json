@@ -2010,6 +2010,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-kan-05-mizg-02-talk-01",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kan-05-mizg-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kan-05-mizg-02",
+    "choiceText": "まさか心霊現象…？",
+    "managerText": "まさか心霊現象…？",
+    "reliability": 5,
+    "title": "泡映る七色の君",
+    "displayConditionDescription": "泡映る七色の君 kana\nストーリー3話を視聴",
+    "order": 345,
+    "characterTalks": [
+      {
+        "text": "まぁkanaも、うわーヤだなー、\nお化け出そう、とか思ったけど、\n一応覗いてみた訳。",
+        "voiceAssetId": "sud_vo_home_kan-05-mizg-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "そしたら金色のもさもさした塊が、\n倉庫の隅っこに丸まって、\nちくちくちくちくしてんのよ。",
+        "voiceAssetId": "sud_vo_home_kan-05-mizg-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-026_in"
+      },
+      {
+        "text": "よく見たらそれ、franでさー。\n届いた衣装が気に入らなかったのか\n全員分、手直ししてたみたい。",
+        "voiceAssetId": "sud_vo_home_kan-05-mizg-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "外部で作ってもらったものを\nわざわざ自分で直すとか\nこだわり強いよねー。",
+        "voiceAssetId": "sud_vo_home_kan-05-mizg-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "まぁ、気持ちは分かんなくは\nないから、がんばれーって\n心の中で思ってたけどさぁ。",
+        "voiceAssetId": "sud_vo_home_kan-05-mizg-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "衣装の値段を知った今なら、\n背中蹴っておきゃ良かったって\n思うわ。ったく、あの山田は。",
+        "voiceAssetId": "sud_vo_home_kan-05-mizg-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-008_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-kan-05-poli-00-talk-01",
     "characterId": "char-kan",
     "placeType": 1,
@@ -2755,6 +2809,60 @@
         "voiceAssetId": "sud_vo_home_kor-05-mizg-01_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_surp-005_in",
         "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-kor-05-mizg-02-talk-01",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kor-05-mizg-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kor-05-mizg-02",
+    "choiceText": "何をするつもりですか…？",
+    "managerText": "何をするつもりですか…？",
+    "reliability": 5,
+    "title": "むすっとナイトビーナス",
+    "displayConditionDescription": "むすっとナイトビーナス fran\nストーリー3話を視聴",
+    "order": 344,
+    "characterTalks": [
+      {
+        "text": "ちょっと。魔物でも見るような目は\nやめて下さい。失礼ね。",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_angry-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ほら、この間のMV撮影では\nkana監督にとってもお世話に\nなったじゃないですか。",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "その仕返し…じゃなくて、\nお返しに、ファッションショーに\n参加させて…参加してもらって。",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そこでぼっこぼこにダメ出し…\nじゃなくて、今後のために\nアドバイスしたいな～って。",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、でも…あいつって順応性\n高いし、そつなくこなされたら\n余計腹立つわね…",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
+      },
+      {
+        "text": "やっぱりkanaをゲストに\n呼ぶのはなしで。いい仕返しの\n案が浮かんだら教えて下さい。",
+        "voiceAssetId": "sud_vo_home_kor-05-mizg-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-011_in"
       }
     ],
     "cardId": ""

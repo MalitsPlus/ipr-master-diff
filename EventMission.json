@@ -1653,6 +1653,35 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-race-24-0727",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-race-24-0727",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-event-race-24-0727-exchange",
+    "missionIds": [
+      "event-race-24-0727-1",
+      "event-race-24-0727-10",
+      "event-race-24-0727-11",
+      "event-race-24-0727-12",
+      "event-race-24-0727-13",
+      "event-race-24-0727-14",
+      "event-race-24-0727-15",
+      "event-race-24-0727-16",
+      "event-race-24-0727-17",
+      "event-race-24-0727-18",
+      "event-race-24-0727-2",
+      "event-race-24-0727-3",
+      "event-race-24-0727-4",
+      "event-race-24-0727-5",
+      "event-race-24-0727-6",
+      "event-race-24-0727-7",
+      "event-race-24-0727-8",
+      "event-race-24-0727-9"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-shelf-23-1128",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-shelf-23-1128",
@@ -1779,6 +1808,26 @@
       "event-shelf-24-0708-story-003",
       "event-shelf-24-0708-story-004",
       "event-shelf-24-0708-story-005"
+    ]
+  },
+  {
+    "id": "event-shelf-24-0727",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-shelf-24-0727",
+    "unlockConditionId": "cd-shelf-24-0727-play",
+    "missionIds": [
+      "event-shelf-24-0727-photo-album-complete",
+      "event-shelf-24-0727-photo-album-creating",
+      "event-shelf-24-0727-photo-creating",
+      "event-shelf-24-0727-photo-save",
+      "event-shelf-24-0727-story-001",
+      "event-shelf-24-0727-story-002",
+      "event-shelf-24-0727-story-003",
+      "event-shelf-24-0727-story-004",
+      "event-shelf-24-0727-story-005"
     ]
   },
   {
