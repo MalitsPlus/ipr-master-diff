@@ -4914,6 +4914,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_ngs-04",
+    "name": "【誕生日】伊吹渚",
+    "assetId": "birthday_ngs-04",
+    "autoProvideConditionId": "cd-birthday_emblem_ngs-24-0803",
+    "order": 604020,
+    "description": "渚の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_rei-03",
     "name": "【誕生日】一ノ瀬怜",
     "assetId": "birthday_rei-03",
@@ -7007,6 +7016,33 @@
     "assetId": "pvp-season-105-top100",
     "order": 310530,
     "description": "VENUSバトルシーズン105で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-106-top001",
+    "name": "VENUSシーズン106 No.1",
+    "assetId": "pvp-season-106-top001",
+    "order": 310610,
+    "description": "VENUSバトルシーズン106で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-106-top010",
+    "name": "VENUSシーズン106 TOP10",
+    "assetId": "pvp-season-106-top010",
+    "order": 310620,
+    "description": "VENUSバトルシーズン106で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-106-top100",
+    "name": "VENUSシーズン106 TOP100",
+    "assetId": "pvp-season-106-top100",
+    "order": 310630,
+    "description": "VENUSバトルシーズン106で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

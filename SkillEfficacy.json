@@ -1672,6 +1672,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-3-target-self-34",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に3段階Aスキルスコア上昇効果[34ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-3-target-self-35",
     "name": "自身にAスキルスコア上昇効果",
     "type": 18,
@@ -1698,6 +1709,17 @@
     "name": "自身にAスキルスコア上昇効果",
     "type": 18,
     "description": "自身に3段階Aスキルスコア上昇効果[37ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-3-target-self-38",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に3段階Aスキルスコア上昇効果[38ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -17318,6 +17340,17 @@
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
     "description": "自身に6段階クリティカル係数上昇効果[38ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-self-42",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に6段階クリティカル係数上昇効果[42ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -34914,6 +34947,72 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_active_skill_score_up-10-target-self-13",
+    "name": "自身にAスキルスコア上昇上限解放",
+    "type": 80,
+    "description": "自身に10段階Aスキルスコア上昇上限解放効果[13ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_active_skill_score_up-10-target-self-18",
+    "name": "自身にAスキルスコア上昇上限解放",
+    "type": 80,
+    "description": "自身に10段階Aスキルスコア上昇上限解放効果[18ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_active_skill_score_up-10-target-self-23",
+    "name": "自身にAスキルスコア上昇上限解放",
+    "type": 80,
+    "description": "自身に10段階Aスキルスコア上昇上限解放効果[23ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_active_skill_score_up-10-target-self-28",
+    "name": "自身にAスキルスコア上昇上限解放",
+    "type": 80,
+    "description": "自身に10段階Aスキルスコア上昇上限解放効果[28ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_active_skill_score_up-10-target-self-33",
+    "name": "自身にAスキルスコア上昇上限解放",
+    "type": 80,
+    "description": "自身に10段階Aスキルスコア上昇上限解放効果[33ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_active_skill_score_up-10-target-self-38",
+    "name": "自身にAスキルスコア上昇上限解放",
+    "type": 80,
+    "description": "自身に10段階Aスキルスコア上昇上限解放効果[38ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_audience_amount_increase-5-target-character_type-1-2-21",
     "name": "スコアラータイプ2人に集目上昇上限解放",
     "type": 82,
@@ -41690,6 +41789,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-active_skill_score_up-10300-chart_dependence",
+    "name": "スコア獲得-Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1030%のスコア獲得、Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-active_skill_score_up-11000-chart_dependence",
     "name": "スコア獲得-Aスキルスコア上昇状態の段階数が多い程効果上昇",
     "type": 36,
@@ -41701,10 +41811,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-active_skill_score_up-11300-chart_dependence",
+    "name": "スコア獲得-Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1130%のスコア獲得、Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-active_skill_score_up-12400-chart_dependence",
     "name": "スコア獲得-Aスキルスコア上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1240%のスコア獲得、Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-active_skill_score_up-13500-chart_dependence",
+    "name": "スコア獲得-Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1350%のスコア獲得、Aスキルスコア上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -41914,6 +42046,17 @@
     "name": "スコア獲得-Aスキルスコア上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "900%のスコア獲得、Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-active_skill_score_up-9300-chart_dependence",
+    "name": "スコア獲得-Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "930%のスコア獲得、Aスキルスコア上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
