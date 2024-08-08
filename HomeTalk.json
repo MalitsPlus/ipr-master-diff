@@ -468,6 +468,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-ai-05-yukt-00-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-yukt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-yukt-00",
+    "choiceText": "そうめんとか、風鈴とか？",
+    "managerText": "そうめんとか、風鈴とか？",
+    "reliability": 5,
+    "title": "夜空に開く夏の花",
+    "displayConditionDescription": "夜空に開く夏の花 小美山愛\nストーリー3話を視聴",
+    "order": 348,
+    "characterTalks": [
+      {
+        "text": "そうそう、どれも夏だーっ！\nってテンション上がりますよね！\n爆上がりです！",
+        "voiceAssetId": "sud_vo_home_ai-05-yukt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "いろいろありますけど、\n中でも私、夏を語るなら\n絶対に外せないものがあるんです。",
+        "voiceAssetId": "sud_vo_home_ai-05-yukt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　ヒント……ですか？\n錦糸卵にハム、中華麺と\nきゅうりと紅ショウガです。",
+        "voiceAssetId": "sud_vo_home_ai-05-yukt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あはは、ほとんど答えでしたね。\nそうです、冷やし中華です。",
+        "voiceAssetId": "sud_vo_home_ai-05-yukt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ラーメンはいつ食べてもいいもの\nですけど、夏はやっぱり、\n冷やし中華は外せません！",
+        "voiceAssetId": "sud_vo_home_ai-05-yukt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今度、お父さんの冷やし中華\n一緒に食べに行きませんか？\nすっごく美味しいんですよ！",
+        "voiceAssetId": "sud_vo_home_ai-05-yukt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-aoi-05-circ-00-talk-01",
     "characterId": "char-aoi",
     "placeType": 1,
