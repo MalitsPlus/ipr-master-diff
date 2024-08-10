@@ -16099,6 +16099,17 @@
     ]
   },
   {
+    "id": "cd-date-event-sololive-03-end",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "-4389883747419",
+          "nowBefore": "-4389840548419"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-date-event-sololive-04",
     "settings": [
       {
@@ -16113,6 +16124,17 @@
     ]
   },
   {
+    "id": "cd-date-event-sololive-04-end",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "-4389883747419",
+          "nowBefore": "-4389840548419"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-date-event-sololive-05",
     "settings": [
       {
@@ -16122,6 +16144,17 @@
         "term": {
           "nowAfter": "1723465800000",
           "nowBefore": "1723820399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-sololive-05-end",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "-4389883747419",
+          "nowBefore": "-4389840548419"
         }
       }
     ]
@@ -16245,7 +16278,7 @@
           "nowBefore": "1723820399000"
         },
         "finishedMessage": {
-          "messageId": "message-event-sololive-03"
+          "messageId": "message-event-sololive-03-02"
         }
       }
     ]
@@ -16259,7 +16292,7 @@
           "nowBefore": "1723820399000"
         },
         "finishedMessage": {
-          "messageId": "message-event-sololive-04"
+          "messageId": "message-event-sololive-04-02"
         }
       }
     ]
@@ -16273,7 +16306,7 @@
           "nowBefore": "1723820399000"
         },
         "finishedMessage": {
-          "messageId": "message-event-sololive-05"
+          "messageId": "message-event-sololive-05-02"
         }
       }
     ]
