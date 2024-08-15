@@ -843,6 +843,21 @@
     "notWearableCostumeIds": []
   },
   {
+    "id": "hair-aoi-yukt-00",
+    "hairAssetId": "aoi-yukt-00",
+    "faceAssetId": "aoi-base-00",
+    "sdHairAssetId": "aoi-yukt-00",
+    "characterId": "char-aoi",
+    "wearableCostumeIds": [
+      "cos-aoi-yukt-00"
+    ],
+    "fittingCostumeId": "cos-aoi-yukt-00",
+    "order": 299,
+    "name": "カルプ",
+    "releaseTime": "1723690800000",
+    "notWearableCostumeIds": []
+  },
+  {
     "id": "hair-chk-sush-00",
     "hairAssetId": "chk-sush-00",
     "faceAssetId": "chk-base-00",
@@ -1939,6 +1954,22 @@
     "name": "魚魚っとスタイル",
     "releaseTime": "1711897200000",
     "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kan-hair-00",
+    "hairAssetId": "kan-hair-00",
+    "faceAssetId": "kan-base-00",
+    "sdHairAssetId": "kan-hair-00",
+    "characterId": "char-kan",
+    "notWearableCostumeIds": [
+      "cos-kan-sdpl-00",
+      "cos-kan-sdam-00"
+    ],
+    "fittingCostumeId": "cos-kan-casl-00",
+    "order": 1030,
+    "name": "三つ編みツインテール",
+    "releaseTime": "1723777200000",
+    "wearableCostumeIds": []
   },
   {
     "id": "hair-kan-hair-10",

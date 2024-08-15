@@ -1554,6 +1554,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-aoi-05-yukt-00",
+    "assetId": "aoi-05-yukt-00",
+    "name": "君と感じる蝉時雨",
+    "description": "君も仕事漬けの夏か\r\nでも、そういうのも、君と僕らしいね",
+    "type": 1,
+    "characterId": "char-aoi",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 276,
+    "danceRatioPermil": 434,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-05-yukt-00-1",
+    "skillId2": "sk-aoi-05-yukt-00-2",
+    "skillId3": "sk-aoi-05-yukt-00-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 399,
+    "releaseDate": "1723690800000",
+    "rewardCostumeId": "cos-aoi-yukt-00",
+    "imageType1": 3,
+    "imageType2": 3,
+    "displayPositionX2": -0.184,
+    "displayPositionY2": 0.045,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": 0.201,
+    "highlightDisplayPositionY2": 0.158,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "君も話の輪に加われば？",
+    "stories": [
+      {
+        "storyId": "st-card-aoi-05-yukt-00-01"
+      },
+      {
+        "storyId": "st-card-aoi-05-yukt-00-02"
+      },
+      {
+        "storyId": "st-card-aoi-05-yukt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-aoi-05-yukt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-aoi-05-yukt-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionX1": 0.0,
+    "displayPositionY1": 0.0,
+    "displayScale1": 0.0,
+    "highlightDisplayPositionX1": 0.0,
+    "highlightDisplayPositionY1": 0.0,
+    "highlightDisplayScale1": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-chk-05-sush-00",
     "assetId": "chk-05-sush-00",
     "name": "太陽みたいに輝く笑顔で",

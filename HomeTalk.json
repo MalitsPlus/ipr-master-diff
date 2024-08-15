@@ -930,6 +930,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-aoi-05-yukt-00-talk-01",
+    "characterId": "char-aoi",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-aoi-05-yukt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-aoi-05-yukt-00",
+    "choiceText": "いいけど、もう辞める、\n…なんて言わないよな？",
+    "managerText": "いいけど、もう辞める、\n…なんて言わないよな？",
+    "reliability": 5,
+    "title": "君と感じる蝉時雨",
+    "displayConditionDescription": "君と感じる蝉時雨 井川葵\nストーリー3話を視聴",
+    "order": 349,
+    "characterTalks": [
+      {
+        "text": "違うよ、君と莉央に\nあれだけ言われたんだし、\n辞めたりはしないよ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-yukt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "最近、前より学校にいる時間が\n増えたからなのかな。",
+        "voiceAssetId": "sud_vo_home_aoi-05-yukt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "沢山の子に、\n放課後遊びに行こうって、\n誘われるようになったんだ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-yukt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "誘ってくれるのは嬉しいんだけど、\n仕事があるから付き合えなくてさ。\n断るのが大変だし、悪いと思って。",
+        "voiceAssetId": "sud_vo_home_aoi-05-yukt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "うん、分かってる。\n学校の友達とも、うまく\n付き合っていくつもりだから。",
+        "voiceAssetId": "sud_vo_home_aoi-05-yukt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、本当は君や\nLizNoirのメンバーと\n過ごす方が楽しいかな。",
+        "voiceAssetId": "sud_vo_home_aoi-05-yukt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-chs-05-chia-00-talk-01",
     "characterId": "char-chs",
     "placeType": 1,
