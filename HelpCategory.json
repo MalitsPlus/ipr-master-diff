@@ -1828,7 +1828,7 @@
         "helpContentId": "help_content-tips-game_setting-05",
         "title": "お仕事終了通知",
         "text": "お仕事終了時に通知を行います。",
-        "order": 5,
+        "order": 6,
         "targetTypes": [],
         "assetIds": []
       },
@@ -1836,7 +1836,7 @@
         "helpContentId": "help_content-tips-game_setting-06",
         "title": "メッセージ通知",
         "text": "メッセージ着信時に通知を行います。\n通知設定に関係なく、0:00 - 8:00の間はメッセージは送られてきません。",
-        "order": 6,
+        "order": 7,
         "targetTypes": [],
         "assetIds": []
       },
@@ -1844,7 +1844,23 @@
         "helpContentId": "help_content-tips-game_setting-07",
         "title": "夜間モード",
         "text": "0:00 - 5:59の間、あらゆる通知が行われなくなります。",
-        "order": 7,
+        "order": 9,
+        "targetTypes": [],
+        "assetIds": []
+      },
+      {
+        "helpContentId": "help_content-tips-game_setting-08",
+        "title": "アプリ容量の上限設定",
+        "text": "アプリのデータ容量の上限値を設定します。\nアプリ容量が設定上限を超えた場合、使用頻度の少ないデータが消去され、必要な時に再ダウンロードが発生します。",
+        "order": 5,
+        "targetTypes": [],
+        "assetIds": []
+      },
+      {
+        "helpContentId": "help_content-tips-game_setting-09",
+        "title": "未ログイン通知",
+        "text": "当日にまだログインを一度もしていない場合に通知を行います。\n通知は8:00と22:00に行われます。",
+        "order": 8,
         "targetTypes": [],
         "assetIds": []
       }
