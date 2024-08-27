@@ -10676,6 +10676,48 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-02-eve-03",
+    "assetId": "rui-02-eve-03",
+    "name": "天使達の晴れ舞台",
+    "description": "私も、優なら大丈夫だって信じてる\r\n焦らないで、一緒に上達していきましょう",
+    "type": 3,
+    "characterId": "char-rui",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 326,
+    "danceRatioPermil": 288,
+    "visualRatioPermil": 416,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-02-eve-03-1",
+    "skillId2": "sk-rui-02-eve-03-2",
+    "skillId3": "sk-rui-02-eve-03-3",
+    "order": 403,
+    "releaseDate": "1724727600000",
+    "imageType1": 1,
+    "displayPositionX1": 0.021,
+    "displayPositionY1": 0.267,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.018,
+    "highlightDisplayPositionY1": 0.314,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": 0.132,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.5,
+    "highlightDisplayPositionY2": 0.5,
+    "highlightDisplayScale2": 0.6,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-03-schl-00",
     "assetId": "rui-03-schl-00",
     "name": "秘密会議",
@@ -13700,6 +13742,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-smr-05-nurs-00",
+    "assetId": "smr-05-nurs-00",
+    "name": "ベッドサイド・エンジェル",
+    "description": "あまり無理しちゃダメですよ\nでも、辛くなった時には\n私が側についてますから、安心して下さいね",
+    "type": 2,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 314,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 406,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-nurs-00-1",
+    "skillId2": "sk-smr-05-nurs-00-2",
+    "skillId3": "sk-smr-05-nurs-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 401,
+    "releaseDate": "1724727600000",
+    "rewardCostumeId": "cos-smr-nurs-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.127,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.012,
+    "highlightDisplayPositionY1": 0.141,
+    "highlightDisplayScale1": 0.7,
+    "imageType2": 3,
+    "displayPositionX2": -0.127,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.012,
+    "highlightDisplayPositionY2": 0.141,
+    "highlightDisplayScale2": 0.7,
+    "obtainMessage": "頑張り屋さんなんですから、\nあまり無理しちゃダメですよ",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-nurs-00-01"
+      },
+      {
+        "storyId": "st-card-smr-05-nurs-00-02"
+      },
+      {
+        "storyId": "st-card-smr-05-nurs-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-nurs-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-nurs-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-smr-05-pajm-00",
     "assetId": "smr-05-pajm-00",
     "name": "夢の国へ誘う安眠膝枕",
@@ -16106,6 +16209,67 @@
       }
     ],
     "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-yu-05-nurs-00",
+    "assetId": "yu-05-nurs-00",
+    "name": "悪戯エンジェル",
+    "description": "ほなうちが、じっくりたっぷり介抱してあげますね\nこれも演技の練習ですから、ほらほら",
+    "type": 1,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 433,
+    "danceRatioPermil": 317,
+    "visualRatioPermil": 280,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-nurs-00-1",
+    "skillId2": "sk-yu-05-nurs-00-2",
+    "skillId3": "sk-yu-05-nurs-00-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 402,
+    "releaseDate": "1724727600000",
+    "rewardCostumeId": "cos-yu-nurs-00",
+    "imageType1": 3,
+    "displayPositionX1": 0.223,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.559,
+    "highlightDisplayPositionY1": 0.261,
+    "highlightDisplayScale1": 0.5,
+    "imageType2": 3,
+    "displayPositionX2": 0.223,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.469,
+    "highlightDisplayPositionY2": 0.269,
+    "highlightDisplayScale2": 0.8,
+    "obtainMessage": "動いちゃダーメ、\n私だけ見ていなさい",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-nurs-00-01"
+      },
+      {
+        "storyId": "st-card-yu-05-nurs-00-02"
+      },
+      {
+        "storyId": "st-card-yu-05-nurs-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-nurs-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-nurs-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "displayPositionY1": 0.0,
     "displayPositionY2": 0.0,
     "rewardHairId": "",

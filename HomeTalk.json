@@ -7896,6 +7896,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-smr-05-nurs-00-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-nurs-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-nurs-00",
+    "choiceText": "国民的人気作品だもんな。",
+    "managerText": "国民的人気作品だもんな。",
+    "reliability": 5,
+    "title": "ベッドサイド・エンジェル",
+    "displayConditionDescription": "ベッドサイド・エンジェル 奥山すみれ\nストーリー3話を視聴",
+    "order": 351,
+    "characterTalks": [
+      {
+        "text": "実は子役をやっていた頃に、\nアニメの監督さんに一度だけ\n会ったことがあるんです。",
+        "voiceAssetId": "sud_vo_home_smr-05-nurs-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "子供向けのイベントに出演した時に\nその方もゲストで\n呼ばれてたんだったかな。",
+        "voiceAssetId": "sud_vo_home_smr-05-nurs-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "とても優しい人で、アニメも\nますます大好きになりました。",
+        "voiceAssetId": "sud_vo_home_smr-05-nurs-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ…でも、このことは優ちゃん\nには黙っておいて下さいね。",
+        "voiceAssetId": "sud_vo_home_smr-05-nurs-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "優ちゃん、このアニメのことに\nなると熱が入り過ぎて、\nたまに我を忘れるので…",
+        "voiceAssetId": "sud_vo_home_smr-05-nurs-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "いつか、瑠依ちゃんと優ちゃんと\n三人で、あの時の監督さんに\nまた会いたいですね。",
+        "voiceAssetId": "sud_vo_home_smr-05-nurs-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-smr-05-pajm-00-talk-01",
     "characterId": "char-smr",
     "placeType": 1,
@@ -9215,6 +9269,60 @@
       {
         "text": "ふふ、ありがとう。\nめっちゃかっこいい登場\n期待して待ってます～。",
         "voiceAssetId": "sud_vo_home_yu-05-mizg-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-yu-05-nurs-00-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-nurs-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-nurs-00",
+    "choiceText": "まだ元気なつもりだが…",
+    "managerText": "まだ元気なつもりだが…",
+    "reliability": 5,
+    "title": "悪戯エンジェル",
+    "displayConditionDescription": "悪戯エンジェル 鈴村優\nストーリー3話を視聴",
+    "order": 352,
+    "characterTalks": [
+      {
+        "text": "ふふ、真に受けんでええのに。\nちょっと言ってみただけです。",
+        "voiceAssetId": "sud_vo_home_yu-05-nurs-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "うちの役は癒やしの力を持ってるし\n疲れてはるなら、あっちで膝枕でも\nしてあげようかなーなんて。",
+        "voiceAssetId": "sud_vo_home_yu-05-nurs-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そんな甘い展開を期待して、\n聞いてみただけです。",
+        "voiceAssetId": "sud_vo_home_yu-05-nurs-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、でもほんまに疲れてるなら、\n絶対無理したらあかんで？",
+        "voiceAssetId": "sud_vo_home_yu-05-nurs-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_deny-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "うちはいつだって\n{user}さんのこと、\nよーく見てますから。",
+        "voiceAssetId": "sud_vo_home_yu-05-nurs-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そんなそぶりがあったら、\nそれこそうちの膝枕で\nゆ～っくり休んでもらうで？",
+        "voiceAssetId": "sud_vo_home_yu-05-nurs-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
         "additionMotionAssetId": ""
       }
