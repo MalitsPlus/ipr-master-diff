@@ -12488,6 +12488,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-skr-05-anml-00",
+    "assetId": "skr-05-anml-00",
+    "name": "もぐもぐスイーツベア",
+    "description": "わぁ、おっきなスイーツが沢山！\r\nクマさんさくらがぜーんぶ食べちゃうぞ",
+    "type": 2,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 274,
+    "danceRatioPermil": 406,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-anml-00-1",
+    "skillId2": "sk-skr-05-anml-00-2",
+    "skillId3": "sk-skr-05-anml-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 405,
+    "releaseDate": "1725850800000",
+    "rewardCostumeId": "cos-skr-anml-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.182,
+    "displayPositionY1": 0.088,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": 0.117,
+    "highlightDisplayPositionY1": 0.168,
+    "highlightDisplayScale1": 0.218,
+    "imageType2": 3,
+    "displayPositionX2": -0.182,
+    "displayPositionY2": 0.088,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": 0.168,
+    "highlightDisplayPositionY2": 0.218,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "幸せいっぱい、お腹もい～っぱい♪",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-anml-00-01"
+      },
+      {
+        "storyId": "st-card-skr-05-anml-00-02"
+      },
+      {
+        "storyId": "st-card-skr-05-anml-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-anml-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-anml-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-skr-05-birt-00",
     "assetId": "skr-05-birt-00",
     "name": "感謝伝えるバースデー",

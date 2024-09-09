@@ -1218,6 +1218,20 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-mini-marathon-24-0909",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mini-marathon-22-0413",
+    "name": "イベントミッション",
+    "order": 95,
+    "viewConditionId": "cd-date-mini-marathon-24-0909",
+    "missionIds": [
+      "ms-event-mini-marathon-24-0909-marathon_quest_clear_count_001",
+      "ms-event-mini-marathon-24-0909-marathon_quest_clear_count_002",
+      "ms-event-mini-marathon-24-0909-marathon_quest_clear_count_003"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-mini-marathon-raid-23-1226",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mini-marathon-raid-23-1226",
@@ -1386,6 +1400,27 @@
       "event-ms-normal-24-0808-01-quest_daily_clear_count",
       "event-ms-normal-24-0808-01-quest_pvp_play_count",
       "event-ms-normal-24-0808-02-mission_clear_count"
+    ]
+  },
+  {
+    "id": "event-mosaic-24-0909",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mosaic-24-0909",
+    "name": "とろけるスイーツパーティーミッション",
+    "order": 99,
+    "viewConditionId": "cd-time-mosaic-24-0909-24-0921",
+    "unlockConditionId": "cd-mosaic-24-0909-play",
+    "missionIds": [
+      "event-ms-normal-24-0909-00-mission_clear_count",
+      "event-ms-normal-24-0909-01-card_skill_level_up_count",
+      "event-ms-normal-24-0909-01-character_photo_shoot_count",
+      "event-ms-normal-24-0909-01-login_count",
+      "event-ms-normal-24-0909-01-market_exchange_count",
+      "event-ms-normal-24-0909-01-photo_reroll_count",
+      "event-ms-normal-24-0909-01-quest_contest_clear_count",
+      "event-ms-normal-24-0909-01-quest_daily_clear_count",
+      "event-ms-normal-24-0909-01-quest_pvp_play_count",
+      "event-ms-normal-24-0909-02-mission_clear_count"
     ]
   },
   {

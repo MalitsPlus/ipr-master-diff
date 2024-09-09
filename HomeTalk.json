@@ -7092,6 +7092,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-skr-05-anml-00-talk-01",
+    "characterId": "char-skr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-skr-05-anml-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-skr-05-anml-00",
+    "choiceText": "楽しかったか？",
+    "managerText": "楽しかったか？",
+    "reliability": 5,
+    "title": "もぐもぐスイーツベア",
+    "displayConditionDescription": "もぐもぐスイーツベア 川咲さくら\nストーリー3話を視聴",
+    "order": 355,
+    "characterTalks": [
+      {
+        "text": "はい！　五人もいるので、\nみんなの食べたい物をそれぞれ\n頼んで、シェアしたりして…",
+        "voiceAssetId": "sud_vo_home_skr-05-anml-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "美味しかったし沢山食べられたしで\nすっごく楽しかったです！",
+        "voiceAssetId": "sud_vo_home_skr-05-anml-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あとあと、みんなにも\n大食いビーストの極意を\n伝授してきちゃいました。",
+        "voiceAssetId": "sud_vo_home_skr-05-anml-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "遙子ちゃんが「食べ放題じゃ\nなかったら、お財布が怖いことに\nなってたかも…」って。",
+        "voiceAssetId": "sud_vo_home_skr-05-anml-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emb-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "大食いビースト恐るべし、です。\n使い時には気をつけようって、\nみんなで相談し合って…",
+        "voiceAssetId": "sud_vo_home_skr-05-anml-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんが\n一緒の時以外は覚醒しないことに\n決めました！　えへへ！",
+        "voiceAssetId": "sud_vo_home_skr-05-anml-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-skr-05-chia-00-talk-01",
     "characterId": "char-skr",
     "placeType": 1,
