@@ -5004,6 +5004,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_suz-04",
+    "name": "【誕生日】成宮すず",
+    "assetId": "birthday_suz-04",
+    "autoProvideConditionId": "cd-birthday_emblem_suz-24-0913",
+    "order": 604040,
+    "description": "すずの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_szk-03",
     "name": "【誕生日】兵藤雫",
     "assetId": "birthday_szk-03",
@@ -5747,6 +5756,24 @@
     "assetId": "gvg-season-038-top010",
     "order": 403820,
     "description": "ユニオンライブシーズン38 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-039-top001",
+    "name": "ユニオンシーズン39 No.1",
+    "assetId": "gvg-season-039-top001",
+    "order": 403910,
+    "description": "ユニオンライブシーズン39 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-039-top010",
+    "name": "ユニオンシーズン39 TOP10",
+    "assetId": "gvg-season-039-top010",
+    "order": 403920,
+    "description": "ユニオンライブシーズン39 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -7178,6 +7205,33 @@
     "assetId": "pvp-season-109-top100",
     "order": 310930,
     "description": "VENUSバトルシーズン109で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-110-top001",
+    "name": "VENUSシーズン110 No.1",
+    "assetId": "pvp-season-110-top001",
+    "order": 311010,
+    "description": "VENUSバトルシーズン110で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-110-top010",
+    "name": "VENUSシーズン110 TOP10",
+    "assetId": "pvp-season-110-top010",
+    "order": 311020,
+    "description": "VENUSバトルシーズン110で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-110-top100",
+    "name": "VENUSシーズン110 TOP100",
+    "assetId": "pvp-season-110-top100",
+    "order": 311030,
+    "description": "VENUSバトルシーズン110で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

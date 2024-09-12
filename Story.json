@@ -672,6 +672,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-suz-24-0913",
+    "name": "成宮すず 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はすずの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "高級金箔入り歯磨き粉",
+        "advAssetId": "hbd_04_suz_01"
+      },
+      {
+        "index": 2,
+        "text": "団子とウサギ耳カチューシャ",
+        "advAssetId": "hbd_04_suz_02"
+      },
+      {
+        "index": 3,
+        "text": "麻奈のサイン入りポスター",
+        "advAssetId": "hbd_04_suz_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-szk-23-1015",
     "name": "兵藤雫 誕生日2023",
     "advPlayTypes": [
@@ -10564,6 +10596,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-suz-05-birt-01-01",
+    "name": "慰安旅行\nin京都",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_suz_52_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-suz-05-birt-01-02",
+    "name": "アイドルと\n似てますのね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_suz_52_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-suz-05-birt-01-03",
+    "name": "おたの\nもうします",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_suz_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-suz-05-fest-02-01",
     "name": "思い入れの\nある曲",
     "rewardId": "rd_auto;stone;;30",
@@ -18371,6 +18457,24 @@
     ],
     "advAssetIds": [
       "event_2407_02_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-ex-story-part-special-01-birthday-trip-2024-02",
+    "name": "プロローグ",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2409_02_01"
     ],
     "sectionName": "",
     "description": "",
