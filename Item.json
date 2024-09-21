@@ -240,6 +240,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-cd_cover-music-0922",
+    "name": "カバー楽曲「Daytime Moon(サニーピースver.)」",
+    "assetId": "cover-music-0922",
+    "description": "カバー楽曲「Daytime Moon(サニーピースver.)」\nの鑑賞や撮影を、【撮影 > ライブ】から行うことができます。",
+    "howToGet": "ショップ",
+    "type": 3001,
+    "value": 1,
+    "order": 3000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-contest_medal-21-1228",
     "name": "フォトメダル",
     "assetId": "medal-contest",
@@ -4802,6 +4814,18 @@
   {
     "id": "item-gacha_point-rev-select-01-24-0830",
     "name": "選べる★5アイドルガチャ\nTRINITYAiLE ver.Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-24-0922",
+    "name": "選べる★5復刻ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
