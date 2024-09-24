@@ -1956,5 +1956,55 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2410-dice",
+    "assetId": "event-dice-24-0925",
+    "name": "イベントストーリー",
+    "description": "お待たせしました里帰り～星見凱旋記～",
+    "order": 240925,
+    "viewConditionId": "cd-event-story-24-0925",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2410_01_01",
+        "storyId": "st-eve-2410-dice-001",
+        "unlockConditionId": "cd-event-dice-24-0925-story-01-unlock",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2410_01_02",
+        "storyId": "st-eve-2410-dice-002",
+        "unlockConditionId": "cd-event-dice-24-0925-story-02-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2410_01_03",
+        "storyId": "st-eve-2410-dice-003",
+        "unlockConditionId": "cd-event-dice-24-0925-story-03-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2410_01_04",
+        "storyId": "st-eve-2410-dice-004",
+        "unlockConditionId": "cd-event-dice-24-0925-story-04-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2410_01_05_01",
+        "storyId": "st-eve-2410-dice-005",
+        "unlockConditionId": "cd-event-dice-24-0925-story-05-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      }
+    ]
   }
 ]

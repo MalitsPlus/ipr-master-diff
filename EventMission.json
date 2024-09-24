@@ -147,6 +147,31 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-dice-24-0925",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-dice-24-0925",
+    "name": "すごろくミッション",
+    "order": 100,
+    "viewConditionId": "cd-dice-24-0925-exchange",
+    "missionIds": [
+      "event-ms-normal-24-0925-01-card_skill_level_up_count",
+      "event-ms-normal-24-0925-01-condition_clear-story-001",
+      "event-ms-normal-24-0925-01-condition_clear-story-002",
+      "event-ms-normal-24-0925-01-condition_clear-story-003",
+      "event-ms-normal-24-0925-01-condition_clear-story-004",
+      "event-ms-normal-24-0925-01-condition_clear-story-005",
+      "event-ms-normal-24-0925-01-dice_area_clear_count",
+      "event-ms-normal-24-0925-01-dice_panel_move_count",
+      "event-ms-normal-24-0925-01-market_exchange_count",
+      "event-ms-normal-24-0925-01-photo_reroll_count",
+      "event-ms-normal-24-0925-01-photo_shoot_count",
+      "event-ms-normal-24-0925-01-quest_daily_clear_count",
+      "event-ms-normal-24-0925-01-quest_pvp_play_count",
+      "event-ms-normal-24-0925-02-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-dream-23-0912",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-dream-defalut",
@@ -1956,6 +1981,26 @@
     ]
   },
   {
+    "id": "event-shelf-24-0925",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-shelf-24-0925",
+    "unlockConditionId": "cd-shelf-24-0925-play",
+    "missionIds": [
+      "event-shelf-24-0925-photo-album-complete",
+      "event-shelf-24-0925-photo-album-creating",
+      "event-shelf-24-0925-photo-creating",
+      "event-shelf-24-0925-photo-save",
+      "event-shelf-24-0925-story-001",
+      "event-shelf-24-0925-story-002",
+      "event-shelf-24-0925-story-003",
+      "event-shelf-24-0925-story-004",
+      "event-shelf-24-0925-story-005"
+    ]
+  },
+  {
     "id": "event-tour-21-0630",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-tour-21-0630",
@@ -2258,6 +2303,21 @@
       "event-ms-comeback-24-0624-mission_clear_count",
       "event-ms-comeback-24-0624-quest_all_clear_count",
       "event-ms-comeback-24-0624-quest_all_clear_count-goal"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_comeback-mission-24-0925",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-comeback-mission-23-0926",
+    "name": "カムバックミッション",
+    "order": 80,
+    "viewConditionId": "cd_shop_comeback-shop-limited-24-0925-mission-view",
+    "missionIds": [
+      "event-ms-comeback-24-0925-login_count",
+      "event-ms-comeback-24-0925-mission_clear_count",
+      "event-ms-comeback-24-0925-quest_all_clear_count",
+      "event-ms-comeback-24-0925-quest_all_clear_count-goal"
     ],
     "unlockConditionId": ""
   },

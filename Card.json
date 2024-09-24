@@ -2009,6 +2009,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-chs-05-fest-00",
+    "assetId": "chs-05-fest-00",
+    "name": "故郷の波と溶けあって",
+    "description": "星見市のみなさん、ただいま～！\n成長した私達のライブ、楽しんでいって下さい！",
+    "type": 3,
+    "characterId": "char-chs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 273,
+    "danceRatioPermil": 413,
+    "visualRatioPermil": 314,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-chs-05-fest-00-1",
+    "skillId2": "sk-chs-05-fest-00-2",
+    "skillId3": "sk-chs-05-fest-00-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 409,
+    "releaseDate": "1727233200000",
+    "rewardCostumeId": "cos-chs-fest-10",
+    "imageType1": 3,
+    "displayPositionX1": -0.185,
+    "displayScale1": 1.1,
+    "highlightDisplayPositionX1": 0.374,
+    "highlightDisplayPositionY1": 0.231,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": -0.185,
+    "displayScale2": 1.1,
+    "highlightDisplayPositionX2": 0.374,
+    "highlightDisplayPositionY2": 0.231,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "星見市のみなさん、\nただいま～！",
+    "stories": [
+      {
+        "storyId": "st-card-chs-05-fest-00-01"
+      },
+      {
+        "storyId": "st-card-chs-05-fest-00-02"
+      },
+      {
+        "storyId": "st-card-chs-05-fest-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-chs-05-fest-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-chs-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-chs-05-flow-00",
     "assetId": "chs-05-flow-00",
     "name": "檻に咲く名花",
@@ -7368,6 +7429,48 @@
     "homeTalks": []
   },
   {
+    "id": "card-mna-02-eve-02",
+    "assetId": "mna-02-eve-02",
+    "name": "きみと過ごしたシーパラ",
+    "description": "いつかまた、ここで里帰りライブをやろうね",
+    "type": 2,
+    "characterId": "char-mna",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 406,
+    "visualRatioPermil": 314,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-02-eve-02-1",
+    "skillId2": "sk-mna-02-eve-02-2",
+    "skillId3": "sk-mna-02-eve-02-3",
+    "order": 411,
+    "releaseDate": "1727233200000",
+    "imageType1": 1,
+    "displayPositionX1": 0.004,
+    "displayPositionY1": 0.207,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.023,
+    "highlightDisplayPositionY1": 0.297,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 2,
+    "displayPositionX2": -0.156,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.872,
+    "highlightDisplayPositionY2": 0.129,
+    "highlightDisplayScale2": 0.9,
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY2": 0.0,
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-mna-05-fest-00",
     "assetId": "mna-05-fest-00",
     "name": "ただ、手を繋ぐだけ",
@@ -9068,6 +9171,67 @@
       },
       {
         "telephoneId": "tel-card-rei-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-rei-05-fest-01",
+    "assetId": "rei-05-fest-01",
+    "name": "故郷の海にほころんで",
+    "description": "商店街の人、学校の友達\r\nそれにお母さんに、お兄ちゃん……\r\nそれから、今はお父さんにも……\r\nありがとうって気持ちを、歌に乗せて、届けたい",
+    "type": 1,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 317,
+    "danceRatioPermil": 277,
+    "visualRatioPermil": 436,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-fest-01-1",
+    "skillId2": "sk-rei-05-fest-01-2",
+    "skillId3": "sk-rei-05-fest-01-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 410,
+    "releaseDate": "1727233200000",
+    "rewardCostumeId": "cos-rei-fest-10",
+    "imageType1": 3,
+    "displayPositionX1": 0.272,
+    "displayPositionY1": 0.05,
+    "displayScale1": 1.5,
+    "highlightDisplayPositionX1": -0.275,
+    "highlightDisplayPositionY1": 0.151,
+    "highlightDisplayScale1": 0.9,
+    "imageType2": 3,
+    "displayPositionX2": 0.272,
+    "displayPositionY2": 0.05,
+    "displayScale2": 1.5,
+    "highlightDisplayPositionX2": -0.275,
+    "highlightDisplayPositionY2": 0.151,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "伝えたい、\nずっと応援してくれている人達、\nみんなに",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-fest-01-01"
+      },
+      {
+        "storyId": "st-card-rei-05-fest-01-02"
+      },
+      {
+        "storyId": "st-card-rei-05-fest-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-fest-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-fest-01",
         "messageId": ""
       }
     ],
