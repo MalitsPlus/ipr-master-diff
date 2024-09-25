@@ -4968,6 +4968,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_ski-04",
+    "name": "【誕生日】白石沙季",
+    "assetId": "birthday_ski-04",
+    "autoProvideConditionId": "cd-birthday_emblem_ski-24-0926",
+    "order": 604050,
+    "description": "沙季の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_skr-03",
     "name": "【誕生日】川咲さくら",
     "assetId": "birthday_skr-03",
@@ -7268,6 +7277,33 @@
     "assetId": "pvp-season-111-top100",
     "order": 311130,
     "description": "VENUSバトルシーズン111で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-112-top001",
+    "name": "VENUSシーズン112 No.1",
+    "assetId": "pvp-season-112-top001",
+    "order": 311210,
+    "description": "VENUSバトルシーズン112で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-112-top010",
+    "name": "VENUSシーズン112 TOP10",
+    "assetId": "pvp-season-112-top010",
+    "order": 311220,
+    "description": "VENUSバトルシーズン112で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-112-top100",
+    "name": "VENUSシーズン112 TOP100",
+    "assetId": "pvp-season-112-top100",
+    "order": 311230,
+    "description": "VENUSバトルシーズン112で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
