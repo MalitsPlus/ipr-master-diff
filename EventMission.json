@@ -779,6 +779,32 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-ladder-24-1006",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-ladder-default",
+    "name": "メッセージミッション",
+    "order": 1,
+    "viewConditionId": "cd-date-event-ladder-24-1006",
+    "missionIds": [
+      "event-ms-normal-24-1006-mission_card_level_up_count",
+      "event-ms-normal-24-1006-mission_card_skill_level_up_count",
+      "event-ms-normal-24-1006-mission_login_count",
+      "event-ms-normal-24-1006-mission_market_exchange_count",
+      "event-ms-normal-24-1006-mission_open_message-01",
+      "event-ms-normal-24-1006-mission_open_message-02",
+      "event-ms-normal-24-1006-mission_open_message-03",
+      "event-ms-normal-24-1006-mission_open_message-04",
+      "event-ms-normal-24-1006-mission_open_panel_count",
+      "event-ms-normal-24-1006-mission_photo_shoot_total_count",
+      "event-ms-normal-24-1006-mission_quest_all_clear_count",
+      "event-ms-normal-24-1006-mission_quest_contest_clear_count",
+      "event-ms-normal-24-1006-mission_quest_daily_clear_count",
+      "event-ms-normal-24-1006-mission_quest_pvp_play_count",
+      "event-ms-normal-24-1006-mission_use_point_amount_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-love-23-0514-limited",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mission-21-0624",

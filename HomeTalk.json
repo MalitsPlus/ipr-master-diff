@@ -1704,6 +1704,60 @@
     ]
   },
   {
+    "homeTalkId": "home-talk-card-hrk-05-mnab-00-talk-01",
+    "characterId": "char-hrk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-hrk-05-mnab-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-hrk-05-mnab-00",
+    "choiceText": "麻奈とのお出掛け、ですか？",
+    "managerText": "麻奈とのお出掛け、ですか？",
+    "reliability": 5,
+    "title": "光の海で祝福を",
+    "displayConditionDescription": "光の海で祝福を 佐伯遙子\nストーリー3話を視聴",
+    "order": 364,
+    "characterTalks": [
+      {
+        "text": "えぇ。一緒にカレーを食べたり\nジグソーパズルを見に行ったり\nのんびり過ごしていたわ。",
+        "voiceAssetId": "sud_vo_home_hrk-05-mnab-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私が悩んでる時は\n理由も聞かないで、それとなーく\n遊びに連れ出してくれたりして。",
+        "voiceAssetId": "sud_vo_home_hrk-05-mnab-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "だからかしら。\n私も怜ちゃんが悩んでる時、\nお買い物に連れ出したりしたっけ。",
+        "voiceAssetId": "sud_vo_home_hrk-05-mnab-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-014_in"
+      },
+      {
+        "text": "今度は怜ちゃんが、他の誰かに\nしてあげたり…そういう幸せが\n続いていくといいわよね。",
+        "voiceAssetId": "sud_vo_home_hrk-05-mnab-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "誰かの優しさが、\n誰かの道標になって、\n続いていく…",
+        "voiceAssetId": "sud_vo_home_hrk-05-mnab-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そんな優しい繋がりが、\nこれからも、ずっと。",
+        "voiceAssetId": "sud_vo_home_hrk-05-mnab-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-hrk-05-onep-00-talk-01",
     "characterId": "char-hrk",
     "placeType": 1,
@@ -3490,6 +3544,60 @@
         "additionMotionAssetId": ""
       }
     ]
+  },
+  {
+    "homeTalkId": "home-talk-card-ktn-05-mnab-00-talk-01",
+    "characterId": "char-ktn",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ktn-05-mnab-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ktn-05-mnab-00",
+    "choiceText": "羨ましいくらいだ。",
+    "managerText": "羨ましいくらいだ。",
+    "reliability": 5,
+    "title": "present for my sister",
+    "displayConditionDescription": "present for my sister 長瀬琴乃\nストーリー3話を視聴",
+    "order": 363,
+    "characterTalks": [
+      {
+        "text": "もし私とお姉ちゃんが、あんな風に\n一緒に星見プロに入っていたら、\nどうなってたかなって。",
+        "voiceAssetId": "sud_vo_home_ktn-05-mnab-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "昔みたいに、ろくに話さない\nなんてことは、さすがにない\nと思いますけど…",
+        "voiceAssetId": "sud_vo_home_ktn-05-mnab-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でもお姉ちゃんは凄いから、\nどんどん置いて行かれちゃって、\n結局私は拗ねてたかも。",
+        "voiceAssetId": "sud_vo_home_ktn-05-mnab-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "そう思うと、沙季と千紗は凄いです。\n姉妹だけど、仲間で、ライバルで\nお互いに真っ直ぐ進んでて。",
+        "voiceAssetId": "sud_vo_home_ktn-05-mnab-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あの二人が一緒に\nステージに立ってるのを見ると、\nやっぱり羨ましくなっちゃいます。",
+        "voiceAssetId": "sud_vo_home_ktn-05-mnab-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これからも二人には、凄いステージ\nを見せてほしいです。羨ましくて\nたまらなくなるようなステージを。",
+        "voiceAssetId": "sud_vo_home_ktn-05-mnab-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-ktn-05-newy-00-talk-01",
