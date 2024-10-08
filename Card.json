@@ -7593,6 +7593,63 @@
     "homeTalks": []
   },
   {
+    "id": "card-mna-05-birt-01",
+    "assetId": "mna-05-birt-01",
+    "name": "輝き結ぶバースデー",
+    "description": "これから先、私は何度も誕生日を迎えるけど\r\n今日のこの光を、一生忘れないよ",
+    "type": 1,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 427,
+    "danceRatioPermil": 320,
+    "visualRatioPermil": 283,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-birt-01-1",
+    "skillId2": "sk-mna-05-birt-01-2",
+    "skillId3": "sk-mna-05-birt-01-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 415,
+    "releaseDate": "1728399600000",
+    "imageType1": 3,
+    "displayPositionX1": 0.105,
+    "displayPositionY1": 0.115,
+    "displayScale1": 1.3,
+    "highlightDisplayPositionX1": -0.126,
+    "highlightDisplayPositionY1": 0.333,
+    "highlightDisplayScale1": 1.0,
+    "imageType2": 3,
+    "displayPositionX2": 0.105,
+    "displayPositionY2": 0.115,
+    "displayScale2": 1.3,
+    "highlightDisplayPositionX2": -0.126,
+    "highlightDisplayPositionY2": 0.333,
+    "highlightDisplayScale2": 1.0,
+    "obtainMessage": "今日のこの光を、\n一生忘れないよ",
+    "rewardHairId": "hair-mna-hair-10",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-birt-01-01"
+      },
+      {
+        "storyId": "st-card-mna-05-birt-01-02"
+      },
+      {
+        "storyId": "st-card-mna-05-birt-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mna-05-birt-01",
+        "telephoneId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mna-05-fest-00",
     "assetId": "mna-05-fest-00",
     "name": "ただ、手を繋ぐだけ",

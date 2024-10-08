@@ -42801,6 +42801,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_more_stamina-4200-chart_dependence",
+    "name": "スコア獲得-残スタミナが多い程効果上昇",
+    "type": 6,
+    "description": "420%のスコア獲得、残スタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_more_stamina-4300-chart_dependence",
     "name": "スコア獲得-残スタミナが多い程効果上昇",
     "type": 6,
@@ -59367,6 +59378,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-5-target-self-36",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に5段階スキル成功率上昇効果[36ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-5-target-self-37",
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
@@ -64614,6 +64636,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_recovery-4-target-self-25",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に4段階スタミナ継続回復効果[25ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_recovery-4-target-self-27",
     "name": "自身にスタミナ継続回復効果",
     "type": 62,
@@ -64629,6 +64662,17 @@
     "name": "自身にスタミナ継続回復効果",
     "type": 62,
     "description": "自身に4段階スタミナ継続回復効果[30ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_recovery-4-target-self-31",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に4段階スタミナ継続回復効果[31ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -64856,6 +64900,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_recovery-5-target-self-31",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に5段階スタミナ継続回復効果[31ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_recovery-5-target-self-33",
     "name": "自身にスタミナ継続回復効果",
     "type": 62,
@@ -64871,6 +64926,17 @@
     "name": "自身にスタミナ継続回復効果",
     "type": 62,
     "description": "自身に5段階スタミナ継続回復効果[35ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_recovery-5-target-self-37",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に5段階スタミナ継続回復効果[37ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -65043,6 +65109,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_recovery-6-target-self-37",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に6段階スタミナ継続回復効果[37ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_recovery-6-target-self-38",
     "name": "自身にスタミナ継続回復効果",
     "type": 62,
@@ -65058,6 +65135,17 @@
     "name": "自身にスタミナ継続回復効果",
     "type": 62,
     "description": "自身に6段階スタミナ継続回復効果[40ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_recovery-6-target-self-44",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に6段階スタミナ継続回復効果[44ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -79552,10 +79640,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_boost-5-target-self-26",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に5段階ボーカルブースト効果[26ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_boost-5-target-self-29",
     "name": "自身にボーカルブースト効果",
     "type": 56,
     "description": "自身に5段階ボーカルブースト効果[29ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-5-target-self-31",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に5段階ボーカルブースト効果[31ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -79706,10 +79816,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_boost-6-target-self-31",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に6段階ボーカルブースト効果[31ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_boost-6-target-self-33",
     "name": "自身にボーカルブースト効果",
     "type": 56,
     "description": "自身に6段階ボーカルブースト効果[33ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-6-target-self-36",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に6段階ボーカルブースト効果[36ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -79798,6 +79930,17 @@
     "name": "自身にボーカルブースト効果",
     "type": 56,
     "description": "自身に7段階ボーカルブースト効果[33ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-7-target-self-36",
+    "name": "自身にボーカルブースト効果",
+    "type": 56,
+    "description": "自身に7段階ボーカルブースト効果[36ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",

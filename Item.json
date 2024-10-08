@@ -2316,6 +2316,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-birthday-24-1009",
+    "name": "誕生日缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge-birthday",
+    "description": "誕生日缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「麻奈誕生日ガチャ2024」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_medal-buttonbadge-fs-set-bloom-24-0626",
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
@@ -2702,6 +2714,18 @@
   {
     "id": "item-gacha_point-birthday-24-0926",
     "name": "沙季誕生日ガチャ2024Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-birthday-24-1009",
+    "name": "麻奈誕生日ガチャ2024Pt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -5342,6 +5366,18 @@
   {
     "id": "item-gacha_point-select-01-24-0820",
     "name": "選べる★5スコアラーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-select-01-24-1010",
+    "name": "麻奈誕生日記念選べる★5アイドルガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,

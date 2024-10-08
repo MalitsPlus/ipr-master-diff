@@ -4542,6 +4542,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-mna-05-birt-01-talk-01",
+    "characterId": "char-mna",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mna-05-birt-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mna-05-birt-01",
+    "choiceText": "まぁ、難しいだろうな",
+    "managerText": "まぁ、難しいだろうな",
+    "reliability": 5,
+    "title": "輝き結ぶバースデー",
+    "displayConditionDescription": "輝き結ぶバースデー 長瀬麻奈\nストーリー3話を視聴",
+    "order": 365,
+    "characterTalks": [
+      {
+        "text": "同じ釜の飯を食う、じゃないけど\n一度くらいやってみたかったなぁ。",
+        "voiceAssetId": "sud_vo_home_mna-05-birt-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でもさ、よく考えたら、\nアレルギーとか持病とか\n衛生的な問題もあるもんね。",
+        "voiceAssetId": "sud_vo_home_mna-05-birt-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "良かれと思って配ったとしても\nそれで辛い思いをする人がいたら\n全然意味ないよ。",
+        "voiceAssetId": "sud_vo_home_mna-05-birt-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "だからね、みんなが見てる前で\n私がケーキを受け取った、って\nことが、ベストだったのかも。",
+        "voiceAssetId": "sud_vo_home_mna-05-birt-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私がやりたいことと\n私が本当に望んでることって\n絶対一致するわけじゃないから。",
+        "voiceAssetId": "sud_vo_home_mna-05-birt-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "結果として、いい感じにしてくれる\n{user}くんたちには\n本当に感謝してるよ、ありがとね！",
+        "voiceAssetId": "sud_vo_home_mna-05-birt-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-mna-05-fest-00-talk-01",
     "characterId": "char-mna",
     "placeType": 1,

@@ -780,6 +780,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-ai-birthday-mna-01",
+    "characterId": "char-ai",
+    "motionAssetId": "mot_adv_chr_cmn_pos-019_in",
+    "voiceAssetId": "sud_vo_home_ai_birthday-mna-01",
+    "text": "麻奈さん…伝説のアイドル\nですよね。私だって観てましたよ！\nおめでとうございます。",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-ai-birthday-ngs-01",
     "characterId": "char-ai",
     "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
@@ -1855,6 +1867,18 @@
     "voiceAssetId": "sud_vo_home_aoi_birthday-mhk-01",
     "text": "mihoの誕生日だったんだね。\nⅢXは祝い合ったりしないから\n全然気が付かなかったよ。",
     "conditionId": "cd-birthday_mhk-0125",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-aoi-birthday-mna-01",
+    "characterId": "char-aoi",
+    "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in",
+    "voiceAssetId": "sud_vo_home_aoi_birthday-mna-01",
+    "text": "あぁ、そうか。今日は長瀬麻奈の\n誕生日か。彼女との思い出は\n少ないけど、全てが鮮明だよ。",
+    "conditionId": "cd-birthday_mna-1009",
     "weight": 1000,
     "positionType": 0,
     "actionType": 0
@@ -3732,6 +3756,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-chs-birthday-mna-01",
+    "characterId": "char-chs",
+    "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+    "voiceAssetId": "sud_vo_home_chs_birthday-mna-01",
+    "text": "麻奈さんのお誕生日…ですね。\n星見プロに、私達にとって\n忘れられない人、ですよね。",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-chs-birthday-ngs-01",
     "characterId": "char-chs",
     "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
@@ -4908,6 +4944,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-hrk-birthday-mna-01",
+    "characterId": "char-hrk",
+    "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in",
+    "voiceAssetId": "sud_vo_home_hrk_birthday-mna-01",
+    "text": "お誕生日おめでとう、麻奈ちゃん。\n…って、もっと、何十回も\n言いたかったな。",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-hrk-birthday-ngs-01",
     "characterId": "char-hrk",
     "motionAssetId": "mot_adv_chr_cmn_talk-021_in",
@@ -5850,6 +5898,18 @@
     "voiceAssetId": "sud_vo_home_kan_birthday-mhk-01",
     "text": "はあ？　今日はmihoの誕生日？\nkanaに関係なくない？　あ！\nkanaの誕生日は忘れんなよ！",
     "conditionId": "cd-birthday_mhk-0125",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-kan-birthday-mna-01",
+    "characterId": "char-kan",
+    "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
+    "voiceAssetId": "sud_vo_home_kan_birthday-mna-01",
+    "text": "長瀬麻奈の誕生日みたいですねー。\nmihoの顔でも見てこよーっと。",
+    "conditionId": "cd-birthday_mna-1009",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -6936,6 +6996,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-kkr-birthday-mna-01",
+    "characterId": "char-kkr",
+    "motionAssetId": "mot_adv_chr_cmn_pos-024_in",
+    "voiceAssetId": "sud_vo_home_kkr_birthday-mna-01",
+    "text": "麻奈さんのお誕生日なんですね～\n今日。会ってみたかったな～って\n思っちゃいます。",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-kkr-birthday-ngs-01",
     "characterId": "char-kkr",
     "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
@@ -7927,6 +7999,18 @@
     "voiceAssetId": "sud_vo_home_kor_birthday-mhk-01",
     "text": "mihoはいつも通り澄ました顔\nしてますけど、星見の子達から\n祝われて内心喜んでると思います。",
     "conditionId": "cd-birthday_mhk-0125",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-kor-birthday-mna-01",
+    "characterId": "char-kor",
+    "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in",
+    "voiceAssetId": "sud_vo_home_kor_birthday-mna-01",
+    "text": "長瀬麻奈の誕生日、なんですね。\nおめでとうでいいのかしら？\n一度会ってみたかったですね。",
+    "conditionId": "cd-birthday_mna-1009",
     "weight": 1000,
     "positionType": 0,
     "actionType": 0
@@ -9054,6 +9138,18 @@
     "voiceAssetId": "sud_vo_home_ktn_birthday-mhk-01",
     "text": "mihoさんのお誕生日ですけど、\n長瀬麻奈の妹にお祝いされたら、\nやっぱり複雑でしょうか…？",
     "conditionId": "cd-birthday_mhk-0125",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ktn-birthday-mna-01",
+    "characterId": "char-ktn",
+    "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+    "voiceAssetId": "sud_vo_home_ktn_birthday-mna-01",
+    "text": "今日はお姉ちゃんの誕生日…\n私にとっても特別な日です。初心にかえって頑張ろうって思います。",
+    "conditionId": "cd-birthday_mna-1009",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -10200,6 +10296,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-mei-birthday-mna-01",
+    "characterId": "char-mei",
+    "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
+    "voiceAssetId": "sud_vo_home_mei_birthday-mna-01",
+    "text": "麻奈ちゃーん、お誕生日おめでと！\n聞こえてるかな〜？\n聞こえてるよね、うん。",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-mei-birthday-ngs-01",
     "characterId": "char-mei",
     "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
@@ -11184,6 +11292,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-mhk-birthday-mna-01",
+    "characterId": "char-mhk",
+    "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-045_in",
+    "voiceAssetId": "sud_vo_home_mhk_birthday-mna-01",
+    "text": "長瀬麻奈の誕生日だそうですね。\nまぁ特に私から言えることは何も\nないですけど…",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-mhk-birthday-ngs-01",
     "characterId": "char-mhk",
     "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
@@ -11828,6 +11948,18 @@
     "text": "リズノワのパフォーマンスって\nすごいよね。鬼気迫るというか熱い\nというか…私も負けないよー！",
     "conditionId": "cd-reliability-mna-10",
     "weight": 100,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-mna-birthday-mna-01",
+    "characterId": "char-mna",
+    "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+    "voiceAssetId": "sud_vo_home_mna_birthday-mna-01",
+    "text": "誕生日だ〜！！\nちゃんと覚えてた〜？\nプレゼント、期待しちゃうなぁ〜",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0
   },
@@ -12728,6 +12860,18 @@
     "text": "mihoさんにおめでとうございま\nすって言ったら不思議そうな顔をし\nてました。誕生日忘れてるのかな？",
     "conditionId": "cd-birthday_mhk-0125",
     "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ngs-birthday-mna-01",
+    "characterId": "char-ngs",
+    "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+    "voiceAssetId": "sud_vo_home_ngs_birthday-mna-01",
+    "text": "今日、麻奈さんの誕生日だ…！\n星見プロのみんなでお祝いしたことを思い出しますね。",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0
   },
@@ -13938,6 +14082,18 @@
     "voiceAssetId": "sud_vo_home_rei_birthday-mhk-01",
     "text": "mihoさんに誕生日プレゼントを\n渡しました。以前自主練中に偶然\n会ってアドバイスを頂いたので。",
     "conditionId": "cd-birthday_mhk-0125",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rei-birthday-mna-01",
+    "characterId": "char-rei",
+    "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+    "voiceAssetId": "sud_vo_home_rei_birthday-mna-01",
+    "text": "今日は麻奈さんの誕生日ですね\nいつもより、頂点に立ちたい\nって気持ちが強くなってきます。",
+    "conditionId": "cd-birthday_mna-1009",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -15288,6 +15444,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-rio-birthday-mna-01",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+    "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in",
+    "voiceAssetId": "sud_vo_home_rio_birthday-mna-01",
+    "text": "今日は麻奈の誕生日、ね。\nどこにいてもわかるくらい\n咲き誇ってみせるわ。",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-rio-birthday-ngs-01",
     "characterId": "char-rio",
     "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
@@ -16362,6 +16530,18 @@
     "voiceAssetId": "sud_vo_home_rui_birthday-mhk-01",
     "text": "mihoさんのお誕生日なので、\nプレゼントを用意してきたんです。\n同じ事務所のライバルですから。",
     "conditionId": "cd-birthday_mhk-0125",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rui-birthday-mna-01",
+    "characterId": "char-rui",
+    "motionAssetId": "mot_adv_chr_cmn_glad-013_in",
+    "voiceAssetId": "sud_vo_home_rui_birthday-mna-01",
+    "text": "麻奈さんの誕生日、なんですよね。\n一度本物のライブを観て\nみたかったな…って思ってます。",
+    "conditionId": "cd-birthday_mna-1009",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -17444,6 +17624,18 @@
     "text": "mihoさんにプレゼントを\n渡したいのですが、何が好きな\nんでしょう…。ご存じですか？",
     "conditionId": "cd-birthday_mhk-0125",
     "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-ski-birthday-mna-01",
+    "characterId": "char-ski",
+    "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+    "voiceAssetId": "sud_vo_home_ski_birthday-mna-01",
+    "text": "麻奈さんのお誕生日…ですね。\nきっと天国でも…素敵なライブを\nされているんでしょうね。",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0
   },
@@ -18576,6 +18768,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-skr-birthday-mna-01",
+    "characterId": "char-skr",
+    "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+    "voiceAssetId": "sud_vo_home_skr_birthday-mna-01",
+    "text": "麻奈さんのお誕生日…ですね\n私、麻奈さんの歌大好きです。\nこれからもずっと歌い続けます！",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-skr-birthday-ngs-01",
     "characterId": "char-skr",
     "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
@@ -19698,6 +19902,18 @@
     "voiceAssetId": "sud_vo_home_smr_birthday-mhk-01",
     "text": "mihoさんのお誕生日なので、\n実家のお酒を贈ることにしました！\n喜んでもらえるといいな～",
     "conditionId": "cd-birthday_mhk-0125",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-smr-birthday-mna-01",
+    "characterId": "char-smr",
+    "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+    "voiceAssetId": "sud_vo_home_smr_birthday-mna-01",
+    "text": "麻奈さんのお誕生日、ですね。\n星見プロにとって大切な人\nなんですよね。",
+    "conditionId": "cd-birthday_mna-1009",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,
@@ -20868,6 +21084,18 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-suz-birthday-mna-01",
+    "characterId": "char-suz",
+    "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+    "voiceAssetId": "sud_vo_home_suz_birthday-mna-01",
+    "text": "麻奈様の誕生日ですわよ！　ああ、麻奈様！　後継者として、その名を\n汚さないアイドルになりますわ！",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-suz-birthday-ngs-01",
     "characterId": "char-suz",
     "motionAssetId": "mot_adv_chr_cmn_rep-001_in",
@@ -21896,6 +22124,18 @@
     "text": "mihoさんの誕生日プレゼント、\n用意した方が、いい？\n失礼になるかな？",
     "conditionId": "cd-birthday_mhk-0125",
     "weight": 1000,
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-szk-birthday-mna-01",
+    "characterId": "char-szk",
+    "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+    "voiceAssetId": "sud_vo_home_szk_birthday-mna-01",
+    "text": "麻奈さんの、誕生日…だね。\n伝説のアイドルに…心からの\nおめでとうを…",
+    "conditionId": "cd-birthday_mna-1009",
+    "weight": 1000,
+    "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0
   },
@@ -23274,6 +23514,18 @@
     "voiceAssetId": "sud_vo_home_yu_birthday-mhk-01",
     "text": "mihoさんのお誕生日やし、\n食事にでも誘ってみよかなぁ？\nデータの集め方とか聞きたいし。",
     "conditionId": "cd-birthday_mhk-0125",
+    "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-yu-birthday-mna-01",
+    "characterId": "char-yu",
+    "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
+    "voiceAssetId": "sud_vo_home_yu_birthday-mna-01",
+    "text": "麻奈さんの誕生日なんやってな～\nやっぱり後輩として\nガッツリお祝いせなあかんね。",
+    "conditionId": "cd-birthday_mna-1009",
     "weight": 1000,
     "additionMotionAssetId": "",
     "positionType": 0,

@@ -4905,6 +4905,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_mna-04",
+    "name": "【誕生日】長瀬麻奈",
+    "assetId": "birthday_mna-04",
+    "autoProvideConditionId": "cd-birthday_emblem_mna-24-1009",
+    "order": 604210,
+    "description": "麻奈の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_ngs-03",
     "name": "【誕生日】伊吹渚",
     "assetId": "birthday_ngs-03",
@@ -5792,6 +5801,24 @@
     "assetId": "gvg-season-039-top010",
     "order": 403920,
     "description": "ユニオンライブシーズン39 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-040-top001",
+    "name": "ユニオンシーズン40 No.1",
+    "assetId": "gvg-season-040-top001",
+    "order": 404010,
+    "description": "ユニオンライブシーズン40 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-040-top010",
+    "name": "ユニオンシーズン40 TOP10",
+    "assetId": "gvg-season-040-top010",
+    "order": 404020,
+    "description": "ユニオンライブシーズン40 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -7304,6 +7331,33 @@
     "assetId": "pvp-season-112-top100",
     "order": 311230,
     "description": "VENUSバトルシーズン112で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-113-top001",
+    "name": "VENUSシーズン113 No.1",
+    "assetId": "pvp-season-113-top001",
+    "order": 311310,
+    "description": "VENUSバトルシーズン113で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-113-top010",
+    "name": "VENUSシーズン113 TOP10",
+    "assetId": "pvp-season-113-top010",
+    "order": 311320,
+    "description": "VENUSバトルシーズン113で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-113-top100",
+    "name": "VENUSシーズン113 TOP100",
+    "assetId": "pvp-season-113-top100",
+    "order": 311330,
+    "description": "VENUSバトルシーズン113で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
