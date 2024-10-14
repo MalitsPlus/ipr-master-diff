@@ -12287,6 +12287,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-combo_score_up-2-target-self-28",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に2段階コンボスコア上昇効果[28ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-combo_score_up-2-target-self-30",
     "name": "自身にコンボスコア上昇効果",
     "type": 41,
@@ -12665,6 +12676,17 @@
     "name": "自身にコンボスコア上昇効果",
     "type": 41,
     "description": "自身に4段階コンボスコア上昇効果[45ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-4-target-self-47",
+    "name": "自身にコンボスコア上昇効果",
+    "type": 41,
+    "description": "自身に4段階コンボスコア上昇効果[47ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -25971,6 +25993,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_boost-2-target-self-28",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に2段階ダンスブースト効果[28ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-2-target-self-34",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に2段階ダンスブースト効果[34ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_boost-3-target-character_type-1-2-26",
     "name": "スコアラータイプ2人にダンスブースト効果",
     "type": 57,
@@ -26118,6 +26162,17 @@
     "name": "自身にダンスブースト効果",
     "type": 57,
     "description": "自身に3段階ダンスブースト効果[37ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-3-target-self-40",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に3段階ダンスブースト効果[40ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -26448,6 +26503,17 @@
     "name": "自身にダンスブースト効果",
     "type": 57,
     "description": "自身に4段階ダンスブースト効果[46ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-4-target-self-47",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に4段階ダンスブースト効果[47ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -41932,10 +41998,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_more_combo_count-3400-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "340%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_more_combo_count-3500-chart_dependence",
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
     "description": "350%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-3600-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "360%のスコア獲得、コンボ数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -41954,10 +42042,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_more_combo_count-3800-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "380%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_more_combo_count-3900-chart_dependence",
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
     "description": "390%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-4000-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "400%のスコア獲得、コンボ数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
