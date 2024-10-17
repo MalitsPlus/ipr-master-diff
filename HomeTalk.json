@@ -4386,6 +4386,54 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-mhk-05-pajm-00-talk-01",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mhk-05-pajm-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mhk-05-pajm-00",
+    "choiceText": "ファンからの反応はどうですか？",
+    "managerText": "ファンからの反応はどうですか？",
+    "reliability": 5,
+    "title": "思い出はいつも黒髪に",
+    "displayConditionDescription": "思い出はいつも黒髪に miho\nストーリー3話を視聴",
+    "order": 367,
+    "characterTalks": [
+      {
+        "text": "そんなこと自分でリサーチして\n下さい。マネージャーでしょう。\nまぁ……なかなか好評ですよ。",
+        "voiceAssetId": "sud_vo_home_mhk-05-pajm-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "SNSでCMがバズっていたそうで\nヘアケア用品のプレゼントを\nいただくことも増えました。",
+        "voiceAssetId": "sud_vo_home_mhk-05-pajm-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "それに、CMの髪をかきあげる\n仕草が流行ったそうです。",
+        "voiceAssetId": "sud_vo_home_mhk-05-pajm-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "……葉ちゃんが褒めてくれた\nこの髪がみんなに認められたと\n思うと、少し嬉しいです。",
+        "voiceAssetId": "sud_vo_home_mhk-05-pajm-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-013_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-050_in"
+      },
+      {
+        "text": "ですが……franとkanaに\n髪をかきあげる仕草を一日中\n真似されたのは最悪でした。",
+        "voiceAssetId": "sud_vo_home_mhk-05-pajm-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-mhk-05-poli-00-talk-01",
     "characterId": "char-mhk",
     "placeType": 1,

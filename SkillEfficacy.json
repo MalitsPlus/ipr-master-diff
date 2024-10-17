@@ -41162,6 +41162,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_less_combo_count-11400-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1140%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_less_combo_count-11500-chart_dependence",
     "name": "スコア獲得-コンボ数が少ない程効果上昇",
     "type": 67,
@@ -41210,6 +41221,17 @@
     "name": "スコア獲得-コンボ数が少ない程効果上昇",
     "type": 67,
     "description": "1280%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-12900-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1290%のスコア獲得、コンボ数が少ない程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -41272,10 +41294,43 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_less_combo_count-15900-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1590%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_less_combo_count-16100.-chart_dependence",
     "name": "スコア獲得-コンボ数が少ない程効果上昇",
     "type": 67,
     "description": "1610%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-17400-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1740%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-19000-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1900%のスコア獲得、コンボ数が少ない程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -70785,6 +70840,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-3-target-self-29",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に3段階ビジュアルブースト効果[29ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-3-target-self-32",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に3段階ビジュアルブースト効果[32ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-3-target-self-35",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に3段階ビジュアルブースト効果[35ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-3-target-self-36",
     "name": "自身にビジュアルブースト効果",
     "type": 58,
@@ -71071,10 +71159,43 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-4-target-self-35",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に4段階ビジュアルブースト効果[35ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-4-target-self-38",
     "name": "自身にビジュアルブースト効果",
     "type": 58,
     "description": "自身に4段階ビジュアルブースト効果[38ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-4-target-self-39",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に4段階ビジュアルブースト効果[39ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-4-target-self-43",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に4段階ビジュアルブースト効果[43ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -73660,6 +73781,17 @@
     "name": "自身にビジュアル上昇効果",
     "type": 15,
     "description": "自身に2段階ビジュアル上昇効果[22ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-2-target-self-23",
+    "name": "自身にビジュアル上昇効果",
+    "type": 15,
+    "description": "自身に2段階ビジュアル上昇効果[23ビート]",
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-self",

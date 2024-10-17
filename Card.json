@@ -7274,6 +7274,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-mhk-05-pajm-00",
+    "assetId": "mhk-05-pajm-00",
+    "name": "思い出はいつも黒髪に",
+    "description": "きっと、友人もCMを見て\r\n凄いねって……褒めてくれると思います",
+    "type": 1,
+    "characterId": "char-mhk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 317,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 434,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-05-pajm-00-1",
+    "skillId2": "sk-mhk-05-pajm-00-2",
+    "skillId3": "sk-mhk-05-pajm-00-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 417,
+    "releaseDate": "1729134000000",
+    "rewardCostumeId": "cos-mhk-pajm-00",
+    "imageType1": 3,
+    "displayPositionX1": -0.119,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": 0.424,
+    "highlightDisplayPositionY1": 0.204,
+    "highlightDisplayScale1": 1.2,
+    "imageType2": 3,
+    "displayPositionX2": -0.119,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": 0.424,
+    "highlightDisplayPositionY2": 0.204,
+    "highlightDisplayScale2": 1.2,
+    "obtainMessage": "友人もCMを見て\n凄いねって……\n褒めてくれると思います",
+    "stories": [
+      {
+        "storyId": "st-card-mhk-05-pajm-00-01"
+      },
+      {
+        "storyId": "st-card-mhk-05-pajm-00-02"
+      },
+      {
+        "storyId": "st-card-mhk-05-pajm-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mhk-05-pajm-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mhk-05-pajm-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mhk-05-poli-00",
     "assetId": "mhk-05-poli-00",
     "name": "湯けむりショートトリップ",
