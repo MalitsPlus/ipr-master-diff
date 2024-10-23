@@ -2148,6 +2148,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-premium-ticket-free-24-1024",
+    "name": "無料プレミアムガチャチケ",
+    "assetId": "gacha-ticket-premium-free",
+    "description": "プレミアムガチャを引くことができる",
+    "howToGet": "プレミアムガチャに遷移",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_10-endless-22-0624",
     "name": "1周年の感謝",
     "assetId": "gacha-endless-22-0624",
@@ -5438,6 +5450,18 @@
   {
     "id": "item-gacha_point-select-01-24-1010",
     "name": "麻奈誕生日記念選べる★5アイドルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-select-01-24-1027",
+    "name": "選べる★5ボーカルガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
