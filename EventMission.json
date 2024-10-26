@@ -1874,6 +1874,35 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-race-24-1028",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-race-24-1028",
+    "name": "イベントミッション",
+    "order": 1,
+    "viewConditionId": "cd-event-race-24-1028-exchange",
+    "missionIds": [
+      "event-race-24-1028-1",
+      "event-race-24-1028-10",
+      "event-race-24-1028-11",
+      "event-race-24-1028-12",
+      "event-race-24-1028-13",
+      "event-race-24-1028-14",
+      "event-race-24-1028-15",
+      "event-race-24-1028-16",
+      "event-race-24-1028-17",
+      "event-race-24-1028-18",
+      "event-race-24-1028-2",
+      "event-race-24-1028-3",
+      "event-race-24-1028-4",
+      "event-race-24-1028-5",
+      "event-race-24-1028-6",
+      "event-race-24-1028-7",
+      "event-race-24-1028-8",
+      "event-race-24-1028-9"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-shelf-23-1128",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-shelf-23-1128",
@@ -2063,6 +2092,26 @@
     ]
   },
   {
+    "id": "event-shelf-24-1028",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-shelf-24-1028",
+    "unlockConditionId": "cd-shelf-24-1028-play",
+    "missionIds": [
+      "event-shelf-24-1028-photo-album-complete",
+      "event-shelf-24-1028-photo-album-creating",
+      "event-shelf-24-1028-photo-creating",
+      "event-shelf-24-1028-photo-save",
+      "event-shelf-24-1028-story-001",
+      "event-shelf-24-1028-story-002",
+      "event-shelf-24-1028-story-003",
+      "event-shelf-24-1028-story-004",
+      "event-shelf-24-1028-story-005"
+    ]
+  },
+  {
     "id": "event-tour-21-0630",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-tour-21-0630",
@@ -2234,6 +2283,27 @@
       "event-ms-am-24-0829-01-mission_clear_count",
       "event-ms-am-24-0829-02-mission_clear_count",
       "event-ms-am-24-0829-03-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_am-mission-24-1101",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-am-mission-24-1031",
+    "name": "オータムミッション第2弾",
+    "order": 5,
+    "viewConditionId": "cd-time-event-ms-am-24-1101-1107",
+    "missionIds": [
+      "event-ms-am-24-1101-00-card_skill_level_up_count",
+      "event-ms-am-24-1101-00-login_count",
+      "event-ms-am-24-1101-00-market_exchange_count",
+      "event-ms-am-24-1101-00-photo_reroll_count",
+      "event-ms-am-24-1101-00-quest_contest_clear_count",
+      "event-ms-am-24-1101-00-quest_daily_clear_count",
+      "event-ms-am-24-1101-00-quest_pvp_play_count",
+      "event-ms-am-24-1101-01-mission_clear_count",
+      "event-ms-am-24-1101-02-mission_clear_count",
+      "event-ms-am-24-1101-03-mission_clear_count"
     ],
     "unlockConditionId": ""
   },

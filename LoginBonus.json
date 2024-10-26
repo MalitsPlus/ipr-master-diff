@@ -1974,6 +1974,27 @@
     "receiveConditionId": "cd-time-login-24-1018-1031"
   },
   {
+    "id": "login_bonus-campaign-24-1029-01",
+    "name": "オータム第5弾",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-24-1029-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-card_support_release;4000",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-act_promotion_shorten-sp;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-24-1029-1104",
+    "receiveConditionId": "cd-time-login-24-1029-1111"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
