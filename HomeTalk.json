@@ -7410,6 +7410,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-ski-05-onep-00-talk-01",
+    "characterId": "char-ski",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ski-05-onep-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ski-05-onep-00",
+    "choiceText": "例えばどんな和歌があるんだ？",
+    "managerText": "例えばどんな和歌があるんだ？",
+    "reliability": 5,
+    "title": "から紅に染まる頬",
+    "displayConditionDescription": "から紅に染まる頬 白石沙季\nストーリー3話を視聴",
+    "order": 371,
+    "characterTalks": [
+      {
+        "text": "最近調べたものの中だと\n式子内親王の歌が印象に残りました。",
+        "voiceAssetId": "sud_vo_home_ski-05-onep-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "玉の緒よ絶えなば絶えねながらへば\n忍ぶることの弱りもぞする…",
+        "voiceAssetId": "sud_vo_home_ski-05-onep-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "内親王という神聖な立場に\n就いていたために、恋心を\n我慢しなければならない…",
+        "voiceAssetId": "sud_vo_home_ski-05-onep-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そういう悲しさが\n込められた歌らしいんです。",
+        "voiceAssetId": "sud_vo_home_ski-05-onep-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私がもし彼女と同じ立場になったら\n同じ気持ちになるのでしょうか？",
+        "voiceAssetId": "sud_vo_home_ski-05-onep-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "想像はできませんが……\nその時は、自分の気持ちに\n嘘をつかないようにしたいです。",
+        "voiceAssetId": "sud_vo_home_ski-05-onep-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ski-05-poli-00-talk-01",
     "characterId": "char-ski",
     "placeType": 1,
