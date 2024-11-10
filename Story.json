@@ -562,6 +562,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-rui-24-1111",
+    "name": "天動瑠依 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は瑠依の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "マッサージガン",
+        "advAssetId": "hbd_04_rui_01"
+      },
+      {
+        "index": 2,
+        "text": "巨大グミ",
+        "advAssetId": "hbd_04_rui_02"
+      },
+      {
+        "index": 3,
+        "text": "秋の温泉旅行券三枚",
+        "advAssetId": "hbd_04_rui_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-ski-23-0926",
     "name": "白石沙季 誕生日2023",
     "advPlayTypes": [
@@ -8778,6 +8810,60 @@
     ],
     "advAssetIds": [
       "card_rui_51_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rui-05-birt-01-01",
+    "name": "慰安旅行\nin京都",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_52_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rui-05-birt-01-02",
+    "name": "優のおすすめ\nスポット",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_52_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rui-05-birt-01-03",
+    "name": "行きたい場所\nがあるんです",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_52_03"
     ],
     "sectionName": "",
     "description": "",

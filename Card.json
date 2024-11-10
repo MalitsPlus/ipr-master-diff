@@ -11535,6 +11535,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-05-birt-01",
+    "assetId": "rui-05-birt-01",
+    "name": "誕生日トラベル・瑠依",
+    "description": "さぁ、行きましょう\r\n今日はもう少し、私に付き合ってもらいますからね",
+    "type": 3,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 274,
+    "danceRatioPermil": 415,
+    "visualRatioPermil": 311,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-birt-01-1",
+    "skillId2": "sk-rui-05-birt-01-2",
+    "skillId3": "sk-rui-05-birt-01-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 422,
+    "releaseDate": "1731250800000",
+    "imageType1": 3,
+    "displayPositionX1": 0.089,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.192,
+    "highlightDisplayPositionY1": 0.214,
+    "highlightDisplayScale1": 0.9,
+    "imageType2": 3,
+    "displayPositionX2": 0.089,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.192,
+    "highlightDisplayPositionY2": 0.214,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "良かったら……\n一緒に行きませんか",
+    "rewardHairId": "hair-rui-hair-11",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-birt-01-01"
+      },
+      {
+        "storyId": "st-card-rui-05-birt-01-02"
+      },
+      {
+        "storyId": "st-card-rui-05-birt-01-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-date-00",
     "assetId": "rui-05-date-00",
     "name": "緑風誘うデートスポット",
