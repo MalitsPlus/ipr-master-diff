@@ -9564,6 +9564,60 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-yu-05-casl-02-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-casl-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-casl-02",
+    "choiceText": "ビックリした……どうして標準語？",
+    "managerText": "ビックリした……どうして標準語？",
+    "reliability": 5,
+    "title": "もしも芸能人と恋をしたら",
+    "displayConditionDescription": "もしも芸能人と恋をしたら 鈴村優\nストーリー3話を視聴",
+    "order": 373,
+    "characterTalks": [
+      {
+        "text": "もし恋のうちを演じるにあたって\n沢山練習したから、せっかく\nだし日常使いしてみようかなって。",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんとしても\n新鮮なうち…私が見られてドキッと\nしたんとちゃい…違います？",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "って、あかん…標準語しんどい。\nお芝居ならスイッチ切り替わって\nすんなり使えるんやけどな。",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "やっぱ、昔から慣れ親しんでる\n言葉とちゃいますから、\nすぐに日常使いは出来んなぁ。",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "{user}さんは\n京言葉と標準語、どっちの言葉を\n使ううちが好みです？",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もし標準語やったら…もっと\n頑張って習得して、沢山\nドキッとさせたりますね…ふふっ。",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-yu-05-fest-00-talk-01",
     "characterId": "char-yu",
     "placeType": 1,

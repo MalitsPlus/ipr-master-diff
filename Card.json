@@ -16894,6 +16894,67 @@
     "homeTalks": []
   },
   {
+    "id": "card-yu-05-casl-02",
+    "assetId": "yu-05-casl-02",
+    "name": "もしも芸能人と恋をしたら",
+    "description": "大事なシーンでのご褒美イベントやもん！\r\n二重三重の意味でドキドキしてまうな！",
+    "type": 3,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 414,
+    "danceRatioPermil": 315,
+    "visualRatioPermil": 271,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-casl-02-1",
+    "skillId2": "sk-yu-05-casl-02-2",
+    "skillId3": "sk-yu-05-casl-02-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 423,
+    "releaseDate": "1731553200000",
+    "rewardCostumeId": "cos-yu-casl-02",
+    "imageType1": 3,
+    "displayPositionX1": -0.057,
+    "displayScale1": 1.0,
+    "highlightDisplayPositionX1": -0.021,
+    "highlightDisplayPositionY1": 0.122,
+    "highlightDisplayScale1": 0.6,
+    "imageType2": 3,
+    "displayPositionX2": -0.057,
+    "displayScale2": 1.0,
+    "highlightDisplayPositionX2": -0.021,
+    "highlightDisplayPositionY2": 0.122,
+    "highlightDisplayScale2": 0.6,
+    "obtainMessage": "二次元は二次元、\n三次元は三次元です",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-casl-02-01"
+      },
+      {
+        "storyId": "st-card-yu-05-casl-02-02"
+      },
+      {
+        "storyId": "st-card-yu-05-casl-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-casl-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-casl-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "displayPositionY1": 0.0,
+    "displayPositionY2": 0.0,
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-yu-05-fest-00",
     "assetId": "yu-05-fest-00",
     "name": "甘えん坊の鈴村さん",
