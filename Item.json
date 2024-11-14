@@ -1056,6 +1056,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dream-generate-dream-24-1117",
+    "name": "イメトレマニュアル",
+    "assetId": "dream-generate",
+    "description": "イメージトレーニングのステージ生成に使用する",
+    "howToGet": "イメージトレーニング",
+    "type": 10001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-enjoy-present-adult-01-01",
     "name": "コーヒー",
     "assetId": "enjoy-present-adult-01-01",
@@ -4368,6 +4380,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-24-1114",
+    "name": "もしも君と恋をしたら~鈴村優編~ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -5232,6 +5256,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-24-1116",
+    "name": "選べる★5バッファーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -5558,6 +5594,18 @@
   {
     "id": "item-gacha_point-select-01-24-1027",
     "name": "選べる★5ボーカルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-select-01-24-1115",
+    "name": "もし恋開催記念 選べる★5アイドルガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -6268,6 +6316,42 @@
     "name": "もし恋ストーリーPt",
     "assetId": "love-24-0517-story-pt",
     "description": "もし恋のストーリーを読むために必要なPt\nもし恋 早坂芽衣編で使用できる",
+    "howToGet": "もし恋",
+    "type": 9001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-love-24-1114-lesson-boost",
+    "name": "もし恋スキップドリンク",
+    "assetId": "love-23-0514-lesson-boost",
+    "description": "2時間分の報酬をすぐに獲得できる\nもし恋 鈴村優編で使用できる",
+    "howToGet": "もし恋",
+    "type": 9003,
+    "value": 120,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-love-24-1114-present",
+    "name": "プレゼント",
+    "assetId": "love-24-1114-present",
+    "description": "ヒロインに渡すことができるプレゼント\nもし恋 鈴村優編で使用できる",
+    "howToGet": "もし恋",
+    "type": 9002,
+    "value": 167,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-love-24-1114-story",
+    "name": "もし恋ストーリーPt",
+    "assetId": "love-24-1114-story-pt",
+    "description": "もし恋のストーリーを読むために必要なPt\nもし恋 鈴村優編で使用できる",
     "howToGet": "もし恋",
     "type": 9001,
     "value": 1,
@@ -8776,6 +8860,18 @@
     "name": "天使と悪魔のLie or Truth1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-24-1114-01",
+    "name": "もしも君と恋をしたら~鈴村優編~★5確定ガチャチケ",
+    "assetId": "shop-gacha-ticket-r5",
+    "description": "もしも君と恋をしたら~鈴村優編~★5アイドル1人確定チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
     "type": 8,
     "value": 1,
