@@ -4824,6 +4824,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_chs-04",
+    "name": "【誕生日】白石千紗",
+    "assetId": "birthday_chs-04",
+    "autoProvideConditionId": "cd-birthday_emblem_chs-24-1122",
+    "order": 604070,
+    "description": "千紗の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_hrk-03",
     "name": "【誕生日】佐伯遙子",
     "assetId": "birthday_hrk-03",
@@ -7520,6 +7529,33 @@
     "assetId": "pvp-season-116-top100",
     "order": 311630,
     "description": "VENUSバトルシーズン116で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-117-top001",
+    "name": "VENUSシーズン117 No.1",
+    "assetId": "pvp-season-117-top001",
+    "order": 311710,
+    "description": "VENUSバトルシーズン117で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-117-top010",
+    "name": "VENUSシーズン117 TOP10",
+    "assetId": "pvp-season-117-top010",
+    "order": 311720,
+    "description": "VENUSバトルシーズン117で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-117-top100",
+    "name": "VENUSシーズン117 TOP100",
+    "assetId": "pvp-season-117-top100",
+    "order": 311730,
+    "description": "VENUSバトルシーズン117で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

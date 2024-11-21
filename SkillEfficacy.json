@@ -3454,6 +3454,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-5-target-self-27",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に5段階Aスキルスコア上昇効果[27ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-5-target-self-28",
     "name": "自身にAスキルスコア上昇効果",
     "type": 18,
@@ -4448,6 +4459,17 @@
     "name": "自身にAスキルスコア上昇効果",
     "type": 18,
     "description": "自身に6段階Aスキルスコア上昇効果[46ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-6-target-self-47",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に6段階Aスキルスコア上昇効果[47ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -7304,6 +7326,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-self-27",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[27ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-self-28",
     "name": "自身に集目効果",
     "type": 21,
@@ -7832,6 +7865,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-7-target-self-42",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[42ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-7-target-self-43",
     "name": "自身に集目効果",
     "type": 21,
@@ -7869,6 +7913,17 @@
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に7段階の集目効果[46ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-self-47",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[47ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -38236,6 +38291,72 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-21",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[21ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-24",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[24ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-27",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[27ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-30",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[30ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-33",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[33ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-37",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[37ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_critical_bonus_permil_up-10-target-character_type-1-2-22",
     "name": "スコアラータイプ2人にクリティカル係数上昇上限解放",
     "type": 81,
@@ -45925,6 +46046,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-13300-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1330%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-14300-chart_dependence",
     "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
     "type": 36,
@@ -45936,10 +46068,65 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-15000-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1500%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-15700-chart_dependence",
     "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1570%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-16800-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1680%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-18600-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1860%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-20400-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "2040%のスコア獲得、集目状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-audience_amount_increase-22200-chart_dependence",
+    "name": "スコア獲得-集目状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "2220%のスコア獲得、集目状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,

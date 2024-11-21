@@ -1887,6 +1887,58 @@
     "homeTalks": []
   },
   {
+    "id": "card-chs-05-birt-01",
+    "assetId": "chs-05-birt-01",
+    "name": "誕生日トラベル・千紗",
+    "description": "おみくじを引いて……水で濡らして……\n……あっ、見て下さい！　今度は大吉です！",
+    "type": 1,
+    "characterId": "char-chs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 277,
+    "visualRatioPermil": 435,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-chs-05-birt-01-1",
+    "skillId2": "sk-chs-05-birt-01-2",
+    "skillId3": "sk-chs-05-birt-01-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 424,
+    "releaseDate": "1732201200000",
+    "imageType1": 3,
+    "displayPositionX1": -0.114,
+    "displayPositionY1": 0.083,
+    "displayScale1": 1.2,
+    "highlightDisplayPositionX1": 0.004,
+    "highlightDisplayPositionY1": 0.303,
+    "highlightDisplayScale1": 0.9,
+    "imageType2": 3,
+    "displayPositionX2": -0.114,
+    "displayPositionY2": 0.083,
+    "displayScale2": 1.2,
+    "highlightDisplayPositionX2": 0.004,
+    "highlightDisplayPositionY2": 0.303,
+    "highlightDisplayScale2": 0.9,
+    "obtainMessage": "マネージャーさんは、\nお守りみたいです",
+    "rewardHairId": "hair-chs-hair-11",
+    "stories": [
+      {
+        "storyId": "st-card-chs-05-birt-01-01"
+      },
+      {
+        "storyId": "st-card-chs-05-birt-01-02"
+      },
+      {
+        "storyId": "st-card-chs-05-birt-01-03"
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-chs-05-chia-00",
     "assetId": "chs-05-chia-00",
     "name": "燃える頬と熱い心",
