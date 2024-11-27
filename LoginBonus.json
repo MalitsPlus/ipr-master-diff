@@ -1995,6 +1995,48 @@
     "receiveConditionId": "cd-time-login-24-1029-1111"
   },
   {
+    "id": "login_bonus-campaign-24-1128-01",
+    "name": "カムバック",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-comeback-24-1128-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-gacha_ticket-24-0624-01-r5;1",
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-gacha_ticket;10"
+    ],
+    "openConditionId": "cd-time-login-24-1128-1206",
+    "receiveConditionId": "cd-time-login-24-1128-1213"
+  },
+  {
+    "id": "login_bonus-campaign-24-1129-01",
+    "name": "コラボ特別",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-24-1128-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-exchange-collaboration-medal-24-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-1128;2",
+      "rd_auto;item;item-exchange-collaboration-medal-24-1128;2"
+    ],
+    "openConditionId": "cd-time-login-24-1129-1205",
+    "receiveConditionId": "cd-time-login-24-1129-1212"
+  },
+  {
     "id": "login_bonus-campaign02-24-1114-01",
     "name": "もし恋",
     "description": "7日間の特別なログインボーナス",

@@ -24,6 +24,7 @@
       "cos-ai-fest-02",
       "cos-ai-fest-10",
       "cos-ai-ggyt-00",
+      "cos-ai-goch-00",
       "cos-ai-idol-00",
       "cos-ai-idol-02",
       "cos-ai-idol-03",
@@ -226,6 +227,7 @@
       "cos-aoi-fest-02",
       "cos-aoi-fest-10",
       "cos-aoi-ggyt-00",
+      "cos-aoi-goch-00",
       "cos-aoi-idol-00",
       "cos-aoi-idol-02",
       "cos-aoi-idol-03",
@@ -394,6 +396,143 @@
     "homeMainCharacterStayPropAssetId": ""
   },
   {
+    "id": "char-cca",
+    "assetId": "cca",
+    "characterGroupId": "character_group_goch",
+    "order": 1006,
+    "name": "ココア",
+    "enName": "COCOA",
+    "cv": "佐倉綾音",
+    "age": "18歳",
+    "birthday": "4月10日",
+    "height": "154cm",
+    "weight": "ー",
+    "zodiacSign": "おひつじ座",
+    "hometown": "ー",
+    "favorite": "ー",
+    "unfavorite": "ー",
+    "profile": "喫茶ラビットハウスに下宿している女の子。かわいいものやモフモフしたものが大好きで、チノのことを妹のようにかわいがっている。",
+    "costumeIds": [
+      "cos-cca-goch-00",
+      "cos-cca-goch-01",
+      "cos-cca-goch-02"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 1
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 2
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 16
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 14
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 12
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 17
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
+      }
+    ],
+    "defaultCostumeId": "cos-cca-goch-00",
+    "heightCorrectionPermil": -77,
+    "color": "FFA3C9",
+    "talkArrivalMotionAssetId": "mot_adv_chr_cca_appr-001_in",
+    "viewConditionId": "cd-date-24-1128",
+    "personalityType": 2,
+    "simplePersonalityType": 2,
+    "sdPersonalityType": 2,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-b_in",
+      "mot_dress_chr_cmn_action-002-b_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_cca_dress-01",
+      "sud_vo_cmn_cca_dress-02"
+    ],
+    "psylliumColorType": 9,
+    "shortProfile": "喫茶ラビットハウスに\n下宿している女の子",
+    "threeSize": "ー",
+    "catchphrase": "ー",
+    "firstName": "ココア",
+    "defaultLiveCostumeId": "cos-cca-goch-00",
+    "facePositionY": 678.0,
+    "groupPositionX": 0.3,
+    "groupPositionY": 0.7,
+    "catchphraseColor": "FFA3C9",
+    "unlockConditionId": "cd-chr-obtain-cca",
+    "type": 4,
+    "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_cca_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_cca_idle-001-start_in",
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
+    "isLeftHanded": false,
+    "idiom": "",
+    "facePositionX": 0.0,
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
+  },
+  {
     "id": "char-chk",
     "assetId": "chk",
     "characterGroupId": "character_group_aqo",
@@ -532,6 +671,143 @@
     "homeMainCharacterStayPropAssetId": ""
   },
   {
+    "id": "char-chn",
+    "assetId": "chn",
+    "characterGroupId": "character_group_goch",
+    "order": 1007,
+    "name": "チノ",
+    "enName": "CHINO",
+    "cv": "水瀬いのり",
+    "age": "15歳",
+    "birthday": "12月4日",
+    "height": "144cm",
+    "weight": "ー",
+    "zodiacSign": "いて座",
+    "hometown": "ー",
+    "favorite": "ー",
+    "unfavorite": "ー",
+    "profile": "ラビットハウスの一人娘。クールな性格だがココアのことは嫌いじゃない…!? コーヒーに詳しいしっかり者。",
+    "costumeIds": [
+      "cos-chn-goch-00",
+      "cos-chn-goch-01",
+      "cos-chn-goch-02"
+    ],
+    "altCharacters": [
+      {
+        "characterId": "char-ai",
+        "priority": 1
+      },
+      {
+        "characterId": "char-aoi",
+        "priority": 2
+      },
+      {
+        "characterId": "char-chs",
+        "priority": 16
+      },
+      {
+        "characterId": "char-hrk",
+        "priority": 14
+      },
+      {
+        "characterId": "char-kkr",
+        "priority": 3
+      },
+      {
+        "characterId": "char-ktn",
+        "priority": 10
+      },
+      {
+        "characterId": "char-mei",
+        "priority": 12
+      },
+      {
+        "characterId": "char-ngs",
+        "priority": 11
+      },
+      {
+        "characterId": "char-rei",
+        "priority": 17
+      },
+      {
+        "characterId": "char-rio",
+        "priority": 4
+      },
+      {
+        "characterId": "char-rui",
+        "priority": 7
+      },
+      {
+        "characterId": "char-ski",
+        "priority": 9
+      },
+      {
+        "characterId": "char-skr",
+        "priority": 15
+      },
+      {
+        "characterId": "char-smr",
+        "priority": 6
+      },
+      {
+        "characterId": "char-suz",
+        "priority": 8
+      },
+      {
+        "characterId": "char-szk",
+        "priority": 13
+      },
+      {
+        "characterId": "char-yu",
+        "priority": 5
+      }
+    ],
+    "defaultCostumeId": "cos-chn-goch-00",
+    "heightCorrectionPermil": -846,
+    "color": "6ECEFA",
+    "talkArrivalMotionAssetId": "mot_adv_chr_chn_appr-001_in",
+    "viewConditionId": "cd-date-24-1128",
+    "personalityType": 5,
+    "simplePersonalityType": 3,
+    "sdPersonalityType": 5,
+    "costumeMotionAssetIds": [
+      "mot_dress_chr_cmn_action-001-e_in",
+      "mot_dress_chr_cmn_action-002-e_in"
+    ],
+    "costumeAdditionMotionAssetIds": [
+      "",
+      ""
+    ],
+    "costumeVoiceAssetIds": [
+      "sud_vo_cmn_chn_dress-01",
+      "sud_vo_cmn_chn_dress-02"
+    ],
+    "psylliumColorType": 14,
+    "shortProfile": "ラビットハウスの一人娘",
+    "threeSize": "ー",
+    "catchphrase": "ー",
+    "firstName": "チノ",
+    "defaultLiveCostumeId": "cos-chn-goch-00",
+    "facePositionX": 9.0,
+    "facePositionY": 795.0,
+    "groupPositionX": 0.75,
+    "groupPositionY": 0.54,
+    "catchphraseColor": "6ECEFA",
+    "unlockConditionId": "cd-chr-obtain-chn",
+    "type": 4,
+    "groupName": "ー",
+    "homeMainCharacterStayMotionAssetId": "mot_all_chr_chn_idle-001_pose",
+    "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_chn_idle-001-start_in",
+    "activityFanEventWords": [],
+    "talkArrivalAdditionMotionAssetId": "",
+    "isLeftHanded": false,
+    "idiom": "",
+    "isHomeDanceTarget": false,
+    "companyEnjoyStories": [],
+    "homeMainCharacterStayAdditionMotionAssetId": "",
+    "homeMainCharacterStayPropAssetId": ""
+  },
+  {
     "id": "char-chs",
     "assetId": "chs",
     "characterGroupId": "character_group_2",
@@ -559,6 +835,8 @@
       "cos-chs-fest-10",
       "cos-chs-flow-00",
       "cos-chs-ggyt-00",
+      "cos-chs-goch-00",
+      "cos-chs-goch-01",
       "cos-chs-idol-00",
       "cos-chs-idol-01",
       "cos-chs-idol-02",
@@ -812,6 +1090,7 @@
       "cos-hrk-chna-00",
       "cos-hrk-fest-10",
       "cos-hrk-ggyt-00",
+      "cos-hrk-goch-00",
       "cos-hrk-idol-00",
       "cos-hrk-idol-01",
       "cos-hrk-idol-02",
@@ -1013,6 +1292,7 @@
       "cos-kan-chna-00",
       "cos-kan-fest-10",
       "cos-kan-ggyt-00",
+      "cos-kan-goch-00",
       "cos-kan-idol-00",
       "cos-kan-idol-02",
       "cos-kan-idol-03",
@@ -1222,6 +1502,8 @@
       "cos-kkr-fest-02",
       "cos-kkr-fest-10",
       "cos-kkr-ggyt-00",
+      "cos-kkr-goch-00",
+      "cos-kkr-goch-01",
       "cos-kkr-idol-00",
       "cos-kkr-idol-02",
       "cos-kkr-idol-03",
@@ -1824,6 +2106,7 @@
       "cos-kor-casl-00",
       "cos-kor-fest-10",
       "cos-kor-ggyt-00",
+      "cos-kor-goch-00",
       "cos-kor-idol-00",
       "cos-kor-idol-02",
       "cos-kor-idol-03",
@@ -2028,6 +2311,7 @@
       "cos-ktn-fest-01",
       "cos-ktn-fest-10",
       "cos-ktn-ggyt-00",
+      "cos-ktn-goch-00",
       "cos-ktn-idol-00",
       "cos-ktn-idol-01",
       "cos-ktn-idol-02",
@@ -2226,6 +2510,7 @@
       "cos-mei-fest-00",
       "cos-mei-fest-10",
       "cos-mei-ggyt-00",
+      "cos-mei-goch-00",
       "cos-mei-idol-00",
       "cos-mei-idol-01",
       "cos-mei-idol-02",
@@ -2424,6 +2709,7 @@
       "cos-mhk-casl-00",
       "cos-mhk-fest-10",
       "cos-mhk-ggyt-00",
+      "cos-mhk-goch-00",
       "cos-mhk-idol-00",
       "cos-mhk-idol-02",
       "cos-mhk-idol-03",
@@ -2775,6 +3061,7 @@
       "cos-mna-fest-01",
       "cos-mna-fest-10",
       "cos-mna-ggyt-00",
+      "cos-mna-goch-00",
       "cos-mna-idol-00",
       "cos-mna-idol-02",
       "cos-mna-kion-00",
@@ -2991,6 +3278,7 @@
       "cos-ngs-fest-10",
       "cos-ngs-flow-00",
       "cos-ngs-ggyt-00",
+      "cos-ngs-goch-00",
       "cos-ngs-idol-00",
       "cos-ngs-idol-01",
       "cos-ngs-idol-02",
@@ -3195,6 +3483,7 @@
       "cos-rei-fest-00",
       "cos-rei-fest-10",
       "cos-rei-ggyt-00",
+      "cos-rei-goch-00",
       "cos-rei-idol-00",
       "cos-rei-idol-01",
       "cos-rei-idol-02",
@@ -3536,6 +3825,7 @@
       "cos-rio-fest-02",
       "cos-rio-fest-10",
       "cos-rio-ggyt-00",
+      "cos-rio-goch-00",
       "cos-rio-halw-00",
       "cos-rio-idol-00",
       "cos-rio-idol-02",
@@ -3732,6 +4022,7 @@
       "cos-rui-fest-02",
       "cos-rui-fest-10",
       "cos-rui-ggyt-00",
+      "cos-rui-goch-00",
       "cos-rui-idol-00",
       "cos-rui-idol-02",
       "cos-rui-idol-03",
@@ -3927,6 +4218,7 @@
       "cos-ski-chsk-00",
       "cos-ski-fest-10",
       "cos-ski-ggyt-00",
+      "cos-ski-goch-00",
       "cos-ski-idol-00",
       "cos-ski-idol-01",
       "cos-ski-idol-02",
@@ -4127,6 +4419,7 @@
       "cos-skr-fest-10",
       "cos-skr-flow-00",
       "cos-skr-ggyt-00",
+      "cos-skr-goch-00",
       "cos-skr-idol-00",
       "cos-skr-idol-01",
       "cos-skr-idol-02",
@@ -4321,6 +4614,8 @@
       "cos-smr-fest-10",
       "cos-smr-frut-00",
       "cos-smr-ggyt-00",
+      "cos-smr-goch-00",
+      "cos-smr-goch-01",
       "cos-smr-idol-00",
       "cos-smr-idol-02",
       "cos-smr-idol-03",
@@ -4938,6 +5233,8 @@
       "cos-suz-casl-01",
       "cos-suz-fest-10",
       "cos-suz-ggyt-00",
+      "cos-suz-goch-00",
+      "cos-suz-goch-01",
       "cos-suz-idol-00",
       "cos-suz-idol-01",
       "cos-suz-idol-02",
@@ -5136,6 +5433,8 @@
       "cos-szk-fest-10",
       "cos-szk-flow-00",
       "cos-szk-ggyt-00",
+      "cos-szk-goch-00",
+      "cos-szk-goch-01",
       "cos-szk-idol-00",
       "cos-szk-idol-01",
       "cos-szk-idol-02",
@@ -5746,6 +6045,7 @@
       "cos-yu-fest-02",
       "cos-yu-fest-10",
       "cos-yu-ggyt-00",
+      "cos-yu-goch-00",
       "cos-yu-idol-00",
       "cos-yu-idol-02",
       "cos-yu-idol-03",

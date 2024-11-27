@@ -242,6 +242,32 @@
     "nameColor": ""
   },
   {
+    "id": "character_group_goch",
+    "assetId": "goch",
+    "order": 9,
+    "name": "ご注文はうさぎですか？",
+    "viewConditionId": "cd-date-24-1128",
+    "color": "955E4B",
+    "mappings": [
+      {
+        "characterId": "char-cca",
+        "description": "喫茶ラビットハウスに下宿している女の子。かわいいものやモフモフしたものが大好きで、チノのことを妹のようにかわいがっている。",
+        "order": 106,
+        "assetId": ""
+      },
+      {
+        "characterId": "char-chn",
+        "description": "ラビットハウスの一人娘。クールな性格だがココアのことは嫌いじゃない…!? コーヒーに詳しいしっかり者。",
+        "order": 107,
+        "assetId": ""
+      }
+    ],
+    "backgroundColor": "FFD2C7",
+    "textColor": "955E4B",
+    "characterType": 4,
+    "nameColor": ""
+  },
+  {
     "id": "character_group_mku",
     "assetId": "mku",
     "order": 7,

@@ -2124,6 +2124,42 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-331",
+    "name": "【殿堂入り】ココア",
+    "assetId": "score_cca",
+    "autoProvideConditionId": "cd-live_character_highest_score-cca-10000000",
+    "isViewableInInactive": true,
+    "order": 500835,
+    "description": "ココアハイスコア10000000"
+  },
+  {
+    "id": "emb-332",
+    "name": "【殿堂入り】チノ",
+    "assetId": "score_chn",
+    "autoProvideConditionId": "cd-live_character_highest_score-chn-10000000",
+    "isViewableInInactive": true,
+    "order": 500836,
+    "description": "チノハイスコア10000000"
+  },
+  {
+    "id": "emb-333",
+    "name": "お姉ちゃんに任せなさい",
+    "assetId": "reliability_cca-30",
+    "autoProvideConditionId": "cd-reliability-cca-30",
+    "order": 501265,
+    "description": "ココア信頼度30到達",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-334",
+    "name": "妹じゃないです",
+    "assetId": "reliability_chn-30",
+    "autoProvideConditionId": "cd-reliability-chn-30",
+    "order": 501266,
+    "description": "チノ信頼度30到達",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-400",
     "name": "[奇跡]",
     "assetId": "emb-cd-5-0001-limited",
@@ -5400,6 +5436,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-eve-24-1128",
+    "name": "イベント称号",
+    "assetId": "event-contest-24-1128",
+    "order": 124121,
+    "description": "フォトオーディション「心跳ねるクリスマスパーティー」条件達成",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-eve-240103-1",
     "name": "にゃんか不思議なお正月！？",
     "assetId": "race-24-0103",
@@ -7556,6 +7601,33 @@
     "assetId": "pvp-season-117-top100",
     "order": 311730,
     "description": "VENUSバトルシーズン117で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-118-top001",
+    "name": "VENUSシーズン118 No.1",
+    "assetId": "pvp-season-118-top001",
+    "order": 311810,
+    "description": "VENUSバトルシーズン118で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-118-top010",
+    "name": "VENUSシーズン118 TOP10",
+    "assetId": "pvp-season-118-top010",
+    "order": 311820,
+    "description": "VENUSバトルシーズン118で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-118-top100",
+    "name": "VENUSシーズン118 TOP100",
+    "assetId": "pvp-season-118-top100",
+    "order": 311830,
+    "description": "VENUSバトルシーズン118で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
