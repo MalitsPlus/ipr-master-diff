@@ -1,17 +1,5 @@
 [
   {
-    "id": "-",
-    "name": "専用ガチャチケット",
-    "assetId": "FALSE",
-    "description": "有効期限：入手後180日\n★5アイドル1人確定ガチャを引くことができる",
-    "howToGet": "ショップなど",
-    "type": 8,
-    "value": 1,
-    "order": 140,
-    "salePrice": 0,
-    "isPhotoShootingCharacterOnly": false
-  },
-  {
     "id": "item-accessory_limit_break-01",
     "name": "スピリットライザー",
     "assetId": "accessory-limit-break",
@@ -2604,6 +2592,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-24-1204",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「with Rabbit HouseⅡ」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point",
     "name": "共通ガチャPt",
     "assetId": "gacha-point",
@@ -3842,6 +3842,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-24-1128",
     "name": "with Rabbit HouseⅠガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-24-1204",
+    "name": "with Rabbit HouseⅡガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
