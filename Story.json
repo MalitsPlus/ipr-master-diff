@@ -224,6 +224,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-kkr-24-1206",
+    "name": "赤崎こころ 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はこころの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "限定プリンケーキ",
+        "advAssetId": "hbd_04_kkr_01"
+      },
+      {
+        "index": 2,
+        "text": "温かいちゃんちゃんこ",
+        "advAssetId": "hbd_04_kkr_02"
+      },
+      {
+        "index": 3,
+        "text": "いたずらグッズセット",
+        "advAssetId": "hbd_04_kkr_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-kor-24-0611",
     "name": "fran 誕生日2024",
     "advPlayTypes": [
@@ -3928,6 +3960,60 @@
     ],
     "advAssetIds": [
       "card_kkr_51_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-birt-01-01",
+    "name": "慰安旅行\nin山梨",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_52_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-birt-01-02",
+    "name": "ぎいやああ\nあああーっ！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_52_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-birt-01-03",
+    "name": "幽霊\n怖いーー！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_52_03"
     ],
     "sectionName": "",
     "description": "",
@@ -20289,6 +20375,24 @@
     ],
     "advAssetIds": [
       "event_2409_02_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-ex-story-part-special-01-birthday-trip-2024-03",
+    "name": "プロローグ",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2412_02_01"
     ],
     "sectionName": "",
     "description": "",

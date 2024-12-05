@@ -1,5 +1,17 @@
 [
   {
+    "id": "-",
+    "name": "専用ガチャチケット",
+    "assetId": "FALSE",
+    "description": "有効期限：入手後180日\n★5アイドル1人確定ガチャを引くことができる",
+    "howToGet": "ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-accessory_limit_break-01",
     "name": "スピリットライザー",
     "assetId": "accessory-limit-break",
@@ -2484,6 +2496,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-birthday-24-1206",
+    "name": "誕生日缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge-birthday",
+    "description": "誕生日缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「こころ誕生日ガチャ2024」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_medal-buttonbadge-fs-set-bloom-24-0626",
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
@@ -2954,6 +2978,18 @@
   {
     "id": "item-gacha_point-birthday-24-1122",
     "name": "千紗誕生日ガチャ2024Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-birthday-24-1206",
+    "name": "こころ誕生日ガチャ2024Pt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -4752,6 +4788,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-birthday-24-1206",
+    "name": "【復刻】こころ誕生日ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-rev-limited-21-1225",
     "name": "【復刻】琉球の楽園ガチャPt",
     "assetId": "gacha-point",
@@ -6349,6 +6397,18 @@
   },
   {
     "id": "item-ladder_pt_24-1108",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-ladder_pt_24-1208",
     "name": "メッセPt",
     "assetId": "ladder-pt",
     "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
