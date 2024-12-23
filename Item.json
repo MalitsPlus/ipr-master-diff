@@ -1872,6 +1872,42 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-ticket-24-1224-01",
+    "name": "★5契約書 Part1",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所 Part1で好きな\nメンバーと交換できるチケット",
+    "howToGet": "3.5周年記念ドリームギフトガチャ\nPart1",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-24-1224-02",
+    "name": "★5契約書 Part2",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所 Part2で好きな\nメンバーと交換できるチケット",
+    "howToGet": "3.5周年記念ドリームギフトガチャ\nPart2",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-24-1224-03",
+    "name": "★5限定契約書 2nd",
+    "assetId": "card-exchange-05-23-0624",
+    "description": "★5限定アイドル交換所 2ndで好きな\nメンバーと交換できるチケット",
+    "howToGet": "復刻ドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-ticket-fes-dream-23-1226",
     "name": "★5フェス契約書",
     "assetId": "card-exchange-05-23-1226",
@@ -1897,6 +1933,18 @@
   },
   {
     "id": "item-exchange-ticket-mna-premium-24-0624",
+    "name": "★5プレミアム契約書",
+    "assetId": "card-exchange-05-situation-illust",
+    "description": "★5シチュエーションイラスト交換所で好きなメンバーと交換できるチケット",
+    "howToGet": "プレミアムガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-mna-premium-24-1224",
     "name": "★5プレミアム契約書",
     "assetId": "card-exchange-05-situation-illust",
     "description": "★5シチュエーションイラスト交換所で好きなメンバーと交換できるチケット",
@@ -2021,6 +2069,18 @@
     "assetId": "gacha-endless-22-1224",
     "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
     "howToGet": "引き放題ガチャ",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-endless-24-1224-m10-ticket",
+    "name": "10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
+    "howToGet": "3.5周年記念引き放題ガチャ",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -2317,6 +2377,18 @@
   },
   {
     "id": "item-gacha-premium-ticket-free-24-1124",
+    "name": "無料プレミアムガチャチケ",
+    "assetId": "gacha-ticket-premium-free",
+    "description": "プレミアムガチャを引くことができる",
+    "howToGet": "プレミアムガチャに遷移",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-premium-ticket-free-24-1224",
     "name": "無料プレミアムガチャチケ",
     "assetId": "gacha-ticket-premium-free",
     "description": "プレミアムガチャを引くことができる",
@@ -5546,6 +5618,18 @@
   {
     "id": "item-gacha_point-rev-select-01-24-1218",
     "name": "選べる★5アイドルガチャ LizNoir ver.Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-24-1224",
+    "name": "選べる★5復刻ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
