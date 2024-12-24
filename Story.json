@@ -320,6 +320,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-ktn-24-1225",
+    "name": "長瀬琴乃 誕生日2024",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は琴乃の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "渚お勧めの恋愛小説",
+        "advAssetId": "hbd_05_ktn_01"
+      },
+      {
+        "index": 2,
+        "text": "ジャンボわたあめ",
+        "advAssetId": "hbd_05_ktn_02"
+      },
+      {
+        "index": 3,
+        "text": "トナカイのカチューシャ",
+        "advAssetId": "hbd_05_ktn_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-mei-23-0707",
     "name": "早坂芽衣 誕生日2023",
     "advPlayTypes": [
@@ -5094,6 +5126,60 @@
     ],
     "advAssetIds": [
       "card_ktn_51_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ktn-05-birt-01-01",
+    "name": "慰安旅行\nin山梨",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ktn_52_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ktn-05-birt-01-02",
+    "name": "一日だけの\n不良",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ktn_52_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ktn-05-birt-01-03",
+    "name": "私とワルな\nことをして\nくれますか",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ktn_52_03"
     ],
     "sectionName": "",
     "description": "",

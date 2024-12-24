@@ -1,0 +1,153 @@
+[
+  {
+    "id": "photo_activity-living",
+    "name": "東京寮リビング",
+    "thumbnailAssetId": "living-01",
+    "stageId": "stage-photo-living-01",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "pajm"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 4,
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_activity-theme_park",
+    "name": "テーマパーク",
+    "thumbnailAssetId": "themepark-00",
+    "stageId": "stage-photo-themepark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol",
+      "pajm"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 5,
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_expression-garden",
+    "name": "ガーデンテラス",
+    "thumbnailAssetId": "garden-02",
+    "stageId": "stage-photo-garden-02",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "waso",
+      "pajm"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 2,
+    "viewConditionId": "cd-time-photo-garden-02-01",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_expression-lesson",
+    "name": "レッスン室",
+    "thumbnailAssetId": "lesson-00",
+    "stageId": "stage-photo-lesson-00",
+    "costumeTypeIds": [
+      "casl",
+      "gene",
+      "idol",
+      "idol-miku",
+      "kion",
+      "mizg",
+      "mizg-water-ng",
+      "schl",
+      "trng",
+      "waso",
+      "pajm"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 3,
+    "viewConditionId": "cd-time-photo-lesson-00-01",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-pool",
+      "photo-pose-lying-down-pool"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-pool",
+    "name": "水着グラビア撮影",
+    "thumbnailAssetId": "pool-00",
+    "stageId": "stage-photo-expression-pool-00",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "order": 1,
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-lesson",
+      "photo-pose-lying-relax-lesson"
+    ],
+    "viewConditionId": "",
+    "unlockConditionId": ""
+  }
+]
