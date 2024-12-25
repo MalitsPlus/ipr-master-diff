@@ -2100,6 +2100,27 @@
     "receiveConditionId": "cd-time-login02-24-1216-1229"
   },
   {
+    "id": "login_bonus-campaign02-24-1229-01",
+    "name": "The Black Lily",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-24-1229-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;photo_all_in_one;phot-prm-5-91;1",
+      "rd_auto;item;item-gacha_ticket-24-0624-01-r5;1",
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-card_limit_break;100",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-photo_ink-basic-03;1",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-24-1229-0104",
+    "receiveConditionId": "cd-time-login02-24-1229-0111"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

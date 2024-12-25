@@ -828,6 +828,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-24-1226",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_gold-24-0404",
     "name": "すごろくコイン",
     "assetId": "gold-dice",
@@ -853,6 +865,18 @@
   },
   {
     "id": "item-dice_gold-24-0925",
+    "name": "すごろくコイン",
+    "assetId": "gold-dice",
+    "description": "マップ内のショップでアイテムを購入することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-dice_gold-24-1226",
     "name": "すごろくコイン",
     "assetId": "gold-dice",
     "description": "マップ内のショップでアイテムを購入することができます\nイベント終了後はコインに変換されます",
@@ -900,6 +924,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_medal-24-1226",
+    "name": "すごろくメダル",
+    "assetId": "medal-dice",
+    "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_stamina_recovery-24-0404",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
@@ -925,6 +961,18 @@
   },
   {
     "id": "item-dice_stamina_recovery-24-0925",
+    "name": "すごろくキャンディ",
+    "assetId": "dice-stamina-recovery",
+    "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント、ファンイベント、プロモーション など",
+    "type": 3001,
+    "value": 10,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-dice_stamina_recovery-24-1226",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
     "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
@@ -1560,6 +1608,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-theblacklilly-medal-24-1226",
+    "name": "The Black Lilyメダル",
+    "assetId": "medal-theblacklilly",
+    "description": "The Black Lilyメダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ガチャ、ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-themoon-medal-24-0626",
     "name": "The MOONメダル",
     "assetId": "medal-themoon",
@@ -1901,6 +1961,18 @@
     "assetId": "card-exchange-05-23-0624",
     "description": "★5限定アイドル交換所 2ndで好きな\nメンバーと交換できるチケット",
     "howToGet": "復刻ドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-24-1226",
+    "name": "★5フェス契約書",
+    "assetId": "card-exchange-05-24-0626",
+    "description": "★5フェスアイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "3.5周年記念フェスドリームギフトガチャ",
     "type": 10,
     "value": 1,
     "order": 140,
@@ -2257,6 +2329,18 @@
   },
   {
     "id": "item-gacha-free-ticket-1s-24-1220",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "0のつく日はアイプラの日 限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-24-1230",
     "name": "無料10連ガチャチケ",
     "assetId": "gacha-endless-22-1224",
     "description": "10連チケットガチャを1回引くことができる",
@@ -2680,6 +2764,18 @@
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「アイプラフェス」など",
+    "howToGet": "ガチャ、ショップなど",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-fs-set-bloom-24-1226",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「アイプラフェス The Black LilyⅠ」など",
     "howToGet": "ガチャ、ショップなど",
     "type": 3001,
     "value": 1,
@@ -3276,6 +3372,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-fs-select-24-1226",
+    "name": "選べるアイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-fs-set-bloom-21-1228",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
@@ -3458,6 +3566,18 @@
   {
     "id": "item-gacha_point-fs-set-bloom-24-0925",
     "name": "アイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-24-1226",
+    "name": "アイプラフェス The Black LilyⅠガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -8403,7 +8523,7 @@
     "id": "item-photo_shooting_level_change-01",
     "name": "MLv撮影フィルム",
     "assetId": "photo-shooting-level-change",
-    "description": "撮影を行うことができる\n現像時のマネージャーLvに応じた品質のフォトを獲得できます。\n[最大品質:160]",
+    "description": "撮影を行うことができる\n現像時のマネージャーLvに応じた品質のフォトを\n獲得できます。\n[最大品質:165]",
     "howToGet": "イベントなど",
     "type": 13,
     "value": 5,
@@ -9340,6 +9460,30 @@
     "name": "with Rabbit House Ⅱ 1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5-24-1204-01",
     "description": "★5アイドル1人確定 with Rabbit House Ⅱ 10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-24-1226-01",
+    "name": "アイプラフェス The Black Lily Ⅰ 1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-1226-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-24-1230-01",
+    "name": "アイプラフェス The Black Lily Ⅱ 1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-1230-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
     "type": 8,
     "value": 1,
