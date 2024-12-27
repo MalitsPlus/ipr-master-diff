@@ -215,6 +215,56 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-05-fest-03",
+    "assetId": "ai-05-fest-03",
+    "name": "限界破りし努力の拳",
+    "description": "これからはLizNoirとして\n胸を張ってステージに立ちます！\n私こそがLizNoirの小美山愛なんだって",
+    "type": 2,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 277,
+    "danceRatioPermil": 407,
+    "visualRatioPermil": 316,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-fest-03-1",
+    "skillId2": "sk-ai-05-fest-03-2",
+    "skillId3": "sk-ai-05-fest-03-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 435,
+    "releaseDate": "1735527600000",
+    "rewardCostumeId": "cos-ai-idol-04",
+    "obtainMessage": "私が道を切り開いてみせます！",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-fest-03-01"
+      },
+      {
+        "storyId": "st-card-ai-05-fest-03-02"
+      },
+      {
+        "storyId": "st-card-ai-05-fest-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ai-05-fest-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ai-05-fest-03",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-idol-00",
     "assetId": "ai-05-idol-00",
     "name": "掴みとる夢",
@@ -3523,6 +3573,56 @@
       },
       {
         "telephoneId": "tel-card-kkr-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-kkr-05-fest-03",
+    "assetId": "kkr-05-fest-03",
+    "name": "心撃ち抜く無敵の笑顔",
+    "description": "これまでのリズノワも最強だったけど\nこれからのリズノワはもっともっと最強なんです",
+    "type": 2,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 274,
+    "visualRatioPermil": 406,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-fest-03-1",
+    "skillId2": "sk-kkr-05-fest-03-2",
+    "skillId3": "sk-kkr-05-fest-03-3",
+    "activityAbilityId": "aab-lesson_card_enhance_item_up",
+    "order": 436,
+    "releaseDate": "1735527600000",
+    "rewardCostumeId": "cos-kkr-idol-04",
+    "obtainMessage": "これからのリズノワは、\nもっともっと最強なんです",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-fest-03-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-fest-03-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-fest-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-fest-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-fest-03",
         "messageId": ""
       }
     ],

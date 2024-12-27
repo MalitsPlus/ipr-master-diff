@@ -49,6 +49,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ai-05-fest-03-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-fest-03-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-fest-03",
+    "choiceText": "うーん……俺は頼れる\nマネージャーがいいかな。",
+    "managerText": "うーん……俺は頼れる\nマネージャーがいいかな。",
+    "reliability": 5,
+    "title": "限界破りし努力の拳",
+    "displayConditionDescription": "限界破りし努力の拳 小美山愛\nストーリー3話を視聴",
+    "order": 385,
+    "releaseDate": "1735527600000",
+    "characterTalks": [
+      {
+        "text": "も～、例え話なんですから\n少しは考えてみて下さいよ！",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-03_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私、小さい頃に絵本を読んでいて、\nお姫様になるのも、素敵な王子様が\n迎えに来るのも、ピンとこなくて。",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-03_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "周りの子が、お姫様になりたいとか\n王子様に憧れたりする気持ちに、\nあまり共感出来なかったんです。",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-03_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、もう少し大きくなって、\n騎士が出てくる物語を読んだら\n……凄く、ドキドキしました。",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-03_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "王子様が現れるのを待つよりも、\n誰かを守るために戦う騎士に\n私がなりたい……なんて。",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-03_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今は騎士じゃなくてアイドルだけど\nこの衣装を着てると、私も誰かの\nために戦えそうな気がするんです。",
+        "voiceAssetId": "sud_vo_home_ai-05-fest-03_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-014_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-idol-00-talk-01",
     "characterId": "char-ai",
     "placeType": 1,
@@ -2542,6 +2597,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-kkr-05-fest-03-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-fest-03-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-fest-03",
+    "choiceText": "何があったんだ？",
+    "managerText": "何があったんだ？",
+    "reliability": 5,
+    "title": "心撃ち抜く無敵の笑顔",
+    "displayConditionDescription": "心撃ち抜く無敵の笑顔 赤崎こころ\nストーリー3話を視聴",
+    "order": 386,
+    "releaseDate": "1735527600000",
+    "characterTalks": [
+      {
+        "text": "実はアメリカってプリンが\nなかなか売ってないんですよ。\nいくら探してもなくて…",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-03_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "プリン欲に飢えたこころは\n心優しいファンの差し入れや\n莉央さんの手作りでしのいでて…",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-03_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "けどついに見つけたんですよ！\n割と広めのスーパーで…！\nどこにあったと思います？",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-03_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ゼリー売り場です…\nゼリーですよ！？　プリンなのに！\n謎過ぎませんか～？",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-03_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "アメリカのはゼラチン入りだから\nゼリー扱いだとか…\nそれでも納得いきませんよね～",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-03_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お土産に買ってきた\nアメリカプリンがまだあるので\n今度一緒に食べましょう～",
+        "voiceAssetId": "sud_vo_home_kkr-05-fest-03_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-kkr-05-idol-00-talk-01",

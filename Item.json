@@ -1572,6 +1572,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-newyear-medal-25-0101",
+    "name": "お年玉",
+    "assetId": "medal-newyear",
+    "description": "お年玉交換所でパック1つと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ギフト",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-sp-beginner-ticket-23-1125",
     "name": "★5契約書",
     "assetId": "card-exchange-05",
@@ -2592,6 +2604,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_lottery-ticket-25-0101",
+    "name": "福引券",
+    "assetId": "lottery-ticket",
+    "description": "10枚で福引券ガチャを1回引くことができる\n使用期限終了後はコインに変換されます",
+    "howToGet": "ショップ、ガチャなど",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_medal",
     "name": "アイドルメダル",
     "assetId": "idol-medal",
@@ -2776,7 +2800,19 @@
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「アイプラフェス The Black LilyⅠ」など",
-    "howToGet": "ガチャ、ショップなど",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-fs-set-bloom-24-1230",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「The Black Lily Ⅱ」など",
+    "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
     "order": 140,
@@ -3578,6 +3614,18 @@
   {
     "id": "item-gacha_point-fs-set-bloom-24-1226",
     "name": "アイプラフェス The Black LilyⅠガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-24-1230",
+    "name": "アイプラフェスThe Black Lily ⅡガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -5786,6 +5834,18 @@
   {
     "id": "item-gacha_point-rev-select-01-24-1224",
     "name": "選べる★5復刻ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-25-0101",
+    "name": "新春記念！選べる★5アイドルガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
