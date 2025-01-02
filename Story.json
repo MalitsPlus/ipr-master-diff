@@ -160,6 +160,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-hrk-25-0103",
+    "name": "佐伯遙子 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は遙子さんの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "花の香りのロゼワイン",
+        "advAssetId": "hbd_05_hrk_01"
+      },
+      {
+        "index": 2,
+        "text": "乾き物おつまみセット",
+        "advAssetId": "hbd_05_hrk_02"
+      },
+      {
+        "index": 3,
+        "text": "保温機能付き徳利",
+        "advAssetId": "hbd_05_hrk_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-kan-24-0410",
     "name": "kana 誕生日2024",
     "advPlayTypes": [
@@ -3020,6 +3052,60 @@
     ],
     "advAssetIds": [
       "card_hrk_51_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-birt-01-01",
+    "name": "慰安旅行\nin山梨",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_52_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-birt-01-02",
+    "name": "美味しい\n山ご飯を\nご馳走\nするから",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_52_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-birt-01-03",
+    "name": "ファイト、\n十七歳……！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_52_03"
     ],
     "sectionName": "",
     "description": "",
