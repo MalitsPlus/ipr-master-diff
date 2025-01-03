@@ -4074,6 +4074,32 @@
     "secretEffectColorCode": ""
   },
   {
+    "id": "ex-story-part-special-01-25-0104-newyear",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_campaign-25-0101-01-story",
+    "name": "お正月",
+    "description": "再生するストーリーを選択してください。",
+    "order": 220,
+    "viewConditionId": "cd-ex-story-part-special-01-25-0104-newyear-open",
+    "unlockConditionId": "cd-ex-story-part-special-01-25-0104-newyear-open",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "campaign_2025_0101",
+        "storyId": "st-ex-story-part-special-01-25-0104-newyear-01",
+        "viewConditionId": "cd-ex-story-part-special-01-25-0104-newyear-open",
+        "unlockConditionId": "cd-ex-story-part-special-01-25-0104-newyear-open",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      }
+    ],
+    "extraStoryType": 1,
+    "iconAssetId": "",
+    "backgroundAssetId": "",
+    "secretEffectColorCode": ""
+  },
+  {
     "id": "ex-story-part-special-01-birthday-trip-2024-03",
     "extraStoryPartId": "ex-story-part-special-01",
     "assetId": "img_banner_l_birthday-trip-2024-03",
@@ -4100,32 +4126,6 @@
     "secretEffectColorCode": ""
   },
   {
-    "id": "ex-story-part-special-01-birthday-trip-2024-02",
-    "extraStoryPartId": "ex-story-part-special-01",
-    "assetId": "img_banner_l_birthday-trip-2024-02",
-    "name": "誕生日ストーリー 京都旅行編",
-    "description": "再生するストーリーを選択してください。",
-    "order": 230,
-    "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
-    "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
-    "episodes": [
-      {
-        "episode": 1,
-        "assetId": "event_2407_02_02",
-        "storyId": "st-ex-story-part-special-01-birthday-trip-2024-02",
-        "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
-        "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      }
-    ],
-    "extraStoryType": 1,
-    "iconAssetId": "",
-    "backgroundAssetId": "",
-    "secretEffectColorCode": ""
-  },
-  {
     "id": "ex-story-part-special-01-birthday-trip-2024-01",
     "extraStoryPartId": "ex-story-part-special-01",
     "assetId": "img_banner_l_birthday-trip-2024-01",
@@ -4141,6 +4141,32 @@
         "storyId": "st-ex-story-part-special-01-birthday-trip-2024-01",
         "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
         "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      }
+    ],
+    "extraStoryType": 1,
+    "iconAssetId": "",
+    "backgroundAssetId": "",
+    "secretEffectColorCode": ""
+  },
+  {
+    "id": "ex-story-part-special-01-birthday-trip-2024-02",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_birthday-trip-2024-02",
+    "name": "誕生日ストーリー 京都旅行編",
+    "description": "再生するストーリーを選択してください。",
+    "order": 230,
+    "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
+    "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2407_02_02",
+        "storyId": "st-ex-story-part-special-01-birthday-trip-2024-02",
+        "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
+        "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
         "afterReadAssetId": "",
         "isSecret": false,
         "isPrologue": false

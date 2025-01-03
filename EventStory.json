@@ -2106,5 +2106,55 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2501-race",
+    "assetId": "event-race-25-0104",
+    "name": "イベントストーリー",
+    "description": "迎春！翼に込める躍進の一念",
+    "order": 250104,
+    "viewConditionId": "cd-event-story-25-0104",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2501_01_01",
+        "storyId": "st-eve-2501-race-001",
+        "unlockConditionId": "cd-event-race-25-0104-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2501_01_02",
+        "storyId": "st-eve-2501-race-002",
+        "unlockConditionId": "cd-event-race-25-0104-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2501_01_03",
+        "storyId": "st-eve-2501-race-003",
+        "unlockConditionId": "cd-event-race-25-0104-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2501_01_04",
+        "storyId": "st-eve-2501-race-004",
+        "unlockConditionId": "cd-event-race-25-0104-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2501_01_05",
+        "storyId": "st-eve-2501-race-005",
+        "unlockConditionId": "cd-event-race-25-0104-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      }
+    ]
   }
 ]

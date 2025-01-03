@@ -7295,6 +7295,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-rui-05-newy-00-talk-01",
+    "characterId": "char-rui",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rui-05-newy-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rui-05-newy-00",
+    "choiceText": "何が聞きたいんだ？",
+    "managerText": "何が聞きたいんだ？",
+    "reliability": 5,
+    "title": "陽射しに踊る春の狐",
+    "displayConditionDescription": "陽射しに踊る春の狐 天動瑠依\nストーリー3話を視聴",
+    "order": 388,
+    "releaseDate": "1735959600000",
+    "characterTalks": [
+      {
+        "text": "差し入れのカップ麺が\n美味しかったので。最近自分でも\n試しに買ってるんですけど…",
+        "voiceAssetId": "sud_vo_home_rui-05-newy-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_think-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どうしても、美味しく感じられない\nものがあるんです。",
+        "voiceAssetId": "sud_vo_home_rui-05-newy-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "カップ焼きそばって、味が薄過ぎ\nませんか？　焼いてもいませんし\nソースも、お湯に薄まるばかりで。",
+        "voiceAssetId": "sud_vo_home_rui-05-newy-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…え？　カップ焼きそばって\nお湯を捨てるんですか！？",
+        "voiceAssetId": "sud_vo_home_rui-05-newy-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "し、知りませんでした…\nちゃんと作り方を見てから\n作らないとダメですね。",
+        "voiceAssetId": "sud_vo_home_rui-05-newy-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もぉ、優ってばなんで見てたのに\n教えてくれなかったのよ。\nこ、このことは忘れて下さい…！",
+        "voiceAssetId": "sud_vo_home_rui-05-newy-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-018_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-rui-05-vlnt-00-talk-01",
     "characterId": "char-rui",
     "placeType": 1,
@@ -8865,6 +8920,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-smr-05-newy-00-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-newy-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-newy-00",
+    "choiceText": "CMでも美味しそうに食べてたな",
+    "managerText": "CMでも美味しそうに食べてたな",
+    "reliability": 5,
+    "title": "子狐コンコンど根性",
+    "displayConditionDescription": "子狐コンコンど根性 奥山すみれ\nストーリー3話を視聴",
+    "order": 389,
+    "releaseDate": "1735959600000",
+    "characterTalks": [
+      {
+        "text": "えへへ～。\n私って美味しそうに食べるのが\n得意みたいです！",
+        "voiceAssetId": "sud_vo_home_smr-05-newy-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "子役でブレイクしたのも、おしるこ\nを凄く美味しそうに食べたのが\n話題になったからなんですよね。",
+        "voiceAssetId": "sud_vo_home_smr-05-newy-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "と言っても、私はただ素直に\n美味しい物を美味しいと思って\n食べてるだけなんですけど…",
+        "voiceAssetId": "sud_vo_home_smr-05-newy-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emb-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そういえば、さくらちゃんも以前\n肉まんのCMで凄く美味しそうに\n食べてるって話題になりましたね。",
+        "voiceAssetId": "sud_vo_home_smr-05-newy-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "……はっ！　閃きました！\n私とさくらちゃんで\n食レポの企画なんてどうでしょう？",
+        "voiceAssetId": "sud_vo_home_smr-05-newy-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私達で、食べ物屋さんを\nなんでも美味しく食べられる\n幸せ空間にしちゃいますよ～！",
+        "voiceAssetId": "sud_vo_home_smr-05-newy-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-smr-05-nurs-00-talk-01",

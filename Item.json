@@ -2376,6 +2376,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-25-0110",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-premium-ticket",
     "name": "プレミアムガチャチケ",
     "assetId": "gacha-ticket-premium",
@@ -2921,6 +2933,18 @@
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「with Rabbit HouseⅡ」など",
     "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-0104",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「狐のご利益」など",
+    "howToGet": "ガチャ、ショップなど",
     "type": 3001,
     "value": 1,
     "order": 140,
@@ -4250,6 +4274,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-24-1204",
     "name": "with Rabbit HouseⅡガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-0104",
+    "name": "狐のご利益ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -5894,6 +5930,18 @@
   {
     "id": "item-gacha_point-rev-select-01-25-0101",
     "name": "新春記念！選べる★5アイドルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-25-0108",
+    "name": "選べる★5アイドルガチャ\nTRINITYAiLE ver.Pt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -8376,6 +8424,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-photo_contest_create-25-0104",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -8832,6 +8892,90 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-promo_lottery-ticket-25-0105-01",
+    "name": "新春アイプラくじ抽選券",
+    "assetId": "0105lottery-ticket",
+    "description": "所持しているだけで新春アイプラくじに参加できる\n詳細はお知らせやX(Twitter)をご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "1/5 0:00~1/5 23:59にログイン",
+    "type": 3001,
+    "value": 2,
+    "order": 2001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-25-0105-02",
+    "name": "新春アイプラくじ抽選券",
+    "assetId": "0105lottery-ticket",
+    "description": "所持しているだけで新春アイプラくじに参加できる\n詳細はお知らせやX(Twitter)をご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "1/6 0:00~1/6 23:59にログイン",
+    "type": 3001,
+    "value": 2,
+    "order": 2002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-25-0105-03",
+    "name": "新春アイプラくじ抽選券",
+    "assetId": "0105lottery-ticket",
+    "description": "所持しているだけで新春アイプラくじに参加できる\n詳細はお知らせやX(Twitter)をご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "1/7 0:00~1/7 23:59にログイン",
+    "type": 3001,
+    "value": 2,
+    "order": 2003,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-25-0105-04",
+    "name": "新春アイプラくじ抽選券",
+    "assetId": "0105lottery-ticket",
+    "description": "所持しているだけで新春アイプラくじに参加できる\n詳細はお知らせやX(Twitter)をご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "1/8 0:00~1/8 23:59にログイン",
+    "type": 3001,
+    "value": 2,
+    "order": 2004,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-25-0105-05",
+    "name": "新春アイプラくじ抽選券",
+    "assetId": "0105lottery-ticket",
+    "description": "所持しているだけで新春アイプラくじに参加できる\n詳細はお知らせやX(Twitter)をご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "1/9 0:00~1/9 23:59にログイン",
+    "type": 3001,
+    "value": 3,
+    "order": 2005,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-25-0105-06",
+    "name": "新春アイプラくじ抽選券",
+    "assetId": "0105lottery-ticket",
+    "description": "所持しているだけで新春アイプラくじに参加できる\n詳細はお知らせやX(Twitter)をご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "1/10 0:00~1/10 23:59にログイン",
+    "type": 3001,
+    "value": 4,
+    "order": 2005,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-25-0105-07",
+    "name": "新春アイプラくじ抽選券",
+    "assetId": "0105lottery-ticket",
+    "description": "所持しているだけで新春アイプラくじに参加できる\n詳細はお知らせやX(Twitter)をご確認ください\n期間終了後はレッスンパス×1に変換されます",
+    "howToGet": "1/11 0:00~1/11 23:59にログイン",
+    "type": 3001,
+    "value": 5,
+    "order": 2005,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-promo_lottery-ticket-prize-0328-01",
     "name": "アイプラ宝くじ1等当選券",
     "assetId": "lottery-ticket-prize-22-0328",
@@ -8897,6 +9041,54 @@
     "assetId": "lottery-ticket-prize-22-0829",
     "description": "ミクくじ3等当選券です\nお知らせやTwitterから必要情報入力サイトをご確認ください\n入力期限：9/11 23:59",
     "howToGet": "ミクくじに当選",
+    "type": 3001,
+    "value": 1,
+    "order": 2003,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-prize-25-0105-01",
+    "name": "新春アイプラくじ1等当選券",
+    "assetId": "lottery-ticket-prize-22-0328",
+    "description": "新春アイプラくじ1等当選券です",
+    "howToGet": "新春アイプラくじに当選",
+    "type": 3001,
+    "value": 1,
+    "order": 2001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-prize-25-0105-02",
+    "name": "新春アイプラくじ2等当選券",
+    "assetId": "lottery-ticket-prize-22-0328",
+    "description": "新春アイプラくじ2等当選券です",
+    "howToGet": "新春アイプラくじに当選",
+    "type": 3001,
+    "value": 1,
+    "order": 2002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-prize-25-0105-03",
+    "name": "新春アイプラくじ3等当選券",
+    "assetId": "lottery-ticket-prize-22-0328",
+    "description": "新春アイプラくじ3等当選券です",
+    "howToGet": "新春アイプラくじに当選",
+    "type": 3001,
+    "value": 1,
+    "order": 2003,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-promo_lottery-ticket-prize-25-0105-04",
+    "name": "新春アイプラくじ4等当選券",
+    "assetId": "lottery-ticket-prize-22-0328",
+    "description": "新春アイプラくじ4等当選券です",
+    "howToGet": "新春アイプラくじに当選",
     "type": 3001,
     "value": 1,
     "order": 2003,
@@ -9096,6 +9288,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_medal-25-0104",
+    "name": "レースメダル",
+    "assetId": "medal-race",
+    "description": "ライブボーナスを習得・強化することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 3001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_point-22-0228",
     "name": "レースPt",
     "assetId": "race-pt",
@@ -9252,6 +9456,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_point-25-0104",
+    "name": "レースPt",
+    "assetId": "race-pt",
+    "description": "マスを進めたりVENUSステージに挑戦することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7001,
+    "value": 1,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_reset-live-bonus-22-0228",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
@@ -9397,6 +9613,18 @@
   },
   {
     "id": "item-race_reset-live-bonus-24-1028",
+    "name": "ボーナスイレイザー",
+    "assetId": "race-bonus-reset",
+    "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-race_reset-live-bonus-25-0104",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
     "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
@@ -9591,6 +9819,18 @@
     "id": "item-shop-gacha-ticket-10-r5-24-1230-01",
     "name": "アイプラフェス The Black Lily Ⅱ 1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5-24-1230-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0104-01",
+    "name": "狐のご利益1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
     "type": 8,

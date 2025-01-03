@@ -2083,6 +2083,35 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-race-25-0104",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-race-25-0104",
+    "name": "イベントミッション",
+    "order": 1,
+    "viewConditionId": "cd-event-race-25-0104-exchange",
+    "missionIds": [
+      "event-race-25-0104-1",
+      "event-race-25-0104-10",
+      "event-race-25-0104-11",
+      "event-race-25-0104-12",
+      "event-race-25-0104-13",
+      "event-race-25-0104-14",
+      "event-race-25-0104-15",
+      "event-race-25-0104-16",
+      "event-race-25-0104-17",
+      "event-race-25-0104-18",
+      "event-race-25-0104-2",
+      "event-race-25-0104-3",
+      "event-race-25-0104-4",
+      "event-race-25-0104-5",
+      "event-race-25-0104-6",
+      "event-race-25-0104-7",
+      "event-race-25-0104-8",
+      "event-race-25-0104-9"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-shelf-23-1128",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-shelf-23-1128",
@@ -2309,6 +2338,26 @@
       "event-shelf-24-1128-story-003",
       "event-shelf-24-1128-story-004",
       "event-shelf-24-1128-story-005"
+    ]
+  },
+  {
+    "id": "event-shelf-25-0104",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 16,
+    "viewConditionId": "cd-shelf-25-0104",
+    "unlockConditionId": "cd-shelf-25-0104-play",
+    "missionIds": [
+      "event-shelf-25-0104-photo-album-complete",
+      "event-shelf-25-0104-photo-album-creating",
+      "event-shelf-25-0104-photo-creating",
+      "event-shelf-25-0104-photo-save",
+      "event-shelf-25-0104-story-001",
+      "event-shelf-25-0104-story-002",
+      "event-shelf-25-0104-story-003",
+      "event-shelf-25-0104-story-004",
+      "event-shelf-25-0104-story-005"
     ]
   },
   {
@@ -2903,6 +2952,21 @@
       "event-ms-idoly-pride-day-mission-24-1230-mission_clear_count",
       "event-ms-idoly-pride-day-mission-24-1230-photo_shoot_count",
       "event-ms-idoly-pride-day-mission-24-1230-quest-daily-clear-count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_idoly-pride-day-mission-25-0110",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_campaign-25-0110-ip-day",
+    "name": "本日限定！0のつく日はアイプラの日！",
+    "order": 1,
+    "viewConditionId": "cd-time-market-discount-day-25-0110",
+    "missionIds": [
+      "event-ms-idoly-pride-day-mission-25-0110-login",
+      "event-ms-idoly-pride-day-mission-25-0110-mission_clear_count",
+      "event-ms-idoly-pride-day-mission-25-0110-photo_shoot_count",
+      "event-ms-idoly-pride-day-mission-25-0110-quest-daily-clear-count"
     ],
     "unlockConditionId": ""
   },
@@ -3581,6 +3645,27 @@
       "event-ms-newyear-24-0110-01-mission_clear_count",
       "event-ms-newyear-24-0110-02-mission_clear_count",
       "event-ms-newyear-24-0110-03-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_newyear-mission-25-0107",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-newy-mission-25-0107",
+    "name": "新春ミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-event-ms-newyear-25-0107-0113",
+    "missionIds": [
+      "event-ms-newyear-25-0107-00-card_skill_level_up_count",
+      "event-ms-newyear-25-0107-00-login_count",
+      "event-ms-newyear-25-0107-00-market_exchange_count",
+      "event-ms-newyear-25-0107-00-photo_reroll_count",
+      "event-ms-newyear-25-0107-00-quest_contest_clear_count",
+      "event-ms-newyear-25-0107-00-quest_daily_clear_count",
+      "event-ms-newyear-25-0107-00-quest_pvp_play_count",
+      "event-ms-newyear-25-0107-01-mission_clear_count",
+      "event-ms-newyear-25-0107-02-mission_clear_count",
+      "event-ms-newyear-25-0107-03-mission_clear_count"
     ],
     "unlockConditionId": ""
   },

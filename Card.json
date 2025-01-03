@@ -10071,6 +10071,56 @@
     "skillId4": ""
   },
   {
+    "id": "card-rui-05-newy-00",
+    "assetId": "rui-05-newy-00",
+    "name": "陽射しに踊る春の狐",
+    "description": "こうして見ると、狐の耳、意外と自然ですね\nCMの内容も、綺麗なセットもお正月らしいですし",
+    "type": 1,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 430,
+    "danceRatioPermil": 320,
+    "visualRatioPermil": 280,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-newy-00-1",
+    "skillId2": "sk-rui-05-newy-00-2",
+    "skillId3": "sk-rui-05-newy-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 438,
+    "releaseDate": "1735959600000",
+    "rewardCostumeId": "cos-rui-newy-00",
+    "obtainMessage": "今年も、その先も、\n私達を支えて下さいね",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-newy-00-01"
+      },
+      {
+        "storyId": "st-card-rui-05-newy-00-02"
+      },
+      {
+        "storyId": "st-card-rui-05-newy-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rui-05-newy-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rui-05-newy-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-prem-00",
     "assetId": "rui-05-prem-00",
     "name": "水玉を弾く白い翼",
@@ -12220,6 +12270,56 @@
     "homeTalks": []
   },
   {
+    "id": "card-smr-05-newy-00",
+    "assetId": "smr-05-newy-00",
+    "name": "子狐コンコンど根性",
+    "description": "こんこんこーん！　子ギツネだこーん！\n見て見て、綺麗な桜がいーっぱい咲いてるよ！",
+    "type": 3,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 273,
+    "danceRatioPermil": 414,
+    "visualRatioPermil": 313,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-newy-00-1",
+    "skillId2": "sk-smr-05-newy-00-2",
+    "skillId3": "sk-smr-05-newy-00-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 439,
+    "releaseDate": "1735959600000",
+    "rewardCostumeId": "cos-smr-newy-00",
+    "obtainMessage": "大きな夢に向かって\n走り切れますように……",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-newy-00-01"
+      },
+      {
+        "storyId": "st-card-smr-05-newy-00-02"
+      },
+      {
+        "storyId": "st-card-smr-05-newy-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-newy-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-newy-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-smr-05-nurs-00",
     "assetId": "smr-05-nurs-00",
     "name": "ベッドサイド・エンジェル",
@@ -13965,6 +14065,37 @@
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",
     "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-yu-02-eve-02",
+    "assetId": "yu-02-eve-02",
+    "name": "京狐のお出迎え",
+    "description": "頑張り！　ゴールテープ、ここやで！\nもうちょっとや！",
+    "type": 2,
+    "characterId": "char-yu",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 319,
+    "danceRatioPermil": 275,
+    "visualRatioPermil": 406,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-02-eve-02-1",
+    "skillId2": "sk-yu-02-eve-02-2",
+    "skillId3": "sk-yu-02-eve-02-3",
+    "order": 440,
+    "releaseDate": "1735959600000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
     "messages": [],
     "homeTalks": []
   },
