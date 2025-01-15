@@ -6048,6 +6048,24 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-highscore-17-0",
+    "name": "song for you",
+    "assetId": "area_17_100",
+    "order": 202700,
+    "description": "ハイスコアライブ「song for you」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-highscore-17-1",
+    "name": "prideに変えて",
+    "assetId": "area_17",
+    "order": 202710,
+    "description": "ハイスコアライブ「song for you」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-highscore-eve-2304",
     "name": "Don't say \"lazy\" （HoshiMi Ambassador ver） Sランク達成",
     "assetId": "area_clb_2304",
@@ -7826,6 +7844,33 @@
     "assetId": "pvp-season-122-top100",
     "order": 312230,
     "description": "VENUSバトルシーズン122で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-123-top001",
+    "name": "VENUSシーズン123 No.1",
+    "assetId": "pvp-season-123-top001",
+    "order": 312310,
+    "description": "VENUSバトルシーズン123で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-123-top010",
+    "name": "VENUSシーズン123 TOP10",
+    "assetId": "pvp-season-123-top010",
+    "order": 312320,
+    "description": "VENUSバトルシーズン123で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-123-top100",
+    "name": "VENUSシーズン123 TOP100",
+    "assetId": "pvp-season-123-top100",
+    "order": 312330,
+    "description": "VENUSバトルシーズン123で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

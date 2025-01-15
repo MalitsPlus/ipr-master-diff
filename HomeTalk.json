@@ -5540,6 +5540,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ngs-05-frut-00-talk-01",
+    "characterId": "char-ngs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ngs-05-frut-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ngs-05-frut-00",
+    "choiceText": "食べきれるのか？",
+    "managerText": "食べきれるのか？",
+    "reliability": 5,
+    "title": "桃色フェスタ",
+    "displayConditionDescription": "桃色フェスタ 伊吹渚\nストーリー3話を視聴",
+    "order": 391,
+    "releaseDate": "1736910000000",
+    "characterTalks": [
+      {
+        "text": "もちろんです。最近は桃を消費する\nために遙子さんに桃を使った料理を\n開発してもらってるんです。",
+        "voiceAssetId": "sud_vo_home_ngs-05-frut-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "桃って、デザートだけじゃなくて\nおかずにもなるんですね！",
+        "voiceAssetId": "sud_vo_home_ngs-05-frut-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "桃のカプレーゼに桃の冷製パスタ、\n桃クリームのトースト…\nどれもとっても美味しいんです！",
+        "voiceAssetId": "sud_vo_home_ngs-05-frut-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それに、遙子さんが桃の漬物を\n開発してくれて、それが案外\nクセになるんですよ。",
+        "voiceAssetId": "sud_vo_home_ngs-05-frut-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、みんなもう桃に飽きてきた\nみたいで…最近は気のせいか\n外食が多い気がします…",
+        "voiceAssetId": "sud_vo_home_ngs-05-frut-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "大好きな桃を合法的に\n独り占め出来るので\n私は全然いいんですけどね。",
+        "voiceAssetId": "sud_vo_home_ngs-05-frut-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ngs-05-idol-00-talk-01",
     "characterId": "char-ngs",
     "placeType": 1,

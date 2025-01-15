@@ -7523,6 +7523,56 @@
     "homeTalks": []
   },
   {
+    "id": "card-ngs-05-frut-00",
+    "assetId": "ngs-05-frut-00",
+    "name": "桃色フェスタ",
+    "description": "美味しいフルーツジュースはいかがですかー？\r\n沢山の味を取り揃えておりまーす！",
+    "type": 2,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 275,
+    "danceRatioPermil": 405,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-frut-00-1",
+    "skillId2": "sk-ngs-05-frut-00-2",
+    "skillId3": "sk-ngs-05-frut-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 441,
+    "releaseDate": "1736910000000",
+    "rewardCostumeId": "cos-ngs-frut-00",
+    "obtainMessage": "美味しいフルーツジュースは\nいかがですかー？",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-frut-00-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-frut-00-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-frut-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ngs-05-frut-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ngs-05-frut-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ngs-05-idol-00",
     "assetId": "ngs-05-idol-00",
     "name": "背中をあずけて",
