@@ -852,6 +852,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-25-0128",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_gold-24-0404",
     "name": "すごろくコイン",
     "assetId": "gold-dice",
@@ -2436,6 +2448,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-25-0130",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-premium-ticket",
     "name": "プレミアムガチャチケ",
     "assetId": "gacha-ticket-premium",
@@ -3017,6 +3041,18 @@
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「狐のご利益」など",
     "howToGet": "ガチャ、ショップなど",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-0128",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「陽射しにとろけるバレンタインガチャ」など",
+    "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
     "order": 140,
@@ -4370,6 +4406,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-25-0104",
     "name": "狐のご利益ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-0128",
+    "name": "陽射しにとろけるバレンタインガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -6060,6 +6108,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-25-0129",
+    "name": "選べる★5アイドルガチャ\nサニーピース ver.Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -7044,6 +7104,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-ladder_pt_25-0128-raid",
+    "name": "報酬Pt",
+    "assetId": "marathon-raid-pt",
+    "description": "マルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "マルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-league_medal",
     "name": "リーグメダル",
     "assetId": "medal-league",
@@ -7296,6 +7368,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-marathon-raid_medal-25-0128",
+    "name": "リンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "マルチリンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-marathon-raid_quest_unlock-22-1028",
     "name": "解放Pt",
     "assetId": "marathon-release-pt",
@@ -7381,6 +7465,18 @@
   },
   {
     "id": "item-marathon-raid_quest_unlock-24-0827",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "マルチリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "マルチリンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-marathon-raid_quest_unlock-25-0128",
     "name": "解放Pt",
     "assetId": "marathon-release-pt",
     "description": "マルチリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
@@ -7488,6 +7584,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-marathon-raid_raid-stamina_recovery-25-0128",
+    "name": "協力キャンディ",
+    "assetId": "marathon-raid-stamina-recovery-raid",
+    "description": "マルチリンクスの協力スタミナを回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "プロモーション、ファンイベントなど",
+    "type": 5003,
+    "value": 10,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-marathon-raid_stamina_recovery-22-1028",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
@@ -7573,6 +7681,18 @@
   },
   {
     "id": "item-marathon-raid_stamina_recovery-24-0827",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "マルチリンクスのスタミナを回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベント、ショップなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-marathon-raid_stamina_recovery-25-0128",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
     "description": "マルチリンクスのスタミナを回復します\nイベント終了後はコインに変換されます",
@@ -8557,6 +8677,18 @@
   },
   {
     "id": "item-photo_contest_create-25-0104",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-photo_contest_create-25-0128",
     "name": "イベント現像フィルム",
     "assetId": "photo-shooting-contest",
     "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
@@ -9962,6 +10094,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-25-0104-01",
     "name": "狐のご利益1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0128-01",
+    "name": "陽射しにとろけるバレンタイン1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",

@@ -2116,6 +2116,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-hrk-05-vlnt-00-talk-01",
+    "characterId": "char-hrk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-hrk-05-vlnt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-hrk-05-vlnt-00",
+    "choiceText": "あぁ、遙子さんが制服のことで\n悩んでいたから、何かの参考に\nなるかと思って取り寄せたんです。",
+    "managerText": "あぁ、遙子さんが制服のことで\n悩んでいたから、何かの参考に\nなるかと思って取り寄せたんです。",
+    "reliability": 5,
+    "title": "ちょこっと愛の贈り物",
+    "displayConditionDescription": "ちょこっと愛の贈り物 佐伯遙子\nストーリー3話を視聴",
+    "order": 395,
+    "releaseDate": "1738033200000",
+    "characterTalks": [
+      {
+        "text": "びっくりさせないでよ、もう！\n本気で高校に再入学させる気かと\n思ったじゃない。",
+        "voiceAssetId": "sud_vo_home_hrk-05-vlnt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_angry-018_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "自慢じゃないけど、私、\n昔と違って結構忙しいんだからね。",
+        "voiceAssetId": "sud_vo_home_hrk-05-vlnt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "っていうか私、大学生なんだから、\n今更高校生にはなれないわよ。\n……えっと、なれないわよね？",
+        "voiceAssetId": "sud_vo_home_hrk-05-vlnt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_ask-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも面白かったわ、入学案内。\n私が高校生だった頃と比べながら、\n夢中で読んじゃった。",
+        "voiceAssetId": "sud_vo_home_hrk-05-vlnt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "いろんな高校にいろんなイベントが\nあって、また行ってみたく\nなっちゃった……少しだけ、ね。",
+        "voiceAssetId": "sud_vo_home_hrk-05-vlnt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あのさ、もし私達が同じ学校に通う\nクラスメイトだったら……今頃、\nどんな関係になってたのかな。",
+        "voiceAssetId": "sud_vo_home_hrk-05-vlnt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-hrk-05-xmas-00-talk-01",
     "characterId": "char-hrk",
     "placeType": 1,
@@ -8559,6 +8614,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-skr-05-vlnt-00-talk-01",
+    "characterId": "char-skr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-skr-05-vlnt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-skr-05-vlnt-00",
+    "choiceText": "どうしてそんなことを聞くんだ？",
+    "managerText": "どうしてそんなことを聞くんだ？",
+    "reliability": 5,
+    "title": "甘い鼓動に揺れる花",
+    "displayConditionDescription": "甘い鼓動に揺れる花 川咲さくら\nストーリー3話を視聴",
+    "order": 394,
+    "releaseDate": "1738033200000",
+    "characterTalks": [
+      {
+        "text": "今度、学校でクラスの子達と\nお菓子を交換することに\nなったんです！",
+        "voiceAssetId": "sud_vo_home_skr-05-vlnt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも私、そういう経験って\nあんまりなくて…どんなお菓子に\nしようか悩んでまして。",
+        "voiceAssetId": "sud_vo_home_skr-05-vlnt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "いっそのこと、お菓子じゃなくて\n私の好きなものをみんなに贈って\nみようかなぁ…",
+        "voiceAssetId": "sud_vo_home_skr-05-vlnt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "例えば……私の好きな食べ物とか！\n言わなくても分かりますよね？\nそう…トンカツです！",
+        "voiceAssetId": "sud_vo_home_skr-05-vlnt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "他に好きなものといえば…\n魚魚っとさんですね！　小さい\nぬいぐるみを買うのもいいかも！",
+        "voiceAssetId": "sud_vo_home_skr-05-vlnt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あれも贈りたいしこれも贈りたいし\nどうしよう、全然決められないよ～\n好きなものが多過ぎます～！",
+        "voiceAssetId": "sud_vo_home_skr-05-vlnt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-015_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-skr-05-wedd-00-talk-01",

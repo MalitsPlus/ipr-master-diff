@@ -2897,6 +2897,56 @@
     "homeTalks": []
   },
   {
+    "id": "card-hrk-05-vlnt-00",
+    "assetId": "hrk-05-vlnt-00",
+    "name": "ちょこっと愛の贈り物",
+    "description": "きゃっ……！？　あはは、よそ見してたら\r\n飛んじゃったわね。ほっぺ、チョコがついてるわよ",
+    "type": 3,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 271,
+    "danceRatioPermil": 414,
+    "visualRatioPermil": 315,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-vlnt-00-1",
+    "skillId2": "sk-hrk-05-vlnt-00-2",
+    "skillId3": "sk-hrk-05-vlnt-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 445,
+    "releaseDate": "1738033200000",
+    "rewardCostumeId": "cos-hrk-vlnt-00",
+    "obtainMessage": "ほっぺ、\nチョコがついてるわよ",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-vlnt-00-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-vlnt-00-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-vlnt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-hrk-05-vlnt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-hrk-05-vlnt-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-05-xmas-00",
     "assetId": "hrk-05-xmas-00",
     "name": "二人きり、冬夜の打ち上げ",
@@ -7934,6 +7984,37 @@
     "homeTalks": []
   },
   {
+    "id": "card-rei-02-eve-02",
+    "assetId": "rei-02-eve-02",
+    "name": "レンズの向こうに渡す想い",
+    "description": "ひねりのない告白で悪かったわね。仕方ないじゃない\r\nだって……告白なんてしたの、初めてなんだから……",
+    "type": 3,
+    "characterId": "char-rei",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 414,
+    "danceRatioPermil": 313,
+    "visualRatioPermil": 273,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-02-eve-02-1",
+    "skillId2": "sk-rei-02-eve-02-2",
+    "skillId3": "sk-rei-02-eve-02-3",
+    "order": 446,
+    "releaseDate": "1738033200000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-02-sush-00",
     "assetId": "rei-02-sush-00",
     "name": "サンシャイン！！",
@@ -11781,6 +11862,56 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-skr-05-vlnt-00",
+    "assetId": "skr-05-vlnt-00",
+    "name": "甘い鼓動に揺れる花",
+    "description": "あ、あれ？　心臓が……ドキドキしてる？\r\nなんでかな。変な空気になっちゃったから……？",
+    "type": 2,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 275,
+    "visualRatioPermil": 407,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-vlnt-00-1",
+    "skillId2": "sk-skr-05-vlnt-00-2",
+    "skillId3": "sk-skr-05-vlnt-00-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 444,
+    "releaseDate": "1738033200000",
+    "rewardCostumeId": "cos-skr-vlnt-00",
+    "obtainMessage": "あ、あれ？　\n心臓が……ドキドキしてる？",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-vlnt-00-01"
+      },
+      {
+        "storyId": "st-card-skr-05-vlnt-00-02"
+      },
+      {
+        "storyId": "st-card-skr-05-vlnt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-vlnt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-vlnt-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",
