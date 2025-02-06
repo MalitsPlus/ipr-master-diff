@@ -8778,6 +8778,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-7-target-self-17",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[17ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-self-23",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[23ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-7-target-self-26",
     "name": "自身に集目効果",
     "type": 21,
@@ -9284,6 +9306,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-8-target-self-23",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に8段階の集目効果[23ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-8-target-self-24",
     "name": "自身に集目効果",
     "type": 21,
@@ -9640,6 +9673,17 @@
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に9段階の集目効果[28ビート]",
+    "grade": 9,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-9-target-self-29",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に9段階の集目効果[29ビート]",
     "grade": 9,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -45210,6 +45254,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_less_combo_count-12600-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1260%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_less_combo_count-12700-chart_dependence",
     "name": "スコア獲得-コンボ数が少ない程効果上昇",
     "type": 67,
@@ -45258,6 +45313,17 @@
     "name": "スコア獲得-コンボ数が少ない程効果上昇",
     "type": 67,
     "description": "1390%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-14000-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1400%のスコア獲得、コンボ数が少ない程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -45331,10 +45397,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_less_combo_count-17000-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1700%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_less_combo_count-17400-chart_dependence",
     "name": "スコア獲得-コンボ数が少ない程効果上昇",
     "type": 67,
     "description": "1740%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-18600-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1860%のスコア獲得、コンボ数が少ない程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -48525,6 +48613,17 @@
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
     "description": "550%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-5600-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "560%のスコア獲得、スキル成功率が高い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -63492,6 +63591,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-4-target-self-28",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に4段階スキル成功率上昇効果[28ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-4-target-self-29",
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
@@ -65582,6 +65692,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-7-target-neighbor-45",
+    "name": "隣接するアイドルにスキル成功率上昇効果",
+    "type": 37,
+    "description": "隣接するアイドルに7段階スキル成功率上昇効果[45ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-7-target-neighbor-50",
+    "name": "隣接するアイドルにスキル成功率上昇効果",
+    "type": 37,
+    "description": "隣接するアイドルに7段階スキル成功率上昇効果[50ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-7-target-neighbor-55",
+    "name": "隣接するアイドルにスキル成功率上昇効果",
+    "type": 37,
+    "description": "隣接するアイドルに7段階スキル成功率上昇効果[55ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-7-target-self-26",
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
@@ -65905,6 +66048,39 @@
     "name": "隣接するアイドルにスキル成功率上昇効果",
     "type": 37,
     "description": "隣接するアイドルに8段階スキル成功率上昇効果[55ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-8-target-neighbor-60",
+    "name": "隣接するアイドルにスキル成功率上昇効果",
+    "type": 37,
+    "description": "隣接するアイドルに8段階スキル成功率上昇効果[60ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-8-target-neighbor-70",
+    "name": "隣接するアイドルにスキル成功率上昇効果",
+    "type": 37,
+    "description": "隣接するアイドルに8段階スキル成功率上昇効果[70ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-8-target-neighbor-80",
+    "name": "隣接するアイドルにスキル成功率上昇効果",
+    "type": 37,
+    "description": "隣接するアイドルに8段階スキル成功率上昇効果[80ビート]",
     "grade": 8,
     "maxGrade": 10,
     "skillTargetId": "target-neighbor",

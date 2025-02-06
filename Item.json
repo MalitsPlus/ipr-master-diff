@@ -2460,6 +2460,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-25-0210",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-premium-ticket",
     "name": "プレミアムガチャチケ",
     "assetId": "gacha-ticket-premium",
@@ -5112,6 +5124,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-25-0206",
+    "name": "試練の鎖ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -6660,6 +6684,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_ticket-25-0206-01",
+    "name": "「試練の鎖」専用ガチャチケット",
+    "assetId": "gacha-ticket-just",
+    "description": "「試練の鎖」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_ticket-r5",
     "name": "★5確定ガチャチケ",
     "assetId": "gacha-ticket-r5",
@@ -8088,6 +8124,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-mini-marathon_medal-25-0207",
+    "name": "ミニリンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニリンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-mini-marathon_quest_unlock-22-0413",
     "name": "解放Pt",
     "assetId": "marathon-release-pt",
@@ -8172,6 +8220,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-mini-marathon_quest_unlock-25-0207",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "ミニリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "ミニリンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-mini-marathon_stamina_recovery-22-0413",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
@@ -8245,6 +8305,18 @@
   },
   {
     "id": "item-mini-marathon_stamina_recovery-24-0909",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "ミニリンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベントなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-mini-marathon_stamina_recovery-25-0207",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
     "description": "ミニリンクスイベントの体力を回復します\nイベント終了後はコインに変換されます",

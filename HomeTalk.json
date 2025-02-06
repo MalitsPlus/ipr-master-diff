@@ -4054,6 +4054,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ktn-05-poli-00-talk-01",
+    "characterId": "char-ktn",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ktn-05-poli-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ktn-05-poli-00",
+    "choiceText": "どんなことだ？",
+    "managerText": "どんなことだ？",
+    "reliability": 5,
+    "title": "消えぬ正義の焔",
+    "displayConditionDescription": "消えぬ正義の焔 長瀬琴乃\nストーリー3話を視聴",
+    "order": 397,
+    "releaseDate": "1738810800000",
+    "characterTalks": [
+      {
+        "text": "何事も実践が大事。\n当然のことかもしれませんが\n見落としがちなことです。",
+        "voiceAssetId": "sud_vo_home_ktn-05-poli-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "セリフを読み上げるだけ\nト書き通り演じるだけ…\nそれじゃきっと魂はこもらない。",
+        "voiceAssetId": "sud_vo_home_ktn-05-poli-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "役を演じ切るためには\nきっと深い理解が\n必要なんだと思います。",
+        "voiceAssetId": "sud_vo_home_ktn-05-poli-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私、今回、演技のために\n警察についても一杯調べました。",
+        "voiceAssetId": "sud_vo_home_ktn-05-poli-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ドキュメント番組はもちろん\n迷惑にならない範囲で\n取材だってしたんですから。",
+        "voiceAssetId": "sud_vo_home_ktn-05-poli-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "きっとこの経験は\nアイドルの仕事にも\n役立つはずです。",
+        "voiceAssetId": "sud_vo_home_ktn-05-poli-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ktn-05-wedd-00-talk-01",
     "characterId": "char-ktn",
     "placeType": 1,
