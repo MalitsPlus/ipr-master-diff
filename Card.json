@@ -165,6 +165,47 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-05-birt-01",
+    "assetId": "ai-05-birt-01",
+    "name": "誕生日トラベル・愛",
+    "description": "約束したじゃないですか。二人で『DENSETSU』\r\nに辿り着いて、一緒にラーメンを食べようって",
+    "type": 1,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 323,
+    "danceRatioPermil": 283,
+    "visualRatioPermil": 424,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-birt-01-1",
+    "skillId2": "sk-ai-05-birt-01-2",
+    "skillId3": "sk-ai-05-birt-01-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 479,
+    "releaseDate": "1739026800000",
+    "obtainMessage": "『DENSETSU』は……\n必ずあります！",
+    "rewardHairId": "hair-ai-hair-11",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-birt-01-01"
+      },
+      {
+        "storyId": "st-card-ai-05-birt-01-02"
+      },
+      {
+        "storyId": "st-card-ai-05-birt-01-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-fest-00",
     "assetId": "ai-05-fest-00",
     "name": "火花散らす熱いキモチ",
