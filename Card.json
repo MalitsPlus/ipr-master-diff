@@ -7145,6 +7145,52 @@
     "skillId4": ""
   },
   {
+    "id": "card-mna-05-link-00",
+    "assetId": "mna-05-link-00",
+    "name": "絆が繋ぐ姉妹の奇跡",
+    "description": "琴乃の髪はまっすぐで綺麗だね～\nせっかくだし、もうちょっと伸ばせばいいのに",
+    "type": 2,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 317,
+    "danceRatioPermil": 276,
+    "visualRatioPermil": 407,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-link-00-1",
+    "skillId2": "sk-mna-05-link-00-2",
+    "skillId3": "sk-mna-05-link-00-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 448,
+    "releaseDate": "1739329200000",
+    "rewardCostumeId": "cos-mna-link-00",
+    "obtainMessage": "……っ、お姉ちゃん……",
+    "cardEvolutionLevelReleaseGroupId": "card_evolution_level_release_bond",
+    "cardEvolutionLevelGroupId": "card_evolution_level_bond",
+    "skillId4": "sk-mna-05-link-00-4",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-link-00-01"
+      },
+      {
+        "storyId": "st-card-mna-05-link-00-02"
+      },
+      {
+        "storyId": "st-card-mna-05-link-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mna-05-link-00",
+        "telephoneId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mna-05-prem-00",
     "assetId": "mna-05-prem-00",
     "name": "花火に鼓動が高鳴る夜",

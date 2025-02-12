@@ -864,6 +864,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-25-0225",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_gold-24-0404",
     "name": "すごろくコイン",
     "assetId": "gold-dice",
@@ -3084,6 +3096,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-0212",
+    "name": "絆覚醒限定グッズメダル",
+    "assetId": "medal-gacha-link-medal",
+    "description": "絆覚醒限定グッズ交換所でグッズと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「絆シリーズ 〜星巡る夢のステージ〜」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point",
     "name": "共通ガチャPt",
     "assetId": "gacha-point",
@@ -4454,6 +4478,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-25-0128",
     "name": "陽射しにとろけるバレンタインガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-0212",
+    "name": "絆シリーズ \n〜星巡る夢のステージ〜ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -6170,6 +6206,18 @@
   {
     "id": "item-gacha_point-rev-select-01-25-0129",
     "name": "選べる★5アイドルガチャ\nサニーピース ver.Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-25-0213",
+    "name": "絆シリーズ登場記念\n選べる★5アイドルガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -10214,6 +10262,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-25-0128-01",
     "name": "陽射しにとろけるバレンタイン1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0212-01",
+    "name": "絆シリーズ ~星巡る夢のステージ~1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",

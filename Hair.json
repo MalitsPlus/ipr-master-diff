@@ -4432,6 +4432,23 @@
     "impossiblePhotoPoseTypes": []
   },
   {
+    "id": "hair-ktn-hair-01",
+    "hairAssetId": "ktn-hair-01",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-hair-01",
+    "characterId": "char-ktn",
+    "notWearableCostumeIds": [
+      "cos-ktn-sdpl-00",
+      "cos-ktn-sdam-00"
+    ],
+    "fittingCostumeId": "cos-ktn-casl-00",
+    "order": 1048,
+    "name": "ローツインテール",
+    "releaseTime": "1739329200000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": []
+  },
+  {
     "id": "hair-ktn-hair-10",
     "hairAssetId": "ktn-hair-10",
     "faceAssetId": "ktn-base-00",
@@ -4604,6 +4621,24 @@
     "order": 5335,
     "name": "桜が丘女子高等学校",
     "releaseTime": "1682650800000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-ktn-link-00",
+    "hairAssetId": "ktn-link-00",
+    "faceAssetId": "ktn-base-00",
+    "sdHairAssetId": "ktn-link-00",
+    "characterId": "char-ktn",
+    "wearableCostumeIds": [
+      "cos-ktn-link-00"
+    ],
+    "fittingCostumeId": "cos-ktn-link-00",
+    "order": 349,
+    "name": "リエステラ",
+    "releaseTime": "1739329200000",
     "impossiblePhotoPoseTypes": [
       3
     ],
@@ -6229,6 +6264,24 @@
     "order": 5349,
     "name": "桜が丘女子高等学校",
     "releaseTime": "1682650800000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mna-link-00",
+    "hairAssetId": "mna-link-00",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-link-00",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-link-00"
+    ],
+    "fittingCostumeId": "cos-mna-link-00",
+    "order": 348,
+    "name": "リエステラ",
+    "releaseTime": "1739329200000",
     "impossiblePhotoPoseTypes": [
       3
     ],
