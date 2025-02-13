@@ -1224,6 +1224,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dream-generate-dream-25-0218",
+    "name": "イメトレマニュアル",
+    "assetId": "dream-generate",
+    "description": "イメージトレーニングのステージ生成に使用する\nイベント終了後はコインに変換されます",
+    "howToGet": "イメージトレーニング",
+    "type": 10001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-enjoy-present-adult-01-01",
     "name": "コーヒー",
     "assetId": "enjoy-present-adult-01-01",
@@ -2052,6 +2064,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-ticket-25-0214",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nバレンタインアイドルと交換できるチケット",
+    "howToGet": "バレンタインオールスター特別ショップ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-ticket-fes-dream-23-1226",
     "name": "★5フェス契約書",
     "assetId": "card-exchange-05-23-1226",
@@ -2477,6 +2501,42 @@
     "assetId": "gacha-endless-22-1224",
     "description": "10連チケットガチャを1回引くことができる",
     "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-25-0214",
+    "name": "無料ガチャチケ",
+    "assetId": "gacha-free-ticket-1s",
+    "description": "有効期限：入手後7日\nチケットガチャを1回引くことができる",
+    "howToGet": "バレンタイン記念特別ログインボーナス",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-25-0220",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-valentine-ticket-10s-25-0214",
+    "name": "サニピからのプレゼント10連ガチャチケ",
+    "assetId": "gacha-free-valentine-ticket-10s-25-0214",
+    "description": "サニピからのプレゼント10連チケットガチャを1回引くことができる",
+    "howToGet": "サニーピースからのプレゼント",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -6228,6 +6288,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-25-0214",
+    "name": "バレンタイン記念\n選べる★5アイドルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -6590,6 +6662,18 @@
   {
     "id": "item-gacha_point-select-01-25-0116",
     "name": "選べる★5ダンスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-select-01-25-0219",
+    "name": "選べる★5スコアラーガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
