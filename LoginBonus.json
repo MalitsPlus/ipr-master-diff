@@ -2077,6 +2077,27 @@
     "receiveConditionId": "cd-time-login-25-0215-0226"
   },
   {
+    "id": "login_bonus-campaign-25-0225-01",
+    "name": "カムバック",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-comeback-24-1128-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-gacha_ticket-24-0624-01-r5;1",
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-daily_quest_ticket_01;5",
+      "rd_auto;item;item-gacha_ticket;10"
+    ],
+    "openConditionId": "cd-time-login-25-0225-0320",
+    "receiveConditionId": "cd-time-login-25-0225-0327"
+  },
+  {
     "id": "login_bonus-campaign02-24-1114-01",
     "name": "もし恋",
     "description": "7日間の特別なログインボーナス",
