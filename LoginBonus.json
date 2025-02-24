@@ -2245,6 +2245,27 @@
     "receiveConditionId": "cd-time-login02-25-0213-0226"
   },
   {
+    "id": "login_bonus-campaign02-25-0226-01",
+    "name": "コラボ",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-0226-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;costume;cos-ski-hruh-00;1",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-act_promotion_shorten;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-act_promotion_shorten;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-25-0226-0304",
+    "receiveConditionId": "cd-time-login02-25-0226-0311"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

@@ -37,7 +37,8 @@
       "idol-miku",
       "kion",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "aj-00",
@@ -80,7 +81,8 @@
       "trng",
       "gene",
       "idol-miku",
-      "kion"
+      "kion",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "cafe-00",
@@ -105,7 +107,8 @@
       "idol-miku",
       "kion",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "catstreet-01",
@@ -128,7 +131,8 @@
       "idol-miku",
       "kion",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "ministage-00",
@@ -151,7 +155,8 @@
       "kion",
       "schl",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "house-00",
@@ -183,7 +188,8 @@
       "idol-miku",
       "kion",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "square-00",
@@ -207,7 +213,8 @@
       "idol-miku",
       "kion",
       "pajm",
-      "waso"
+      "waso",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "garden-02",
@@ -231,7 +238,8 @@
       "kion",
       "idol",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "hillpark-00",
@@ -283,12 +291,13 @@
       "schl",
       "trng",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "lesson-00",
     "isDeleteCharacter": true,
-    "order": 1,
+    "order": 100,
     "viewConditionId": "cd-time-photo-lesson-00-01",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
@@ -305,7 +314,8 @@
       "gene",
       "idol-miku",
       "kion",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "living-01",
@@ -331,7 +341,8 @@
       "idol-miku",
       "kion",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "ministage-01",
@@ -381,7 +392,8 @@
       "schl",
       "waso",
       "kion",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "quiz-00",
@@ -405,7 +417,8 @@
       "idol-miku",
       "kion",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "recording-00",
@@ -429,7 +442,8 @@
       "idol-miku",
       "kion",
       "idol",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "catstreet-00",
@@ -455,7 +469,8 @@
       "schl",
       "kion",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "studio-00",
@@ -464,6 +479,38 @@
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-studio-clb-00",
+    "name": "文芸部室",
+    "type": 1,
+    "thumbAssetId": "sos-00",
+    "stageId": "stage-photo-studio-02-000-noon",
+    "costumeTypeIds": [
+      "gene",
+      "idol",
+      "schl",
+      "trng",
+      "waso",
+      "casl",
+      "kion",
+      "hruh"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "studio-04",
+    "order": 1,
+    "viewConditionId": "cd-photo_expression_shooting-0225",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "isDeleteCharacter": false,
+    "unlockConditionId": ""
   },
   {
     "id": "photo_activity-theme_park",
@@ -479,7 +526,8 @@
       "idol-miku",
       "kion",
       "idol",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "themepark-00",
@@ -502,7 +550,8 @@
       "kion",
       "idol",
       "schl",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "cooking-00",

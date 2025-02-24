@@ -8030,6 +8030,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-5-target-self-12",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に5段階の集目効果[12ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-5-target-self-19",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に5段階の集目効果[19ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-5-target-self-25",
     "name": "自身に集目効果",
     "type": 21,
@@ -8378,6 +8400,17 @@
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-6-target-self-19",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[19ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
     "limitBreakMaxGrade": 20,
     "shortDescription": ""
   },
@@ -8943,6 +8976,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-7-target-self-27",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[27ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-7-target-self-30",
     "name": "自身に集目効果",
     "type": 21,
@@ -8991,6 +9035,17 @@
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に7段階の集目効果[35ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-self-36",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[36ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -13867,7 +13922,7 @@
     "grade": 1,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13878,7 +13933,7 @@
     "grade": 1,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13889,7 +13944,7 @@
     "grade": 1,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13900,7 +13955,7 @@
     "grade": 1,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13911,7 +13966,7 @@
     "grade": 1,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13922,7 +13977,7 @@
     "grade": 1,
     "maxGrade": 20,
     "skillTargetId": "target-visual-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13933,7 +13988,7 @@
     "grade": 1,
     "maxGrade": 20,
     "skillTargetId": "target-visual-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13944,7 +13999,7 @@
     "grade": 1,
     "maxGrade": 20,
     "skillTargetId": "target-visual-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13955,7 +14010,7 @@
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13966,7 +14021,7 @@
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13977,7 +14032,7 @@
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13988,7 +14043,7 @@
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -13999,7 +14054,7 @@
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14010,7 +14065,7 @@
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14021,7 +14076,7 @@
     "grade": 11,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14032,7 +14087,7 @@
     "grade": 11,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14043,7 +14098,7 @@
     "grade": 11,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14054,7 +14109,7 @@
     "grade": 11,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14065,7 +14120,7 @@
     "grade": 12,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14076,7 +14131,7 @@
     "grade": 12,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14087,7 +14142,7 @@
     "grade": 13,
     "maxGrade": 20,
     "skillTargetId": "target-center",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14098,7 +14153,7 @@
     "grade": 13,
     "maxGrade": 20,
     "skillTargetId": "target-center",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14109,7 +14164,7 @@
     "grade": 13,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14120,7 +14175,7 @@
     "grade": 13,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14131,7 +14186,7 @@
     "grade": 14,
     "maxGrade": 20,
     "skillTargetId": "target-center",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14142,7 +14197,7 @@
     "grade": 14,
     "maxGrade": 20,
     "skillTargetId": "target-center",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14153,7 +14208,7 @@
     "grade": 15,
     "maxGrade": 20,
     "skillTargetId": "target-center",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14164,7 +14219,7 @@
     "grade": 15,
     "maxGrade": 20,
     "skillTargetId": "target-center",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14175,7 +14230,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14186,7 +14241,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14197,7 +14252,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14208,7 +14263,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14219,7 +14274,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14230,7 +14285,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14241,7 +14296,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14252,7 +14307,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14263,7 +14318,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14274,7 +14329,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14285,7 +14340,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14296,7 +14351,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14307,7 +14362,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14318,7 +14373,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14329,7 +14384,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-visual-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14340,7 +14395,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-visual-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14351,7 +14406,7 @@
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-visual-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14362,7 +14417,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14373,7 +14428,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14384,7 +14439,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14395,7 +14450,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14406,7 +14461,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14417,7 +14472,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14428,7 +14483,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14439,7 +14494,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14450,7 +14505,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14461,7 +14516,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14472,7 +14527,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14483,7 +14538,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14494,7 +14549,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14505,7 +14560,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14516,7 +14571,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14527,7 +14582,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14538,7 +14593,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14549,7 +14604,7 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14560,7 +14615,40 @@
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-4-target-all-28",
+    "name": "全員にコンボスコア上昇効果",
+    "type": 41,
+    "description": "全員に4段階コンボスコア上昇効果[28ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-4-target-all-32",
+    "name": "全員にコンボスコア上昇効果",
+    "type": 41,
+    "description": "全員に4段階コンボスコア上昇効果[32ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-4-target-all-37",
+    "name": "全員にコンボスコア上昇効果",
+    "type": 41,
+    "description": "全員に4段階コンボスコア上昇効果[37ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14571,7 +14659,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14582,7 +14670,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14593,7 +14681,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14604,7 +14692,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14615,7 +14703,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14626,7 +14714,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14637,7 +14725,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14648,7 +14736,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14659,7 +14747,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14670,7 +14758,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14681,7 +14769,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14692,7 +14780,7 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14703,7 +14791,29 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-5-target-all-37",
+    "name": "全員にコンボスコア上昇効果",
+    "type": 41,
+    "description": "全員に5段階コンボスコア上昇効果[37ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-5-target-all-42",
+    "name": "全員にコンボスコア上昇効果",
+    "type": 41,
+    "description": "全員に5段階コンボスコア上昇効果[42ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14714,7 +14824,18 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-5-target-all-47",
+    "name": "全員にコンボスコア上昇効果",
+    "type": 41,
+    "description": "全員に5段階コンボスコア上昇効果[47ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14725,7 +14846,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14736,7 +14857,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14747,7 +14868,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14758,7 +14879,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14769,7 +14890,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14780,7 +14901,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14791,7 +14912,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14802,7 +14923,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14813,7 +14934,29 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-5-target-neighbor-15",
+    "name": "隣接するアイドルにコンボスコア上昇効果",
+    "type": 41,
+    "description": "隣接するアイドルに5段階コンボスコア上昇効果[15ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-5-target-neighbor-21",
+    "name": "隣接するアイドルにコンボスコア上昇効果",
+    "type": 41,
+    "description": "隣接するアイドルに5段階コンボスコア上昇効果[21ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14824,7 +14967,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14835,7 +14978,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14846,7 +14989,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14857,7 +15000,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14868,7 +15011,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14879,7 +15022,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14890,7 +15033,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14901,7 +15044,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14912,7 +15055,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14923,7 +15066,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14934,7 +15077,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14945,7 +15088,7 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14956,7 +15099,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14967,7 +15110,29 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-6-target-character_type-1-1-28",
+    "name": "スコアラータイプ1人にコンボスコア上昇効果",
+    "type": 41,
+    "description": "スコアラータイプ1人に6段階コンボスコア上昇効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-6-target-character_type-1-1-32",
+    "name": "スコアラータイプ1人にコンボスコア上昇効果",
+    "type": 41,
+    "description": "スコアラータイプ1人に6段階コンボスコア上昇効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14978,7 +15143,18 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-6-target-character_type-1-1-37",
+    "name": "スコアラータイプ1人にコンボスコア上昇効果",
+    "type": 41,
+    "description": "スコアラータイプ1人に6段階コンボスコア上昇効果[37ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -14989,7 +15165,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15000,7 +15176,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15011,7 +15187,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15022,7 +15198,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-dance-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15033,7 +15209,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15044,7 +15220,29 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-6-target-neighbor-21",
+    "name": "隣接するアイドルにコンボスコア上昇効果",
+    "type": 41,
+    "description": "隣接するアイドルに6段階コンボスコア上昇効果[21ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-6-target-neighbor-28",
+    "name": "隣接するアイドルにコンボスコア上昇効果",
+    "type": 41,
+    "description": "隣接するアイドルに6段階コンボスコア上昇効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15055,7 +15253,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15066,7 +15264,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15077,7 +15275,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15088,7 +15286,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15099,7 +15297,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15110,7 +15308,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15121,7 +15319,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15132,7 +15330,7 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15143,7 +15341,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15154,7 +15352,40 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-all",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-7-target-character_type-1-1-37",
+    "name": "スコアラータイプ1人にコンボスコア上昇効果",
+    "type": 41,
+    "description": "スコアラータイプ1人に7段階コンボスコア上昇効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-7-target-character_type-1-1-42",
+    "name": "スコアラータイプ1人にコンボスコア上昇効果",
+    "type": 41,
+    "description": "スコアラータイプ1人に7段階コンボスコア上昇効果[42ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-7-target-character_type-1-1-47",
+    "name": "スコアラータイプ1人にコンボスコア上昇効果",
+    "type": 41,
+    "description": "スコアラータイプ1人に7段階コンボスコア上昇効果[47ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15165,7 +15396,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15176,7 +15407,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15187,7 +15418,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15198,7 +15429,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15209,7 +15440,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-dance-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15220,7 +15451,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-dance-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15231,7 +15462,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15242,7 +15473,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15253,7 +15484,29 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-7-target-neighbor-28",
+    "name": "隣接するアイドルにコンボスコア上昇効果",
+    "type": 41,
+    "description": "隣接するアイドルに7段階コンボスコア上昇効果[28ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-combo_score_up-7-target-neighbor-35",
+    "name": "隣接するアイドルにコンボスコア上昇効果",
+    "type": 41,
+    "description": "隣接するアイドルに7段階コンボスコア上昇効果[35ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15264,7 +15517,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15275,7 +15528,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15286,7 +15539,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15297,7 +15550,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15308,7 +15561,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15319,7 +15572,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15330,7 +15583,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15341,7 +15594,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15352,7 +15605,7 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15363,7 +15616,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15374,7 +15627,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15385,7 +15638,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-dance-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15396,7 +15649,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-dance-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15407,7 +15660,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15418,7 +15671,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15429,7 +15682,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15440,7 +15693,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15451,7 +15704,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15462,7 +15715,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15473,7 +15726,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15484,7 +15737,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15495,7 +15748,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15506,7 +15759,7 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15517,7 +15770,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15528,7 +15781,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-dance-1",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15539,7 +15792,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15550,7 +15803,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15561,7 +15814,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15572,7 +15825,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15583,7 +15836,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15594,7 +15847,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15605,7 +15858,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15616,7 +15869,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -15627,7 +15880,7 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-2",
-    "limitBreakMaxGrade": 21,
+    "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
   {
@@ -17886,10 +18139,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-10-target-visual-2-36",
+    "name": "ビジュアルタイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "ビジュアルタイプ2人に10段階クリティカル係数上昇効果[36ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-10-target-visual-2-46",
     "name": "ビジュアルタイプ2人にクリティカル係数上昇効果",
     "type": 20,
     "description": "ビジュアルタイプ2人に10段階クリティカル係数上昇効果[46ビート]",
+    "grade": 10,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-10-target-visual-2-48",
+    "name": "ビジュアルタイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "ビジュアルタイプ2人に10段階クリティカル係数上昇効果[48ビート]",
     "grade": 10,
     "maxGrade": 20,
     "skillTargetId": "target-visual-2",
@@ -22396,6 +22671,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-8-target-visual-2-12",
+    "name": "ビジュアルタイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "ビジュアルタイプ2人に8段階クリティカル係数上昇効果[12ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-8-target-visual-2-24",
+    "name": "ビジュアルタイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "ビジュアルタイプ2人に8段階クリティカル係数上昇効果[24ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-8-target-visual-2-26",
     "name": "ビジュアルタイプ2人にクリティカル係数上昇効果",
     "type": 20,
@@ -22766,6 +23063,28 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-9-target-visual-2-24",
+    "name": "ビジュアルタイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "ビジュアルタイプ2人に9段階クリティカル係数上昇効果[24ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-9-target-visual-2-36",
+    "name": "ビジュアルタイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "ビジュアルタイプ2人に9段階クリティカル係数上昇効果[36ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -23243,6 +23562,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-2-target-character_type-1-2-30",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に2段階クリティカル率上昇効果[30ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-2-target-character_type-1-2-35",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に2段階クリティカル率上昇効果[35ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-2-target-dance_higher-3-26",
     "name": "ダンスが高い3人にクリティカル率上昇効果",
     "type": 19,
@@ -23621,6 +23962,28 @@
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
     "description": "スコアラータイプ2人に3段階クリティカル率上昇効果[32ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-3-target-character_type-1-2-35",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に3段階クリティカル率上昇効果[35ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-3-target-character_type-1-2-40",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に3段階クリティカル率上昇効果[40ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -24424,6 +24787,28 @@
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
     "description": "スコアラータイプ2人に4段階クリティカル率上昇効果[34ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-4-target-character_type-1-2-40",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に4段階クリティカル率上昇効果[40ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-4-target-character_type-1-2-45",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に4段階クリティカル率上昇効果[45ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -26807,6 +27192,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-6-target-self-20",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に6段階クリティカル率上昇効果[20ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-6-target-self-22",
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
@@ -27126,10 +27522,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-6-target-trigger-36",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に6段階クリティカル率上昇効果[36ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-6-target-trigger-38",
     "name": "対象にクリティカル率上昇効果",
     "type": 19,
     "description": "対象1人に6段階クリティカル率上昇効果[38ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-6-target-trigger-39",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に6段階クリティカル率上昇効果[39ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
@@ -27775,6 +28193,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-7-target-self-27",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に7段階クリティカル率上昇効果[27ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-7-target-self-28",
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
@@ -27988,6 +28417,17 @@
     "name": "対象にクリティカル率上昇効果",
     "type": 19,
     "description": "対象1人に7段階クリティカル率上昇効果[35ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-7-target-trigger-39",
+    "name": "対象にクリティカル率上昇効果",
+    "type": 19,
+    "description": "対象1人に7段階クリティカル率上昇効果[39ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
@@ -28593,6 +29033,17 @@
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
     "description": "自身に8段階クリティカル率上昇効果[40ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-8-target-self-42",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に8段階クリティカル率上昇効果[42ビート]",
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -38863,6 +39314,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-fix_stamina_recovery-2080-target-stamina_lower-1",
+    "name": "スタミナが低い1人のスタミナを回復",
+    "type": 23,
+    "description": "スタミナが低い1人のスタミナを2080回復",
+    "skillTargetId": "target-stamina_lower-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-fix_stamina_recovery-2080-target-stamina_lower-2",
     "name": "スタミナが低い2人のスタミナを回復",
     "type": 23,
@@ -39308,6 +39770,17 @@
     "type": 23,
     "description": "自身のスタミナを300回復",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-fix_stamina_recovery-300-target-stamina_lower-1",
+    "name": "スタミナが低い1人のスタミナを回復",
+    "type": 23,
+    "description": "スタミナが低い1人のスタミナを300回復",
+    "skillTargetId": "target-stamina_lower-1",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -39869,6 +40342,17 @@
     "type": 23,
     "description": "自身のスタミナを400回復",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-fix_stamina_recovery-400-target-stamina_lower-1",
+    "name": "スタミナが低い1人のスタミナを回復",
+    "type": 23,
+    "description": "スタミナが低い1人のスタミナを400回復",
+    "skillTargetId": "target-stamina_lower-1",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -41257,6 +41741,72 @@
     "grade": 5,
     "maxGrade": 5,
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_combo_score_up-10-target-character_type-1-2-21",
+    "name": "スコアラータイプ2人にコンボスコア上昇上限解放",
+    "type": 86,
+    "description": "スコアラータイプ2人に10段階コンボスコアアップ上昇上限解放効果[21ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_combo_score_up-10-target-character_type-1-2-25",
+    "name": "スコアラータイプ2人にコンボスコア上昇上限解放",
+    "type": 86,
+    "description": "スコアラータイプ2人に10段階コンボスコアアップ上昇上限解放効果[25ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_combo_score_up-10-target-character_type-1-2-29",
+    "name": "スコアラータイプ2人にコンボスコア上昇上限解放",
+    "type": 86,
+    "description": "スコアラータイプ2人に10段階コンボスコアアップ上昇上限解放効果[29ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_combo_score_up-10-target-character_type-1-2-34",
+    "name": "スコアラータイプ2人にコンボスコア上昇上限解放",
+    "type": 86,
+    "description": "スコアラータイプ2人に10段階コンボスコアアップ上昇上限解放効果[34ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_combo_score_up-10-target-character_type-1-2-39",
+    "name": "スコアラータイプ2人にコンボスコア上昇上限解放",
+    "type": 86,
+    "description": "スコアラータイプ2人に10段階コンボスコアアップ上昇上限解放効果[39ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_combo_score_up-10-target-character_type-1-2-44",
+    "name": "スコアラータイプ2人にコンボスコア上昇上限解放",
+    "type": 86,
+    "description": "スコアラータイプ2人に10段階コンボスコアアップ上昇上限解放効果[44ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
@@ -51803,6 +52353,17 @@
     "name": "スコア獲得-強化効果が多い程効果上昇",
     "type": 9,
     "description": "1440%のスコア獲得、強化効果が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_strength_effect_count-15100-chart_dependence",
+    "name": "スコア獲得-強化効果が多い程効果上昇",
+    "type": 9,
+    "description": "1510%のスコア獲得、強化効果が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -62557,6 +63118,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-2-target-visual_higher-1-13",
+    "name": "ビジュアルが高い1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルが高い1人に2段階スキル成功率上昇効果[13ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual_higher-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-2-target-visual_higher-1-18",
+    "name": "ビジュアルが高い1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルが高い1人に2段階スキル成功率上昇効果[18ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual_higher-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-2-target-visual_higher-1-24",
+    "name": "ビジュアルが高い1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルが高い1人に2段階スキル成功率上昇効果[24ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual_higher-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-3-target-all-35",
     "name": "全員にスキル成功率上昇効果",
     "type": 37,
@@ -63257,6 +63851,39 @@
     "grade": 3,
     "maxGrade": 10,
     "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-visual_higher-1-24",
+    "name": "ビジュアルが高い1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルが高い1人に3段階スキル成功率上昇効果[24ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual_higher-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-visual_higher-1-30",
+    "name": "ビジュアルが高い1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルが高い1人に3段階スキル成功率上昇効果[30ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual_higher-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-visual_higher-1-36",
+    "name": "ビジュアルが高い1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルが高い1人に3段階スキル成功率上昇効果[36ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual_higher-1",
     "limitBreakMaxGrade": 20,
     "shortDescription": ""
   },
@@ -74602,6 +75229,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-2-target-character_type-1-2-14",
+    "name": "スコアラータイプ2人にテンションUP効果",
+    "type": 38,
+    "description": "スコアラータイプ2人に2段階テンションUP効果[14ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-2-target-character_type-1-2-15",
     "name": "スコアラータイプ2人にテンションUP効果",
     "type": 38,
@@ -74617,6 +75255,17 @@
     "name": "スコアラータイプ2人にテンションUP効果",
     "type": 38,
     "description": "スコアラータイプ2人に2段階テンションUP効果[20ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-2-target-character_type-1-2-21",
+    "name": "スコアラータイプ2人にテンションUP効果",
+    "type": 38,
+    "description": "スコアラータイプ2人に2段階テンションUP効果[21ビート]",
     "grade": 2,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
@@ -74932,6 +75581,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-3-target-character_type-1-2-37",
+    "name": "スコアラータイプ2人にテンションUP効果",
+    "type": 38,
+    "description": "スコアラータイプ2人に3段階テンションUP効果[37ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-3-target-character_type-1-2-38",
     "name": "スコアラータイプ2人にテンションUP効果",
     "type": 38,
@@ -74958,6 +75618,17 @@
     "name": "スコアラータイプ2人にテンションUP効果",
     "type": 38,
     "description": "スコアラータイプ2人に3段階テンションUP効果[44ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-3-target-character_type-1-2-45",
+    "name": "スコアラータイプ2人にテンションUP効果",
+    "type": 38,
+    "description": "スコアラータイプ2人に3段階テンションUP効果[45ビート]",
     "grade": 3,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",

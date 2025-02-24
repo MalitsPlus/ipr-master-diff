@@ -2206,5 +2206,39 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2503-dice",
+    "assetId": "event-dice_25-0225",
+    "name": "イベントストーリー",
+    "description": "SOS！星見プロダクションの転送～ただのアイドルには興味ありません！？～",
+    "order": 250225,
+    "viewConditionId": "cd-event-story-25-0225",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2503_01_01",
+        "storyId": "st-eve-2503-dice-001",
+        "unlockConditionId": "cd-event-dice-25-0225-story-01-unlock",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2503_01_02",
+        "storyId": "st-eve-2503-dice-002",
+        "unlockConditionId": "cd-event-dice-25-0225-story-02-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2503_01_03",
+        "storyId": "st-eve-2503-dice-003",
+        "unlockConditionId": "cd-event-dice-25-0225-story-03-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      }
+    ]
   }
 ]

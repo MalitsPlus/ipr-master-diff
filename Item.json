@@ -924,6 +924,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_gold-25-0225",
+    "name": "すごろくコイン",
+    "assetId": "gold-dice",
+    "description": "マップ内のショップでアイテムを購入することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_medal-24-0404",
     "name": "すごろくメダル",
     "assetId": "medal-dice",
@@ -972,6 +984,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_medal-25-0225",
+    "name": "すごろくメダル",
+    "assetId": "medal-dice",
+    "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_stamina_recovery-24-0404",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
@@ -1009,6 +1033,18 @@
   },
   {
     "id": "item-dice_stamina_recovery-24-1226",
+    "name": "すごろくキャンディ",
+    "assetId": "dice-stamina-recovery",
+    "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント、ファンイベント、プロモーション など",
+    "type": 3001,
+    "value": 10,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-dice_stamina_recovery-25-0225",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
     "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
@@ -2069,6 +2105,18 @@
     "assetId": "card-exchange-05",
     "description": "★5アイドル交換所で好きな\nバレンタインアイドルと交換できるチケット",
     "howToGet": "バレンタインオールスター特別ショップ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-25-0226-03",
+    "name": "★5限定契約書",
+    "assetId": "card-exchange-05-24-0624",
+    "description": "★5限定アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "復刻ドリームギフトガチャ",
     "type": 10,
     "value": 1,
     "order": 140,
@@ -3172,6 +3220,18 @@
     "name": "絆覚醒限定グッズメダル",
     "assetId": "medal-gacha-link-medal",
     "description": "絆覚醒限定グッズ交換所でグッズと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「絆シリーズ 〜星巡る夢のステージ〜」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-0225",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「入団！SOS団！」など",
     "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
@@ -4562,6 +4622,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-25-0212",
     "name": "絆シリーズ \n〜星巡る夢のステージ〜ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-0225",
+    "name": "入団！SOS団！ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -6302,6 +6374,18 @@
   {
     "id": "item-gacha_point-rev-select-01-25-0214",
     "name": "バレンタイン記念\n選べる★5アイドルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-25-0226",
+    "name": "選べる★5復刻ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -8952,6 +9036,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-photo_contest_create-25-0225",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -10370,6 +10466,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-25-0212-01",
     "name": "絆シリーズ ~星巡る夢のステージ~1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0225-01",
+    "name": "入団！SOS団！1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",

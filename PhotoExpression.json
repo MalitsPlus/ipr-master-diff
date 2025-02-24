@@ -10,10 +10,11 @@
       "gene",
       "idol-miku",
       "kion",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 4,
+    "order": 5,
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -40,10 +41,11 @@
       "idol-miku",
       "kion",
       "idol",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 5,
+    "order": 6,
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -70,10 +72,11 @@
       "idol-miku",
       "kion",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 2,
+    "order": 3,
     "viewConditionId": "cd-time-photo-garden-02-01",
     "impossibleShootingCharacterIds": [
       "char-mku",
@@ -103,10 +106,11 @@
       "schl",
       "trng",
       "waso",
-      "pajm"
+      "pajm",
+      "hruh"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 3,
+    "order": 4,
     "viewConditionId": "cd-time-photo-lesson-00-01",
     "impossibleShootingCharacterIds": [
       "char-mku",
@@ -133,7 +137,7 @@
       "mizg-water-ng"
     ],
     "forceCostumeTypeId": "mizg",
-    "order": 1,
+    "order": 2,
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -148,6 +152,39 @@
       "photo-pose-lying-relax-lesson"
     ],
     "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-sos",
+    "name": "文芸部室",
+    "thumbnailAssetId": "sos-01",
+    "stageId": "stage-photo-studio-02-000-noon",
+    "costumeTypeIds": [
+      "gene",
+      "idol",
+      "schl",
+      "trng",
+      "waso",
+      "casl",
+      "hruh",
+      "kion"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 1,
+    "viewConditionId": "cd-photo_expression_shooting-0225",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-lesson",
+      "photo-pose-lying-relax-lesson"
+    ],
     "unlockConditionId": ""
   }
 ]

@@ -5607,6 +5607,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-eve-250225-1",
+    "name": "イベント称号",
+    "assetId": "dice-25_0225",
+    "order": 125031,
+    "description": "すごろく「SOS！星見プロダクションの転送～ただのアイドルには興味ありません！？～」条件達成",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-ex-tower-005-sp-24-0428-001",
     "name": "GW記念EXタワー",
     "assetId": "ex-tower-005-sp-24-0428-001",
@@ -5621,6 +5630,15 @@
     "assetId": "ex-tower-005-sp-24-0428-004",
     "order": 141070,
     "description": "GW記念EXタワー星見プロからの挑戦状をクリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-ex-tower-005-sp-25-0301-001",
+    "name": "涼宮ハルヒの憂鬱コラボ開催記念EXタワー",
+    "assetId": "ex-tower-005-sp-250301-001",
+    "order": 141060,
+    "description": "涼宮ハルヒの憂鬱コラボ開催記念EXタワーをクリア",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -7997,6 +8015,33 @@
     "assetId": "pvp-season-126-top100",
     "order": 312630,
     "description": "VENUSバトルシーズン126で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-127-top001",
+    "name": "VENUSシーズン127 No.1",
+    "assetId": "pvp-season-127-top001",
+    "order": 312710,
+    "description": "VENUSバトルシーズン127で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-127-top010",
+    "name": "VENUSシーズン127 TOP10",
+    "assetId": "pvp-season-127-top010",
+    "order": 312720,
+    "description": "VENUSバトルシーズン127で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-127-top100",
+    "name": "VENUSシーズン127 TOP100",
+    "assetId": "pvp-season-127-top100",
+    "order": 312730,
+    "description": "VENUSバトルシーズン127で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
