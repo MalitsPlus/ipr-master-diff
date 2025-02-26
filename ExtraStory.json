@@ -4100,6 +4100,58 @@
     "secretEffectColorCode": ""
   },
   {
+    "id": "ex-story-part-special-01-birthday-trip-2024-04",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_birthday-trip-2024-04",
+    "name": "誕生日ストーリー 北海道旅行編",
+    "description": "再生するストーリーを選択してください。",
+    "order": 230,
+    "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-04-open",
+    "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-04-open",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2407_02_04",
+        "storyId": "st-ex-story-part-special-01-birthday-trip-2024-04",
+        "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-04-open",
+        "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-04-open",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      }
+    ],
+    "extraStoryType": 1,
+    "iconAssetId": "",
+    "backgroundAssetId": "",
+    "secretEffectColorCode": ""
+  },
+  {
+    "id": "ex-story-part-special-01-birthday-trip-2024-02",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_birthday-trip-2024-02",
+    "name": "誕生日ストーリー 京都旅行編",
+    "description": "再生するストーリーを選択してください。",
+    "order": 230,
+    "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
+    "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2407_02_02",
+        "storyId": "st-ex-story-part-special-01-birthday-trip-2024-02",
+        "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
+        "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      }
+    ],
+    "extraStoryType": 1,
+    "iconAssetId": "",
+    "backgroundAssetId": "",
+    "secretEffectColorCode": ""
+  },
+  {
     "id": "ex-story-part-special-01-birthday-trip-2024-03",
     "extraStoryPartId": "ex-story-part-special-01",
     "assetId": "img_banner_l_birthday-trip-2024-03",
@@ -4141,32 +4193,6 @@
         "storyId": "st-ex-story-part-special-01-birthday-trip-2024-01",
         "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
         "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      }
-    ],
-    "extraStoryType": 1,
-    "iconAssetId": "",
-    "backgroundAssetId": "",
-    "secretEffectColorCode": ""
-  },
-  {
-    "id": "ex-story-part-special-01-birthday-trip-2024-02",
-    "extraStoryPartId": "ex-story-part-special-01",
-    "assetId": "img_banner_l_birthday-trip-2024-02",
-    "name": "誕生日ストーリー 京都旅行編",
-    "description": "再生するストーリーを選択してください。",
-    "order": 230,
-    "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
-    "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
-    "episodes": [
-      {
-        "episode": 1,
-        "assetId": "event_2407_02_02",
-        "storyId": "st-ex-story-part-special-01-birthday-trip-2024-02",
-        "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
-        "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
         "afterReadAssetId": "",
         "isSecret": false,
         "isPrologue": false
@@ -4371,6 +4397,16 @@
         "storyId": "st-birthday-branch-yu-24-0227",
         "viewConditionId": "cd-ex-story-part-birthday-yu-24-0227-open",
         "unlockConditionId": "cd-ex-story-part-birthday-yu-24-0227-open",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 4,
+        "assetId": "hbd_2025",
+        "storyId": "st-birthday-branch-yu-25-0227",
+        "viewConditionId": "cd-ex-story-part-birthday-yu-25-0227-open",
+        "unlockConditionId": "cd-ex-story-part-birthday-yu-25-0227-open",
         "afterReadAssetId": "",
         "isSecret": false,
         "isPrologue": false

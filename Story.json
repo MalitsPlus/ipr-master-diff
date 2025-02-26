@@ -1074,6 +1074,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-yu-25-0227",
+    "name": "鈴村優 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は優の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "アニメの限定グッズ",
+        "advAssetId": "hbd_05_yu_01"
+      },
+      {
+        "index": 2,
+        "text": "瑠依の等身大枕",
+        "advAssetId": "hbd_05_yu_02"
+      },
+      {
+        "index": 3,
+        "text": "梅の髪飾り",
+        "advAssetId": "hbd_05_yu_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-card-ai-05-birt-00-01",
     "name": "父の力に\nなりたくて",
     "rewardId": "rd_auto;stone;;30",
@@ -14034,6 +14066,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-yu-05-birt-01-01",
+    "name": "慰安旅行\nin北海道",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_yu_52_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-yu-05-birt-01-02",
+    "name": "こんな\n最高な同人誌\nに出会える\nなんて",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_yu_52_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-yu-05-birt-01-03",
+    "name": "創作意欲が\n大暴れです",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_yu_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-yu-05-casl-02-01",
     "name": "全人類キュン\n死間違い\nなしや！",
     "rewardId": "rd_auto;stone;;30",
@@ -22125,6 +22211,24 @@
     ],
     "advAssetIds": [
       "event_2412_02_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-ex-story-part-special-01-birthday-trip-2024-04",
+    "name": "プロローグ",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2502_02_01"
     ],
     "sectionName": "",
     "description": "",

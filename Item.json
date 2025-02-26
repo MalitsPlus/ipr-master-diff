@@ -3048,6 +3048,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-birthday-25-0227",
+    "name": "誕生日缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge-birthday",
+    "description": "誕生日缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「優誕生日ガチャ2025」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_medal-buttonbadge-fs-set-bloom-24-0626",
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
@@ -3650,6 +3662,18 @@
   {
     "id": "item-gacha_point-birthday-25-0209",
     "name": "愛誕生日ガチャ2025Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-birthday-25-0227",
+    "name": "優誕生日ガチャ2025Pt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -5618,6 +5642,18 @@
   {
     "id": "item-gacha_point-rev-birthday-25-0209",
     "name": "【復刻】愛誕生日ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-birthday-25-0227",
+    "name": "【復刻】優誕生日ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
