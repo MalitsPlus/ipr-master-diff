@@ -42856,6 +42856,39 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_tension_up-5-target-self-31",
+    "name": "自身にテンションUPの上昇上限解放",
+    "type": 85,
+    "description": "自身に5段階テンションUP上限解放効果[31ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_tension_up-5-target-self-38",
+    "name": "自身にテンションUPの上昇上限解放",
+    "type": 85,
+    "description": "自身に5段階テンションUP上限解放効果[38ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_tension_up-5-target-self-45",
+    "name": "自身にテンションUPの上昇上限解放",
+    "type": 85,
+    "description": "自身に5段階テンションUP上限解放効果[45ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_visual_boost-10-target-visual-2-24",
     "name": "ビジュアルタイプ2人にビジュアルブースト上限解放",
     "type": 90,
@@ -51205,6 +51238,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-tension_up-10200-chart_dependence",
+    "name": "スコア獲得-テンションUP状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1020%のスコア獲得、テンションUP状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-tension_up-10800-chart_dependence",
     "name": "スコア獲得-テンションUP状態の段階数が多い程効果上昇",
     "type": 36,
@@ -51227,6 +51271,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-tension_up-11300-chart_dependence",
+    "name": "スコア獲得-テンションUP状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1130%のスコア獲得、テンションUP状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-tension_up-12000-chart_dependence",
     "name": "スコア獲得-テンションUP状態の段階数が多い程効果上昇",
     "type": 36,
@@ -51242,6 +51297,17 @@
     "name": "スコア獲得-テンションUP状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1210%のスコア獲得、テンションUP状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-tension_up-12400-chart_dependence",
+    "name": "スコア獲得-テンションUP状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1240%のスコア獲得、テンションUP状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -51297,6 +51363,17 @@
     "name": "スコア獲得-テンションUP状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "900%のスコア獲得、テンションUP状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-tension_up-9100-chart_dependence",
+    "name": "スコア獲得-テンションUP状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "910%のスコア獲得、テンションUP状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -75713,6 +75790,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-2-target-self-24",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に2段階テンションUP効果[24ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-2-target-self-31",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -76538,6 +76626,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-4-target-self-45",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に4段階テンションUP効果[45ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-4-target-self-48",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -76831,6 +76930,17 @@
     "grade": 5,
     "maxGrade": 10,
     "skillTargetId": "target-dance_higher-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-5-target-self-26",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に5段階テンションUP効果[26ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
     "limitBreakMaxGrade": 20,
     "shortDescription": ""
   },
@@ -77209,6 +77319,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-6-target-self-33",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に6段階テンションUP効果[33ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-6-target-self-34",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -77235,6 +77356,17 @@
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に6段階テンションUP効果[39ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-6-target-self-40",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に6段階テンションUP効果[40ビート]",
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -77455,6 +77587,17 @@
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に7段階テンションUP効果[39ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-7-target-self-40",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に7段階テンションUP効果[40ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-self",
