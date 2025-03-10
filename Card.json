@@ -4596,6 +4596,56 @@
     "homeTalks": []
   },
   {
+    "id": "card-kor-05-nurs-00",
+    "assetId": "kor-05-nurs-00",
+    "name": "怪演ダークエンジェル",
+    "description": "ふふん。悪役が嫌われものってのは古い考えですよ\r\n最近はそっちにもファンが沢山付くんですから",
+    "type": 2,
+    "characterId": "char-kor",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 315,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 405,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kor-05-nurs-00-1",
+    "skillId2": "sk-kor-05-nurs-00-2",
+    "skillId3": "sk-kor-05-nurs-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 454,
+    "releaseDate": "1741662000000",
+    "rewardCostumeId": "cos-kor-nurs-00",
+    "obtainMessage": "ふはははは、\n今更来ても遅いぞ、\nプカミ達",
+    "stories": [
+      {
+        "storyId": "st-card-kor-05-nurs-00-01"
+      },
+      {
+        "storyId": "st-card-kor-05-nurs-00-02"
+      },
+      {
+        "storyId": "st-card-kor-05-nurs-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kor-05-nurs-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kor-05-nurs-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kor-05-poli-00",
     "assetId": "kor-05-poli-00",
     "name": "壁越しに香るゆず湯",

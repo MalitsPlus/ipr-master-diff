@@ -3528,6 +3528,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-kor-05-nurs-00-talk-01",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kor-05-nurs-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kor-05-nurs-00",
+    "choiceText": "あれでも気を遣ってたんですね……\nどんなこと話してたんですか？",
+    "managerText": "あれでも気を遣ってたんですね……\nどんなこと話してたんですか？",
+    "reliability": 5,
+    "title": "怪演ダークエンジェル",
+    "displayConditionDescription": "怪演ダークエンジェル fran\nストーリー3話を視聴",
+    "order": 404,
+    "releaseDate": "1741662000000",
+    "characterTalks": [
+      {
+        "text": "瑠依にはファッションとか\nモデルのこととか聞かれたので、\n答えたりしてましたよ。",
+        "voiceAssetId": "sud_vo_home_kor-05-nurs-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "父親にプレゼント渡す予定らしい\nので、大人の男性向けの小物は\nどんなのがいいかとか。",
+        "voiceAssetId": "sud_vo_home_kor-05-nurs-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "…え、瑠依って、本当にバンプロの\n朝倉社長の娘さんなんですか！？",
+        "voiceAssetId": "sud_vo_home_kor-05-nurs-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_surp-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "姫野さんが、そういうくだらない\nゴシップを捏造してましたけど、\n娘なことだけは本当だったんですね",
+        "voiceAssetId": "sud_vo_home_kor-05-nurs-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ああでも確かに、真面目そうなとこ\nとか少し似てるかもしれません。\nあっちゃー、気まずー…",
+        "voiceAssetId": "sud_vo_home_kor-05-nurs-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_sad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "以前のことは、瑠依はもうあんまり\n気にしてない？\nだといいんですけどねぇ…",
+        "voiceAssetId": "sud_vo_home_kor-05-nurs-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_talk-014_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-kor-05-poli-00-talk-01",
     "characterId": "char-kor",
     "placeType": 1,
