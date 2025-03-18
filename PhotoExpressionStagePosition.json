@@ -210,6 +210,48 @@
     "lookEffectAssetId": "lok_pose_common-00_00"
   },
   {
+    "stageId": "stage-photo-hillpark-00",
+    "number": 1,
+    "name": "地点A",
+    "possiblePhotoPoseType": 1,
+    "initialPhotoPoseId": "photo-pose-standing-default",
+    "characterPositions": [
+      -3.708,
+      10.0,
+      -2.861
+    ],
+    "characterAngles": [
+      0.0,
+      -3.493,
+      0.0
+    ],
+    "cameraPositions": [
+      -3.811,
+      11.193,
+      -1.069
+    ],
+    "cameraAngles": [
+      -0.607,
+      176.657,
+      0.0
+    ],
+    "upperLimit": 2.0,
+    "lowerLimit": 0.9,
+    "previewCameraPositions": [
+      -3.811,
+      11.193,
+      -1.069
+    ],
+    "previewCameraAngles": [
+      -0.607,
+      176.657,
+      0.0
+    ],
+    "previewUpperLimit": 2.0,
+    "previewLowerLimit": 0.9,
+    "lookEffectAssetId": "lok_pose_common-00_00"
+  },
+  {
     "stageId": "stage-photo-lesson-00",
     "number": 1,
     "name": "地点A",

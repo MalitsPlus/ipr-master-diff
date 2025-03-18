@@ -10732,6 +10732,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-yu-05-chna-00-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-chna-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-chna-00",
+    "choiceText": "優、何をそんなに唸っているんだ？",
+    "managerText": "優、何をそんなに唸っているんだ？",
+    "reliability": 5,
+    "title": "水面に映る花影",
+    "displayConditionDescription": "水面に映る花影 鈴村優\nストーリー3話を視聴",
+    "order": 408,
+    "releaseDate": "1742266800000",
+    "characterTalks": [
+      {
+        "text": "あ、ちょうどいいところに\n来てくれました。\nうちの話、聞いてくれます？",
+        "voiceAssetId": "sud_vo_home_yu-05-chna-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今度関西の仕事に行くやろ？\n久しぶりにこってりのラーメン\n食べようと思ってたんやけど…",
+        "voiceAssetId": "sud_vo_home_yu-05-chna-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "うち、しばらく刺激的な味ばかり\n食べてたやんか。せやから\n普通のと激辛で迷ってて…",
+        "voiceAssetId": "sud_vo_home_yu-05-chna-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "…あかん、決められません。\nかといって、二杯も食べたら\nまた衣装入らんくなってまうし。",
+        "voiceAssetId": "sud_vo_home_yu-05-chna-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "昔から馴染みのあるこってりか、\n鍛えたこの舌を生かして\n激辛こってりにするか…",
+        "voiceAssetId": "sud_vo_home_yu-05-chna-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……うーん、こうなったら\nうちの代わりにどっちがいいか、\n決めてくれません？",
+        "voiceAssetId": "sud_vo_home_yu-05-chna-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-yu-05-fest-00-talk-01",
     "characterId": "char-yu",
     "placeType": 1,

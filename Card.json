@@ -182,7 +182,7 @@
     "skillId2": "sk-ai-05-birt-01-2",
     "skillId3": "sk-ai-05-birt-01-3",
     "liveAbilityId": "lba-technique_add",
-    "order": 479,
+    "order": 448,
     "releaseDate": "1739026800000",
     "obtainMessage": "『DENSETSU』は……\n必ずあります！",
     "rewardHairId": "hair-ai-hair-11",
@@ -4613,7 +4613,7 @@
     "skillId2": "sk-kor-05-nurs-00-2",
     "skillId3": "sk-kor-05-nurs-00-3",
     "activityAbilityId": "aab-promotion_manager_exp_up",
-    "order": 454,
+    "order": 457,
     "releaseDate": "1741662000000",
     "rewardCostumeId": "cos-kor-nurs-00",
     "obtainMessage": "ふはははは、\n今更来ても遅いぞ、\nプカミ達",
@@ -6038,7 +6038,7 @@
     "skillId2": "sk-mei-05-hruh-00-2",
     "skillId3": "sk-mei-05-hruh-00-3",
     "liveAbilityId": "lba-beat_score_multiply",
-    "order": 452,
+    "order": 453,
     "releaseDate": "1740452400000",
     "rewardCostumeId": "cos-mei-hruh-01",
     "obtainMessage": "SOS団のマスコットキャラなの",
@@ -7312,7 +7312,7 @@
     "skillId2": "sk-mna-05-link-00-2",
     "skillId3": "sk-mna-05-link-00-3",
     "liveAbilityId": "lba-visual_multiply",
-    "order": 448,
+    "order": 449,
     "releaseDate": "1739329200000",
     "rewardCostumeId": "cos-mna-link-00",
     "obtainMessage": "……っ、お姉ちゃん……",
@@ -8453,7 +8453,7 @@
     "skillId2": "sk-rei-05-birt-01-2",
     "skillId3": "sk-rei-05-birt-01-3",
     "liveAbilityId": "lba-stamina_add",
-    "order": 481,
+    "order": 456,
     "releaseDate": "1741359600000",
     "obtainMessage": "旅行って結構楽しいんですね",
     "rewardHairId": "hair-rei-hair-11",
@@ -8694,7 +8694,7 @@
     "skillId2": "sk-rei-05-hruh-00-2",
     "skillId3": "sk-rei-05-hruh-00-3",
     "activityAbilityId": "aab-fan_event_manager_exp_up",
-    "order": 450,
+    "order": 452,
     "releaseDate": "1740452400000",
     "rewardCostumeId": "cos-rei-hruh-00",
     "obtainMessage": "その時はみんなで、\n世界を大いに盛り上げるわよ",
@@ -10895,7 +10895,7 @@
     "skillId1": "sk-ski-02-eve-01-1",
     "skillId2": "sk-ski-02-eve-01-2",
     "skillId3": "sk-ski-02-eve-01-3",
-    "order": 453,
+    "order": 454,
     "releaseDate": "1740452400000",
     "liveAbilityId": "",
     "activityAbilityId": "",
@@ -14913,7 +14913,7 @@
     "skillId2": "sk-yu-05-birt-01-2",
     "skillId3": "sk-yu-05-birt-01-3",
     "activityAbilityId": "aab-promotion_accessory_multi_step_reward_up",
-    "order": 480,
+    "order": 455,
     "releaseDate": "1740582000000",
     "obtainMessage": "うちの心にふかーく\n刺さりましたわぁ",
     "rewardHairId": "hair-yu-hair-11",
@@ -14976,6 +14976,56 @@
       },
       {
         "telephoneId": "tel-card-yu-05-casl-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-yu-05-chna-00",
+    "assetId": "yu-05-chna-00",
+    "name": "水面に映る花影",
+    "description": "ダメです、うちをこれ以上……これ以上\n誘惑せんとって下さいー！",
+    "type": 2,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 404,
+    "danceRatioPermil": 320,
+    "visualRatioPermil": 276,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-chna-00-1",
+    "skillId2": "sk-yu-05-chna-00-2",
+    "skillId3": "sk-yu-05-chna-00-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 458,
+    "releaseDate": "1742266800000",
+    "rewardCostumeId": "cos-yu-chna-00",
+    "obtainMessage": "ダイエット中のうちにそんな幸せ……\nあってもええんでしょうか？",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-chna-00-01"
+      },
+      {
+        "storyId": "st-card-yu-05-chna-00-02"
+      },
+      {
+        "storyId": "st-card-yu-05-chna-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-chna-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-chna-00",
         "messageId": ""
       }
     ],

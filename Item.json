@@ -1272,6 +1272,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dream-generate-dream-25-0320",
+    "name": "イメトレマニュアル",
+    "assetId": "dream-generate",
+    "description": "イメージトレーニングのステージ生成に使用する",
+    "howToGet": "イメージトレーニング",
+    "type": 10001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-enjoy-present-adult-01-01",
     "name": "コーヒー",
     "assetId": "enjoy-present-adult-01-01",
@@ -2124,6 +2136,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-ticket-25-0320",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "感謝祭特別ショップ 第2弾",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-ticket-fes-dream-23-1226",
     "name": "★5フェス契約書",
     "assetId": "card-exchange-05-23-1226",
@@ -2581,6 +2605,18 @@
   },
   {
     "id": "item-gacha-free-ticket-1s-25-0310",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-25-0320",
     "name": "無料10連ガチャチケ",
     "assetId": "gacha-endless-22-1224",
     "description": "10連チケットガチャを1回引くことができる",
@@ -5424,6 +5460,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-25-0318",
+    "name": "揺れる水面と乙女の心情ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -7084,6 +7132,18 @@
     "name": "「試練の鎖」専用ガチャチケット",
     "assetId": "gacha-ticket-just",
     "description": "「試練の鎖」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-25-0318-01",
+    "name": "「揺れる水面と乙女の心情」専用ガチャチケット",
+    "assetId": "gacha-ticket-just",
+    "description": "「揺れる水面と乙女の心情」ガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "アイドル活動ミッション",
     "type": 8,
     "value": 1,
@@ -9187,7 +9247,7 @@
     "howToGet": "イベントなど",
     "type": 7,
     "value": 1,
-    "order": 160,
+    "order": 20,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9235,7 +9295,7 @@
     "howToGet": "フォトの売却",
     "type": 6,
     "value": 1,
-    "order": 170,
+    "order": 21,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9259,7 +9319,7 @@
     "howToGet": "デイリーライブ、プロモーションなど",
     "type": 11,
     "value": 2,
-    "order": 230,
+    "order": 231,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9271,7 +9331,7 @@
     "howToGet": "デイリーライブ、プロモーションなど",
     "type": 11,
     "value": 3,
-    "order": 230,
+    "order": 232,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9295,7 +9355,7 @@
     "howToGet": "デイリーライブ、プロモーションなど",
     "type": 11,
     "value": 4,
-    "order": 230,
+    "order": 233,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9331,7 +9391,7 @@
     "howToGet": "ショップ",
     "type": 11,
     "value": 5,
-    "order": 24,
+    "order": 25,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9343,7 +9403,7 @@
     "howToGet": "ショップなど",
     "type": 11,
     "value": 7,
-    "order": 24,
+    "order": 26,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9355,7 +9415,7 @@
     "howToGet": "デイリーライブ、プロモーションなど",
     "type": 11,
     "value": 5,
-    "order": 230,
+    "order": 234,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9367,7 +9427,7 @@
     "howToGet": "デイリーライブなど",
     "type": 11,
     "value": 6,
-    "order": 230,
+    "order": 235,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9379,7 +9439,7 @@
     "howToGet": "デイリーライブなど",
     "type": 11,
     "value": 7,
-    "order": 230,
+    "order": 236,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9391,7 +9451,7 @@
     "howToGet": "VENUSタワーなど",
     "type": 11,
     "value": 8,
-    "order": 23,
+    "order": 237,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9403,7 +9463,7 @@
     "howToGet": "ショップなど",
     "type": 11,
     "value": 8,
-    "order": 24,
+    "order": 27,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9415,7 +9475,7 @@
     "howToGet": "ショップなど",
     "type": 11,
     "value": 8,
-    "order": 241,
+    "order": 260,
     "isPhotoShootingCharacterOnly": true,
     "salePrice": 0
   },
@@ -9427,7 +9487,19 @@
     "howToGet": "VENUSタワーなど",
     "type": 11,
     "value": 9,
-    "order": 23,
+    "order": 238,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-photo_shooting-09-25-0318",
+    "name": "★5確定撮影フィルムLv.9",
+    "assetId": "photo-shooting-01-r5-2",
+    "description": "撮影を行うことができる\n★5確定で品質160のフォトを獲得できる",
+    "howToGet": "ショップなど",
+    "type": 11,
+    "value": 9,
+    "order": 28,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -9439,7 +9511,7 @@
     "howToGet": "イベントなど",
     "type": 13,
     "value": 5,
-    "order": 240,
+    "order": 270,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -10708,6 +10780,18 @@
     "name": "ケース：中",
     "assetId": "box-01-000",
     "description": "ケース：中\nサイズ：43×38×38",
+    "howToGet": "ショップ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-showcase_frame-004",
+    "name": "ケース：中(ワイド)",
+    "assetId": "box-02-000",
+    "description": "中(ワイド) \nサイズ：65×38×38",
     "howToGet": "ショップ",
     "type": 3001,
     "value": 1,

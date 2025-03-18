@@ -2266,6 +2266,27 @@
     "receiveConditionId": "cd-time-login02-25-0226-0311"
   },
   {
+    "id": "login_bonus-campaign02-25-0319-01",
+    "name": "感謝祭",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-0314-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-photo_shooting-09-25-0318;1",
+      "rd_auto;item;item-gacha_lottery-ticket-25-0311;10",
+      "rd_auto;item;item-gacha_lottery-ticket-25-0311;10",
+      "rd_auto;item;item-gacha_lottery-ticket-25-0311;10",
+      "rd_auto;item;item-gacha_lottery-ticket-25-0311;10",
+      "rd_auto;item;item-gacha_lottery-ticket-25-0311;10",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-25-0319-0325",
+    "receiveConditionId": "cd-time-login02-25-0319-0401"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
