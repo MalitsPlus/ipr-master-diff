@@ -16104,6 +16104,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-10-target-character_type-1-1",
+    "name": "スコアラータイプ1人のCTを減少",
+    "type": 27,
+    "description": "スコアラータイプ1人のCTを10減少",
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-10-target-character_type-1-2",
     "name": "スコアラータイプ2人のCTを減少",
     "type": 27,
@@ -16203,6 +16214,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-11-target-character_type-1-1",
+    "name": "スコアラータイプ1人のCTを減少",
+    "type": 27,
+    "description": "スコアラータイプ1人のCTを11減少",
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-11-target-dance_higher-1",
     "name": "ダンスが高い1人のCTを減少",
     "type": 27,
@@ -16219,6 +16241,17 @@
     "type": 27,
     "description": "自身のCTを11減少",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-12-target-character_type-1-1",
+    "name": "スコアラータイプ1人のCTを減少",
+    "type": 27,
+    "description": "スコアラータイプ1人のCTを12減少",
+    "skillTargetId": "target-character_type-1-1",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -16274,6 +16307,17 @@
     "type": 27,
     "description": "センターのCTを13減少",
     "skillTargetId": "target-center",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-13-target-character_type-1-1",
+    "name": "スコアラータイプ1人のCTを減少",
+    "type": 27,
+    "description": "スコアラータイプ1人のCTを13減少",
+    "skillTargetId": "target-character_type-1-1",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -17732,6 +17776,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-8-target-character_type-1-1",
+    "name": "スコアラータイプ1人のCTを減少",
+    "type": 27,
+    "description": "スコアラータイプ1人のCTを8減少",
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-8-target-character_type-1-2",
     "name": "スコアラータイプ2人のCTを減少",
     "type": 27,
@@ -17814,6 +17869,17 @@
     "type": 27,
     "description": "センターのCTを9減少",
     "skillTargetId": "target-center",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-9-target-character_type-1-1",
+    "name": "スコアラータイプ1人のCTを減少",
+    "type": 27,
+    "description": "スコアラータイプ1人のCTを9減少",
+    "skillTargetId": "target-character_type-1-1",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -64372,6 +64438,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-3-target-visual-2-28",
+    "name": "ビジュアルタイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルタイプ2人に3段階スキル成功率上昇効果[28ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-visual-2-31",
+    "name": "ビジュアルタイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルタイプ2人に3段階スキル成功率上昇効果[31ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-visual-2-34",
+    "name": "ビジュアルタイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルタイプ2人に3段階スキル成功率上昇効果[34ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-3-target-visual_higher-1-24",
     "name": "ビジュアルが高い1人にスキル成功率上昇効果",
     "type": 37,
@@ -65344,6 +65443,39 @@
     "name": "ビジュアルタイプ2人にスキル成功率上昇効果",
     "type": 37,
     "description": "ビジュアルタイプ2人に4段階スキル成功率上昇効果[28ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-visual-2-34",
+    "name": "ビジュアルタイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルタイプ2人に4段階スキル成功率上昇効果[34ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-visual-2-38",
+    "name": "ビジュアルタイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルタイプ2人に4段階スキル成功率上昇効果[38ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-visual-2-42",
+    "name": "ビジュアルタイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ビジュアルタイプ2人に4段階スキル成功率上昇効果[42ビート]",
     "grade": 4,
     "maxGrade": 10,
     "skillTargetId": "target-visual-2",
@@ -70774,6 +70906,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_character_type-1-1-28",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に6段階スタミナ継続消費効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_character_type-1-1-31",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に6段階スタミナ継続消費効果[31ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_consumption-6-target-opponent_character_type-1-1-33",
     "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
     "type": 63,
@@ -70862,6 +71016,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_consumption-7-target-opponent_character_type-1-1-35",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に7段階スタミナ継続消費効果[35ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_consumption-7-target-opponent_character_type-1-1-37",
     "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
     "type": 63,
@@ -70928,10 +71093,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_consumption-8-target-opponent_character_type-1-1-39",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に8段階スタミナ継続消費効果[39ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_consumption-8-target-opponent_character_type-1-1-41",
     "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
     "type": 63,
     "description": "[ライブバトルのみ]相手のスコアラータイプ1人に8段階スタミナ継続消費効果[41ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-8-target-opponent_character_type-1-1-43",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に8段階スタミナ継続消費効果[43ビート]",
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_character_type-1-1",
@@ -72396,6 +72583,17 @@
     "type": 66,
     "description": "スコアラータイプ1人へ強化効果譲渡",
     "skillTargetId": "target-character_type-1-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_assignment_all-target-character_type-1-2",
+    "name": "スコアラータイプ2人へ強化効果譲渡",
+    "type": 66,
+    "description": "スコアラータイプ2人へ強化効果譲渡",
+    "skillTargetId": "target-character_type-1-2",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -74360,6 +74558,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-strength_effect_count_increase-8-target-trigger",
+    "name": "対象の強化効果を延長",
+    "type": 25,
+    "description": "対象1人の強化効果を8延長",
+    "skillTargetId": "target-trigger",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-strength_effect_count_increase-8-target-visual-2",
     "name": "ビジュアルタイプ2人の強化効果を延長",
     "type": 25,
@@ -74519,6 +74728,17 @@
     "type": 25,
     "description": "自身の強化効果を9延長",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-strength_effect_count_increase-9-target-trigger",
+    "name": "対象の強化効果を延長",
+    "type": 25,
+    "description": "対象1人の強化効果を9延長",
+    "skillTargetId": "target-trigger",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -80300,6 +80520,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-visual_down-4-target-opponent_visual-2-28",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に4段階ビジュアル低下効果[28ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-4-target-opponent_visual-2-31",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に4段階ビジュアル低下効果[31ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-visual_down-4-target-self-20",
     "name": "自身にビジュアル低下効果",
     "type": 32,
@@ -80439,6 +80681,17 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-5-target-opponent_visual-2-34",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に5段階ビジュアル低下効果[34ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
@@ -80604,6 +80857,28 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-6-target-opponent_visual-2-38",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に6段階ビジュアル低下効果[38ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-6-target-opponent_visual-2-42",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に6段階ビジュアル低下効果[42ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },

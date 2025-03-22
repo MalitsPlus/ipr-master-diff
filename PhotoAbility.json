@@ -5942,7 +5942,7 @@
   {
     "id": "pab-affect_strength_effect_value_increase-score_up_recipe_distribution-5-cd-support",
     "name": "与・スコアUP増強",
-    "description": "<サポータータイプのみ> 付与するスコア上昇効果を{0}段階増強します",
+    "description": "<サポータータイプのみ> \n付与するスコア上昇効果を{0}段階増強します",
     "abilityType": 29,
     "photoAbilityLevels": [
       {
@@ -6276,6 +6276,120 @@
     ],
     "conditionCardType": 2,
     "statusEffectType": 14,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionLiveType": 0
+  },
+  {
+    "id": "pab-affect_strength_effect_value_increase-visual_boost_recipe_distribution-5-cd-technique",
+    "name": "与・ビジュアルブースト増強",
+    "description": "<バッファータイプのみ>\n 付与するビジュアルブースト効果を{0}段階増強します",
+    "abilityType": 29,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 1
+      },
+      {
+        "level": 145,
+        "value": 1
+      },
+      {
+        "level": 150,
+        "value": 1
+      },
+      {
+        "level": 155,
+        "value": 1
+      },
+      {
+        "level": 160,
+        "value": 1
+      },
+      {
+        "level": 165,
+        "value": 1
+      },
+      {
+        "level": 170,
+        "value": 1
+      },
+      {
+        "level": 175,
+        "value": 1
+      },
+      {
+        "level": 180,
+        "value": 1
+      },
+      {
+        "level": 185,
+        "value": 1
+      },
+      {
+        "level": 190,
+        "value": 1
+      },
+      {
+        "level": 195,
+        "value": 1
+      },
+      {
+        "level": 200,
+        "value": 1
+      },
+      {
+        "level": 205,
+        "value": 1
+      },
+      {
+        "level": 210,
+        "value": 1
+      },
+      {
+        "level": 215,
+        "value": 1
+      },
+      {
+        "level": 220,
+        "value": 1
+      },
+      {
+        "level": 225,
+        "value": 1
+      },
+      {
+        "level": 230,
+        "value": 1
+      },
+      {
+        "level": 235,
+        "value": 1
+      },
+      {
+        "level": 240,
+        "value": 1
+      },
+      {
+        "level": 245,
+        "value": 1
+      },
+      {
+        "level": 250,
+        "value": 1
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 2,
+    "statusEffectType": 20,
     "moodType": 0,
     "skillId": "",
     "abilityTargetId": "",
@@ -27034,6 +27148,184 @@
     "statusEffectType": 0
   },
   {
+    "id": "pab-passive-skill_sk-phot-exchange-5-25-0324-prem-01",
+    "name": "強化効果延長スキル",
+    "description": "誰かがスキル成功状態の時、対象の強化効果を延長",
+    "abilityType": 13,
+    "skillId": "sk-phot-exchange-5-25-0324-prem-01",
+    "photoAbilityLevels": [
+      {
+        "level": 10,
+        "value": 1
+      },
+      {
+        "level": 15,
+        "value": 1
+      },
+      {
+        "level": 20,
+        "value": 1
+      },
+      {
+        "level": 25,
+        "value": 1
+      },
+      {
+        "level": 30,
+        "value": 1
+      },
+      {
+        "level": 35,
+        "value": 1
+      },
+      {
+        "level": 40,
+        "value": 1
+      },
+      {
+        "level": 45,
+        "value": 1
+      },
+      {
+        "level": 50,
+        "value": 1
+      },
+      {
+        "level": 55,
+        "value": 1
+      },
+      {
+        "level": 60,
+        "value": 1
+      },
+      {
+        "level": 65,
+        "value": 1
+      },
+      {
+        "level": 70,
+        "value": 1
+      },
+      {
+        "level": 75,
+        "value": 1
+      },
+      {
+        "level": 80,
+        "value": 1
+      },
+      {
+        "level": 85,
+        "value": 1
+      },
+      {
+        "level": 90,
+        "value": 1
+      },
+      {
+        "level": 95,
+        "value": 1
+      },
+      {
+        "level": 100,
+        "value": 1
+      },
+      {
+        "level": 105,
+        "value": 1
+      },
+      {
+        "level": 110,
+        "value": 2
+      },
+      {
+        "level": 115,
+        "value": 2
+      },
+      {
+        "level": 120,
+        "value": 2
+      },
+      {
+        "level": 125,
+        "value": 2
+      },
+      {
+        "level": 130,
+        "value": 2
+      },
+      {
+        "level": 135,
+        "value": 3
+      },
+      {
+        "level": 140,
+        "value": 3
+      },
+      {
+        "level": 145,
+        "value": 3
+      },
+      {
+        "level": 150,
+        "value": 3
+      },
+      {
+        "level": 155,
+        "value": 4
+      },
+      {
+        "level": 160,
+        "value": 4
+      },
+      {
+        "level": 165,
+        "value": 4
+      },
+      {
+        "level": 170,
+        "value": 4
+      },
+      {
+        "level": 175,
+        "value": 4
+      },
+      {
+        "level": 180,
+        "value": 4
+      },
+      {
+        "level": 185,
+        "value": 4
+      },
+      {
+        "level": 190,
+        "value": 4
+      },
+      {
+        "level": 195,
+        "value": 4
+      },
+      {
+        "level": 200,
+        "value": 4
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "moodType": 0,
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0,
+    "statusEffectType": 0
+  },
+  {
     "id": "pab-passive-skill_sk-phot-exchange-pvp-5-01",
     "name": "スコア獲得スキル",
     "description": "スコア獲得",
@@ -39336,6 +39628,120 @@
     ],
     "conditionCardType": 1,
     "statusEffectType": 8,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionLiveType": 0
+  },
+  {
+    "id": "pab-received_strength_effect_value_increase-dance_boost_recipe_distribution-5-cd-appeal",
+    "name": "被・ダンスブースト増強",
+    "description": "<スコアラータイプのみ> \n受けるダンスブースト効果を{0}段階増強します",
+    "abilityType": 27,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 1
+      },
+      {
+        "level": 145,
+        "value": 1
+      },
+      {
+        "level": 150,
+        "value": 1
+      },
+      {
+        "level": 155,
+        "value": 1
+      },
+      {
+        "level": 160,
+        "value": 1
+      },
+      {
+        "level": 165,
+        "value": 1
+      },
+      {
+        "level": 170,
+        "value": 1
+      },
+      {
+        "level": 175,
+        "value": 1
+      },
+      {
+        "level": 180,
+        "value": 1
+      },
+      {
+        "level": 185,
+        "value": 1
+      },
+      {
+        "level": 190,
+        "value": 1
+      },
+      {
+        "level": 195,
+        "value": 1
+      },
+      {
+        "level": 200,
+        "value": 1
+      },
+      {
+        "level": 205,
+        "value": 1
+      },
+      {
+        "level": 210,
+        "value": 1
+      },
+      {
+        "level": 215,
+        "value": 1
+      },
+      {
+        "level": 220,
+        "value": 1
+      },
+      {
+        "level": 225,
+        "value": 1
+      },
+      {
+        "level": 230,
+        "value": 1
+      },
+      {
+        "level": 235,
+        "value": 1
+      },
+      {
+        "level": 240,
+        "value": 1
+      },
+      {
+        "level": 245,
+        "value": 1
+      },
+      {
+        "level": 250,
+        "value": 1
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 1,
+    "statusEffectType": 19,
     "moodType": 0,
     "skillId": "",
     "abilityTargetId": "",
