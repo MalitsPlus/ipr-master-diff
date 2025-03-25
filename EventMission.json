@@ -1538,6 +1538,25 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-marathon-raid-25-0326",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-marathon-raid-25-0326",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-date-marathon-raid-25-0326",
+    "missionIds": [
+      "event-ms-normal-25-0326-mission_open_story-02",
+      "event-ms-normal-25-0326-mission_open_story-03",
+      "event-ms-normal-25-0326-mission_open_story-04",
+      "event-ms-normal-25-0326-mission_open_story-05",
+      "ms-daily-event-marathon-raid-25-0326-marathon_raid_host_count",
+      "ms-event-marathon-raid-25-0326-marathon_quest_clear_count",
+      "ms-event-marathon-raid-25-0326-marathon_quest_clear_difficulty-ep4",
+      "ms-normal-event-marathon-raid-25-0326-marathon_raid_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-mini-backside-23-0214",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mini-backside-23-0214",
@@ -2587,6 +2606,26 @@
       "event-shelf-25-0225-story-001",
       "event-shelf-25-0225-story-002",
       "event-shelf-25-0225-story-003"
+    ]
+  },
+  {
+    "id": "event-shelf-25-0326",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-shelf-25-0326",
+    "unlockConditionId": "cd-shelf-25-0326-play",
+    "missionIds": [
+      "event-shelf-25-0326-photo-album-complete",
+      "event-shelf-25-0326-photo-album-creating",
+      "event-shelf-25-0326-photo-creating",
+      "event-shelf-25-0326-photo-save",
+      "event-shelf-25-0326-story-001",
+      "event-shelf-25-0326-story-002",
+      "event-shelf-25-0326-story-003",
+      "event-shelf-25-0326-story-004",
+      "event-shelf-25-0326-story-005"
     ]
   },
   {

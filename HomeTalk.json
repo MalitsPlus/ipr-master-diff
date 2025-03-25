@@ -9637,6 +9637,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-suz-05-alic-00-talk-01",
+    "characterId": "char-suz",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-suz-05-alic-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-suz-05-alic-00",
+    "choiceText": "あぁ、好きだよ",
+    "managerText": "あぁ、好きだよ",
+    "reliability": 5,
+    "title": "うさぎ導くワンダーランド",
+    "displayConditionDescription": "うさぎ導くワンダーランド 成宮すず\nストーリー3話を視聴",
+    "order": 410,
+    "releaseDate": "1742958000000",
+    "characterTalks": [
+      {
+        "text": "私も大好きですの！\nアリスの可愛い衣装も\nあの不思議な世界観も！",
+        "voiceAssetId": "sud_vo_home_suz-05-alic-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "小さい頃からアリスに\n憧れて、よく真似したり\nしていましたの。",
+        "voiceAssetId": "sud_vo_home_suz-05-alic-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "絵本でも小説でも読んだことが\nあるんですのよ。アリスのことなら\n任せてくださいまし！",
+        "voiceAssetId": "sud_vo_home_suz-05-alic-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ただ…小説の方は\n不気味な描写が結構多くて\n怯えながら読んでましたわ。",
+        "voiceAssetId": "sud_vo_home_suz-05-alic-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "話も凄く複雑で…\n読み終えるのにかなり\n時間がかかりましたの…",
+        "voiceAssetId": "sud_vo_home_suz-05-alic-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "まだ子供だったのに\nあれを全部読むだなんて\n今考えると凄いことですわね。",
+        "voiceAssetId": "sud_vo_home_suz-05-alic-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-suz-05-angl-00-talk-01",
     "characterId": "char-suz",
     "placeType": 1,
@@ -10210,6 +10265,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-szk-05-alic-00-talk-01",
+    "characterId": "char-szk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-szk-05-alic-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-szk-05-alic-00",
+    "choiceText": "…ないかもしれないな。\n普通の団子はよく食べるが。",
+    "managerText": "…ないかもしれないな。\n普通の団子はよく食べるが。",
+    "reliability": 5,
+    "title": "大樹の上でごろにゃんこ",
+    "displayConditionDescription": "大樹の上でごろにゃんこ 兵藤雫\nストーリー3話を視聴",
+    "order": 411,
+    "releaseDate": "1742958000000",
+    "characterTalks": [
+      {
+        "text": "そう。意外と食べる機会が、少ない。\n『不思議の国のアリス』に出てくる\nクッキーとか、紅茶は…",
+        "voiceAssetId": "sud_vo_home_szk-05-alic-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-020_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "ふだんの生活の中で、\nあちこちで見かけるし、\nすぐに買える、けど…",
+        "voiceAssetId": "sud_vo_home_szk-05-alic-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "日本の昔話に出てくる、きび団子は\nあんまり見かけないな、って。\n…ふしぎ。",
+        "voiceAssetId": "sud_vo_home_szk-05-alic-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "調べてみたら…評判のお店が\n見つかった。いつか、そこに行って\n美味しいの、食べてみたい…",
+        "voiceAssetId": "sud_vo_home_szk-05-alic-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…きび団子の話、してたら\n食べたくなってきちゃった。",
+        "voiceAssetId": "sud_vo_home_szk-05-alic-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "東京にも、美味しいお店がある\nみたい。…一緒に行かない？\nきび団子の、食べ歩き。",
+        "voiceAssetId": "sud_vo_home_szk-05-alic-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-szk-05-chna-00-talk-01",

@@ -39178,6 +39178,120 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-received_strength_effect_count_increase-visual_boost_recipe_distribution-5-cd-appeal",
+    "name": "被・ビジュアルブースト延長",
+    "description": "<スコアラータイプのみ>\n受けるビジュアルブースト効果を{0}延長します",
+    "abilityType": 28,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 5
+      },
+      {
+        "level": 145,
+        "value": 5
+      },
+      {
+        "level": 150,
+        "value": 5
+      },
+      {
+        "level": 155,
+        "value": 5
+      },
+      {
+        "level": 160,
+        "value": 5
+      },
+      {
+        "level": 165,
+        "value": 5
+      },
+      {
+        "level": 170,
+        "value": 5
+      },
+      {
+        "level": 175,
+        "value": 5
+      },
+      {
+        "level": 180,
+        "value": 5
+      },
+      {
+        "level": 185,
+        "value": 5
+      },
+      {
+        "level": 190,
+        "value": 5
+      },
+      {
+        "level": 195,
+        "value": 5
+      },
+      {
+        "level": 200,
+        "value": 5
+      },
+      {
+        "level": 205,
+        "value": 5
+      },
+      {
+        "level": 210,
+        "value": 5
+      },
+      {
+        "level": 215,
+        "value": 5
+      },
+      {
+        "level": 220,
+        "value": 5
+      },
+      {
+        "level": 225,
+        "value": 5
+      },
+      {
+        "level": 230,
+        "value": 5
+      },
+      {
+        "level": 235,
+        "value": 5
+      },
+      {
+        "level": 240,
+        "value": 5
+      },
+      {
+        "level": 245,
+        "value": 5
+      },
+      {
+        "level": 250,
+        "value": 5
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 1,
+    "statusEffectType": 20,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-received_strength_effect_count_increase-visual_up_recipe_distribution-5",
     "name": "被・Vi延長",
     "description": "受けるビジュアルアップ効果を{0}延長します",

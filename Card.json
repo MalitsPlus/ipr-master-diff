@@ -11717,6 +11717,37 @@
     "homeTalks": []
   },
   {
+    "id": "card-skr-02-eve-03",
+    "assetId": "skr-02-eve-03",
+    "name": "『劇団★見』初公演！",
+    "description": "大変大変！　もうこんな時間！\r\n急がないと遅刻しちゃうよー！",
+    "type": 1,
+    "characterId": "char-skr",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 426,
+    "danceRatioPermil": 323,
+    "visualRatioPermil": 281,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-02-eve-03-1",
+    "skillId2": "sk-skr-02-eve-03-2",
+    "skillId3": "sk-skr-02-eve-03-3",
+    "order": 462,
+    "releaseDate": "1742958000000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-skr-03-schl-00",
     "assetId": "skr-03-schl-00",
     "name": "元気100倍！",
@@ -13256,6 +13287,56 @@
     "homeTalks": []
   },
   {
+    "id": "card-suz-05-alic-00",
+    "assetId": "suz-05-alic-00",
+    "name": "うさぎ導くワンダーランド",
+    "description": "うさぎが穴に飛び込みましたわ！\nこれは大冒険の予感がしますわね。私達も追いかけますわよ！",
+    "type": 2,
+    "characterId": "char-suz",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 403,
+    "danceRatioPermil": 318,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-05-alic-00-1",
+    "skillId2": "sk-suz-05-alic-00-2",
+    "skillId3": "sk-suz-05-alic-00-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 460,
+    "releaseDate": "1742958000000",
+    "rewardCostumeId": "cos-suz-alic-00",
+    "obtainMessage": "私はすずアリスですわ！",
+    "stories": [
+      {
+        "storyId": "st-card-suz-05-alic-00-01"
+      },
+      {
+        "storyId": "st-card-suz-05-alic-00-02"
+      },
+      {
+        "storyId": "st-card-suz-05-alic-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-suz-05-alic-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-suz-05-alic-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-suz-05-angl-00",
     "assetId": "suz-05-angl-00",
     "name": "天使の怠惰な午後",
@@ -14079,6 +14160,56 @@
     "skillId4": "",
     "stories": [],
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-szk-05-alic-00",
+    "assetId": "szk-05-alic-00",
+    "name": "大樹の上でごろにゃんこ",
+    "description": "アイドルをやってきたから、積極的になれた\nお姉ちゃんに……今の私を、観てほしいな",
+    "type": 1,
+    "characterId": "char-szk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 275,
+    "visualRatioPermil": 435,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-05-alic-00-1",
+    "skillId2": "sk-szk-05-alic-00-2",
+    "skillId3": "sk-szk-05-alic-00-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 461,
+    "releaseDate": "1742958000000",
+    "rewardCostumeId": "cos-szk-alic-01",
+    "obtainMessage": "お姉ちゃんに、\n今の私を観てほしいな",
+    "stories": [
+      {
+        "storyId": "st-card-szk-05-alic-00-01"
+      },
+      {
+        "storyId": "st-card-szk-05-alic-00-02"
+      },
+      {
+        "storyId": "st-card-szk-05-alic-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-szk-05-alic-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-szk-05-alic-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {

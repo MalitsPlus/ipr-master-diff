@@ -876,6 +876,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-25-0326",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_gold-24-0404",
     "name": "すごろくコイン",
     "assetId": "gold-dice",
@@ -2160,6 +2172,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-ticket-25-0327",
+    "name": "★5フェス契約書",
+    "assetId": "card-exchange-05-24-0626",
+    "description": "★5フェスアイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "アイプラフェス開催記念フェスドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-ticket-fes-dream-23-1226",
     "name": "★5フェス契約書",
     "assetId": "card-exchange-05-23-1226",
@@ -2636,6 +2660,30 @@
     "type": 8,
     "value": 1,
     "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-25-0327",
+    "name": "無料ガチャチケ",
+    "assetId": "gacha-free-ticket-1s",
+    "description": "有効期限：入手後7日\nチケットガチャを1回引くことができる",
+    "howToGet": "フェス記念特別ログインボーナス",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-25-0401",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-chicken-25-0401",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "時空の狭間ワクワクエスケープ",
+    "type": 8,
+    "value": 1,
+    "order": 150,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -3220,6 +3268,18 @@
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「The Black Lily Ⅱ」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-fs-set-bloom-25-0326",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「アイプラフェス」など",
     "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
@@ -3936,6 +3996,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-fs-select-25-0326",
+    "name": "選べるアイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-fs-set-bloom-21-1228",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
@@ -4142,6 +4214,18 @@
   {
     "id": "item-gacha_point-fs-set-bloom-24-1230",
     "name": "アイプラフェスThe Black Lily ⅡガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-25-0326",
+    "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -7644,6 +7728,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-ladder_pt_25-0326-raid",
+    "name": "報酬Pt",
+    "assetId": "marathon-raid-pt",
+    "description": "マルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "マルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-league_medal",
     "name": "リーグメダル",
     "assetId": "medal-league",
@@ -7908,6 +8004,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-marathon-raid_medal-25-0326",
+    "name": "リンクスメダル",
+    "assetId": "medal-marathon",
+    "description": "BOXガチャを引くことができます\nイベント終了後はコインに変換されます",
+    "howToGet": "マルチリンクスイベント",
+    "type": 4001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-marathon-raid_quest_unlock-22-1028",
     "name": "解放Pt",
     "assetId": "marathon-release-pt",
@@ -8005,6 +8113,18 @@
   },
   {
     "id": "item-marathon-raid_quest_unlock-25-0128",
+    "name": "解放Pt",
+    "assetId": "marathon-release-pt",
+    "description": "マルチリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
+    "howToGet": "マルチリンクスイベント",
+    "type": 5002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-marathon-raid_quest_unlock-25-0326",
     "name": "解放Pt",
     "assetId": "marathon-release-pt",
     "description": "マルチリンクスイベントの解放Ptです\nイベント終了後はコインに変換されます",
@@ -8124,6 +8244,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-marathon-raid_raid-stamina_recovery-25-0326",
+    "name": "協力キャンディ",
+    "assetId": "marathon-raid-stamina-recovery-raid",
+    "description": "マルチリンクスの協力スタミナを回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "プロモーション、ファンイベントなど",
+    "type": 5003,
+    "value": 10,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-marathon-raid_stamina_recovery-22-1028",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
@@ -8221,6 +8353,18 @@
   },
   {
     "id": "item-marathon-raid_stamina_recovery-25-0128",
+    "name": "リンクスキャンディ",
+    "assetId": "marathon-stamina-recovery",
+    "description": "マルチリンクスのスタミナを回復します\nイベント終了後はコインに変換されます",
+    "howToGet": "ハイスコアライブ、プロモーション、ファンイベント、ショップなど",
+    "type": 5001,
+    "value": 20,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-marathon-raid_stamina_recovery-25-0326",
     "name": "リンクスキャンディ",
     "assetId": "marathon-stamina-recovery",
     "description": "マルチリンクスのスタミナを回復します\nイベント終了後はコインに変換されます",
@@ -9265,6 +9409,18 @@
   },
   {
     "id": "item-photo_contest_create-25-0225",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-photo_contest_create-25-0326",
     "name": "イベント現像フィルム",
     "assetId": "photo-shooting-contest",
     "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
@@ -10718,6 +10874,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-25-0225-01",
     "name": "入団！SOS団！1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0326-01",
+    "name": "アイプラフェス1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
