@@ -2530,10 +2530,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-4-target-neighbor-27",
+    "name": "隣接するアイドルにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "隣接するアイドルに4段階Aスキルスコア上昇効果[27ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-4-target-neighbor-31",
     "name": "隣接するアイドルにAスキルスコア上昇効果",
     "type": 18,
     "description": "隣接するアイドルに4段階Aスキルスコア上昇効果[31ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-4-target-neighbor-35",
+    "name": "隣接するアイドルにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "隣接するアイドルに4段階Aスキルスコア上昇効果[35ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
@@ -3674,6 +3696,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-5-target-neighbor-35",
+    "name": "隣接するアイドルにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "隣接するアイドルに5段階Aスキルスコア上昇効果[35ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-5-target-neighbor-37",
     "name": "隣接するアイドルにAスキルスコア上昇効果",
     "type": 18,
@@ -3685,10 +3718,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-5-target-neighbor-39",
+    "name": "隣接するアイドルにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "隣接するアイドルに5段階Aスキルスコア上昇効果[39ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-5-target-neighbor-43",
     "name": "隣接するアイドルにAスキルスコア上昇効果",
     "type": 18,
     "description": "隣接するアイドルに5段階Aスキルスコア上昇効果[43ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-5-target-neighbor-44",
+    "name": "隣接するアイドルにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "隣接するアイドルに5段階Aスキルスコア上昇効果[44ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
@@ -6565,6 +6620,61 @@
     "skillTargetId": "target-vocal_higher-2",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-neighbor-25",
+    "name": "隣接するアイドルにAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "隣接するアイドルにAスキルスコア上昇超化効果[25ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-neighbor-30",
+    "name": "隣接するアイドルにAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "隣接するアイドルにAスキルスコア上昇超化効果[30ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-neighbor-35",
+    "name": "隣接するアイドルにAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "隣接するアイドルにAスキルスコア上昇超化効果[35ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-neighbor-40",
+    "name": "隣接するアイドルにAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "隣接するアイドルにAスキルスコア上昇超化効果[40ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-neighbor-46",
+    "name": "隣接するアイドルにAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "隣接するアイドルにAスキルスコア上昇超化効果[46ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
   },
   {
     "id": "ef-add_effect_value_active_skill_score_up-10-target-vocal_higher-1-20",
@@ -10637,6 +10747,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_reduction-7-target-self-25",
+    "name": "自身にステルス効果",
+    "type": 28,
+    "description": "自身に7段階のステルス効果[25ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_reduction-7-target-self-26",
     "name": "自身にステルス効果",
     "type": 28,
@@ -11924,6 +12045,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-beat_score_up-4-target-neighbor-25",
+    "name": "隣接するアイドルにビートスコア上昇効果",
+    "type": 17,
+    "description": "隣接するアイドルに4段階ビートスコア上昇効果[25ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-beat_score_up-4-target-neighbor-30",
+    "name": "隣接するアイドルにビートスコア上昇効果",
+    "type": 17,
+    "description": "隣接するアイドルに4段階ビートスコア上昇効果[30ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-beat_score_up-4-target-neighbor-35",
+    "name": "隣接するアイドルにビートスコア上昇効果",
+    "type": 17,
+    "description": "隣接するアイドルに4段階ビートスコア上昇効果[35ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-beat_score_up-4-target-self-66",
     "name": "自身にビートスコア上昇効果",
     "type": 17,
@@ -12360,6 +12514,39 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-dance_higher-1",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-beat_score_up-5-target-neighbor-35",
+    "name": "隣接するアイドルにビートスコア上昇効果",
+    "type": 17,
+    "description": "隣接するアイドルに5段階ビートスコア上昇効果[35ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-beat_score_up-5-target-neighbor-40",
+    "name": "隣接するアイドルにビートスコア上昇効果",
+    "type": 17,
+    "description": "隣接するアイドルに5段階ビートスコア上昇効果[40ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-beat_score_up-5-target-neighbor-46",
+    "name": "隣接するアイドルにビートスコア上昇効果",
+    "type": 17,
+    "description": "隣接するアイドルに5段階ビートスコア上昇効果[46ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
     "limitBreakMaxGrade": 21,
     "shortDescription": ""
   },
@@ -16379,6 +16566,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-11-target-neighbor",
+    "name": "隣接するアイドルのCTを減少",
+    "type": 27,
+    "description": "隣接するアイドルのCTを11減少",
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-11-target-self",
     "name": "自身のCTを減少",
     "type": 27,
@@ -16417,6 +16615,17 @@
     "type": 27,
     "description": "ダンスが高い1人のCTを12減少",
     "skillTargetId": "target-dance_higher-1",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-12-target-neighbor",
+    "name": "隣接するアイドルのCTを減少",
+    "type": 27,
+    "description": "隣接するアイドルのCTを12減少",
+    "skillTargetId": "target-neighbor",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -16478,6 +16687,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-13-target-neighbor",
+    "name": "隣接するアイドルのCTを減少",
+    "type": 27,
+    "description": "隣接するアイドルのCTを13減少",
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-13-target-self",
     "name": "自身のCTを減少",
     "type": 27,
@@ -16494,6 +16714,17 @@
     "type": 27,
     "description": "全員のCTを14減少",
     "skillTargetId": "target-all",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-14-target-neighbor",
+    "name": "隣接するアイドルのCTを減少",
+    "type": 27,
+    "description": "隣接するアイドルのCTを14減少",
+    "skillTargetId": "target-neighbor",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -20988,6 +21219,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-5-target-neighbor-27",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに5段階クリティカル係数上昇効果[27ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-5-target-neighbor-31",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに5段階クリティカル係数上昇効果[31ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-5-target-neighbor-35",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに5段階クリティカル係数上昇効果[35ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-5-target-self-24",
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
@@ -21853,6 +22117,39 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-dance_higher-1",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-neighbor-35",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに6段階クリティカル係数上昇効果[35ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-neighbor-39",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに6段階クリティカル係数上昇効果[39ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-neighbor-44",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに6段階クリティカル係数上昇効果[44ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
