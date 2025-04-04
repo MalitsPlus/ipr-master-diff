@@ -954,6 +954,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-aoi-05-past-00-talk-01",
+    "characterId": "char-aoi",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-aoi-05-past-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-aoi-05-past-00",
+    "choiceText": "こころ達は、なんだって？",
+    "managerText": "こころ達は、なんだって？",
+    "reliability": 5,
+    "title": "secret my Lily",
+    "displayConditionDescription": "secret my Lily 井川葵\nストーリー3話を視聴",
+    "order": 415,
+    "releaseDate": "1743822000000",
+    "characterTalks": [
+      {
+        "text": "「昔の葵さん、可愛い～！」\nってなんだか興奮してたな。",
+        "voiceAssetId": "sud_vo_home_aoi-05-past-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "確かにあの頃はまだ子供だった\nけど、僕はこんなにクールなのに\nまったく失礼しちゃうよね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-past-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "僕も、莉央のことを可愛いって\n言ってたじゃないかって？\n莉央は実際可愛いからいいんだよ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-past-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まぁ今回の取材で、僕も久々に\n昔の映像を眺めたし、我ながら\n悪くないなとは思ったけど。",
+        "voiceAssetId": "sud_vo_home_aoi-05-past-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、ちょっと物足りなかった。\nリズノワは四人でいるのが、\nもう当たり前になっちゃったね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-past-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "僕らのデビュー曲も、いつか\nこころと愛も一緒に歌いたいな。\nそれも面白そうだ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-past-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-aoi-05-vlnt-00-talk-01",
     "characterId": "char-aoi",
     "placeType": 1,
@@ -7369,6 +7424,61 @@
         "voiceAssetId": "sud_vo_home_rio-05-pajm-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
         "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-rio-05-past-00-talk-01",
+    "characterId": "char-rio",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rio-05-past-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rio-05-past-00",
+    "choiceText": "視聴率、凄く良かったそうですよ。",
+    "managerText": "視聴率、凄く良かったそうですよ。",
+    "reliability": 5,
+    "title": "open two hearts",
+    "displayConditionDescription": "open two hearts 神崎莉央\nストーリー3話を視聴",
+    "order": 414,
+    "releaseDate": "1743822000000",
+    "characterTalks": [
+      {
+        "text": "…それは、少し恥ずかしいわね。\nでも、やって良かったわ。\nファンのためにも自分のためにも。",
+        "voiceAssetId": "sud_vo_home_rio-05-past-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それにしても…葵ったら、\n小学生の頃から変わらないわね。\n映像を観て、笑っちゃった。",
+        "voiceAssetId": "sud_vo_home_rio-05-past-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "見た目も性格も、根っこのところは\n変わってない。けど…\n成長は、してるわ。",
+        "voiceAssetId": "sud_vo_home_rio-05-past-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "愛とこころが加入してから、\nあの子、大人になったわよね。",
+        "voiceAssetId": "sud_vo_home_rio-05-past-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こころや愛も、後輩の面倒を\n見るようになったら、\n変わっていくのかしら？",
+        "voiceAssetId": "sud_vo_home_rio-05-past-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、まだまだ手がかかることに\n変わりはないわ。世の中のお母さん\nってこんな気持ちなのかしら",
+        "voiceAssetId": "sud_vo_home_rio-05-past-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
       }
     ],
     "cardId": ""

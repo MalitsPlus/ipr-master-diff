@@ -1287,6 +1287,56 @@
     "homeTalks": []
   },
   {
+    "id": "card-aoi-05-past-00",
+    "assetId": "aoi-05-past-00",
+    "name": "secret my Lily",
+    "description": "莉央の可愛いとこは、僕だけ知ってればいいんだ",
+    "type": 3,
+    "characterId": "char-aoi",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 413,
+    "danceRatioPermil": 330,
+    "visualRatioPermil": 287,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-05-past-00-1",
+    "skillId2": "sk-aoi-05-past-00-2",
+    "skillId3": "sk-aoi-05-past-00-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 465,
+    "releaseDate": "1743822000000",
+    "rewardCostumeId": "cos-aoi-past-00",
+    "obtainMessage": "莉央の可愛いとこは、\n僕だけ知ってればいいんだ",
+    "stories": [
+      {
+        "storyId": "st-card-aoi-05-past-00-01"
+      },
+      {
+        "storyId": "st-card-aoi-05-past-00-02"
+      },
+      {
+        "storyId": "st-card-aoi-05-past-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-aoi-05-past-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-aoi-05-past-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-aoi-05-vlnt-00",
     "assetId": "aoi-05-vlnt-00",
     "name": "おかしな気分は君のせい",
@@ -9988,6 +10038,56 @@
       }
     ],
     "activityAbilityId": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-05-past-00",
+    "assetId": "rio-05-past-00",
+    "name": "open two hearts",
+    "description": "さぁ葵、今日も行きましょう。私達のステージへ",
+    "type": 1,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 315,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 435,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-past-00-1",
+    "skillId2": "sk-rio-05-past-00-2",
+    "skillId3": "sk-rio-05-past-00-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 464,
+    "releaseDate": "1743822000000",
+    "rewardCostumeId": "cos-rio-past-00",
+    "obtainMessage": "さぁ葵、今日も行きましょう。\n私達のステージへ……",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-past-00-01"
+      },
+      {
+        "storyId": "st-card-rio-05-past-00-02"
+      },
+      {
+        "storyId": "st-card-rio-05-past-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rio-05-past-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rio-05-past-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",

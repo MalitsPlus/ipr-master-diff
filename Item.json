@@ -3444,6 +3444,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-0405",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「在りし日の黒百合」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point",
     "name": "共通ガチャPt",
     "assetId": "gacha-point",
@@ -4898,6 +4910,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-25-0225",
     "name": "入団！SOS団！ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-0405",
+    "name": "在りし日の黒百合ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -7324,6 +7348,18 @@
     "name": "「揺れる水面と乙女の心情」専用ガチャチケット",
     "assetId": "gacha-ticket-just",
     "description": "「揺れる水面と乙女の心情」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-25-0405-01",
+    "name": "「在りし日の黒百合」専用ガチャチケット",
+    "assetId": "gacha-ticket-just",
+    "description": "「在りし日の黒百合」ガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "アイドル活動ミッション",
     "type": 8,
     "value": 1,
@@ -10946,6 +10982,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-25-0326-01",
     "name": "アイプラフェス1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0405-01",
+    "name": "在りし日の黒百合1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
