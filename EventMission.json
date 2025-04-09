@@ -3431,6 +3431,21 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_idoly-pride-day-mission-25-0410",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_campaign-25-0110-ip-day",
+    "name": "本日限定！0のつく日はアイプラの日！",
+    "order": 1,
+    "viewConditionId": "cd-time-market-discount-day-25-0410",
+    "missionIds": [
+      "event-ms-idoly-pride-day-mission-25-0410-login",
+      "event-ms-idoly-pride-day-mission-25-0410-mission_clear_count",
+      "event-ms-idoly-pride-day-mission-25-0410-photo_shoot_count",
+      "event-ms-idoly-pride-day-mission-25-0410-quest-daily-clear-count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_live-mission-23-0503",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-live-mission",
