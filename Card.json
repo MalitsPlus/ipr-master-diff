@@ -11465,6 +11465,56 @@
     "skillId4": ""
   },
   {
+    "id": "card-ski-05-link-00",
+    "assetId": "ski-05-link-00",
+    "name": "春風運ぶ絆のハーモニー",
+    "description": "そういえば、昔の千紗はシャンプーハットがないと\r\n髪が洗えなかったっけ。懐かしいわね",
+    "type": 1,
+    "characterId": "char-ski",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 431,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-05-link-00-1",
+    "skillId2": "sk-ski-05-link-00-2",
+    "skillId3": "sk-ski-05-link-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 467,
+    "releaseDate": "1744686000000",
+    "rewardCostumeId": "cos-ski-link-00",
+    "obtainMessage": "千紗、かゆいところない？",
+    "cardEvolutionLevelReleaseGroupId": "card_evolution_level_release_bond",
+    "cardEvolutionLevelGroupId": "card_evolution_level_bond",
+    "skillId4": "sk-ski-05-link-00-4",
+    "stories": [
+      {
+        "storyId": "st-card-ski-05-link-00-01"
+      },
+      {
+        "storyId": "st-card-ski-05-link-00-02"
+      },
+      {
+        "storyId": "st-card-ski-05-link-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ski-05-link-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ski-05-link-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ski-05-mizg-02",
     "assetId": "ski-05-mizg-02",
     "name": "サンライト照らす眼差し",

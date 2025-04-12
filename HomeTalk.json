@@ -8273,6 +8273,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ski-05-link-00-talk-01",
+    "characterId": "char-ski",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ski-05-link-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ski-05-link-00",
+    "choiceText": "急にどうしたんだ？",
+    "managerText": "急にどうしたんだ？",
+    "reliability": 5,
+    "title": "春風運ぶ絆のハーモニー",
+    "displayConditionDescription": "春風運ぶ絆のハーモニー 白石沙季\nストーリー3話を視聴",
+    "order": 417,
+    "releaseDate": "1744686000000",
+    "characterTalks": [
+      {
+        "text": "これまでは、姉である私が\n千紗を守ってあげないと、って\nずっと思っていました。",
+        "voiceAssetId": "sud_vo_home_ski-05-link-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "でも、千紗はとっくに\n過去を乗り越えて\n前に進んでいたんです。",
+        "voiceAssetId": "sud_vo_home_ski-05-link-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私より、やはり同じグループの\nメンバーの存在が\n大きかったんだと思います。",
+        "voiceAssetId": "sud_vo_home_ski-05-link-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ただ、そう考えていくうちに\n千紗がサニピでどう過ごしているか\nより深く知りたくなってしまって。",
+        "voiceAssetId": "sud_vo_home_ski-05-link-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "…観察の次はモノマネを始めそう？\nい、いつのこと話してるん\nですか？　そんなことしません。",
+        "voiceAssetId": "sud_vo_home_ski-05-link-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "しろと言うならやってみますが…\nええと、「こんに千紗」…とか。\nい、いえ、忘れて下さい。",
+        "voiceAssetId": "sud_vo_home_ski-05-link-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_sign-002_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ski-05-mizg-02-talk-01",
     "characterId": "char-ski",
     "placeType": 1,
