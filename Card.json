@@ -7891,6 +7891,38 @@
     "homeTalks": []
   },
   {
+    "id": "card-ngs-02-eve-02",
+    "assetId": "ngs-02-eve-02",
+    "name": "狭間で揺れる恋心",
+    "description": "誰を選ぶの！？",
+    "type": 3,
+    "characterId": "char-ngs",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 274,
+    "danceRatioPermil": 413,
+    "visualRatioPermil": 313,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-02-eve-02-1",
+    "skillId2": "sk-ngs-02-eve-02-2",
+    "skillId3": "sk-ngs-02-eve-02-3",
+    "order": 471,
+    "releaseDate": "1745636400000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ngs-03-schl-00",
     "assetId": "ngs-03-schl-00",
     "name": "背中を追って",
@@ -11208,6 +11240,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-05-sucu-00",
+    "assetId": "rui-05-sucu-00",
+    "name": "心奪うMidnight",
+    "description": "なんで、私がサキュバスの役なんですか！\r\nそもそも、サキュバスってなんですか！？\r\nエ、エッチなやつじゃないんですか！？",
+    "type": 2,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 274,
+    "danceRatioPermil": 407,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-sucu-00-1",
+    "skillId2": "sk-rui-05-sucu-00-2",
+    "skillId3": "sk-rui-05-sucu-00-3",
+    "activityAbilityId": "aab-lesson_gold_up",
+    "order": 469,
+    "releaseDate": "1745636400000",
+    "rewardCostumeId": "cos-rui-sucu-00",
+    "obtainMessage": "サキュバスって、\nこういうエッチな\nイメージなんですね",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-sucu-00-01"
+      },
+      {
+        "storyId": "st-card-rui-05-sucu-00-02"
+      },
+      {
+        "storyId": "st-card-rui-05-sucu-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rui-05-sucu-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rui-05-sucu-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-vlnt-00",
     "assetId": "rui-05-vlnt-00",
     "name": "薔薇色の夕暮れに染まって",
@@ -13391,6 +13474,57 @@
       },
       {
         "telephoneId": "tel-card-smr-05-idol-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-smr-05-magi-00",
+    "assetId": "smr-05-magi-00",
+    "name": "願い羽ばたく魔法のエール",
+    "description": "全部話すとネタバレになっちゃいますよね\r\nあとはみなさん自身の目で確かめてみて下さい！",
+    "type": 1,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 424,
+    "danceRatioPermil": 322,
+    "visualRatioPermil": 284,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-magi-00-1",
+    "skillId2": "sk-smr-05-magi-00-2",
+    "skillId3": "sk-smr-05-magi-00-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 470,
+    "releaseDate": "1745636400000",
+    "rewardCostumeId": "cos-smr-magi-00",
+    "obtainMessage": "空を飛ぶのって\nこんなに素敵なことなんだね",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-magi-00-01"
+      },
+      {
+        "storyId": "st-card-smr-05-magi-00-02"
+      },
+      {
+        "storyId": "st-card-smr-05-magi-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-magi-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-magi-00",
         "messageId": ""
       }
     ],

@@ -605,7 +605,7 @@
   },
   {
     "key": "love.lesson.rewardDialog.reward.noExp",
-    "word": "もし恋LvがMAXになったため、もし恋EXPは溜まりません。"
+    "word": "{0}LvがMAXになったため、{0}EXPは溜まりません。"
   },
   {
     "key": "love.level.information.hover.lv1.description",
@@ -625,11 +625,11 @@
   },
   {
     "key": "love.level.release",
-    "word": "もし恋Lv{0}解放"
+    "word": "{0}Lv{1}解放"
   },
   {
     "key": "love.mission.tab.button.limited",
-    "word": "デイリー"
+    "word": "限定課題"
   },
   {
     "key": "love.required.exp.label",
@@ -649,7 +649,7 @@
   },
   {
     "key": "love.setting.hintLv.notice",
-    "word": "※ヒントLvはもし恋Lvによって解放されます。"
+    "word": "※ヒントLvは{0}Lvによって解放されます。"
   },
   {
     "key": "love.setting.voice.description",
@@ -673,7 +673,7 @@
   },
   {
     "key": "love.sheet.adv.menu.description",
-    "word": "もし恋のメニューです。"
+    "word": "{0}のメニューです"
   },
   {
     "key": "love.sheet.adv.menu.exit",
@@ -773,7 +773,7 @@
   },
   {
     "key": "notification.love.lesson.message",
-    "word": "もし恋の報酬が上限に達しました。\n確認に行きましょう！"
+    "word": "{0}の報酬が上限に達しました。\n確認に行きましょう！"
   },
   {
     "key": "notification.noLogin.message",

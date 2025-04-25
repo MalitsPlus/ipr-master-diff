@@ -888,6 +888,30 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-25-0426",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-daily_quest_ticket_sp-present",
+    "name": "プレゼントデイリーパス",
+    "assetId": "quest-daily-special-pr",
+    "description": "デイリーライブ【プレゼント】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_gold-24-0404",
     "name": "すごろくコイン",
     "assetId": "gold-dice",
@@ -3516,6 +3540,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-0426",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「みんつく！サキュバスvs魔法少女ガチャ」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point",
     "name": "共通ガチャPt",
     "assetId": "gacha-point",
@@ -5006,6 +5042,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-25-0415",
     "name": "絆シリーズ\n〜繋がる心、踏み出す未来〜ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-0426",
+    "name": "みんつく！サキュバスvs魔法少女ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -6876,6 +6924,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-25-0427",
+    "name": "選べる★5アイドルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -8105,6 +8165,30 @@
     "assetId": "love-24-1114-story-pt",
     "description": "もし恋のストーリーを読むために必要なPt\nもし恋 鈴村優編で使用できる",
     "howToGet": "もし恋",
+    "type": 9001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-love-25-0426-lesson-boost",
+    "name": "サキュ×まほスキップドリンク",
+    "assetId": "love-23-0514-lesson-boost",
+    "description": "2時間分の報酬をすぐに獲得できる\nサキュ×まほで使用できる",
+    "howToGet": "サキュ×まほ",
+    "type": 9003,
+    "value": 120,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-love-25-0426-story",
+    "name": "サキュ×まほストーリーPt",
+    "assetId": "love-25-0426-story-pt",
+    "description": "サキュ×まほのストーリーを読むために必要なPt\nサキュ×まほで使用できる",
+    "howToGet": "サキュ×まほ",
     "type": 9001,
     "value": 1,
     "order": 1000,
@@ -11150,6 +11234,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-25-0415-01",
     "name": "絆シリーズ 〜繋がる心、踏み出す未来〜1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0426-01",
+    "name": "みんつく！サキュバスvs魔法少女1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",

@@ -2348,6 +2348,27 @@
     "receiveConditionId": "cd-time-login02-25-0416-0429"
   },
   {
+    "id": "login_bonus-campaign02-25-0430-01",
+    "name": "GW",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-0430-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_sp-present;3",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-act_fan-reward-up;2",
+      "rd_auto;item;item-act_refresh_shorten;3",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-25-0430-0506",
+    "receiveConditionId": "cd-time-login02-25-0430-0513"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

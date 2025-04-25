@@ -1333,6 +1333,55 @@
     ]
   },
   {
+    "id": "event-love-25-0426-limited",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mission-25-0426",
+    "name": "サキュ×まほ限定課題",
+    "order": 1,
+    "viewConditionId": "cd-date-event-mission-love-25-0426-limited",
+    "unlockConditionId": "cd-date-event-mission-love-25-0426-limited",
+    "missionIds": [
+      "event-love-25-0426-limited-mission_love-end_emb-sp-01",
+      "event-love-25-0426-limited-mission_love-end_emb-sp-02",
+      "event-love-25-0426-limited-mission_love-end_emb-sp-03",
+      "event-love-25-0426-limited-mission_love-end_emb-sp-04",
+      "event-love-25-0426-limited-mission_love-end_emb-sp-05",
+      "event-love-25-0426-normal-mission_login_count_daily",
+      "event-love-25-0426-normal-mission_love-end_count"
+    ]
+  },
+  {
+    "id": "event-love-25-0426-normal",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mission-25-0426",
+    "name": "サキュ×まほ課題",
+    "order": 2,
+    "viewConditionId": "cd-date-event-mission-love-25-0426-normal",
+    "unlockConditionId": "cd-date-event-mission-love-25-0426-normal",
+    "missionIds": [
+      "event-love-25-0426-normal-mission_boost",
+      "event-love-25-0426-normal-mission_first_play",
+      "event-love-25-0426-normal-mission_login_count",
+      "event-love-25-0426-normal-mission_love-level_count",
+      "event-love-25-0426-normal-mission_story_count-01",
+      "event-love-25-0426-normal-mission_story_count-02",
+      "event-love-25-0426-normal-mission_story_count-03",
+      "event-love-25-0426-normal-mission_story_count-04",
+      "event-love-25-0426-normal-mission_story_count-05",
+      "event-love-25-0426-normal-mission_story_count-06",
+      "event-love-25-0426-normal-mission_story_count-07",
+      "event-love-25-0426-normal-mission_story_count-08",
+      "event-love-25-0426-normal-mission_story_count-09",
+      "event-love-25-0426-normal-mission_story_count-10",
+      "event-love-25-0426-normal-mission_story_count-11",
+      "event-love-25-0426-normal-mission_story_count-12",
+      "event-love-25-0426-normal-mission_story_count-13",
+      "event-love-25-0426-normal-mission_story_count-14",
+      "event-love-25-0426-normal-mission_story_count-15",
+      "event-love-25-0426-normal-mission_story_count-16"
+    ]
+  },
+  {
     "id": "event-marathon-21-0930",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-marathon-21-0930",
@@ -3194,6 +3243,26 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_gwhs-mission-25-0503",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-highscore-live-25-0503",
+    "name": "GW特別ハイスコアライブミッション",
+    "order": 3,
+    "viewConditionId": "cd-time-event-ms-gw-25-0503-0512",
+    "missionIds": [
+      "event-ms-medley-25-0503-01-A-condition_clear",
+      "event-ms-medley-25-0503-01-B-condition_clear",
+      "event-ms-medley-25-0503-01-C-condition_clear",
+      "event-ms-medley-25-0503-01-mission_clear_count-01",
+      "event-ms-medley-25-0503-01-S-condition_clear",
+      "event-ms-medley-25-0503-02-A-condition_clear",
+      "event-ms-medley-25-0503-02-B-condition_clear",
+      "event-ms-medley-25-0503-02-C-condition_clear",
+      "event-ms-medley-25-0503-02-S-condition_clear"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_hruh-mission-25-0227",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-hruh-mission-25-0227",
@@ -3457,6 +3526,21 @@
       "event-ms-idoly-pride-day-mission-25-0420-mission_clear_count",
       "event-ms-idoly-pride-day-mission-25-0420-photo_shoot_count",
       "event-ms-idoly-pride-day-mission-25-0420-quest-daily-clear-count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_idoly-pride-day-mission-25-0427",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_campaign-25-0427",
+    "name": "【毎日更新】10日間連続アイプラの日！",
+    "order": 5,
+    "viewConditionId": "cd-time-market-discount-day-25-0427",
+    "missionIds": [
+      "event-ms-idoly-pride-day-mission-25-0427-login",
+      "event-ms-idoly-pride-day-mission-25-0427-mission_clear_count",
+      "event-ms-idoly-pride-day-mission-25-0427-photo_expression_shooting_specified_character_shoot_count",
+      "event-ms-idoly-pride-day-mission-25-0427-quest-all-clear-count"
     ],
     "unlockConditionId": ""
   },

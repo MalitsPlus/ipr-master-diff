@@ -900,6 +900,7 @@
       "cos-chs-sdam-00",
       "cos-chs-sdpl-00",
       "cos-chs-seik-00",
+      "cos-chs-sucu-00",
       "cos-chs-sush-00",
       "cos-chs-trng-00",
       "cos-chs-vlnt-00",
@@ -1018,6 +1019,15 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "サニーピース",
+    "loveInfo": {
+      "name": "チサ",
+      "enName": "CHISA",
+      "cv": "白石千紗",
+      "colorCode": "E7BBD2",
+      "description": "ルイの友達で、ドジで力の弱いサキュバス。人間にも優しく、思いやりに溢れた性格の持ち主。",
+      "loveId": "love-extra-25-0426",
+      "nameRegex": ""
+    },
     "companyEnjoyStories": [
       {
         "number": 1,
@@ -1051,14 +1061,24 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_chs_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_chs_idle-001-start_in",
     "gachaMovieName": "CHISA",
+    "loveInfos": [
+      {
+        "name": "チサ",
+        "enName": "CHISA",
+        "cv": "白石千紗",
+        "colorCode": "E7BBD2",
+        "description": "ルイの友達で、ドジで力の弱いサキュバス。人間にも優しく、思いやりに溢れた性格の持ち主。",
+        "loveId": "love-extra-25-0426",
+        "nameRegex": ""
+      }
+    ],
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "unlockConditionId": "",
     "homeMainCharacterStayAdditionMotionAssetId": "",
-    "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-gyo",
@@ -3716,6 +3736,7 @@
       "cos-ngs-mizg-01",
       "cos-ngs-mizg-02",
       "cos-ngs-newy-00",
+      "cos-ngs-pair-00",
       "cos-ngs-schl-00",
       "cos-ngs-schl-01",
       "cos-ngs-sdam-00",
@@ -3888,6 +3909,15 @@
         "colorCode": "FF6AA0",
         "description": "恋愛小説が好きな高校二年生。面倒見がよく、クラスの人気者。主人公とは幼馴染で隣の家に住んでいる。",
         "loveId": "love-23-1114",
+        "nameRegex": ""
+      },
+      {
+        "name": "渚",
+        "enName": "NAGISA",
+        "cv": "伊吹渚",
+        "colorCode": "F56D9E",
+        "description": "主人公の飼い猫にして、すみれの使い魔。猫なこともあり、人間の文化には疎いが、その力ですみれをサポートする。",
+        "loveId": "love-extra-25-0426",
         "nameRegex": ""
       }
     ],
@@ -4524,6 +4554,7 @@
       "cos-rui-schl-01",
       "cos-rui-sdam-00",
       "cos-rui-sdpl-00",
+      "cos-rui-sucu-00",
       "cos-rui-sush-00",
       "cos-rui-trng-00",
       "cos-rui-vlnt-00",
@@ -4644,6 +4675,15 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "TRINITYAiLE",
+    "loveInfo": {
+      "name": "ルイ",
+      "enName": "RUI",
+      "cv": "天動瑠依",
+      "colorCode": "D0C6A5",
+      "description": "魔界からやってきた、強大な力を持つサキュバス。傲慢で人間を見下しているように見えるが、真面目で友達思いの一面も。",
+      "loveId": "love-extra-25-0426",
+      "nameRegex": ""
+    },
     "companyEnjoyStories": [
       {
         "number": 1,
@@ -4677,14 +4717,24 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_rui_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rui_idle-001-start_in",
     "gachaMovieName": "RUI",
+    "loveInfos": [
+      {
+        "name": "ルイ",
+        "enName": "RUI",
+        "cv": "天動瑠依",
+        "colorCode": "D0C6A5",
+        "description": "魔界からやってきた、強大な力を持つサキュバス。傲慢で人間を見下しているように見えるが、真面目で友達思いの一面も。",
+        "loveId": "love-extra-25-0426",
+        "nameRegex": ""
+      }
+    ],
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "facePositionX": 0.0,
     "unlockConditionId": "",
     "homeMainCharacterStayAdditionMotionAssetId": "",
-    "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-ski",
@@ -5140,6 +5190,7 @@
       "cos-smr-idol-04",
       "cos-smr-idol-05",
       "cos-smr-kion-00",
+      "cos-smr-magi-00",
       "cos-smr-maid-00",
       "cos-smr-miku-00",
       "cos-smr-miku-03",
@@ -5320,6 +5371,15 @@
         "colorCode": "FFCA2E",
         "loveId": "love-23-1114",
         "description": "",
+        "nameRegex": ""
+      },
+      {
+        "name": "すみれ",
+        "enName": "SUMIRE",
+        "cv": "奥山すみれ",
+        "colorCode": "FFE495",
+        "description": "主人公の妹で、サキュバスから人間界を守る、正義の魔法少女。その魔法で、多くのサキュバスを魔界に送り返してきた。",
+        "loveId": "love-extra-25-0426",
         "nameRegex": ""
       }
     ],
