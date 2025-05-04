@@ -1010,6 +1010,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-smr-25-0505",
+    "name": "奥山すみれ 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はすみれの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "文房具セット",
+        "advAssetId": "hbd_05_smr_01"
+      },
+      {
+        "index": 2,
+        "text": "けん玉イベント参加券",
+        "advAssetId": "hbd_05_smr_02"
+      },
+      {
+        "index": 3,
+        "text": "桜の香りの香水",
+        "advAssetId": "hbd_05_smr_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-suz-23-0913",
     "name": "成宮すず 誕生日2023",
     "advPlayTypes": [
@@ -12532,6 +12564,60 @@
     ],
     "advAssetIds": [
       "card_smr_51_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-smr-05-birt-01-01",
+    "name": "慰安旅行\nin北海道",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_smr_52_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-smr-05-birt-01-02",
+    "name": "想いが\nこもった雪玉",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_smr_52_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-smr-05-birt-01-03",
+    "name": "白雪の巨匠",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_smr_52_03"
     ],
     "sectionName": "",
     "description": "",
