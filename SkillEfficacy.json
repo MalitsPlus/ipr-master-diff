@@ -16918,6 +16918,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_increase-10-target-opponent_same_position",
+    "name": "同じレーンのCTを増加",
+    "type": 50,
+    "description": "[ライブバトルのみ]同じレーンの相手のCTを10増加",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_increase-2-target-all",
     "name": "全員のCTを増加",
     "type": 50,
@@ -17149,6 +17160,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_increase-7-target-opponent_same_position",
+    "name": "同じレーンのCTを増加",
+    "type": 50,
+    "description": "[ライブバトルのみ]同じレーンの相手のCTを7増加",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_increase-8-target-opponent_character_type-1-2",
     "name": "相手のスコアラータイプ2人のCTを増加",
     "type": 50,
@@ -17160,11 +17182,33 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_increase-8-target-opponent_same_position",
+    "name": "同じレーンのCTを増加",
+    "type": 50,
+    "description": "[ライブバトルのみ]同じレーンの相手のCTを8増加",
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_increase-9-target-opponent_character_type-1-2",
     "name": "相手のスコアラータイプ2人のCTを増加",
     "type": 50,
     "description": "[ライブバトルのみ]相手のスコアラータイプ2人のCTを9増加",
     "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_increase-9-target-opponent_same_position",
+    "name": "同じレーンのCTを増加",
+    "type": 50,
+    "description": "[ライブバトルのみ]同じレーンの相手のCTを9増加",
+    "skillTargetId": "target-opponent_same_position",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -36102,6 +36146,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-4-target-self-37",
+    "name": "自身にダンス上昇効果",
+    "type": 13,
+    "description": "自身に4段階ダンス上昇効果[37ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-4-target-self-39",
     "name": "自身にダンス上昇効果",
     "type": 13,
@@ -49808,6 +49863,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_more_stamina-10600-chart_dependence",
+    "name": "スコア獲得-残スタミナが多い程効果上昇",
+    "type": 6,
+    "description": "1060%のスコア獲得、残スタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_more_stamina-10800-chart_dependence",
     "name": "スコア獲得-残スタミナが多い程効果上昇",
     "type": 6,
@@ -49867,6 +49933,17 @@
     "name": "スコア獲得-残スタミナが多い程効果上昇",
     "type": 6,
     "description": "120%のスコア獲得、残スタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_more_stamina-12000-chart_dependence",
+    "name": "スコア獲得-残スタミナが多い程効果上昇",
+    "type": 6,
+    "description": "1200%のスコア獲得、残スタミナが多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -49999,6 +50076,17 @@
     "name": "スコア獲得-残スタミナが多い程効果上昇",
     "type": 6,
     "description": "1550%のスコア獲得、残スタミナが多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_more_stamina-16200-chart_dependence",
+    "name": "スコア獲得-残スタミナが多い程効果上昇",
+    "type": 6,
+    "description": "1620%のスコア獲得、残スタミナが多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -50868,6 +50956,17 @@
     "name": "対象獲得スコアの割合スコア獲得",
     "type": 70,
     "description": "自身の獲得スコアの15%のスコア獲得",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_score_ratio-160-target-self",
+    "name": "自身の獲得スコアの割合スコア獲得",
+    "type": 70,
+    "description": "自身の獲得スコアの16%のスコア獲得",
     "skillTargetId": "target-self",
     "shortDescription": "",
     "grade": 0,
@@ -67419,6 +67518,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-4-target-self-19",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に4段階スキル成功率上昇効果[19ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-4-target-self-22",
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
@@ -73590,6 +73700,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_recovery-2-target-self-30",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に2段階スタミナ継続回復効果[30ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_recovery-2-target-self-33",
     "name": "自身にスタミナ継続回復効果",
     "type": 62,
@@ -73605,6 +73726,17 @@
     "name": "自身にスタミナ継続回復効果",
     "type": 62,
     "description": "自身に2段階スタミナ継続回復効果[36ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_recovery-2-target-self-37",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に2段階スタミナ継続回復効果[37ビート]",
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -73854,10 +73986,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_recovery-3-target-self-41",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に3段階スタミナ継続回復効果[41ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_recovery-3-target-self-44",
     "name": "自身にスタミナ継続回復効果",
     "type": 62,
     "description": "自身に3段階スタミナ継続回復効果[44ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_recovery-3-target-self-45",
+    "name": "自身にスタミナ継続回復効果",
+    "type": 62,
+    "description": "自身に3段階スタミナ継続回復効果[45ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",

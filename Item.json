@@ -2760,6 +2760,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-25-0510",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -5832,6 +5844,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-25-0509",
+    "name": "寂しさ隠す五月雨ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -8081,6 +8105,18 @@
     "assetId": "marathon-raid-pt",
     "description": "マルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
     "howToGet": "マルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-ladder_pt_25-0512",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
     "type": 8001,
     "value": 1,
     "order": 100,

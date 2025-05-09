@@ -4017,6 +4017,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-kkr-05-flow-00",
+    "assetId": "kkr-05-flow-00",
+    "name": "lonely rainy day",
+    "description": "話せて少しだけ、楽になったかもです\r\n……傘、持って来てくれてありがとうございました",
+    "type": 1,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 281,
+    "danceRatioPermil": 425,
+    "visualRatioPermil": 324,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-flow-00-1",
+    "skillId2": "sk-kkr-05-flow-00-2",
+    "skillId3": "sk-kkr-05-flow-00-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 473,
+    "releaseDate": "1746846000000",
+    "rewardCostumeId": "cos-kkr-flow-00",
+    "obtainMessage": "傘、持って来てくれて\nありがとうございました",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-flow-00-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-flow-00-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-flow-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-flow-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-flow-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kkr-05-idol-00",
     "assetId": "kkr-05-idol-00",
     "name": "新生リズノワの誇り",

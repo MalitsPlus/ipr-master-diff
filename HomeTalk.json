@@ -2819,6 +2819,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-kkr-05-flow-00-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-flow-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-flow-00",
+    "choiceText": "ああ、教えてほしい",
+    "managerText": "ああ、教えてほしい",
+    "reliability": 5,
+    "title": "lonely rainy day",
+    "displayConditionDescription": "lonely rainy day 赤崎こころ\nストーリー3話を視聴",
+    "order": 423,
+    "releaseDate": "1746846000000",
+    "characterTalks": [
+      {
+        "text": "ふっふっふー、では博識なこころ\nちゃんが特別に教えてあげましょう\n特別ですからね～？",
+        "voiceAssetId": "sud_vo_home_kkr-05-flow-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-014_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "といっても、こころも偶然\n学校の授業で知ったんですけどね。",
+        "voiceAssetId": "sud_vo_home_kkr-05-flow-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "知的、神秘的、辛抱強い愛…\nネガティブなものだと\n移り気、無情なんてものも…",
+        "voiceAssetId": "sud_vo_home_kkr-05-flow-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "けど、ポジティブなもので\nこころにぴったりな\n花言葉があるんですよ！",
+        "voiceAssetId": "sud_vo_home_kkr-05-flow-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "カシワバアジサイの\n慈愛、美、魅力ある人…\nまさにこころのことです！",
+        "voiceAssetId": "sud_vo_home_kkr-05-flow-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この衣装のモチーフが\nこころそのものを意味する\n花言葉を持つなんて運命ですよね～",
+        "voiceAssetId": "sud_vo_home_kkr-05-flow-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-kkr-05-idol-00-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
