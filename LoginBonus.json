@@ -2369,6 +2369,29 @@
     "receiveConditionId": "cd-time-login02-25-0430-0513"
   },
   {
+    "id": "login_bonus-campaign02-25-0516-01",
+    "name": "コラボ開催記念",
+    "description": "9日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-0515-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;stone;;300",
+      "rd_auto;stone;;300",
+      "rd_auto;stone;;300",
+      "rd_auto;stone;;300",
+      "rd_auto;stone;;300",
+      "rd_auto;stone;;300",
+      "rd_auto;stone;;300",
+      "rd_auto;stone;;300",
+      "rd_auto;stone;;300"
+    ],
+    "openConditionId": "cd-time-login02-25-0516-0524",
+    "receiveConditionId": "cd-time-login02-25-0516-0531"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

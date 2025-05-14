@@ -515,6 +515,21 @@
     ]
   },
   {
+    "id": "event-dream-25-05",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-dream-defalut",
+    "name": "イベントミッション",
+    "order": 1,
+    "viewConditionId": "cd-time-dream-25-05",
+    "unlockConditionId": "cd-dream-25-0320-play",
+    "missionIds": [
+      "event-dream-25-05-dream_area_generate_count",
+      "event-dream-25-05-dream_quest_clear_count",
+      "event-dream-25-05-dream_quest_clear_difficulty_level_achievement",
+      "event-dream-25-05-dream_season_dream_max_grade_a"
+    ]
+  },
+  {
     "id": "event-duty-25-0115",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-duty-25-0115",
@@ -1109,7 +1124,7 @@
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-ladder-default",
     "name": "メッセージミッション",
-    "order": 1,
+    "order": 10,
     "viewConditionId": "cd-date-event-ladder-25-0512",
     "missionIds": [
       "event-ms-normal-25-0512-mission_card_level_up_count",
@@ -1305,7 +1320,7 @@
     "id": "event-love-24-1114-limited",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mission-21-0624",
-    "name": "もし恋初回限定課題",
+    "name": "もし恋デイリー",
     "order": 1,
     "viewConditionId": "cd-date-event-mission-love-24-1114-limited",
     "unlockConditionId": "cd-date-event-mission-love-24-1114-limited",
@@ -3116,6 +3131,23 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_dream-mission-25-0515",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-mission-25-0515",
+    "name": "コラボミッション",
+    "order": 3,
+    "viewConditionId": "cd-time-event-ms-dream-25-0515-0530",
+    "missionIds": [
+      "event-ms-dream-25-0515-00-card_skill_level_up_count",
+      "event-ms-dream-25-0515-00-login_count",
+      "event-ms-dream-25-0515-00-quest_contest_clear_count",
+      "event-ms-dream-25-0515-00-quest_daily_clear_count",
+      "event-ms-dream-25-0515-01-mission_clear_count",
+      "event-ms-dream-25-0515-02-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_fes-mission-22-0929",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-fes-mission-22-0929",
@@ -3273,7 +3305,7 @@
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-gw-mission-25-0506",
     "name": "GW開催記念ミッション",
-    "order": 2,
+    "order": 20,
     "viewConditionId": "cd-time-event-ms-gw-25-0506-0512",
     "missionIds": [
       "event-ms-gw-25-0506-00-character_quest_all_clear_count",
@@ -4724,6 +4756,24 @@
       "event_story-mission-24-0427-story-read-056-069",
       "event_story-mission-24-0427-story-shooting",
       "event_story-mission-24-0427-url_tansition"
+    ]
+  },
+  {
+    "id": "event_story-mission-25-0515",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-story-mission-25-0515",
+    "name": "メインストーリーミッション",
+    "order": 8,
+    "viewConditionId": "cd-time-event_story-mission-25-0515-0522",
+    "unlockConditionId": "cd-time-event_story-mission-25-0515-0522",
+    "missionIds": [
+      "event_story-mission-25-0515-story-read-001-010",
+      "event_story-mission-25-0515-story-read-011-025",
+      "event_story-mission-25-0515-story-read-026-035",
+      "event_story-mission-25-0515-story-read-036-045",
+      "event_story-mission-25-0515-story-read-046-055",
+      "event_story-mission-25-0515-story-read-056-069",
+      "event_story-mission-25-0515-story-shooting"
     ]
   },
   {
