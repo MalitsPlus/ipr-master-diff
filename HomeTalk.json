@@ -4965,6 +4965,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-mhk-05-circ-00-talk-01",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mhk-05-circ-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mhk-05-circ-00",
+    "choiceText": "どうでした？",
+    "managerText": "どうでした？",
+    "reliability": 5,
+    "title": "ホイールオブマッハ",
+    "displayConditionDescription": "ホイールオブマッハ miho\nストーリー3話を視聴",
+    "order": 424,
+    "releaseDate": "1747537200000",
+    "characterTalks": [
+      {
+        "text": "ええ、いい休暇になりました。\nと、言いたいところですが…\n…死ぬかと思いました。",
+        "voiceAssetId": "sud_vo_home_mhk-05-circ-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_deny-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "葉ちゃんと行ったあの温泉、\n辿り着くまでがとにかく大変な\n秘境だったんです。",
+        "voiceAssetId": "sud_vo_home_mhk-05-circ-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "高速道路をひたすら走って、\nその後はろくに舗装もされてない\n山奥の道路を走って…",
+        "voiceAssetId": "sud_vo_home_mhk-05-circ-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "せっかくドライブに行くんだから\n面白い場所にしようって、当時\n二人で盛り上がってたんですが。",
+        "voiceAssetId": "sud_vo_home_mhk-05-circ-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-004_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "今にして思えば、初心者マークが\nなんであんなルートに挑戦しようと\n思ったのかしら。",
+        "voiceAssetId": "sud_vo_home_mhk-05-circ-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_deny-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あの頃は我ながら向こう見ず\nだったと言うか、私達も\n若かったですね…",
+        "voiceAssetId": "sud_vo_home_mhk-05-circ-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-mhk-05-idol-00-talk-01",
     "characterId": "char-mhk",
     "placeType": 1,

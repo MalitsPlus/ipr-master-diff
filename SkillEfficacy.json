@@ -54318,6 +54318,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-vocal_up-10000-chart_dependence",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1000%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-vocal_up-10200-chart_dependence",
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
     "type": 36,
@@ -54362,6 +54373,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-vocal_up-11200-chart_dependence",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1120%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-vocal_up-11400-chart_dependence",
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
     "type": 36,
@@ -54388,6 +54410,17 @@
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1230%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-vocal_up-12400-chart_dependence",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1240%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -54450,6 +54483,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-vocal_up-13600-chart_dependence",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1360%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-vocal_up-13800-chart_dependence",
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
     "type": 36,
@@ -54487,6 +54531,17 @@
     "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1470%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-vocal_up-14800-chart_dependence",
+    "name": "スコア獲得-ボーカル上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1480%のスコア獲得、ボーカル上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -74976,6 +75031,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-status_effect_change-target-self-vocal_up-combo_score_up",
+    "name": "自身のボーカル上昇をコンボスコア上昇に状態変化",
+    "type": 72,
+    "description": "自身のボーカル上昇をコンボスコア上昇に状態変化",
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-status_effect_change-target-visual-1-visual_up-tension_up",
     "name": "ビジュアルタイプ1人のビジュアル上昇をテンションUPに状態変化",
     "type": 72,
@@ -79299,6 +79365,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-3-target-self-30",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に3段階テンションUP効果[30ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-3-target-self-31",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -79358,6 +79435,17 @@
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に3段階テンションUP効果[36ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-3-target-self-37",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に3段階テンションUP効果[37ビート]",
     "grade": 3,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -93555,6 +93643,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-2-target-self-30",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に2段階ボーカル上昇効果[30ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-2-target-self-31",
     "name": "自身にボーカル上昇効果",
     "type": 14,
@@ -93603,6 +93702,17 @@
     "name": "自身にボーカル上昇効果",
     "type": 14,
     "description": "自身に2段階ボーカル上昇効果[36ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-2-target-self-37",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に2段階ボーカル上昇効果[37ビート]",
     "grade": 2,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -94215,6 +94325,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-3-target-self-37",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に3段階ボーカル上昇効果[37ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-3-target-self-39",
     "name": "自身にボーカル上昇効果",
     "type": 14,
@@ -94230,6 +94351,17 @@
     "name": "自身にボーカル上昇効果",
     "type": 14,
     "description": "自身に3段階ボーカル上昇効果[40ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-3-target-self-41",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に3段階ボーカル上昇効果[41ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -94263,6 +94395,17 @@
     "name": "自身にボーカル上昇効果",
     "type": 14,
     "description": "自身に3段階ボーカル上昇効果[44ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-3-target-self-45",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に3段階ボーカル上昇効果[45ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-self",

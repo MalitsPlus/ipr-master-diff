@@ -2772,6 +2772,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-25-0520",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -2965,6 +2977,18 @@
   },
   {
     "id": "item-gacha-premium-ticket-free-25-0509",
+    "name": "無料プレミアムガチャチケ",
+    "assetId": "gacha-ticket-premium-free",
+    "description": "プレミアムガチャを引くことができる",
+    "howToGet": "プレミアムガチャに遷移",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-premium-ticket-free-25-0524",
     "name": "無料プレミアムガチャチケ",
     "assetId": "gacha-ticket-premium-free",
     "description": "プレミアムガチャを引くことができる",
@@ -5868,6 +5892,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-25-0518",
+    "name": "自慢のチェッカーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -7648,6 +7684,18 @@
     "name": "「在りし日の黒百合」専用ガチャチケット",
     "assetId": "gacha-ticket-just",
     "description": "「在りし日の黒百合」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-25-0518-01",
+    "name": "「自慢のチェッカー」専用ガチャチケット",
+    "assetId": "gacha-ticket-just",
+    "description": "「自慢のチェッカー」ガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "アイドル活動ミッション",
     "type": 8,
     "value": 1,

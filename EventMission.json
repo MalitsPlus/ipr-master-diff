@@ -630,6 +630,31 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-duty-25-0518",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-duty-25-0518",
+    "name": "アイドル活動ミッション",
+    "order": 10,
+    "viewConditionId": "cd-duty-25-0518-date",
+    "missionIds": [
+      "event-ms-duty-25-0518-01-card_skill_level_up_count",
+      "event-ms-duty-25-0518-01-character_quest_all_clear_count",
+      "event-ms-duty-25-0518-01-character_start_activity_fan_event_count",
+      "event-ms-duty-25-0518-01-character_start_activity_promotion_count",
+      "event-ms-duty-25-0518-01-character_start_activity_refreshment_count",
+      "event-ms-duty-25-0518-01-company_character_use_obtain_enjoy_point_item_count",
+      "event-ms-duty-25-0518-01-login_count",
+      "event-ms-duty-25-0518-01-market_exchange_count",
+      "event-ms-duty-25-0518-01-mission_clear_count",
+      "event-ms-duty-25-0518-01-photo_expression_shooting_specified_character_shoot_count",
+      "event-ms-duty-25-0518-01-photo_reroll_count",
+      "event-ms-duty-25-0518-01-quest_contest_clear_count",
+      "event-ms-duty-25-0518-01-quest_pvp_play_count",
+      "event-ms-duty-25-0518-02-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-ladder-22-0513",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-ladder-22-0513",
@@ -3633,6 +3658,21 @@
       "event-ms-idoly-pride-day-mission-25-0510-mission_clear_count",
       "event-ms-idoly-pride-day-mission-25-0510-photo_shoot_count",
       "event-ms-idoly-pride-day-mission-25-0510-quest-daily-clear-count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_idoly-pride-day-mission-25-0520",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_campaign-25-0110-ip-day",
+    "name": "本日限定！0のつく日はアイプラの日！",
+    "order": 1,
+    "viewConditionId": "cd-time-market-discount-day-25-0520",
+    "missionIds": [
+      "event-ms-idoly-pride-day-mission-25-0520-login",
+      "event-ms-idoly-pride-day-mission-25-0520-mission_clear_count",
+      "event-ms-idoly-pride-day-mission-25-0520-photo_shoot_count",
+      "event-ms-idoly-pride-day-mission-25-0520-quest-daily-clear-count"
     ],
     "unlockConditionId": ""
   },
