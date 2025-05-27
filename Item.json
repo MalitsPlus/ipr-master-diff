@@ -900,6 +900,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-25-0527",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-daily_quest_ticket_sp-present",
     "name": "プレゼントデイリーパス",
     "assetId": "quest-daily-special-pr",
@@ -972,6 +984,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_gold-25-0527",
+    "name": "すごろくコイン",
+    "assetId": "gold-dice",
+    "description": "マップ内のショップでアイテムを購入することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_medal-24-0404",
     "name": "すごろくメダル",
     "assetId": "medal-dice",
@@ -1032,6 +1056,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_medal-25-0527",
+    "name": "すごろくメダル",
+    "assetId": "medal-dice",
+    "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_stamina_recovery-24-0404",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
@@ -1081,6 +1117,18 @@
   },
   {
     "id": "item-dice_stamina_recovery-25-0225",
+    "name": "すごろくキャンディ",
+    "assetId": "dice-stamina-recovery",
+    "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント、ファンイベント、プロモーション など",
+    "type": 3001,
+    "value": 10,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-dice_stamina_recovery-25-0527",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
     "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
@@ -1516,6 +1564,18 @@
     "name": "3周年記念メダル",
     "assetId": "medal-3rd-anniversary",
     "description": "3周年記念メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ガチャ、ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-4th-anniversary-medal-25-0527",
+    "name": "4周年記念メダル",
+    "assetId": "medal-4th-anniversary",
+    "description": "4周年記念メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
     "howToGet": "ガチャ、ショップなど",
     "type": 10,
     "value": 1,
@@ -2220,6 +2280,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-ticket-25-0528",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nウエディングアイドルと交換できるチケット",
+    "howToGet": "ウエディングオールスター特別ショップ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-ticket-fes-dream-23-1226",
     "name": "★5フェス契約書",
     "assetId": "card-exchange-05-23-1226",
@@ -2773,6 +2845,18 @@
   },
   {
     "id": "item-gacha-free-ticket-1s-25-0520",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-25-0530",
     "name": "無料10連ガチャチケ",
     "assetId": "gacha-endless-22-1224",
     "description": "10連チケットガチャを1回引くことができる",
@@ -3616,6 +3700,18 @@
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「みんつく！サキュバスvs魔法少女ガチャ」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-0527",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「君と秘密のウエディングピックアップガチャ」など",
     "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
@@ -5138,6 +5234,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-25-0426",
     "name": "みんつく！サキュバスvs魔法少女ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-0527",
+    "name": "君と秘密のウエディングピックアップガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -7058,6 +7166,18 @@
   {
     "id": "item-gacha_point-rev-select-01-25-0427",
     "name": "選べる★5アイドルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-25-0529",
+    "name": "選べる★5アイドルガチャ 怜＆渚 ver.Pt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -9900,6 +10020,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-photo_contest_create-25-0527",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -11414,6 +11546,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-25-0426-01",
     "name": "みんつく！サキュバスvs魔法少女1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0527-01",
+    "name": "君と秘密のウエディング1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",

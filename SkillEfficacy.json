@@ -3113,6 +3113,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-4-target-trigger-26",
+    "name": "対象にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "対象1人に4段階Aスキルスコア上昇効果[26ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-4-target-trigger-30",
+    "name": "対象にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "対象1人に4段階Aスキルスコア上昇効果[30ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-4-target-trigger-34",
+    "name": "対象にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "対象1人に4段階Aスキルスコア上昇効果[34ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-4-target-trigger-36",
     "name": "対象にAスキルスコア上昇効果",
     "type": 18,
@@ -4169,10 +4202,43 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-5-target-trigger-34",
+    "name": "対象にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "対象1人に5段階Aスキルスコア上昇効果[34ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-5-target-trigger-36",
     "name": "対象にAスキルスコア上昇効果",
     "type": 18,
     "description": "対象1人に5段階Aスキルスコア上昇効果[36ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-5-target-trigger-39",
+    "name": "対象にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "対象1人に5段階Aスキルスコア上昇効果[39ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-5-target-trigger-44",
+    "name": "対象にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "対象1人に5段階Aスキルスコア上昇効果[44ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
@@ -4902,6 +4968,28 @@
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-6-target-self-22",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に6段階Aスキルスコア上昇効果[22ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-6-target-self-28",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に6段階Aスキルスコア上昇効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -5760,6 +5848,17 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-7-target-self-34",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に7段階Aスキルスコア上昇効果[34ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -22979,6 +23078,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-6-target-neighbor-25",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに6段階クリティカル係数上昇効果[25ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-neighbor-28",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに6段階クリティカル係数上昇効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-neighbor-31",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに6段階クリティカル係数上昇効果[31ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-6-target-neighbor-32",
     "name": "隣接するアイドルにクリティカル係数上昇効果",
     "type": 20,
@@ -23232,6 +23364,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-6-target-trigger-26",
+    "name": "対象にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "対象1人に6段階クリティカル係数上昇効果[26ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-6-target-trigger-27",
     "name": "対象にクリティカル係数上昇効果",
     "type": 20,
@@ -23254,10 +23397,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-6-target-trigger-30",
+    "name": "対象にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "対象1人に6段階クリティカル係数上昇効果[30ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-6-target-trigger-32",
     "name": "対象にクリティカル係数上昇効果",
     "type": 20,
     "description": "対象1人に6段階クリティカル係数上昇効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-trigger-34",
+    "name": "対象にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "対象1人に6段階クリティカル係数上昇効果[34ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
@@ -23452,6 +23617,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-7-target-center-30",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に7段階クリティカル係数上昇効果[30ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-7-target-center-32",
     "name": "センターにクリティカル係数上昇効果",
     "type": 20,
@@ -23459,6 +23635,17 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-7-target-center-35",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に7段階クリティカル係数上昇効果[35ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -23749,6 +23936,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-7-target-neighbor-31",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに7段階クリティカル係数上昇効果[31ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-7-target-neighbor-34",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに7段階クリティカル係数上昇効果[34ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-7-target-neighbor-37",
+    "name": "隣接するアイドルにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "隣接するアイドルに7段階クリティカル係数上昇効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-neighbor",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-7-target-self-21",
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
@@ -23881,6 +24101,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-7-target-trigger-34",
+    "name": "対象にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "対象1人に7段階クリティカル係数上昇効果[34ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-7-target-trigger-36",
     "name": "対象にクリティカル係数上昇効果",
     "type": 20,
@@ -23903,6 +24134,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-7-target-trigger-39",
+    "name": "対象にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "対象1人に7段階クリティカル係数上昇効果[39ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-7-target-trigger-42",
     "name": "対象にクリティカル係数上昇効果",
     "type": 20,
@@ -23918,6 +24160,17 @@
     "name": "対象にクリティカル係数上昇効果",
     "type": 20,
     "description": "対象1人に7段階クリティカル係数上昇効果[43ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-7-target-trigger-44",
+    "name": "対象にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "対象1人に7段階クリティカル係数上昇効果[44ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
@@ -24035,6 +24288,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-8-target-center-35",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に8段階クリティカル係数上昇効果[35ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-8-target-center-38",
     "name": "センターにクリティカル係数上昇効果",
     "type": 20,
@@ -24042,6 +24306,17 @@
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-8-target-center-40",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に8段階クリティカル係数上昇効果[40ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -24475,6 +24750,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-9-target-center-40",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に9段階クリティカル係数上昇効果[40ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-9-target-center-44",
     "name": "センターにクリティカル係数上昇効果",
     "type": 20,
@@ -24482,6 +24768,39 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-9-target-center-45",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に9段階クリティカル係数上昇効果[45ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-9-target-center-50",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に9段階クリティカル係数上昇効果[50ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-9-target-center-55",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に9段階クリティカル係数上昇効果[55ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -30914,6 +31233,17 @@
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
     "description": "自身に8段階クリティカル率上昇効果[45ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-8-target-self-48",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に8段階クリティカル率上昇効果[48ビート]",
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -45573,6 +45903,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-passive_skill_cool_time_reset-target-neighbor",
+    "name": "隣接するアイドルのPスキルのCTをリセット",
+    "type": 73,
+    "description": "隣接するアイドルのPスキルのCTをリセット",
+    "skillTargetId": "target-neighbor",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-passive_skill_cool_time_reset-target-self",
     "name": "自身のPスキルのCTをリセット",
     "type": 73,
@@ -48906,6 +49247,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_more_combo_count-10100-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "1010%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_more_combo_count-10200-chart_dependence",
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
@@ -49434,6 +49786,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_more_combo_count-5900-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "590%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_more_combo_count-600-chart_dependence",
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
@@ -49449,6 +49812,17 @@
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
     "description": "640%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-6700-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "670%のスコア獲得、コンボ数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -49647,6 +50021,17 @@
     "name": "スコア獲得-コンボ数が多い程効果上昇",
     "type": 8,
     "description": "910%のスコア獲得、コンボ数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_more_combo_count-9200-chart_dependence",
+    "name": "スコア獲得-コンボ数が多い程効果上昇",
+    "type": 8,
+    "description": "920%のスコア獲得、コンボ数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -51590,6 +51975,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_skill_success_rate_up-2900-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "290%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-3100-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "310%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_skill_success_rate_up-3200-chart_dependence",
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
@@ -52177,6 +52584,17 @@
     "name": "スコア獲得-Aスキルスコア上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "390%のスコア獲得、Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-active_skill_score_up-4000-chart_dependence",
+    "name": "スコア獲得-Aスキルスコア上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "400%のスコア獲得、Aスキルスコア上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -59312,10 +59730,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-score_up-4-target-self-30",
+    "name": "自身にスコア上昇効果",
+    "type": 16,
+    "description": "自身に4段階スコア上昇効果[30ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-4-target-self-32",
     "name": "自身にスコア上昇効果",
     "type": 16,
     "description": "自身に4段階スコア上昇効果[32ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-4-target-self-35",
+    "name": "自身にスコア上昇効果",
+    "type": 16,
+    "description": "自身に4段階スコア上昇効果[35ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -59334,10 +59774,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-score_up-4-target-self-38",
+    "name": "自身にスコア上昇効果",
+    "type": 16,
+    "description": "自身に4段階スコア上昇効果[38ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-4-target-self-40",
     "name": "自身にスコア上昇効果",
     "type": 16,
     "description": "自身に4段階スコア上昇効果[40ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-4-target-self-41",
+    "name": "自身にスコア上昇効果",
+    "type": 16,
+    "description": "自身に4段階スコア上昇効果[41ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -64570,6 +65032,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_score_up-4-target-self-40",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に4段階Aスキルスコア上昇効果[40ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_score_up-4-target-self-41",
     "name": "自身にAスキルスコア上昇効果",
     "type": 18,
@@ -64592,10 +65065,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_score_up-4-target-self-44",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に4段階Aスキルスコア上昇効果[44ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_score_up-4-target-self-47",
     "name": "自身にAスキルスコア上昇効果",
     "type": 18,
     "description": "自身に4段階Aスキルスコア上昇効果[47ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_score_up-4-target-self-49",
+    "name": "自身にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "自身に4段階Aスキルスコア上昇効果[49ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -65681,6 +66176,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-2-target-character_type-1-1-24",
+    "name": "スコアラータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ1人に2段階スキル成功率上昇効果[24ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-2-target-character_type-1-1-25",
     "name": "スコアラータイプ1人にスキル成功率上昇効果",
     "type": 37,
@@ -65707,6 +66213,17 @@
     "name": "スコアラータイプ1人にスキル成功率上昇効果",
     "type": 37,
     "description": "スコアラータイプ1人に2段階スキル成功率上昇効果[29ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-2-target-character_type-1-1-30",
+    "name": "スコアラータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ1人に2段階スキル成功率上昇効果[30ビート]",
     "grade": 2,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-1",
@@ -66363,6 +66880,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-3-target-character_type-1-1-30",
+    "name": "スコアラータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ1人に3段階スキル成功率上昇効果[30ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-3-target-character_type-1-1-31",
     "name": "スコアラータイプ1人にスキル成功率上昇効果",
     "type": 37,
@@ -66389,6 +66917,28 @@
     "name": "スコアラータイプ1人にスキル成功率上昇効果",
     "type": 37,
     "description": "スコアラータイプ1人に3段階スキル成功率上昇効果[36ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-character_type-1-1-39",
+    "name": "スコアラータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ1人に3段階スキル成功率上昇効果[39ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-character_type-1-1-42",
+    "name": "スコアラータイプ1人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ1人に3段階スキル成功率上昇効果[42ビート]",
     "grade": 3,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-1",
@@ -83798,6 +84348,39 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-visual_down-6-target-opponent_visual-2-25",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に6段階ビジュアル低下効果[25ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-6-target-opponent_visual-2-29",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に6段階ビジュアル低下効果[29ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-6-target-opponent_visual-2-33",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に6段階ビジュアル低下効果[33ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-visual_down-6-target-opponent_visual-2-38",
     "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
     "type": 32,
@@ -83992,6 +84575,39 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-7-target-opponent_visual-2-33",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に7段階ビジュアル低下効果[33ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-7-target-opponent_visual-2-37",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に7段階ビジュアル低下効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-visual_down-7-target-opponent_visual-2-41",
+    "name": "相手のビジュアルタイプ2人にビジュアル低下効果",
+    "type": 32,
+    "description": "[ライブバトルのみ]相手のビジュアルタイプ2人に7段階ビジュアル低下効果[41ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_visual-2",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },

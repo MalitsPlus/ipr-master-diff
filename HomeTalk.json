@@ -6243,6 +6243,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ngs-05-wedd-00-talk-01",
+    "characterId": "char-ngs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ngs-05-wedd-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ngs-05-wedd-00",
+    "choiceText": "どんな意味があるんだ？",
+    "managerText": "どんな意味があるんだ？",
+    "reliability": 5,
+    "title": "空響く祝福の鐘",
+    "displayConditionDescription": "空響く祝福の鐘 伊吹渚\nストーリー3話を視聴",
+    "order": 426,
+    "releaseDate": "1748314800000",
+    "characterTalks": [
+      {
+        "text": "悪い気や災難を追い払って\n幸せを呼びこんでくれる\nみたいなんです。",
+        "voiceAssetId": "sud_vo_home_ngs-05-wedd-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "大体、三回ほど鳴らすんですが\nそれにも意味があって…",
+        "voiceAssetId": "sud_vo_home_ngs-05-wedd-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "一回目は、結婚した\n愛し合う新郎新婦を\n祝福する鐘の音。",
+        "voiceAssetId": "sud_vo_home_ngs-05-wedd-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "二回目は、今までお世話になった\nお母さんやお父さんや家族を\n祝福する鐘の音。",
+        "voiceAssetId": "sud_vo_home_ngs-05-wedd-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-058_in"
+      },
+      {
+        "text": "三回目は、式へ来てくれた\n全てのゲストを祝福する\n鐘の音なんです。",
+        "voiceAssetId": "sud_vo_home_ngs-05-wedd-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "結婚式の鐘は\nいろんな人を祝福してくれる\n素敵なものなんですよ。",
+        "voiceAssetId": "sud_vo_home_ngs-05-wedd-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ngs-05-xmas-00-talk-01",
     "characterId": "char-ngs",
     "placeType": 1,
@@ -6999,6 +7054,61 @@
       }
     ],
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-rei-05-wedd-00-talk-01",
+    "characterId": "char-rei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rei-05-wedd-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rei-05-wedd-00",
+    "choiceText": "ご家族は何か言っていたか？",
+    "managerText": "ご家族は何か言っていたか？",
+    "reliability": 5,
+    "title": "花香る二人の未来",
+    "displayConditionDescription": "花香る二人の未来 一ノ瀬怜\nストーリー3話を視聴",
+    "order": 425,
+    "releaseDate": "1748314800000",
+    "characterTalks": [
+      {
+        "text": "撮影で父と腕を組んで\nバージンロードを\n歩いたじゃないですか？",
+        "voiceAssetId": "sud_vo_home_rei-05-wedd-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "あの後、父はみんなから茶化されて\nそういう経験があまりないから\nとても困ったと言ってました。",
+        "voiceAssetId": "sud_vo_home_rei-05-wedd-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "お母さんからは早く恋人を紹介して\nほしいと言われました。冗談かと\n思ったら、意外と本気みたいで……",
+        "voiceAssetId": "sud_vo_home_rei-05-wedd-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "娘の花嫁姿を見たら\n親はそういうのも楽しみになる\nものなのでしょうか？",
+        "voiceAssetId": "sud_vo_home_rei-05-wedd-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あと、兄からは真面目な顔で\n{user}さんと一度\nじっくり話がしたいと言われて……",
+        "voiceAssetId": "sud_vo_home_rei-05-wedd-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "何を話すつもりか知りませんが\n妹想いの優しい兄なので、良ければ\n今度二人きりで会ってみて下さい",
+        "voiceAssetId": "sud_vo_home_rei-05-wedd-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-rio-05-fest-00-talk-01",
