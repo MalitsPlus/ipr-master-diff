@@ -11606,6 +11606,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-yu-05-link-00-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-link-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-link-00",
+    "choiceText": "改まってどうしたんだ？",
+    "managerText": "改まってどうしたんだ？",
+    "reliability": 5,
+    "title": "絆広がる二人の明日",
+    "displayConditionDescription": "絆広がる二人の明日 鈴村優\nストーリー3話を視聴",
+    "order": 427,
+    "releaseDate": "1749178800000",
+    "characterTalks": [
+      {
+        "text": "うち、生徒会長になって、\n生徒のみんなの話を\n聞くことが増えたんですけど。",
+        "voiceAssetId": "sud_vo_home_yu-05-link-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "リアルな恋愛相談が多くて、\nうちの漫画やアニメの知識だけじゃ\n結構いっぱいいっぱいで…",
+        "voiceAssetId": "sud_vo_home_yu-05-link-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どうにか、いい方向に\nアドバイスをしたいんですけど、\n経験のないことやから、難しくて。",
+        "voiceAssetId": "sud_vo_home_yu-05-link-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それに、フィクションと現実じゃ、\nやっぱり全然違うんかも…\nって悩んだりもします。",
+        "voiceAssetId": "sud_vo_home_yu-05-link-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_deny-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それどころか、もらった相談を元に\nうちの妄想が際限なく膨らんで\nしまうこともあって…",
+        "voiceAssetId": "sud_vo_home_yu-05-link-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…せや！　うちも相談したら\nええんや！　瑠依ちゃん達に\nちょっと恋バナしてきます！",
+        "voiceAssetId": "sud_vo_home_yu-05-link-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-yu-05-mizg-01-talk-01",
     "characterId": "char-yu",
     "placeType": 1,

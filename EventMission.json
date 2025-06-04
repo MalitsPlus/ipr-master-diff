@@ -1730,6 +1730,19 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-mini-backside-25-0606",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-mini-backside-25-0606",
+    "name": "もうすぐ4周年記念！特別合宿！",
+    "order": 99,
+    "viewConditionId": "cd-time-event_backside-mission-25-0606",
+    "missionIds": [
+      "event-mini-backside-25-0606-backside_final_score_achievement-1",
+      "event-mini-backside-25-0606-backside_practice_score_achievement-1"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-mini-marathon-22-0413",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-mini-marathon-22-0413",
@@ -3723,6 +3736,21 @@
       "event-ms-idoly-pride-day-mission-25-0530-mission_clear_count",
       "event-ms-idoly-pride-day-mission-25-0530-photo_shoot_count",
       "event-ms-idoly-pride-day-mission-25-0530-quest-daily-clear-count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_idoly-pride-day-mission-25-0610",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_campaign-25-0110-ip-day",
+    "name": "本日限定！0のつく日はアイプラの日！",
+    "order": 1,
+    "viewConditionId": "cd-time-market-discount-day-25-0610",
+    "missionIds": [
+      "event-ms-idoly-pride-day-mission-25-0610-login",
+      "event-ms-idoly-pride-day-mission-25-0610-mission_clear_count",
+      "event-ms-idoly-pride-day-mission-25-0610-photo_shoot_count",
+      "event-ms-idoly-pride-day-mission-25-0610-quest-daily-clear-count"
     ],
     "unlockConditionId": ""
   },
