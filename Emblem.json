@@ -5202,6 +5202,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_kor-03",
+    "name": "【誕生日】fran",
+    "assetId": "birthday_kor-05",
+    "autoProvideConditionId": "cd-birthday_emblem_kor-25-0611",
+    "order": 604180,
+    "description": "franの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_ktn-03",
     "name": "【誕生日】長瀬琴乃",
     "assetId": "birthday_ktn-03",
@@ -6413,6 +6422,24 @@
     "assetId": "gvg-season-047-top010",
     "order": 404720,
     "description": "ユニオンライブシーズン47 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-048-top001",
+    "name": "ユニオンシーズン48 No.1",
+    "assetId": "gvg-season-048-top001",
+    "order": 404810,
+    "description": "ユニオンライブシーズン48 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-048-top010",
+    "name": "ユニオンシーズン48 TOP10",
+    "assetId": "gvg-season-048-top010",
+    "order": 404820,
+    "description": "ユニオンライブシーズン48 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
