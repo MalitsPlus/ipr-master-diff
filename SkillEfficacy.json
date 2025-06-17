@@ -7238,6 +7238,50 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-self-16",
+    "name": "自身に集目超化",
+    "type": 100,
+    "description": "自身に集目超化効果[16ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-self-23",
+    "name": "自身に集目超化",
+    "type": 100,
+    "description": "自身に集目超化効果[23ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-self-30",
+    "name": "自身に集目超化",
+    "type": 100,
+    "description": "自身に集目超化効果[30ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-self-37",
+    "name": "自身に集目超化",
+    "type": 100,
+    "description": "自身に集目超化効果[37ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_audience_amount_reduction-10-target-self-11",
     "name": "自身にステルス超化",
     "type": 104,
@@ -8943,10 +8987,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-5-target-self-29",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に5段階の集目効果[29ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-5-target-self-30",
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に5段階の集目効果[30ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-5-target-self-33",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に5段階の集目効果[33ビート]",
     "grade": 5,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -9438,10 +9504,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-self-38",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[38ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-self-40",
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に6段階の集目効果[40ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-6-target-self-43",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[43ビート]",
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -23375,6 +23463,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-6-target-self-25",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に6段階クリティカル係数上昇効果[25ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-6-target-self-26",
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
@@ -24211,6 +24310,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-7-target-self-33",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に7段階クリティカル係数上昇効果[33ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-7-target-self-34",
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
@@ -24244,10 +24354,54 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-7-target-self-38",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に7段階クリティカル係数上昇効果[38ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-7-target-self-40",
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
     "description": "自身に7段階クリティカル係数上昇効果[40ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-7-target-self-43",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に7段階クリティカル係数上昇効果[43ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-7-target-self-45",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に7段階クリティカル係数上昇効果[45ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-7-target-self-55",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に7段階クリティカル係数上昇効果[55ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -24750,6 +24904,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-8-target-self-55",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に8段階クリティカル係数上昇効果[55ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-8-target-self-65",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に8段階クリティカル係数上昇効果[65ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-8-target-trigger-27",
     "name": "対象にクリティカル係数上昇効果",
     "type": 20,
@@ -25238,6 +25414,28 @@
     "name": "自身にクリティカル係数上昇効果",
     "type": 20,
     "description": "自身に9段階クリティカル係数上昇効果[55ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-9-target-self-65",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に9段階クリティカル係数上昇効果[65ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-9-target-self-80",
+    "name": "自身にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "自身に9段階クリティカル係数上昇効果[80ビート]",
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -44638,6 +44836,50 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_critical_bonus_permil_up-10-target-self-45",
+    "name": "自身にクリティカル係数上昇上限解放",
+    "type": 81,
+    "description": "自身に10段階クリティカル係数上昇上限解放効果[45ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_critical_bonus_permil_up-10-target-self-55",
+    "name": "自身にクリティカル係数上昇上限解放",
+    "type": 81,
+    "description": "自身に10段階クリティカル係数上昇上限解放効果[55ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_critical_bonus_permil_up-10-target-self-65",
+    "name": "自身にクリティカル係数上昇上限解放",
+    "type": 81,
+    "description": "自身に10段階クリティカル係数上昇上限解放効果[65ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_critical_bonus_permil_up-10-target-self-80",
+    "name": "自身にクリティカル係数上昇上限解放",
+    "type": 81,
+    "description": "自身に10段階クリティカル係数上昇上限解放効果[80ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_dance_boost-10-target-character_type-1-2-24",
     "name": "スコアラータイプ2人にダンスブースト上限解放",
     "type": 89,
@@ -49126,6 +49368,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_less_combo_count-13200-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "1320%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_less_combo_count-13500-chart_dependence",
     "name": "スコア獲得-コンボ数が少ない程効果上昇",
     "type": 67,
@@ -49500,6 +49753,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_less_combo_count-8900-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "890%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_less_combo_count-9300-chart_dependence",
     "name": "スコア獲得-コンボ数が少ない程効果上昇",
     "type": 67,
@@ -49537,6 +49801,17 @@
     "name": "スコア獲得-コンボ数が少ない程効果上昇",
     "type": 67,
     "description": "960%のスコア獲得、コンボ数が少ない程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_less_combo_count-9900-chart_dependence",
+    "name": "スコア獲得-コンボ数が少ない程効果上昇",
+    "type": 67,
+    "description": "990%のスコア獲得、コンボ数が少ない程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -53420,6 +53695,72 @@
     "name": "スコア獲得-クリティカル係数上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1450%のスコア獲得、クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_bonus_permil_up-4500-chart_dependence",
+    "name": "スコア獲得-クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "450%のスコア獲得、クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_bonus_permil_up-4700-chart_dependence",
+    "name": "スコア獲得-クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "470%のスコア獲得、クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_bonus_permil_up-4900-chart_dependence",
+    "name": "スコア獲得-クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "490%のスコア獲得、クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_bonus_permil_up-5100-chart_dependence",
+    "name": "スコア獲得-クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "510%のスコア獲得、クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_bonus_permil_up-5400-chart_dependence",
+    "name": "スコア獲得-クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "540%のスコア獲得、クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_bonus_permil_up-5700-chart_dependence",
+    "name": "スコア獲得-クリティカル係数上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "570%のスコア獲得、クリティカル係数上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -80025,6 +80366,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-2-target-self-16",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に2段階テンションUP効果[16ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-2-target-self-23",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に2段階テンションUP効果[23ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-2-target-self-24",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -80370,6 +80733,17 @@
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に3段階テンションUP効果[20ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-3-target-self-23",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に3段階テンションUP効果[23ビート]",
     "grade": 3,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -80942,6 +81316,17 @@
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に4段階テンションUP効果[29ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-4-target-self-30",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に4段階テンションUP効果[30ビート]",
     "grade": 4,
     "maxGrade": 10,
     "skillTargetId": "target-self",

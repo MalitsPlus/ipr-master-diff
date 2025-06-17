@@ -96,6 +96,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-aoi-25-0619",
+    "name": "井川葵 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は葵の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "動物ふれあいパーク招待券",
+        "advAssetId": "hbd_05_aoi_01"
+      },
+      {
+        "index": 2,
+        "text": "ポータブルゲーム機",
+        "advAssetId": "hbd_05_aoi_02"
+      },
+      {
+        "index": 3,
+        "text": "レインシューズ",
+        "advAssetId": "hbd_05_aoi_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-chs-23-1122",
     "name": "白石千紗 誕生日2023",
     "advPlayTypes": [
@@ -2012,6 +2044,60 @@
     ],
     "advAssetIds": [
       "card_aoi_51_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-aoi-05-birt-01-01",
+    "name": "慰安旅行\nin沖縄",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_52_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-aoi-05-birt-01-02",
+    "name": "サーフィン\nって、\n面白いね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_52_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-aoi-05-birt-01-03",
+    "name": "スリリングな\n空の旅",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_52_03"
     ],
     "sectionName": "",
     "description": "",
@@ -33736,6 +33822,96 @@
     ],
     "advAssetIds": [
       "main_04_04_05"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-21",
+    "sectionName": "We Are The Sun",
+    "name": "四人のピース",
+    "description": "フェスの終了直後、突然倒れてしまったさくら。サニピメンバーは、『病気が再発したんじゃないか』、『もうアイドルを続けられないんじゃないか』と不安を募らせる。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_01"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-22",
+    "sectionName": "We Are The Sun",
+    "name": "大きな負担",
+    "description": "四人でも、BIG4に恥じないパフォーマンスを見せたサニーピース。ただその分、一人ひとりへの負担も非常に大きなものだった。そんな彼女達の姿に、あなたは、ある決断をする。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_02"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-23",
+    "sectionName": "We Are The Sun",
+    "name": "丸一日の\nオフ",
+    "description": "丸一日、オフをもらったサニーピース。久々にリフレッシュ出来ると、それぞれ思い思いのことをすることに。ただ、頭によぎるのは、太陽のように明るい少女のことで……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_03"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-24",
+    "sectionName": "We Are The Sun",
+    "name": "さくらが\n笑顔に\nなれるように",
+    "description": "自然と、さくらの元に集まる、サニピメンバー達。他愛のない会話に花を咲かせながらも、自然と話題は、さくらの抱えているものへと向かい――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_04"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-25",
+    "sectionName": "We Are The Sun",
+    "name": "頂点を\n目指して",
+    "description": "抱えていたものを言葉にすることで、あらためてピースを繋げた、さくら達。想いを一つに、前へと進む決意を固める。そんな中、とあるグループから連絡を受けたあなたは――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_05"
     ],
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",

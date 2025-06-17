@@ -3770,6 +3770,21 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_idoly-pride-day-mission-25-0620",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_campaign-25-0110-ip-day",
+    "name": "本日限定！0のつく日はアイプラの日！",
+    "order": 1,
+    "viewConditionId": "cd-time-market-discount-day-25-0620",
+    "missionIds": [
+      "event-ms-idoly-pride-day-mission-25-0620-login",
+      "event-ms-idoly-pride-day-mission-25-0620-mission_clear_count",
+      "event-ms-idoly-pride-day-mission-25-0620-photo_shoot_count",
+      "event-ms-idoly-pride-day-mission-25-0620-quest-daily-clear-count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_live-mission-23-0503",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-live-mission",
@@ -5151,5 +5166,17 @@
       "event-ms-yukimiku-24-0131-03-mission_clear_count"
     ],
     "unlockConditionId": ""
+  },
+  {
+    "id": "surprise-mission-25-0618",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_surprise-mission-25-0618",
+    "name": "もうすぐ4周年記念サプライズミッション",
+    "order": 8,
+    "viewConditionId": "cd-time-surprise-mission-25-0618-0623",
+    "unlockConditionId": "cd-time-surprise-mission-25-0618-0623",
+    "missionIds": [
+      "surprise-mission-25-0618-url"
+    ]
   }
 ]

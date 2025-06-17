@@ -5103,6 +5103,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_aoi-04",
+    "name": "【誕生日】井川葵",
+    "assetId": "birthday_aoi-04",
+    "autoProvideConditionId": "cd-birthday_emblem_aoi-25-0619",
+    "order": 604150,
+    "description": "葵の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_chn-01",
     "name": "【誕生日】チノ",
     "assetId": "birthday_chn-01",
@@ -8789,6 +8798,33 @@
     "assetId": "pvp-season-136-top100",
     "order": 313630,
     "description": "VENUSバトルシーズン136で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-137-top001",
+    "name": "VENUSシーズン137 No.1",
+    "assetId": "pvp-season-137-top001",
+    "order": 313710,
+    "description": "VENUSバトルシーズン137で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-137-top010",
+    "name": "VENUSシーズン137 TOP10",
+    "assetId": "pvp-season-137-top010",
+    "order": 313720,
+    "description": "VENUSバトルシーズン137で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-137-top100",
+    "name": "VENUSシーズン137 TOP100",
+    "assetId": "pvp-season-137-top100",
+    "order": 313730,
+    "description": "VENUSバトルシーズン137で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
