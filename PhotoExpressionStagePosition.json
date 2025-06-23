@@ -1,5 +1,47 @@
 [
   {
+    "stageId": "stage-photo-bedrock-00",
+    "number": 1,
+    "name": "地点A",
+    "possiblePhotoPoseType": 3,
+    "initialPhotoPoseId": "photo-pose-bedrockbath-lying",
+    "characterPositions": [
+      0.478,
+      0.004,
+      1.881
+    ],
+    "characterAngles": [
+      0.0,
+      -11.539,
+      0.0
+    ],
+    "cameraPositions": [
+      -1.124,
+      0.606,
+      2.216
+    ],
+    "cameraAngles": [
+      8.58,
+      110.508,
+      0.0
+    ],
+    "upperLimit": 2.0,
+    "lowerLimit": 0.2,
+    "previewCameraPositions": [
+      -1.124,
+      0.606,
+      2.216
+    ],
+    "previewCameraAngles": [
+      8.58,
+      110.508,
+      0.0
+    ],
+    "previewUpperLimit": 2.0,
+    "previewLowerLimit": 0.2,
+    "lookEffectAssetId": "lok_pose_common-00_00"
+  },
+  {
     "stageId": "stage-photo-expression-pool-00",
     "number": 1,
     "name": "地点A",

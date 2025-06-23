@@ -4400,6 +4400,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-exchange-5-25-0624-prem-01",
+    "assetId": "phot-exchange-5-25-0624-prem-01",
+    "name": "長瀬麻奈",
+    "rarity": 5,
+    "placeName": "あの日の頼み事",
+    "eventName": "メモリアルフォト",
+    "level": 140,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 410,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 410,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 410,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-active-skill-score-up_multiply_distribution-5",
+        "effectValue": 102,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-exchange-5-25-0624-prem-01",
+        "effectValue": 3,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-mna",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-exchange-5-3",
     "assetId": "phot-exchange-5-0003",
     "name": "兵藤雫",
@@ -6330,6 +6374,50 @@
       },
       {
         "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "characterIds": [],
+    "shootingTime": "0",
+    "focusCharacterId": ""
+  },
+  {
+    "id": "phot-gift-25-0624",
+    "assetId": "photo-gift-250624",
+    "name": "4周年記念",
+    "rarity": 5,
+    "placeName": "4周年記念",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-technique_add-5",
+        "effectValue": 77,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
         "effectValue": 1,
         "grade": 1,
         "missionId": ""
@@ -8450,6 +8538,50 @@
     "characterIds": [],
     "shootingTime": "0",
     "focusCharacterId": ""
+  },
+  {
+    "id": "phot-shop-5-29",
+    "assetId": "phot-shop-5-0029",
+    "name": "長瀬琴乃",
+    "rarity": 5,
+    "placeName": "夢へと続く一歩",
+    "eventName": "メモリアルフォト",
+    "level": 60,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-active-skill-score-up_multiply_distribution-5",
+        "effectValue": 70,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-ktn",
+    "characterIds": [],
+    "shootingTime": "0"
   },
   {
     "id": "phot-shop-5-3",

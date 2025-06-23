@@ -2290,5 +2290,55 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2507-race",
+    "assetId": "event-race-25-0625",
+    "name": "イベントストーリー",
+    "description": "星見プロ全国ツアー　Stars Journey",
+    "order": 250625,
+    "viewConditionId": "cd-event-story-25-0625",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2507_01_01",
+        "storyId": "st-eve-2507-race-001",
+        "unlockConditionId": "cd-event-race-25-0625-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-race-002",
+        "unlockConditionId": "cd-event-race-25-0625-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2507_01_03",
+        "storyId": "st-eve-2507-race-003",
+        "unlockConditionId": "cd-event-race-25-0625-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2507_01_04",
+        "storyId": "st-eve-2507-race-004",
+        "unlockConditionId": "cd-event-race-25-0625-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2507_01_05",
+        "storyId": "st-eve-2507-race-005",
+        "unlockConditionId": "cd-event-race-25-0625-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      }
+    ]
   }
 ]

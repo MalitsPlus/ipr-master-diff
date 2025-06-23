@@ -2117,6 +2117,25 @@
     "receiveConditionId": "cd-time-login-25-0327-0407"
   },
   {
+    "id": "login_bonus-campaign-25-0627-01",
+    "name": "4周年記念特別",
+    "description": "5日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-0627",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-exchange-medal-dress-25-0625;2",
+      "rd_auto;item;item-exchange-medal-dress-25-0625;2",
+      "rd_auto;item;item-exchange-medal-dress-25-0625;2",
+      "rd_auto;item;item-exchange-medal-dress-25-0625;2",
+      "rd_auto;item;item-exchange-medal-dress-25-0625;2"
+    ],
+    "openConditionId": "cd-time-login-25-0627-0701",
+    "receiveConditionId": "cd-time-login-25-0627-0706"
+  },
+  {
     "id": "login_bonus-campaign02-24-1114-01",
     "name": "もし恋",
     "description": "7日間の特別なログインボーナス",

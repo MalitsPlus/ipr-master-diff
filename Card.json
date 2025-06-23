@@ -64,6 +64,38 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-02-eve-02",
+    "assetId": "ai-02-eve-02",
+    "name": "みんなで巡る全国ツアー！",
+    "description": "それではみなさん、ご唱和下さい\n全国ツアーお疲れ様でした！　かんぱーい！",
+    "type": 2,
+    "characterId": "char-ai",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 403,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-02-eve-02-1",
+    "skillId2": "sk-ai-02-eve-02-2",
+    "skillId3": "sk-ai-02-eve-02-3",
+    "order": 484,
+    "releaseDate": "1750820400000",
+    "obtainMessage": "感謝です！",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-03-schl-00",
     "assetId": "ai-03-schl-00",
     "name": "嘘から出た実",
@@ -7955,6 +7987,38 @@
     "homeTalks": []
   },
   {
+    "id": "card-mna-05-prem-03",
+    "assetId": "mna-05-prem-03",
+    "name": "踏切り越しの遠い記憶",
+    "description": "じゃ、私こっちだから！\r\n大丈夫だよ、わざわざ送らなくて\r\nまぁ未来のトップアイドルだし\r\n心配なのは分かりますけど？\r\n琴乃に睨まれちゃうかもしれないしさ\r\nそれじゃあ。バイバイ！",
+    "type": 2,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 276,
+    "danceRatioPermil": 405,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-prem-03-1",
+    "skillId2": "sk-mna-05-prem-03-2",
+    "skillId3": "sk-mna-05-prem-03-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 481,
+    "releaseDate": "1750734000000",
+    "obtainMessage": "大丈夫だよ、\nわざわざ送らなくて",
+    "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-mna-05-vlnt-00",
     "assetId": "mna-05-vlnt-00",
     "name": "胸に残るショコラの約束",
@@ -11205,6 +11269,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-05-fest-03",
+    "assetId": "rui-05-fest-03",
+    "name": "天越える感謝の想い",
+    "description": "今までは、心配されたら申し訳なく思うだけでした\r\nでも今は、心配してくれたらありがとう、って伝えたい",
+    "type": 3,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 335,
+    "danceRatioPermil": 290,
+    "visualRatioPermil": 405,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-fest-03-1",
+    "skillId2": "sk-rui-05-fest-03-2",
+    "skillId3": "sk-rui-05-fest-03-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 483,
+    "releaseDate": "1750820400000",
+    "rewardCostumeId": "cos-rui-anni-01",
+    "obtainMessage": "す……好きです！\n知らなかったんですか？",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-fest-03-01"
+      },
+      {
+        "storyId": "st-card-rui-05-fest-03-02"
+      },
+      {
+        "storyId": "st-card-rui-05-fest-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rui-05-fest-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rui-05-fest-03",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-idol-00",
     "assetId": "rui-05-idol-00",
     "name": "ありのままの姿で",
@@ -13048,6 +13163,57 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-skr-05-fest-03",
+    "assetId": "skr-05-fest-03",
+    "name": "鼓動高鳴るSunshine",
+    "description": "このツアーは、みんなで作り上げるライブだと思ってます\r\n沢山盛り上がってくれたら嬉しいな",
+    "type": 1,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 275,
+    "danceRatioPermil": 436,
+    "visualRatioPermil": 319,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-fest-03-1",
+    "skillId2": "sk-skr-05-fest-03-2",
+    "skillId3": "sk-skr-05-fest-03-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 482,
+    "releaseDate": "1750820400000",
+    "rewardCostumeId": "cos-skr-anni-01",
+    "obtainMessage": "支えてくれたファンのみんなと、\n私達のマネージャーのために……\n全力で歌います！",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-fest-03-01"
+      },
+      {
+        "storyId": "st-card-skr-05-fest-03-02"
+      },
+      {
+        "storyId": "st-card-skr-05-fest-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-fest-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-fest-03",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",

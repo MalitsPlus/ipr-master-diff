@@ -7863,6 +7863,55 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-rui-05-fest-03-talk-01",
+    "characterId": "char-rui",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rui-05-fest-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rui-05-fest-03",
+    "choiceText": "何か物騒な話が聞こえたが…\nどうかしたのか？",
+    "managerText": "何か物騒な話が聞こえたが…\nどうかしたのか？",
+    "reliability": 5,
+    "title": "天越える感謝の想い",
+    "displayConditionDescription": "天越える感謝の想い 天動瑠依\nストーリー3話を視聴",
+    "order": 433,
+    "releaseDate": "1750820400000",
+    "characterTalks": [
+      {
+        "text": "あ、すみません。この間\n私の寝落ち癖が出てしまって\n迷惑を掛けてしまったので…",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-03_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "いつでもどこでも寝てしまう癖を\n直せないか考えていたんです。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-03_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "私なりにいろいろ考えたんですが…\n例えば、唐辛子スプレーを眠い時に\n口の中に吹き掛けるとか…",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-03_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "輪ゴムを持ち歩いて、いつでもゴム\nパッチン出来るようにするとか…\nどう思いますか？",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-03_talk-01-04",
+        "motionAssetId": "",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　自分の体を大切に…？　\nた、確かにそうですね。心配して\n下さってありがとうございます…",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-03_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_ask-009_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-rui-05-idol-00-talk-01",
     "characterId": "char-rui",
     "placeType": 1,
@@ -9194,6 +9243,55 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-skr-05-fest-03-talk-01",
+    "characterId": "char-skr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-skr-05-fest-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-skr-05-fest-03",
+    "choiceText": "難しい質問だな",
+    "managerText": "難しい質問だな",
+    "reliability": 5,
+    "title": "鼓動高鳴るSunshine",
+    "displayConditionDescription": "鼓動高鳴るSunshine 川咲さくら\nストーリー3話を視聴",
+    "order": 432,
+    "releaseDate": "1750820400000",
+    "characterTalks": [
+      {
+        "text": "ズバリ！　その地元の\n美味しいご飯が大事だと\n思うんですよね！",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-03_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そこで暮らす人達がどんな物を\n食べているのかを知るのって\n楽しいですし！",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-03_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この前のライブで行った\n福岡は美味しい物が沢山\nあって最高でした！",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-03_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、まだまだ\n福岡グルメを完全に制覇\n出来たとは言えません。",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-03_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なので……またみんなで福岡に\n行きませんか？\n次はグルメ旅行ということで！",
+        "voiceAssetId": "sud_vo_home_skr-05-fest-03_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-skr-05-idol-00-talk-01",

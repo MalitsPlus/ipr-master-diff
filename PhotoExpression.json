@@ -60,6 +60,34 @@
     "impossiblePhotoPoseIds": []
   },
   {
+    "id": "photo_expression-bedrockbath",
+    "name": "岩盤浴",
+    "thumbnailAssetId": "bedrock-00",
+    "stageId": "stage-photo-bedrock-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "order": 1,
+    "viewConditionId": "cd-photo_expression_shooting-bedrockbath",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-lesson",
+      "photo-pose-lying-relax-lesson",
+      "photo-pose-lying-default-pool",
+      "photo-pose-lying-down-pool"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "photo_expression-garden",
     "name": "ガーデンテラス",
     "thumbnailAssetId": "garden-02",
@@ -146,7 +174,11 @@
     ],
     "impossiblePhotoPoseIds": [
       "photo-pose-lying-default-pool",
-      "photo-pose-lying-down-pool"
+      "photo-pose-lying-down-pool",
+      "photo-pose-bedrockbath-naturally",
+      "photo-pose-bedrockbath-relax",
+      "photo-pose-bedrockbath-new",
+      "photo-pose-bedrockbath-lying"
     ],
     "unlockConditionId": ""
   },
@@ -172,7 +204,11 @@
     ],
     "impossiblePhotoPoseIds": [
       "photo-pose-lying-default-lesson",
-      "photo-pose-lying-relax-lesson"
+      "photo-pose-lying-relax-lesson",
+      "photo-pose-bedrockbath-naturally",
+      "photo-pose-bedrockbath-relax",
+      "photo-pose-bedrockbath-new",
+      "photo-pose-bedrockbath-lying"
     ],
     "viewConditionId": "",
     "unlockConditionId": ""

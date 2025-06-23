@@ -924,6 +924,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-25-0625",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-daily_quest_ticket_sp-present",
     "name": "プレゼントデイリーパス",
     "assetId": "quest-daily-special-pr",
@@ -1452,6 +1464,246 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-enjoy-present-sp-ai",
+    "name": "ラーメン",
+    "assetId": "enjoy-present-sp-ai",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-aoi",
+    "name": "牛乳",
+    "assetId": "enjoy-present-sp-aoi",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-chs",
+    "name": "ミルクレープ",
+    "assetId": "enjoy-present-sp-chs",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-hrk",
+    "name": "ワイン",
+    "assetId": "enjoy-present-sp-hrk",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-kan",
+    "name": "ケーキ",
+    "assetId": "enjoy-present-sp-kan",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-kkr",
+    "name": "プリン",
+    "assetId": "enjoy-present-sp-kkr",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-kor",
+    "name": "ナッツ",
+    "assetId": "enjoy-present-sp-kor",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-ktn",
+    "name": "わたあめ",
+    "assetId": "enjoy-present-sp-ktn",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-mei",
+    "name": "ドーナツ",
+    "assetId": "enjoy-present-sp-mei",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-mhk",
+    "name": "日本酒",
+    "assetId": "enjoy-present-sp-mhk",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-ngs",
+    "name": "桃",
+    "assetId": "enjoy-present-sp-ngs",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-rei",
+    "name": "マカロン",
+    "assetId": "enjoy-present-sp-rei",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-rio",
+    "name": "パンケーキ",
+    "assetId": "enjoy-present-sp-rio",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-rui",
+    "name": "グミ",
+    "assetId": "enjoy-present-sp-rui",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-ski",
+    "name": "くさや",
+    "assetId": "enjoy-present-sp-ski",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-skr",
+    "name": "トンカツ",
+    "assetId": "enjoy-present-sp-skr",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-smr",
+    "name": "おしるこ",
+    "assetId": "enjoy-present-sp-smr",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-suz",
+    "name": "ポテトチップス",
+    "assetId": "enjoy-present-sp-suz",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-szk",
+    "name": "大福",
+    "assetId": "enjoy-present-sp-szk",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-present-sp-yu",
+    "name": "クロワッサン",
+    "assetId": "enjoy-present-sp-yu",
+    "description": "交流でアイドルにプレゼントすることができる",
+    "howToGet": "ショップなど",
+    "type": 13001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-enjoy-present-stoic-01-01",
     "name": "プロテインドリンク",
     "assetId": "enjoy-present-stoic-01-01",
@@ -1836,11 +2088,35 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-medal-dress-25-0625",
+    "name": "4周年記念衣装メダル",
+    "assetId": "medal-dress-23-0625",
+    "description": "4周年記念衣装交換所で4周年記念衣装と交換できる",
+    "howToGet": "4周年記念特別ログインボーナス、ギフト",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-newyear-medal-25-0101",
     "name": "お年玉",
     "assetId": "medal-newyear",
     "description": "お年玉交換所でパック1つと交換できる\n交換所終了後はコインに変換されます",
     "howToGet": "ギフト",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-premium-ticket-25-0624",
+    "name": "★5プレミアム契約書(ショップ)",
+    "assetId": "card-exchange-05-situation-illust",
+    "description": "★5シチュエーションイラスト\n交換所で好きなメンバーと\n交換できるチケット",
+    "howToGet": "4周年記念特別ショップ 第2弾",
     "type": 10,
     "value": 1,
     "order": 140,
@@ -2328,6 +2604,66 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-ticket-25-0624-01",
+    "name": "★5契約書 Part1",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所 Part1で好きな\nメンバーと交換できるチケット",
+    "howToGet": "4周年記念ドリームギフトガチャ\nPart1",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-25-0624-02",
+    "name": "★5契約書 Part2",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所 Part2で好きな\nメンバーと交換できるチケット",
+    "howToGet": "4周年記念ドリームギフトガチャ\nPart2",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-25-0624-03",
+    "name": "★5限定契約書 part1",
+    "assetId": "card-exchange-05-24-0624",
+    "description": "★5限定アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "復刻ドリームギフトガチャ  Part1",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-25-0624-04",
+    "name": "★5限定契約書 part2",
+    "assetId": "card-exchange-05-24-0624",
+    "description": "★5限定アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "復刻ドリームギフトガチャ  Part2",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-25-0625",
+    "name": "★5フェス契約書",
+    "assetId": "card-exchange-05-24-0626",
+    "description": "★5フェスアイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "4周年記念フェスドリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-ticket-fes-dream-23-1226",
     "name": "★5フェス契約書",
     "assetId": "card-exchange-05-23-1226",
@@ -2366,6 +2702,18 @@
   {
     "id": "item-exchange-ticket-mna-premium-24-1224",
     "name": "★5プレミアム契約書",
+    "assetId": "card-exchange-05-situation-illust",
+    "description": "★5シチュエーションイラスト交換所で好きなメンバーと交換できるチケット",
+    "howToGet": "プレミアムガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-ticket-mna-premium-25-0624",
+    "name": "★5プレミアム契約書(ガチャ)",
     "assetId": "card-exchange-05-situation-illust",
     "description": "★5シチュエーションイラスト交換所で好きなメンバーと交換できるチケット",
     "howToGet": "プレミアムガチャ",
@@ -2525,6 +2873,42 @@
     "assetId": "gacha-endless-22-1224",
     "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
     "howToGet": "引き放題ガチャ",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-endless-25-0624-m10-ticket",
+    "name": "10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
+    "howToGet": "4周年記念引き放題ガチャ",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-fes-ticket-25-0624",
+    "name": "フェス限定★5アイドル1人確定ガチャチケ",
+    "assetId": "special-gacha-ticket-r5",
+    "description": "フェス限定★5アイドル1人確定ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "キャンペーン報酬",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-rev-select-ticket-25-0624",
+    "name": "選べる★5復刻10連ガチャチケ",
+    "assetId": "gacha-free-rev-select-ticket",
+    "description": "選べる★5復刻ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "シリアルコード",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -3156,6 +3540,30 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-premium-ticket-free-25-0624",
+    "name": "無料プレミアムガチャチケ",
+    "assetId": "gacha-ticket-premium-free",
+    "description": "プレミアムガチャを引くことができる",
+    "howToGet": "プレミアムガチャに遷移",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-ticket-rev-select-25-0624",
+    "name": "専用ガチャチケット",
+    "assetId": "gacha-ticket-rev-select-25-0624",
+    "description": "有効期限：入手後180日\n選べる★5アイドル復刻チケットガチャを引くことができる",
+    "howToGet": "ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_10-endless-22-0624",
     "name": "1周年の感謝",
     "assetId": "gacha-endless-22-0624",
@@ -3641,6 +4049,18 @@
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「アイプラフェス」など",
     "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-fs-set-bloom-25-0625",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「アイプラフェス Stars JourneyⅠ」など",
+    "howToGet": "ガチャ、ショップなど",
     "type": 3001,
     "value": 1,
     "order": 140,
@@ -4488,6 +4908,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-fs-select-25-0625",
+    "name": "選べるアイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-fs-set-bloom-21-1228",
     "name": "アイプラフェスガチャPt",
     "assetId": "gacha-point",
@@ -4706,6 +5138,18 @@
   {
     "id": "item-gacha_point-fs-set-bloom-25-0326",
     "name": "アイプラフェスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-fs-set-bloom-25-0625",
+    "name": "アイプラフェス Stars JourneyⅠガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -7428,6 +7872,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-25-0624",
+    "name": "選べる★5復刻ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -8072,6 +8528,18 @@
     "type": 8,
     "value": 1,
     "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-25-0624-01-r5",
+    "name": "★5確定ガチャチケ5th",
+    "assetId": "gacha-ticket-25-0624-01-r5",
+    "description": "有効期限：入手後180日\n★5確定ガチャ5thを引くことができる",
+    "howToGet": "ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 140,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -10308,6 +10776,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-photo_contest_create-25-0625",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -11220,6 +11700,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_medal-25-0625",
+    "name": "レースメダル",
+    "assetId": "medal-race",
+    "description": "ライブボーナスを習得・強化することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 3001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_point-22-0228",
     "name": "レースPt",
     "assetId": "race-pt",
@@ -11388,6 +11880,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_point-25-0625",
+    "name": "レースPt",
+    "assetId": "race-pt",
+    "description": "マスを進めたりVENUSステージに挑戦することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7001,
+    "value": 1,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_reset-live-bonus-22-0228",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
@@ -11545,6 +12049,18 @@
   },
   {
     "id": "item-race_reset-live-bonus-25-0104",
+    "name": "ボーナスイレイザー",
+    "assetId": "race-bonus-reset",
+    "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-race_reset-live-bonus-25-0625",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
     "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
@@ -11868,6 +12384,30 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-shop-gacha-ticket-10-r5-25-0625-01",
+    "name": "アイプラフェス Stars JourneyⅠ 1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-0626-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0629-01",
+    "name": "アイプラフェス Stars JourneyⅡ 1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-1230-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-shop-gacha-ticket-r5-24-0226",
     "name": "繋ぐ、みんなのピース★5確定ガチャチケ",
     "assetId": "shop-gacha-ticket-r5",
@@ -12008,6 +12548,18 @@
     "type": 8,
     "value": 1,
     "order": 231,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-showcase_ticket_buttonbadge-003",
+    "name": "缶バッジパック Vol.3",
+    "assetId": "showcase-buttonbadge-pack-003",
+    "description": "グッズケース機能の「開封」から、缶バッジパック Vol.3を開封できる",
+    "howToGet": "ショップなど",
+    "type": 8,
+    "value": 1,
+    "order": 232,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
