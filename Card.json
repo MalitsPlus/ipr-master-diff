@@ -2097,6 +2097,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-chs-05-fest-03",
+    "assetId": "chs-05-fest-03",
+    "name": "紡ぎ合う憧れの時間",
+    "description": "いつだって前を向いて、堂々と胸を張って歩いてる……\r\n可愛くて格好いいすずちゃんに、私はいつも憧れてるよ",
+    "type": 1,
+    "characterId": "char-chs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 434,
+    "danceRatioPermil": 317,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-chs-05-fest-03-1",
+    "skillId2": "sk-chs-05-fest-03-2",
+    "skillId3": "sk-chs-05-fest-03-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 486,
+    "releaseDate": "1751166000000",
+    "rewardCostumeId": "cos-chs-anni-01",
+    "obtainMessage": "またすずちゃんと二人で、\n楽しいことをやりたいな",
+    "stories": [
+      {
+        "storyId": "st-card-chs-05-fest-03-01"
+      },
+      {
+        "storyId": "st-card-chs-05-fest-03-02"
+      },
+      {
+        "storyId": "st-card-chs-05-fest-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-chs-05-fest-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-chs-05-fest-03",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-chs-05-flow-00",
     "assetId": "chs-05-flow-00",
     "name": "檻に咲く名花",
@@ -3316,6 +3367,38 @@
     "skillId3": "sk-kan-02-eve-01-3",
     "order": 295,
     "releaseDate": "1688353200000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-kan-02-eve-02",
+    "assetId": "kan-02-eve-02",
+    "name": "会いたかったよお父さん",
+    "description": "お父さんを悪く言うなっつってんだろ！？\r\n謝れるだけあんたみたいなクソよりはマシだっての！",
+    "type": 2,
+    "characterId": "char-kan",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 395,
+    "danceRatioPermil": 323,
+    "visualRatioPermil": 282,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-02-eve-02-1",
+    "skillId2": "sk-kan-02-eve-02-2",
+    "skillId3": "sk-kan-02-eve-02-3",
+    "order": 487,
+    "releaseDate": "1751382000000",
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
@@ -13819,6 +13902,57 @@
       },
       {
         "telephoneId": "tel-card-smr-05-fest-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-smr-05-fest-03",
+    "assetId": "smr-05-fest-03",
+    "name": "銀河彩るハッピースマイル",
+    "description": "二人で一緒に～！\r\nアイドル～スマイル～～！",
+    "type": 2,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 274,
+    "visualRatioPermil": 408,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-fest-03-1",
+    "skillId2": "sk-smr-05-fest-03-2",
+    "skillId3": "sk-smr-05-fest-03-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 485,
+    "releaseDate": "1751166000000",
+    "rewardCostumeId": "cos-smr-anni-01",
+    "obtainMessage": "二人で一緒に～！\nアイドル～スマイル～！",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-fest-03-01"
+      },
+      {
+        "storyId": "st-card-smr-05-fest-03-02"
+      },
+      {
+        "storyId": "st-card-smr-05-fest-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-fest-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-fest-03",
         "messageId": ""
       }
     ],
