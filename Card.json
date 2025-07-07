@@ -5931,6 +5931,57 @@
     "skillId4": ""
   },
   {
+    "id": "card-ktn-05-mizg-03",
+    "assetId": "ktn-05-mizg-03",
+    "name": "星すくう指先",
+    "description": "ふふ、お姉ちゃんに聴かせてあげるつもりで\n一緒に歌ってみませんか？",
+    "type": 2,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 398,
+    "danceRatioPermil": 309,
+    "visualRatioPermil": 263,
+    "staminaRatioPermil": 1100,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-mizg-03-1",
+    "skillId2": "sk-ktn-05-mizg-03-2",
+    "skillId3": "sk-ktn-05-mizg-03-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 489,
+    "releaseDate": "1751943600000",
+    "rewardCostumeId": "cos-ktn-mizg-03",
+    "obtainMessage": "お揃いかぁ……\nお姉ちゃん、\n大袈裟なくらい喜びそう",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-mizg-03-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-mizg-03-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-mizg-03-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ktn-05-mizg-03",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ktn-05-mizg-03",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-05-mnab-00",
     "assetId": "ktn-05-mnab-00",
     "name": "present for my sister",
@@ -8018,6 +8069,53 @@
     "activityAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mna-05-mizg-01",
+    "assetId": "mna-05-mizg-01",
+    "name": "振り返る夏色",
+    "description": "いつかどこかで、ささいなきっかけで\r\n私の歌を思い出してくれたら……\r\n長瀬麻奈というアイドルを思い出してくれたら……\r\nそれって最高に幸せなことだと思わない？",
+    "type": 3,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 291,
+    "danceRatioPermil": 408,
+    "visualRatioPermil": 331,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-mizg-01-1",
+    "skillId2": "sk-mna-05-mizg-01-2",
+    "skillId3": "sk-mna-05-mizg-01-3",
+    "activityAbilityId": "aab-lesson_manager_exp_up",
+    "order": 488,
+    "releaseDate": "1751943600000",
+    "rewardCostumeId": "cos-mna-mizg-01",
+    "obtainMessage": "今日の私、\n真夏の太陽よりも\n眩しいでしょ？",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-mizg-01-01"
+      },
+      {
+        "storyId": "st-card-mna-05-mizg-01-02"
+      },
+      {
+        "storyId": "st-card-mna-05-mizg-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mna-05-mizg-01",
+        "telephoneId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {

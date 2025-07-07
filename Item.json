@@ -2052,6 +2052,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-dress-medal-25-0709",
+    "name": "復刻衣装メダル",
+    "assetId": "medal-dress",
+    "description": "復刻衣装メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-fes-medal-23-0927",
     "name": "フェスメダル",
     "assetId": "medal-fes",
@@ -2796,6 +2808,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-ticket-rev-dream-25-0709",
+    "name": "★5契約書",
+    "assetId": "card-exchange-05",
+    "description": "★5アイドル交換所で好きな\nメンバーと交換できるチケット",
+    "howToGet": "水着オールスタードリームギフトガチャ",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange_item-ticket-22-0630",
     "name": "引換券",
     "assetId": "item-exchange-cp-01",
@@ -3341,6 +3365,18 @@
     "assetId": "gacha-free-ticket-1s",
     "description": "有効期限：入手後7日\nチケットガチャを1回引くことができる",
     "howToGet": "4周年記念特別ログインボーナス 第2弾",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-25-0710",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -4300,6 +4336,18 @@
     "name": "絆覚醒限定グッズメダル",
     "assetId": "medal-gacha-link-medal",
     "description": "絆覚醒限定グッズ交換所でグッズと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「絆シリーズ 〜寄り添うAile to Yell〜」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-0708",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「時超える波音ピックアップガチャ」など",
     "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
@@ -5918,6 +5966,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-25-0606",
     "name": "絆シリーズ\n〜寄り添うAile to Yell〜ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-0708",
+    "name": "時超える波音ピックアップガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -8412,6 +8472,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-select-01-25-0709",
+    "name": "選べる★5水着オールスターガチャ 2024Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_ticket",
     "name": "ガチャチケ",
     "assetId": "gacha-ticket-normal",
@@ -9109,6 +9181,18 @@
   },
   {
     "id": "item-ladder_pt_25-0512",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-ladder_pt_25-0712",
     "name": "メッセPt",
     "assetId": "ladder-pt",
     "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
@@ -12495,6 +12579,18 @@
     "id": "item-shop-gacha-ticket-10-r5-25-0629-01",
     "name": "アイプラフェス Stars JourneyⅡ 1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5-24-1230-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-0708-01",
+    "name": "時超える波音1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
     "type": 8,
