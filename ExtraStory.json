@@ -1076,6 +1076,138 @@
     "secretEffectColorCode": ""
   },
   {
+    "id": "ex-story-part-special-01-25-0701-3X",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_ex-story-25-0701-01",
+    "name": "貫く絶対勝利～The strongest proof～前編",
+    "description": "再生するストーリーを選択してください。",
+    "order": 2,
+    "viewConditionId": "cd-event-story-25-0701-2",
+    "unlockConditionId": "cd-event-story-25-0701-2",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-001",
+        "unlockConditionId": "cd-event-story-25-0701",
+        "viewConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-002",
+        "unlockConditionId": "cd-event-story-read-2507-free-001",
+        "viewConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-003",
+        "unlockConditionId": "cd-event-story-read-2507-free-002",
+        "viewConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-004",
+        "unlockConditionId": "cd-event-story-read-2507-free-003",
+        "viewConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-005",
+        "unlockConditionId": "cd-event-story-read-2507-free-004",
+        "viewConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      }
+    ],
+    "extraStoryType": 1,
+    "iconAssetId": "",
+    "backgroundAssetId": "",
+    "secretEffectColorCode": ""
+  },
+  {
+    "id": "ex-story-part-special-01-25-0701-3X-permanent",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_ex-story-25-0715-01",
+    "name": "貫く絶対勝利～The strongest proof～前編",
+    "description": "再生するストーリーを選択してください。",
+    "order": 2,
+    "viewConditionId": "cd-event-story-25-0715-1",
+    "unlockConditionId": "cd-event-story-25-0715-1",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-001",
+        "viewConditionId": "",
+        "unlockConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-002",
+        "viewConditionId": "",
+        "unlockConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-003",
+        "viewConditionId": "",
+        "unlockConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-004",
+        "viewConditionId": "",
+        "unlockConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2507_01_02",
+        "storyId": "st-eve-2507-free-005",
+        "viewConditionId": "",
+        "unlockConditionId": "",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      }
+    ],
+    "extraStoryType": 1,
+    "iconAssetId": "",
+    "backgroundAssetId": "",
+    "secretEffectColorCode": ""
+  },
+  {
     "id": "ex-st-part-limited-23-0528-02",
     "extraStoryPartId": "ex-st-part-limited-08",
     "assetId": "img_story_event_banner_event-backside-22-0731",
@@ -1131,72 +1263,6 @@
         "storyId": "st-eve-2208-backside-005-limited",
         "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
         "unlockConditionId": "cd-ex-st-part-limited-01-open-230528-02",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      }
-    ],
-    "extraStoryType": 1,
-    "iconAssetId": "",
-    "backgroundAssetId": "",
-    "secretEffectColorCode": ""
-  },
-  {
-    "id": "ex-story-part-special-01-25-0701-3X",
-    "extraStoryPartId": "ex-story-part-special-01",
-    "assetId": "img_banner_l_ex-story-25-0701-01",
-    "name": "貫く絶対勝利～The strongest proof～前編",
-    "description": "再生するストーリーを選択してください。",
-    "order": 2,
-    "viewConditionId": "cd-event-story-25-0701",
-    "unlockConditionId": "cd-event-story-25-0701",
-    "episodes": [
-      {
-        "episode": 1,
-        "assetId": "event_2507_01_02",
-        "storyId": "st-eve-2507-free-001",
-        "unlockConditionId": "cd-event-story-25-0701",
-        "viewConditionId": "",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      },
-      {
-        "episode": 2,
-        "assetId": "event_2507_01_02",
-        "storyId": "st-eve-2507-free-002",
-        "unlockConditionId": "cd-event-story-read-2507-free-001",
-        "viewConditionId": "",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      },
-      {
-        "episode": 3,
-        "assetId": "event_2507_01_02",
-        "storyId": "st-eve-2507-free-003",
-        "unlockConditionId": "cd-event-story-read-2507-free-002",
-        "viewConditionId": "",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      },
-      {
-        "episode": 4,
-        "assetId": "event_2507_01_02",
-        "storyId": "st-eve-2507-free-004",
-        "unlockConditionId": "cd-event-story-read-2507-free-003",
-        "viewConditionId": "",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      },
-      {
-        "episode": 5,
-        "assetId": "event_2507_01_02",
-        "storyId": "st-eve-2507-free-005",
-        "unlockConditionId": "cd-event-story-read-2507-free-004",
-        "viewConditionId": "",
         "afterReadAssetId": "",
         "isSecret": false,
         "isPrologue": false
@@ -1395,6 +1461,72 @@
         "storyId": "st-eve-2212-race-005-limited",
         "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
         "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-05",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      }
+    ],
+    "extraStoryType": 1,
+    "iconAssetId": "",
+    "backgroundAssetId": "",
+    "secretEffectColorCode": ""
+  },
+  {
+    "id": "ex-st-part-limited-23-0611-06",
+    "extraStoryPartId": "ex-st-part-limited-08",
+    "assetId": "img_story_event_banner_event-marathon-raid-23-0128",
+    "name": "守れ！純潔のベーゼ～imposition of love～",
+    "description": "再生するストーリーを選択してください。",
+    "order": 6,
+    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+    "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-001-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-002-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-003-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-004-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2302_01_01",
+        "storyId": "st-eve-2302-marathon-raid-005-limited",
+        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
+        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
         "afterReadAssetId": "",
         "isSecret": false,
         "isPrologue": false
@@ -1691,72 +1823,6 @@
         "storyId": "st-original-cmn-01-01-28-limited",
         "viewConditionId": "cd-ex-st-part-limited-01-open-230428",
         "unlockConditionId": "cd-ex-st-part-limited-01-open-230428",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      }
-    ],
-    "extraStoryType": 1,
-    "iconAssetId": "",
-    "backgroundAssetId": "",
-    "secretEffectColorCode": ""
-  },
-  {
-    "id": "ex-st-part-limited-23-0611-06",
-    "extraStoryPartId": "ex-st-part-limited-08",
-    "assetId": "img_story_event_banner_event-marathon-raid-23-0128",
-    "name": "守れ！純潔のベーゼ～imposition of love～",
-    "description": "再生するストーリーを選択してください。",
-    "order": 6,
-    "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
-    "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
-    "episodes": [
-      {
-        "episode": 1,
-        "assetId": "event_2302_01_01",
-        "storyId": "st-eve-2302-marathon-raid-001-limited",
-        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
-        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      },
-      {
-        "episode": 2,
-        "assetId": "event_2302_01_01",
-        "storyId": "st-eve-2302-marathon-raid-002-limited",
-        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
-        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      },
-      {
-        "episode": 3,
-        "assetId": "event_2302_01_01",
-        "storyId": "st-eve-2302-marathon-raid-003-limited",
-        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
-        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      },
-      {
-        "episode": 4,
-        "assetId": "event_2302_01_01",
-        "storyId": "st-eve-2302-marathon-raid-004-limited",
-        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
-        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      },
-      {
-        "episode": 5,
-        "assetId": "event_2302_01_01",
-        "storyId": "st-eve-2302-marathon-raid-005-limited",
-        "viewConditionId": "cd-ex-st-part-limited-01-open-230528",
-        "unlockConditionId": "cd-ex-st-part-limited-01-open-230611-06",
         "afterReadAssetId": "",
         "isSecret": false,
         "isPrologue": false
@@ -4374,32 +4440,6 @@
     "secretEffectColorCode": ""
   },
   {
-    "id": "ex-story-part-special-01-birthday-trip-2024-03",
-    "extraStoryPartId": "ex-story-part-special-01",
-    "assetId": "img_banner_l_birthday-trip-2024-03",
-    "name": "誕生日ストーリー 山梨旅行編",
-    "description": "再生するストーリーを選択してください。",
-    "order": 230,
-    "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-03-open",
-    "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-03-open",
-    "episodes": [
-      {
-        "episode": 1,
-        "assetId": "event_2407_02_03",
-        "storyId": "st-ex-story-part-special-01-birthday-trip-2024-03",
-        "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-03-open",
-        "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-03-open",
-        "afterReadAssetId": "",
-        "isSecret": false,
-        "isPrologue": false
-      }
-    ],
-    "extraStoryType": 1,
-    "iconAssetId": "",
-    "backgroundAssetId": "",
-    "secretEffectColorCode": ""
-  },
-  {
     "id": "ex-story-part-special-01-birthday-trip-2024-04",
     "extraStoryPartId": "ex-story-part-special-01",
     "assetId": "img_banner_l_birthday-trip-2024-04",
@@ -4426,21 +4466,21 @@
     "secretEffectColorCode": ""
   },
   {
-    "id": "ex-story-part-special-01-birthday-trip-2024-01",
+    "id": "ex-story-part-special-01-birthday-trip-2024-03",
     "extraStoryPartId": "ex-story-part-special-01",
-    "assetId": "img_banner_l_birthday-trip-2024-01",
-    "name": "誕生日ストーリー 沖縄旅行編",
+    "assetId": "img_banner_l_birthday-trip-2024-03",
+    "name": "誕生日ストーリー 山梨旅行編",
     "description": "再生するストーリーを選択してください。",
     "order": 230,
-    "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
-    "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
+    "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-03-open",
+    "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-03-open",
     "episodes": [
       {
         "episode": 1,
-        "assetId": "event_2407_02_01",
-        "storyId": "st-ex-story-part-special-01-birthday-trip-2024-01",
-        "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
-        "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
+        "assetId": "event_2407_02_03",
+        "storyId": "st-ex-story-part-special-01-birthday-trip-2024-03",
+        "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-03-open",
+        "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-03-open",
         "afterReadAssetId": "",
         "isSecret": false,
         "isPrologue": false
@@ -4467,6 +4507,32 @@
         "storyId": "st-ex-story-part-special-01-birthday-trip-2024-02",
         "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
         "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-02-open",
+        "afterReadAssetId": "",
+        "isSecret": false,
+        "isPrologue": false
+      }
+    ],
+    "extraStoryType": 1,
+    "iconAssetId": "",
+    "backgroundAssetId": "",
+    "secretEffectColorCode": ""
+  },
+  {
+    "id": "ex-story-part-special-01-birthday-trip-2024-01",
+    "extraStoryPartId": "ex-story-part-special-01",
+    "assetId": "img_banner_l_birthday-trip-2024-01",
+    "name": "誕生日ストーリー 沖縄旅行編",
+    "description": "再生するストーリーを選択してください。",
+    "order": 230,
+    "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
+    "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2407_02_01",
+        "storyId": "st-ex-story-part-special-01-birthday-trip-2024-01",
+        "viewConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
+        "unlockConditionId": "cd-ex-story-part-special-01-birthday-trip-2024-01-open",
         "afterReadAssetId": "",
         "isSecret": false,
         "isPrologue": false
