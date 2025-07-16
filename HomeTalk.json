@@ -1,5 +1,60 @@
 [
   {
+    "homeTalkId": "home-talk-card-ai-05-chna-01-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-chna-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-chna-01",
+    "choiceText": "確かに不思議だ。",
+    "managerText": "確かに不思議だ。",
+    "reliability": 5,
+    "title": "桃園グランドマッチ",
+    "displayConditionDescription": "桃園グランドマッチ 小美山愛\nストーリー3話を視聴",
+    "order": 441,
+    "releaseDate": "1752807600000",
+    "characterTalks": [
+      {
+        "text": "もちろん複雑な事情が\nあったり、難しい理由が\nあるみたいなのですが…",
+        "voiceAssetId": "sud_vo_home_ai-05-chna-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "私はこう感じるんです。\nあれは、選手達の不屈の\n意思の表れなんだって！",
+        "voiceAssetId": "sud_vo_home_ai-05-chna-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どんな技を受けても\nどんな逆境に立っても\n絶対に勝ってやるって！",
+        "voiceAssetId": "sud_vo_home_ai-05-chna-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-014_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "相手の全力を受けきって勝つ！\nそういう強い思いが\n伝わってくるんです！",
+        "voiceAssetId": "sud_vo_home_ai-05-chna-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "気高くて\nとてもかっこいいと\n思いませんか？",
+        "voiceAssetId": "sud_vo_home_ai-05-chna-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この考え方はきっと\nアイドルにも通じます。\n私も気高く在り続けます！",
+        "voiceAssetId": "sud_vo_home_ai-05-chna-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-fest-00-talk-01",
     "characterId": "char-ai",
     "placeType": 1,

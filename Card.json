@@ -248,6 +248,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-05-chna-01",
+    "assetId": "ai-05-chna-01",
+    "name": "桃園グランドマッチ",
+    "description": "ここまで言われて引き下がれませんよっ！\n私、リングに上がります！　セコンド、決断を！",
+    "type": 2,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 312,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 408,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-chna-01-1",
+    "skillId2": "sk-ai-05-chna-01-2",
+    "skillId3": "sk-ai-05-chna-01-3",
+    "activityAbilityId": "aab-lesson_gold_up",
+    "order": 491,
+    "releaseDate": "1752807600000",
+    "rewardCostumeId": "cos-ai-chna-01",
+    "obtainMessage": "マッスル・愛・シュタイナー！",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-chna-01-01"
+      },
+      {
+        "storyId": "st-card-ai-05-chna-01-02"
+      },
+      {
+        "storyId": "st-card-ai-05-chna-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ai-05-chna-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ai-05-chna-01",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-fest-00",
     "assetId": "ai-05-fest-00",
     "name": "火花散らす熱いキモチ",
