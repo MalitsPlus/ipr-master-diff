@@ -2550,6 +2550,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-kan-05-fest-02-talk-01",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kan-05-fest-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kan-05-fest-02",
+    "choiceText": "お二人のいいところですか？",
+    "managerText": "お二人のいいところですか？",
+    "reliability": 5,
+    "title": "a new dawn",
+    "displayConditionDescription": "a new dawn kana\nストーリー3話を視聴",
+    "order": 444,
+    "releaseDate": "1753671600000",
+    "characterTalks": [
+      {
+        "text": "そこ、嬉しそうな顔をするな。\nキモいだけだから。",
+        "voiceAssetId": "sud_vo_home_kan-05-fest-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_angry-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こほん……ともかく、\nkanaのことを一度も『可哀想』\nとは、言わなかったところよね。",
+        "voiceAssetId": "sud_vo_home_kan-05-fest-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "前に少しだけ、家族のことを\n話したことがあるんだけどさ、\nその時もふーんって反応だったし。",
+        "voiceAssetId": "sud_vo_home_kan-05-fest-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "仕事さえしてりゃ、こっちが何を\nしてても別にって感じだったから、\nギリ解散しないでいられたのかも。",
+        "voiceAssetId": "sud_vo_home_kan-05-fest-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_deny-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まぁ、お父さんと会った後まで\nグループ続けることになるとは、\n思ってなかったけどさ。",
+        "voiceAssetId": "sud_vo_home_kan-05-fest-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_sad-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だから嬉しそうな顔すんなっての。\n次にやりたいこと見つかったら、\nその時こそ解散してやるんだから。",
+        "voiceAssetId": "sud_vo_home_kan-05-fest-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-019_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-kan-05-idol-00-talk-01",
     "characterId": "char-kan",
     "placeType": 1,
@@ -3526,6 +3581,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-kor-05-fest-02-talk-01",
+    "characterId": "char-kor",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kor-05-fest-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kor-05-fest-02",
+    "choiceText": "二人にとっては、それが\nとても大事なことなんですから……",
+    "managerText": "二人にとっては、それが\nとても大事なことなんですから……",
+    "reliability": 5,
+    "title": "the brand is me",
+    "displayConditionDescription": "the brand is me fran\nストーリー3話を視聴",
+    "order": 442,
+    "releaseDate": "1753671600000",
+    "characterTalks": [
+      {
+        "text": "別に、馬鹿にしてる訳じゃない\nですけど。ただ、見ててたまに\nまどろっこしくなるんですよね。",
+        "voiceAssetId": "sud_vo_home_kor-05-fest-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "せっかくスペックは高いんだから\nもっと好きに、自分のやりたいこと\nやればいいのにって。",
+        "voiceAssetId": "sud_vo_home_kor-05-fest-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "大事な人のために頑張るのが、\n二人にとってはやりたいこと…\nま、そういうことなんでしょうね。",
+        "voiceAssetId": "sud_vo_home_kor-05-fest-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-036_in"
+      },
+      {
+        "text": "私？　私はあまり、\n「誰かのために！」とか\nそういうのはないですねぇ。",
+        "voiceAssetId": "sud_vo_home_kor-05-fest-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "私は綺麗な服を沢山作って、\nド派手なステージをぶちかませれば\nそれで満足です。",
+        "voiceAssetId": "sud_vo_home_kor-05-fest-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "で、それを見たお客さんが\n幸せな気分になれば、まさしく\nWIN-WINってやつですね。",
+        "voiceAssetId": "sud_vo_home_kor-05-fest-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-018_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-kor-05-idol-00-talk-01",
@@ -5180,6 +5290,61 @@
         "voiceAssetId": "sud_vo_home_mhk-05-circ-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
         "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-mhk-05-fest-02-talk-01",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mhk-05-fest-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mhk-05-fest-02",
+    "choiceText": "それはよく分かりますよ。では、\nfranさんと、kanaさんは？",
+    "managerText": "それはよく分かりますよ。では、\nfranさんと、kanaさんは？",
+    "reliability": 5,
+    "title": "road with friends",
+    "displayConditionDescription": "road with friends miho\nストーリー3話を視聴",
+    "order": 443,
+    "releaseDate": "1753671600000",
+    "characterTalks": [
+      {
+        "text": "二人は友達でもなんでもないと\n何度も言っているでしょう。",
+        "voiceAssetId": "sud_vo_home_mhk-05-fest-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ただ、まぁ…解散してやろうかと\n思ったことは、これまで何度も\nありますけれども。",
+        "voiceAssetId": "sud_vo_home_mhk-05-fest-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "なぜかグループを続けることに\nなってしまうんです。なぜだか\nよく分からないんですけど。",
+        "voiceAssetId": "sud_vo_home_mhk-05-fest-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ここまで来たら、まだしばらくは\nあの子達に振り回されるのかと\n諦めの境地になってきました。",
+        "voiceAssetId": "sud_vo_home_mhk-05-fest-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私達の関係は…友達でもなく\n仲間と呼ぶのも癪ですし。\n身内…でしょうか。",
+        "voiceAssetId": "sud_vo_home_mhk-05-fest-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-045_in"
+      },
+      {
+        "text": "お互い散々文句を言いながら、\nそれでも毎日顔を合わせることに\nなるんです。残念ながら。",
+        "voiceAssetId": "sud_vo_home_mhk-05-fest-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-026_in"
       }
     ],
     "cardId": ""

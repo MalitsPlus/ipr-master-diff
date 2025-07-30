@@ -3654,6 +3654,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-kan-05-fest-02",
+    "assetId": "kan-05-fest-02",
+    "name": "a new dawn",
+    "description": "アイドルしてたこと……\n全部が全部、無駄って訳でもなかったなって",
+    "type": 3,
+    "characterId": "char-kan",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 415,
+    "danceRatioPermil": 315,
+    "visualRatioPermil": 270,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-05-fest-02-1",
+    "skillId2": "sk-kan-05-fest-02-2",
+    "skillId3": "sk-kan-05-fest-02-3",
+    "activityAbilityId": "aab-lesson_card_enhance_item_up",
+    "order": 494,
+    "releaseDate": "1753671600000",
+    "rewardCostumeId": "cos-kan-fest-02",
+    "obtainMessage": "誰にも縛られない、\nkanaだけの人生を歩き出すね",
+    "stories": [
+      {
+        "storyId": "st-card-kan-05-fest-02-01"
+      },
+      {
+        "storyId": "st-card-kan-05-fest-02-02"
+      },
+      {
+        "storyId": "st-card-kan-05-fest-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kan-05-fest-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kan-05-fest-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kan-05-idol-00",
     "assetId": "kan-05-idol-00",
     "name": "a piece of cake",
@@ -4777,6 +4828,38 @@
     "homeTalks": []
   },
   {
+    "id": "card-kor-02-eve-01",
+    "assetId": "kor-02-eve-01",
+    "name": "未来へのオールイン",
+    "description": "これは投資です\r\nブランドが立ち上がれば、すぐに取り戻せますって！",
+    "type": 3,
+    "characterId": "char-kor",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 313,
+    "danceRatioPermil": 274,
+    "visualRatioPermil": 413,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kor-02-eve-01-1",
+    "skillId2": "sk-kor-02-eve-01-2",
+    "skillId3": "sk-kor-02-eve-01-3",
+    "order": 495,
+    "releaseDate": "1753671600000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-kor-05-birt-00",
     "assetId": "kor-05-birt-00",
     "name": "ペンよ唸れバースデー",
@@ -4904,6 +4987,57 @@
       },
       {
         "telephoneId": "tel-card-kor-05-buny-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-kor-05-fest-02",
+    "assetId": "kor-05-fest-02",
+    "name": "the brand is me",
+    "description": "どっちでも、しっかりトップ取ってやりますから\nちゃんと私についてきて下さいよ",
+    "type": 1,
+    "characterId": "char-kor",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 314,
+    "danceRatioPermil": 280,
+    "visualRatioPermil": 436,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kor-05-fest-02-1",
+    "skillId2": "sk-kor-05-fest-02-2",
+    "skillId3": "sk-kor-05-fest-02-3",
+    "liveAbilityId": "lba-special_skill_score_multiply",
+    "order": 492,
+    "releaseDate": "1753671600000",
+    "rewardCostumeId": "cos-kor-fest-02",
+    "obtainMessage": "どっちでも、\nしっかりトップ\n取ってやりますから",
+    "stories": [
+      {
+        "storyId": "st-card-kor-05-fest-02-01"
+      },
+      {
+        "storyId": "st-card-kor-05-fest-02-02"
+      },
+      {
+        "storyId": "st-card-kor-05-fest-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kor-05-fest-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kor-05-fest-02",
         "messageId": ""
       }
     ],
@@ -7328,6 +7462,57 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mhk-05-fest-02",
+    "assetId": "mhk-05-fest-02",
+    "name": "road with friends",
+    "description": "そのお友達に伝えたいことは何か？　……そうですね\n……もう一人じゃないから、安心して",
+    "type": 2,
+    "characterId": "char-mhk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 276,
+    "danceRatioPermil": 408,
+    "visualRatioPermil": 316,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-05-fest-02-1",
+    "skillId2": "sk-mhk-05-fest-02-2",
+    "skillId3": "sk-mhk-05-fest-02-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 493,
+    "releaseDate": "1753671600000",
+    "rewardCostumeId": "cos-mhk-fest-02",
+    "obtainMessage": "……もう一人じゃないから、\n安心して",
+    "stories": [
+      {
+        "storyId": "st-card-mhk-05-fest-02-01"
+      },
+      {
+        "storyId": "st-card-mhk-05-fest-02-02"
+      },
+      {
+        "storyId": "st-card-mhk-05-fest-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mhk-05-fest-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mhk-05-fest-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",
