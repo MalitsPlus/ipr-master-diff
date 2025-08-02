@@ -2512,6 +2512,27 @@
     "receiveConditionId": "cd-time-login02-25-0710-0723"
   },
   {
+    "id": "login_bonus-campaign02-25-0801-01",
+    "name": "リリース\n1500日記念",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-0801-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;photo_all_in_one;phot-prm-5-138;1",
+      "rd_auto;stone;;200",
+      "rd_auto;stone;;200",
+      "rd_auto;stone;;200",
+      "rd_auto;stone;;200",
+      "rd_auto;stone;;200",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-25-0801-0807",
+    "receiveConditionId": "cd-time-login02-25-0801-0814"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

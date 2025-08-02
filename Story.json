@@ -754,6 +754,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-ngs-25-0803",
+    "name": "伊吹渚 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は渚の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "スマホケース",
+        "advAssetId": "hbd_05_ngs_01"
+      },
+      {
+        "index": 2,
+        "text": "映画無料券",
+        "advAssetId": "hbd_05_ngs_02"
+      },
+      {
+        "index": 3,
+        "text": "木彫りの桃",
+        "advAssetId": "hbd_05_ngs_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-rei-24-0308",
     "name": "一ノ瀬怜 誕生日2024",
     "advPlayTypes": [
@@ -9096,6 +9128,60 @@
     ],
     "advAssetIds": [
       "card_ngs_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ngs-05-birt-02-01",
+    "name": "聞いて\n驚きたまえ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ngs_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ngs-05-birt-02-02",
+    "name": "本当の愛の形\nなんだよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ngs_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ngs-05-birt-02-03",
+    "name": "もう最高！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ngs_53_03"
     ],
     "sectionName": "",
     "description": "",
