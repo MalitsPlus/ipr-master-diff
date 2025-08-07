@@ -2533,6 +2533,27 @@
     "receiveConditionId": "cd-time-login02-25-0801-0814"
   },
   {
+    "id": "login_bonus-campaign02-25-0809-01",
+    "name": "絆シリーズ\n開催記念",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-0809-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;decoration;deco-login-campaign-25-0809-01;1",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-25-0809-0815",
+    "receiveConditionId": "cd-time-login02-25-0809-0822"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

@@ -8316,6 +8316,50 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_skill_success_rate_up-10-target-character_type-1-1-22",
+    "name": "スコアラータイプ1人にスキル成功率上昇超化",
+    "type": 102,
+    "description": "スコアラータイプ1人にスキル成功率上昇超化効果[22ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_skill_success_rate_up-10-target-character_type-1-1-27",
+    "name": "スコアラータイプ1人にスキル成功率上昇超化",
+    "type": 102,
+    "description": "スコアラータイプ1人にスキル成功率上昇超化効果[27ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_skill_success_rate_up-10-target-character_type-1-1-32",
+    "name": "スコアラータイプ1人にスキル成功率上昇超化",
+    "type": 102,
+    "description": "スコアラータイプ1人にスキル成功率上昇超化効果[32ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_skill_success_rate_up-10-target-character_type-1-1-37",
+    "name": "スコアラータイプ1人にスキル成功率上昇超化",
+    "type": 102,
+    "description": "スコアラータイプ1人にスキル成功率上昇超化効果[37ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_skill_success_rate_up-10-target-character_type-1-2-27",
     "name": "スコアラータイプ2人にスキル成功率上昇超化",
     "type": 102,
@@ -8378,6 +8422,50 @@
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_skill_success_rate_up-10-target-self-22",
+    "name": "自身にスキル成功率上昇超化",
+    "type": 102,
+    "description": "自身にスキル成功率上昇超化効果[22ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_skill_success_rate_up-10-target-self-27",
+    "name": "自身にスキル成功率上昇超化",
+    "type": 102,
+    "description": "自身にスキル成功率上昇超化効果[27ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_skill_success_rate_up-10-target-self-32",
+    "name": "自身にスキル成功率上昇超化",
+    "type": 102,
+    "description": "自身にスキル成功率上昇超化効果[32ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_skill_success_rate_up-10-target-self-37",
+    "name": "自身にスキル成功率上昇超化",
+    "type": 102,
+    "description": "自身にスキル成功率上昇超化効果[37ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
@@ -24409,6 +24497,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-6-target-character_type-1-2-28",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "スコアラータイプ2人に6段階クリティカル係数上昇効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-6-target-character_type-1-2-29",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果",
     "type": 20,
@@ -24424,6 +24523,17 @@
     "name": "スコアラータイプ2人にクリティカル係数上昇効果",
     "type": 20,
     "description": "スコアラータイプ2人に6段階クリティカル係数上昇効果[30ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-6-target-character_type-1-2-31",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "スコアラータイプ2人に6段階クリティカル係数上昇効果[31ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -32850,6 +32960,17 @@
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
     "description": "スコアラータイプ2人に8段階クリティカル率上昇効果[31ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-8-target-character_type-1-2-32",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に8段階クリティカル率上昇効果[32ビート]",
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -70048,6 +70169,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-3-target-character_type-1-2-25",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に3段階スキル成功率上昇効果[25ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-3-target-character_type-1-2-28",
     "name": "スコアラータイプ2人にスキル成功率上昇効果",
     "type": 37,
@@ -70998,6 +71130,17 @@
     "name": "スコアラータイプ2人にスキル成功率上昇効果",
     "type": 37,
     "description": "スコアラータイプ2人に4段階スキル成功率上昇効果[33ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-character_type-1-2-35",
+    "name": "スコアラータイプ2人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "スコアラータイプ2人に4段階スキル成功率上昇効果[35ビート]",
     "grade": 4,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
@@ -72241,6 +72384,17 @@
     "name": "自身にスキル成功率上昇効果",
     "type": 37,
     "description": "自身に5段階スキル成功率上昇効果[27ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-5-target-self-28",
+    "name": "自身にスキル成功率上昇効果",
+    "type": 37,
+    "description": "自身に5段階スキル成功率上昇効果[28ビート]",
     "grade": 5,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -77363,6 +77517,39 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_consumption-5-target-opponent_character_type-1-1-22",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に5段階スタミナ継続消費効果[22ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-5-target-opponent_character_type-1-1-25",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に5段階スタミナ継続消費効果[25ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-5-target-opponent_character_type-1-1-28",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に5段階スタミナ継続消費効果[28ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_consumption-5-target-opponent_character_type-1-2-35",
     "name": "相手のスコアラータイプ2人にスタミナ継続消費効果",
     "type": 63,
@@ -77381,6 +77568,39 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-5-target-opponent_same_position-22",
+    "name": "同じレーンの相手にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]同じレーンの相手に5段階スタミナ継続消費効果[22ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-5-target-opponent_same_position-25",
+    "name": "同じレーンの相手にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]同じレーンの相手に5段階スタミナ継続消費効果[25ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-5-target-opponent_same_position-28",
+    "name": "同じレーンの相手にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]同じレーンの相手に5段階スタミナ継続消費効果[28ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
@@ -77429,10 +77649,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_character_type-1-1-32",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に6段階スタミナ継続消費効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_consumption-6-target-opponent_character_type-1-1-33",
     "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
     "type": 63,
     "description": "[ライブバトルのみ]相手のスコアラータイプ1人に6段階スタミナ継続消費効果[33ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-1",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_character_type-1-1-36",
+    "name": "相手のスコアラータイプ1人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ1人に6段階スタミナ継続消費効果[36ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_character_type-1-1",
@@ -77495,10 +77737,43 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_same_position-28",
+    "name": "同じレーンの相手にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]同じレーンの相手に6段階スタミナ継続消費効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_same_position-32",
+    "name": "同じレーンの相手にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]同じレーンの相手に6段階スタミナ継続消費効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_consumption-6-target-opponent_same_position-35",
     "name": "同じレーンの相手にスタミナ継続消費効果",
     "type": 63,
     "description": "[ライブバトルのみ]同じレーンの相手に6段階スタミナ継続消費効果[35ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_same_position",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_same_position-36",
+    "name": "同じレーンの相手にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]同じレーンの相手に6段階スタミナ継続消費効果[36ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_same_position",

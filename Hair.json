@@ -358,6 +358,24 @@
     "notWearableCostumeIds": []
   },
   {
+    "id": "hair-ai-link-01",
+    "hairAssetId": "ai-link-01",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-link-01",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-link-01"
+    ],
+    "fittingCostumeId": "cos-ai-link-01",
+    "order": 378,
+    "name": "リエルフレ",
+    "releaseTime": "1754622000000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
     "id": "hair-ai-miku-00",
     "hairAssetId": "ai-base-00",
     "faceAssetId": "ai-base-00",
@@ -3854,6 +3872,24 @@
     "order": 181,
     "name": "桜が丘女子高等学校",
     "releaseTime": "1682650800000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-kkr-link-01",
+    "hairAssetId": "kkr-link-01",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-link-01",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-link-01"
+    ],
+    "fittingCostumeId": "cos-kkr-link-01",
+    "order": 377,
+    "name": "リエルフレ",
+    "releaseTime": "1754622000000",
     "impossiblePhotoPoseTypes": [
       3
     ],

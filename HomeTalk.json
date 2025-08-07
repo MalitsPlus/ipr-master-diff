@@ -3143,6 +3143,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-kkr-05-link-00-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-link-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-link-00",
+    "choiceText": "また、急だな…",
+    "managerText": "また、急だな…",
+    "reliability": 5,
+    "title": "絆咲く真夏の黒百合",
+    "displayConditionDescription": "絆咲く真夏の黒百合 赤崎こころ\nストーリー3話を視聴",
+    "order": 447,
+    "releaseDate": "1754622000000",
+    "characterTalks": [
+      {
+        "text": "こころにもやらせたんですから\n{user}さんも\nやらないとダメですよー。",
+        "voiceAssetId": "sud_vo_home_kkr-05-link-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "大丈夫です。\nこころがとっておきの\n裏技教えてあげますから！",
+        "voiceAssetId": "sud_vo_home_kkr-05-link-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "坐禅の足の痛みや痺れ…\n住職さんのお話によると、\n忘れることがコツらしいです！",
+        "voiceAssetId": "sud_vo_home_kkr-05-link-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "言いたいことは分かりますよ。\n無理ですよね、無理です。\n絶対無理です。",
+        "voiceAssetId": "sud_vo_home_kkr-05-link-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-014_in"
+      },
+      {
+        "text": "そこで！\n可愛いこころの笑顔を\n頭に思い浮かべて下さい！",
+        "voiceAssetId": "sud_vo_home_kkr-05-link-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "痛みなんて忘れるはずです！\n雑念？　こころの笑顔が\n雑念な訳ないのでセーフですよ！",
+        "voiceAssetId": "sud_vo_home_kkr-05-link-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-kkr-05-miku-01-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
