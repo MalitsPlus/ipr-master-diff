@@ -6507,6 +6507,24 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-gvg-season-050-top001",
+    "name": "ユニオンシーズン50 No.1",
+    "assetId": "gvg-season-050-top001",
+    "order": 405010,
+    "description": "ユニオンライブシーズン50 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-050-top010",
+    "name": "ユニオンシーズン50 TOP10",
+    "assetId": "gvg-season-050-top010",
+    "order": 405020,
+    "description": "ユニオンライブシーズン50 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-highscore-15-0",
     "name": "lumière",
     "assetId": "area_15_100",
@@ -6557,6 +6575,24 @@
     "assetId": "area_17",
     "order": 202710,
     "description": "ハイスコアライブ「song for you」で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-highscore-18-0",
+    "name": "Top of the Tops",
+    "assetId": "area_18_100",
+    "order": 202800,
+    "description": "ハイスコアライブ「Top of the Tops」で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-highscore-18-1",
+    "name": "ゴール目指し一直線に",
+    "assetId": "area_18",
+    "order": 202810,
+    "description": "ハイスコアライブ「Top of the Tops」で1位獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -9014,6 +9050,33 @@
     "assetId": "pvp-season-142-top100",
     "order": 314230,
     "description": "VENUSバトルシーズン142で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-143-top001",
+    "name": "VENUSシーズン143 No.1",
+    "assetId": "pvp-season-143-top001",
+    "order": 314310,
+    "description": "VENUSバトルシーズン143で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-143-top010",
+    "name": "VENUSシーズン143 TOP10",
+    "assetId": "pvp-season-143-top010",
+    "order": 314320,
+    "description": "VENUSバトルシーズン143で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-143-top100",
+    "name": "VENUSシーズン143 TOP100",
+    "assetId": "pvp-season-143-top100",
+    "order": 314330,
+    "description": "VENUSバトルシーズン143で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

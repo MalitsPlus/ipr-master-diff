@@ -11410,6 +11410,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-szk-05-angl-00-talk-01",
+    "characterId": "char-szk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-szk-05-angl-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-szk-05-angl-00",
+    "choiceText": "知り合い？\n誰が来ていたんだ？",
+    "managerText": "知り合い？\n誰が来ていたんだ？",
+    "reliability": 5,
+    "title": "shiny drop",
+    "displayConditionDescription": "shiny drop 兵藤雫\nストーリー3話を視聴",
+    "order": 449,
+    "releaseDate": "1755226800000",
+    "characterTalks": [
+      {
+        "text": "従姉妹のお姉ちゃん…",
+        "voiceAssetId": "sud_vo_home_szk-05-angl-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "お姉ちゃんは「来ちゃった」って\nはにかんでたけど、私は驚いて\nそれどころじゃなかった。",
+        "voiceAssetId": "sud_vo_home_szk-05-angl-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-055_in"
+      },
+      {
+        "text": "思わず声が出そうになって…\nお姉ちゃんがいるってバレたら\n大変だから、必死に我慢した…",
+        "voiceAssetId": "sud_vo_home_szk-05-angl-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お姉ちゃん、前から私の握手会に\n来たかったけど、騒ぎになると\nいけないから遠慮してたみたい…",
+        "voiceAssetId": "sud_vo_home_szk-05-angl-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、もう自分は引退したから\nこれからは思い切り雫を推し活する\nって、目を輝かせて言ってた…",
+        "voiceAssetId": "sud_vo_home_szk-05-angl-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "別れ際に、また来るねって…\nお姉ちゃんがお茶目過ぎて\n嬉しいけど、心臓に悪い…",
+        "voiceAssetId": "sud_vo_home_szk-05-angl-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-004_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-szk-05-chna-00-talk-01",
     "characterId": "char-szk",
     "placeType": 1,
