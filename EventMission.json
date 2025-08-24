@@ -76,7 +76,7 @@
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-beginner-mission",
     "name": "ビギナーミッション",
-    "order": 90,
+    "order": 900,
     "viewConditionId": "cd-time-event_beginner-mission-22-1224",
     "missionIds": [
       "ms-normal-quest_main_clear_count-001_boost",
@@ -3047,6 +3047,21 @@
     ]
   },
   {
+    "id": "event-shelf-25-0825",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-shelf-25-0825",
+    "unlockConditionId": "cd-shelf-25-0825-play",
+    "missionIds": [
+      "event-shelf-25-0825-photo-album-complete",
+      "event-shelf-25-0825-photo-album-creating",
+      "event-shelf-25-0825-photo-creating",
+      "event-shelf-25-0825-photo-save"
+    ]
+  },
+  {
     "id": "event-tour-21-0630",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-tour-21-0630",
@@ -4262,7 +4277,7 @@
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-mission-21-0624",
     "name": "名刺交換ミッション",
-    "order": 100,
+    "order": 910,
     "viewConditionId": "cd-time-event_mission-21-0624",
     "missionIds": [
       "event-ms-normal-21-0624-00-friend_approve_total_count-10",

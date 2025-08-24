@@ -2064,6 +2064,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-collaboration-medal-25-0825",
+    "name": "コラボメダル",
+    "assetId": "medal_collaboration",
+    "description": "復刻コラボメダル交換所で様々なアイテムと交換できる 期限を過ぎるとメダルは消失します",
+    "howToGet": "ガチャ、ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-dress-medal-23-0613",
     "name": "復刻衣装メダル",
     "assetId": "medal-dress",
@@ -8364,6 +8376,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-25-0825",
+    "name": "選べる★5初音ミクコラボオールスターガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -11345,6 +11369,18 @@
     "assetId": "photo-shooting-contest",
     "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
     "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-photo_contest_create-25-0825",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバムなど",
     "type": 12001,
     "value": 1,
     "order": 99,
