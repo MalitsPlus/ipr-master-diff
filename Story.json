@@ -914,6 +914,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-rio-25-0828",
+    "name": "神崎莉央 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は莉央の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "温泉旅館ペアチケット",
+        "advAssetId": "hbd_05_rio_01"
+      },
+      {
+        "index": 2,
+        "text": "パンケーキ用フライパン",
+        "advAssetId": "hbd_05_rio_02"
+      },
+      {
+        "index": 3,
+        "text": "大きなびっくり箱",
+        "advAssetId": "hbd_05_rio_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-rui-23-1111",
     "name": "天動瑠依 誕生日2023",
     "advPlayTypes": [
@@ -7572,6 +7604,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-mei-05-miku-05-01",
+    "name": "プールを\n遊び尽くす\nよ～！！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mei_12_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mei-05-miku-05-02",
+    "name": "芽衣達は\nずっと\nこのまま？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mei_12_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mei-05-miku-05-03",
+    "name": "夏のプールが\n呼んでる\nよー！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mei_12_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-mei-05-mizg-01-01",
     "name": "ライブ前のひと時",
     "rewardId": "rd_auto;stone;;30",
@@ -8534,6 +8620,60 @@
     ],
     "advAssetIds": [
       "card_mku_01_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mku-05-miku-05-01",
+    "name": "夏休みの\n宿題？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mku_02_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mku-05-miku-05-02",
+    "name": "楽しい\n自由研究",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mku_02_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mku-05-miku-05-03",
+    "name": "夏はまた\nやってくる！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mku_02_03"
     ],
     "sectionName": "",
     "description": "",
@@ -10748,6 +10888,60 @@
     ],
     "advAssetIds": [
       "card_rio_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rio-05-birt-02-01",
+    "name": "空き巣に\n入られてる\nじゃない",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rio_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rio-05-birt-02-02",
+    "name": "あの子ってば",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rio_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rio-05-birt-02-03",
+    "name": "大人になれた\n気がするわ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rio_53_03"
     ],
     "sectionName": "",
     "description": "",
@@ -23725,6 +23919,98 @@
     "advAssetIds": [
       "event_2508_01_05",
       "adv-live-eve-2508-event-05"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2509-contest-001",
+    "name": "宿題を\n倒す合宿",
+    "description": "仕事に恵まれ、充実した夏を過ごしていた月のテンペスト。だが、もうすぐ夏休みも終わる頃、あることが明るみになる。なんと沙季以外、誰一人として夏休みの宿題を終わらせていなかったのだ。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2509_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2509-contest-002",
+    "name": "世界を魅了す\nるバーチャル\nシンガー",
+    "description": "夏休みの宿題をやっつけ、遊びに出掛けたメンバー達。そんなみんなに、沙季はあなたから受け取ったチケットを配る。それはなんと、あの大人気バーチャルシンガー、初音ミクのライブチケットだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2509_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2509-contest-003",
+    "name": "海だー！！",
+    "description": "ミクからのお願いで、なんとライブにゲスト出演することになった月のテンペスト。ライブに向けて親睦を深めるべく、沙季達とミクは、一緒に遊ぶことにするのだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2509_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2509-contest-004",
+    "name": "寂しさも\n楽しみ",
+    "description": "みんなで夏を満喫した沙季達。ただ、ミクの中にはひとつ、疑問があった。『なぜ夏が終わるのを、みんなは寂しく感じるんだろう』。そんな問いに、沙季達は答えるために――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2509_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2509-contest-005",
+    "name": "最高の\n記念日を",
+    "description": "ついにライブ当日。月のテンペストとミクは円陣を組み、気合いを入れる。この日のために用意した、特別な新曲。大切な記念日に披露する、その曲のテーマは、ミクが不思議に思っていた、あのことで――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1,
+      2
+    ],
+    "advAssetIds": [
+      "event_2509_01_05",
+      "adv-live-eve-2509-contest-05"
     ],
     "sectionName": "",
     "additionalDisplayCharacterIds": [],
@@ -42670,6 +42956,96 @@
     ],
     "advAssetIds": [
       "event_2402_01_05"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-25-0825-003-001",
+    "name": "宿題を\n倒す合宿",
+    "description": "仕事に恵まれ、充実した夏を過ごしていた月のテンペスト。だが、もうすぐ夏休みも終わる頃、あることが明るみになる。なんと沙季以外、誰一人として夏休みの宿題を終わらせていなかったのだ。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2509_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-25-0825-003-002",
+    "name": "世界を魅了す\nるバーチャル\nシンガー",
+    "description": "夏休みの宿題をやっつけ、遊びに出掛けたメンバー達。そんなみんなに、沙季はあなたから受け取ったチケットを配る。それはなんと、あの大人気バーチャルシンガー、初音ミクのライブチケットだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2509_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-25-0825-003-003",
+    "name": "海だー！！",
+    "description": "ミクからのお願いで、なんとライブにゲスト出演することになった月のテンペスト。ライブに向けて親睦を深めるべく、沙季達とミクは、一緒に遊ぶことにするのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2509_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-25-0825-003-004",
+    "name": "寂しさも\n楽しみ",
+    "description": "みんなで夏を満喫した沙季達。ただ、ミクの中にはひとつ、疑問があった。『なぜ夏が終わるのを、みんなは寂しく感じるんだろう』。そんな問いに、沙季達は答えるために――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2509_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-25-0825-003-005",
+    "name": "最高の\n記念日を",
+    "description": "ついにライブ当日。月のテンペストとミクは円陣を組み、気合いを入れる。この日のために用意した、特別な新曲。大切な記念日に披露する、その曲のテーマは、ミクが不思議に思っていた、あのことで――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2509_01_05"
     ],
     "sectionName": "",
     "rewardId": "",

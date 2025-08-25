@@ -5364,6 +5364,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_rio-05",
+    "name": "【誕生日】神崎莉央",
+    "assetId": "birthday_rio-05",
+    "autoProvideConditionId": "cd-birthday_emblem_rio-25-0828",
+    "order": 605140,
+    "description": "莉央の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_rui-03",
     "name": "【誕生日】天動瑠依",
     "assetId": "birthday_rui-03",
@@ -5913,6 +5922,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-eve-25-0826",
+    "name": "イベント称号",
+    "assetId": "event-contest-25-0826",
+    "order": 125091,
+    "description": "フォトオーディション「未来へ続く夏祭り」条件達成",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-eve-250104-1",
     "name": "迎春！翼に込める躍進の一念",
     "assetId": "event-race-25-0104",
@@ -5979,8 +5997,17 @@
     "id": "emb-ex-tower-005-sp-25-0301-001",
     "name": "涼宮ハルヒの憂鬱コラボ開催記念EXタワー",
     "assetId": "ex-tower-005-sp-250301-001",
-    "order": 141060,
+    "order": 141080,
     "description": "涼宮ハルヒの憂鬱コラボ開催記念EXタワーをクリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-ex-tower-005-sp-25-0901-001",
+    "name": "初音ミクコラボ開催記念EXタワー",
+    "assetId": "ex-tower-005-sp-250901-001",
+    "order": 141090,
+    "description": "初音ミクコラボ開催記念EXタワーをクリア",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -9077,6 +9104,33 @@
     "assetId": "pvp-season-143-top100",
     "order": 314330,
     "description": "VENUSバトルシーズン143で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-144-top001",
+    "name": "VENUSシーズン144 No.1",
+    "assetId": "pvp-season-144-top001",
+    "order": 314410,
+    "description": "VENUSバトルシーズン144で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-144-top010",
+    "name": "VENUSシーズン144 TOP10",
+    "assetId": "pvp-season-144-top010",
+    "order": 314420,
+    "description": "VENUSバトルシーズン144で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-144-top100",
+    "name": "VENUSシーズン144 TOP100",
+    "assetId": "pvp-season-144-top100",
+    "order": 314430,
+    "description": "VENUSバトルシーズン144で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

@@ -162,5 +162,23 @@
     "characterIds": [],
     "npcCharacterIds": [],
     "npcMotionAssetIds": []
+  },
+  {
+    "id": "live-start-anim_06-all-default",
+    "characterAmount": 6,
+    "motionAssetIds": [
+      "mot_live_chr_cmn_start-007_00_in",
+      "mot_live_chr_cmn_start-007_01_in",
+      "mot_live_chr_cmn_start-007_02_in",
+      "mot_live_chr_cmn_start-007_03_in",
+      "mot_live_chr_cmn_start-007_04_in",
+      "mot_live_chr_cmn_start-007_05_in"
+    ],
+    "voiceAssetGroupId": "live-start-voice_05-all-default",
+    "layoutMotionAssetId": "mot_live_start-007_in_layout",
+    "cameraMotionAssetId": "mot_live_start-007_in_cam",
+    "characterIds": [],
+    "npcCharacterIds": [],
+    "npcMotionAssetIds": []
   }
 ]

@@ -827,5 +827,132 @@
     "viewConditionId": "",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-25-0826-garden-02",
+    "name": "ガーデンテラス",
+    "type": 1,
+    "thumbAssetId": "garden-02",
+    "stageId": "stage-photo-garden-02",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "pajm",
+      "waso",
+      "hruh"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "garden-02",
+    "isDeleteCharacter": true,
+    "order": 5,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-25-0826-hillpark-00",
+    "name": "星見市高台",
+    "type": 1,
+    "thumbAssetId": "hillpark-00",
+    "stageId": "stage-photo-hillpark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol",
+      "waso",
+      "pajm",
+      "hruh"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "hillpark-00",
+    "isDeleteCharacter": true,
+    "order": 3,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
+  },
+  {
+    "id": "photo_activity-25-0826-pool-00",
+    "name": "水着グラビア撮影",
+    "type": 1,
+    "thumbAssetId": "pool-00",
+    "stageId": "stage-photo-pool-00",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "pool-00",
+    "isDeleteCharacter": true,
+    "order": 1,
+    "viewConditionId": "cd-activity-mizg-notpossetion",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-rik",
+      "char-yo",
+      "char-ymk",
+      "char-cca",
+      "char-chn"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-25-0826-pool-miku",
+    "name": "水着グラビア撮影",
+    "type": 1,
+    "thumbAssetId": "pool-00",
+    "stageId": "stage-photo-pool-00",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng",
+      "idol-miku-mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "pool-00",
+    "isDeleteCharacter": true,
+    "order": 2,
+    "viewConditionId": "cd-activity-mizg-possetion",
+    "impossibleShootingCharacterIds": [
+      "char-chk",
+      "char-rik",
+      "char-yo",
+      "char-ymk",
+      "char-cca",
+      "char-chn"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-25-0826-themepark-00",
+    "name": "テーマパーク",
+    "type": 2,
+    "thumbAssetId": "themepark-00",
+    "stageId": "stage-photo-themepark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol",
+      "pajm",
+      "hruh"
+    ],
+    "forceCostumeTypeId": "casl",
+    "photoShootingMotionSetId": "themepark-00",
+    "isDeleteCharacter": true,
+    "order": 4,
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossibleShootingCharacterIds": []
   }
 ]

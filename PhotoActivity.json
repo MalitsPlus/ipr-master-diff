@@ -364,7 +364,7 @@
       "trng",
       "waso",
       "pajm",
-      "hruh"
+      "idol-miku-mizg"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "lesson-00",
@@ -438,6 +438,7 @@
     "photoShootingMotionSetId": "pool-00",
     "isDeleteCharacter": true,
     "order": 9960,
+    "viewConditionId": "cd-activity-mizg-notpossetion",
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -447,7 +448,32 @@
       "char-cca",
       "char-chn"
     ],
-    "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_activity-pool-miku",
+    "name": "水着グラビア撮影",
+    "type": 2,
+    "thumbAssetId": "pool-00",
+    "stageId": "stage-photo-pool-00",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng",
+      "idol-miku-mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "photoShootingMotionSetId": "pool-00",
+    "isDeleteCharacter": true,
+    "order": 9960,
+    "viewConditionId": "cd-activity-mizg-possetion",
+    "impossibleShootingCharacterIds": [
+      "char-chk",
+      "char-rik",
+      "char-yo",
+      "char-ymk",
+      "char-cca",
+      "char-chn"
+    ],
     "unlockConditionId": ""
   },
   {
@@ -567,7 +593,7 @@
       "kion",
       "waso",
       "pajm",
-      "hruh"
+      "idol-miku-mizg"
     ],
     "forceCostumeTypeId": "casl",
     "photoShootingMotionSetId": "studio-00",

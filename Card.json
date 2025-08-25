@@ -5618,6 +5618,38 @@
     "homeTalks": []
   },
   {
+    "id": "card-ktn-02-miku-05",
+    "assetId": "ktn-02-miku-05",
+    "name": "六人ならどこまでも！",
+    "description": "最高のミクの記念日に私達と一緒に\n一生忘れられない夏の思い出を\n作りましょう！",
+    "type": 2,
+    "characterId": "char-ktn",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 402,
+    "danceRatioPermil": 319,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-02-miku-05-1",
+    "skillId2": "sk-ktn-02-miku-05-2",
+    "skillId3": "sk-ktn-02-miku-05-3",
+    "order": 504,
+    "releaseDate": "1756198800000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-03-schl-00",
     "assetId": "ktn-03-schl-00",
     "name": "見なれた光景",
@@ -6976,6 +7008,57 @@
     "skillId4": ""
   },
   {
+    "id": "card-mei-05-miku-05",
+    "assetId": "mei-05-miku-05",
+    "name": "常夏のパワフルムーン",
+    "description": "もっと撮ってほしいな。みんなにも見てほしいな\n夏を目一杯楽しむ芽衣の姿を！\r\nみんな見て！\n今日の芽衣は、太陽を浴びてきらめいてるよ！",
+    "type": 3,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 332,
+    "danceRatioPermil": 292,
+    "visualRatioPermil": 406,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-miku-05-1",
+    "skillId2": "sk-mei-05-miku-05-2",
+    "skillId3": "sk-mei-05-miku-05-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 502,
+    "releaseDate": "1756177200000",
+    "rewardCostumeId": "cos-mei-miku-05",
+    "obtainMessage": "今日の芽衣は、\n太陽を浴びてきらめいてるよ！",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-miku-05-01"
+      },
+      {
+        "storyId": "st-card-mei-05-miku-05-02"
+      },
+      {
+        "storyId": "st-card-mei-05-miku-05-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-miku-05",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-miku-05",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mei-05-mizg-01",
     "assetId": "mei-05-mizg-01",
     "name": "二人きりのサンセットビーチ",
@@ -7994,6 +8077,48 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-mku-05-miku-05",
+    "assetId": "mku-05-miku-05",
+    "name": "ミライ爽快夏休み",
+    "description": "凄く楽しかったよ！\n波の音、海鳥の声、楽しんでいる人達の笑い声\nいろんな音に溢れてる、素敵な場所だったし\nみんなと遊べたのも最高の思い出だよ",
+    "type": 2,
+    "characterId": "char-mku",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 314,
+    "danceRatioPermil": 278,
+    "visualRatioPermil": 408,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mku-05-miku-05-1",
+    "skillId2": "sk-mku-05-miku-05-2",
+    "skillId3": "sk-mku-05-miku-05-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 500,
+    "releaseDate": "1756177200000",
+    "rewardCostumeId": "cos-mku-miku-05",
+    "obtainMessage": "すずちゃん、\nプロのカメラマンさんみたい",
+    "stories": [
+      {
+        "storyId": "st-card-mku-05-miku-05-01"
+      },
+      {
+        "storyId": "st-card-mku-05-miku-05-02"
+      },
+      {
+        "storyId": "st-card-mku-05-miku-05-03"
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",
@@ -10786,6 +10911,53 @@
       },
       {
         "storyId": "st-card-rio-05-birt-01-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-05-birt-02",
+    "assetId": "rio-05-birt-02",
+    "name": "wonderful day for 莉央",
+    "description": "ありがとう、愛。付き合ってくれて\r\nなんだか、また一つ大人になれた気がするわ",
+    "type": 1,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 424,
+    "danceRatioPermil": 321,
+    "visualRatioPermil": 285,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-birt-02-1",
+    "skillId2": "sk-rio-05-birt-02-2",
+    "skillId3": "sk-rio-05-birt-02-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 505,
+    "releaseDate": "1756306800000",
+    "rewardHairIds": [
+      "hair-rio-hair-20",
+      "hair-rio-hair-21",
+      "hair-rio-hair-22",
+      "hair-rio-hair-23"
+    ],
+    "obtainMessage": "また一つ、\n大人になれた気がするわ",
+    "rewardHairId": "hair-rio-hair-20",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-birt-02-01"
+      },
+      {
+        "storyId": "st-card-rio-05-birt-02-02"
+      },
+      {
+        "storyId": "st-card-rio-05-birt-02-03"
       }
     ],
     "activityAbilityId": "",
