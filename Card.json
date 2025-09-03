@@ -8128,6 +8128,48 @@
     "homeTalks": []
   },
   {
+    "id": "card-mku-05-miku-06",
+    "assetId": "mku-05-miku-06",
+    "name": "夜空に響くミライの音",
+    "description": "ふふ、綺麗だね\n花火が私を祝ってくれてるみたい\r\nみんな、ありがとう\n本当に素敵な記念日になったよ",
+    "type": 1,
+    "characterId": "char-mku",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 275,
+    "danceRatioPermil": 435,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mku-05-miku-06-1",
+    "skillId2": "sk-mku-05-miku-06-2",
+    "skillId3": "sk-mku-05-miku-06-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 501,
+    "releaseDate": "1756954800000",
+    "rewardCostumeId": "cos-mku-miku-06",
+    "obtainMessage": "本当に素敵な\n記念日になったよ",
+    "stories": [
+      {
+        "storyId": "st-card-mku-05-miku-06-01"
+      },
+      {
+        "storyId": "st-card-mku-05-miku-06-02"
+      },
+      {
+        "storyId": "st-card-mku-05-miku-06-03"
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-mna-02-eve-01",
     "assetId": "mna-02-eve-01",
     "name": "remember shiny days",
@@ -13057,6 +13099,57 @@
     "activityAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-ski-05-miku-05",
+    "assetId": "ski-05-miku-05",
+    "name": "笑顔咲くデイタイム",
+    "description": "私がいつもより笑っているように見えるんですか？\nふふ、当然ですよ。大切なメンバーや\n憧れのミクさんと一緒に遊べているんですから",
+    "type": 3,
+    "characterId": "char-ski",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 378,
+    "danceRatioPermil": 330,
+    "visualRatioPermil": 292,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-05-miku-05-1",
+    "skillId2": "sk-ski-05-miku-05-2",
+    "skillId3": "sk-ski-05-miku-05-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 503,
+    "releaseDate": "1756954800000",
+    "rewardCostumeId": "cos-ski-miku-05",
+    "obtainMessage": "もっともっと\n笑顔になって下さい！\nそれそれ！",
+    "stories": [
+      {
+        "storyId": "st-card-ski-05-miku-05-01"
+      },
+      {
+        "storyId": "st-card-ski-05-miku-05-02"
+      },
+      {
+        "storyId": "st-card-ski-05-miku-05-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ski-05-miku-05",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ski-05-miku-05",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {

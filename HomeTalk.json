@@ -9147,6 +9147,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-ski-05-miku-05-talk-01",
+    "characterId": "char-ski",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ski-05-miku-05-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ski-05-miku-05",
+    "choiceText": "ミクのおかげか？",
+    "managerText": "ミクのおかげか？",
+    "reliability": 5,
+    "title": "笑顔咲くデイタイム",
+    "displayConditionDescription": "笑顔咲くデイタイム 白石沙季\nストーリー3話を視聴",
+    "order": 453,
+    "releaseDate": "1756954800000",
+    "characterTalks": [
+      {
+        "text": "はい、ミクさんと\n出会えたおかげです。\n本当に素敵な出会いでした。",
+        "voiceAssetId": "sud_vo_home_ski-05-miku-05_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-022_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-058_in"
+      },
+      {
+        "text": "優ちゃんにおススメされてから\n月ストの皆でライブに行って\nそこからまさかの共演…",
+        "voiceAssetId": "sud_vo_home_ski-05-miku-05_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-058_in"
+      },
+      {
+        "text": "しかもミクさんの記念日を\nミクさんと一緒に作った曲で\n祝うことが出来て…",
+        "voiceAssetId": "sud_vo_home_ski-05-miku-05_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "本当に素敵な…\n夢のような時間でした。\n楽しかったなぁ…",
+        "voiceAssetId": "sud_vo_home_ski-05-miku-05_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "また来年も、\n皆と素敵な夏を過ごして\n大切な想い出を作りたいです。",
+        "voiceAssetId": "sud_vo_home_ski-05-miku-05_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もちろん、\n{user}さんも\n一緒に、ですからね？",
+        "voiceAssetId": "sud_vo_home_ski-05-miku-05_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ski-05-mizg-02-talk-01",
     "characterId": "char-ski",
     "placeType": 1,

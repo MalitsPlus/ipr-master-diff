@@ -2575,6 +2575,27 @@
     "receiveConditionId": "cd-time-login02-25-0809-0822"
   },
   {
+    "id": "login_bonus-campaign02-25-0906-01",
+    "name": "初音ミクコラボ",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-0906-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-act_promotion_shorten;5",
+      "rd_auto;item;item-daily_quest_ticket_sp-25-0826;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-daily_quest_ticket_sp-25-0826;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-25-0906-0912",
+    "receiveConditionId": "cd-time-login02-25-0906-0919"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
