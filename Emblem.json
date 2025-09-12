@@ -5481,6 +5481,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_suz-05",
+    "name": "【誕生日】成宮すず",
+    "assetId": "birthday_suz-05",
+    "autoProvideConditionId": "cd-birthday_emblem_suz-25-0913",
+    "order": 605040,
+    "description": "すずの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_szk-03",
     "name": "【誕生日】兵藤雫",
     "assetId": "birthday_szk-03",
@@ -6557,6 +6566,24 @@
     "assetId": "gvg-season-050-top010",
     "order": 405020,
     "description": "ユニオンライブシーズン50 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-051-top001",
+    "name": "ユニオンシーズン51 No.1",
+    "assetId": "gvg-season-051-top001",
+    "order": 405110,
+    "description": "ユニオンライブシーズン51 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-051-top010",
+    "name": "ユニオンシーズン51 TOP10",
+    "assetId": "gvg-season-051-top010",
+    "order": 405120,
+    "description": "ユニオンライブシーズン51 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

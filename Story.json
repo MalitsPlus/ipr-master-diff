@@ -1266,6 +1266,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-suz-25-0913",
+    "name": "成宮すず 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はすずの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "麻奈のサイン入りペンライト",
+        "advAssetId": "hbd_05_suz_01"
+      },
+      {
+        "index": 2,
+        "text": "満月の形のナイトライト",
+        "advAssetId": "hbd_05_suz_02"
+      },
+      {
+        "index": 3,
+        "text": "「整理整頓のコツ」の本",
+        "advAssetId": "hbd_05_suz_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-szk-23-1015",
     "name": "兵藤雫 誕生日2023",
     "advPlayTypes": [
@@ -14992,6 +15024,60 @@
     ],
     "advAssetIds": [
       "card_suz_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-suz-05-birt-02-01",
+    "name": "めちゃくちゃ\nですわー",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_suz_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-suz-05-birt-02-02",
+    "name": "不思議な人\nですわ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_suz_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-suz-05-birt-02-03",
+    "name": "パリパリ食感\n世界一",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_suz_53_03"
     ],
     "sectionName": "",
     "description": "",
