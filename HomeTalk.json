@@ -7551,6 +7551,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-rei-05-sail-00-talk-01",
+    "characterId": "char-rei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rei-05-sail-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rei-05-sail-00",
+    "choiceText": "多少は覚えたが、まだまだだな",
+    "managerText": "多少は覚えたが、まだまだだな",
+    "reliability": 5,
+    "title": "陽光照らす君の髪色",
+    "displayConditionDescription": "陽光照らす君の髪色 一ノ瀬怜\nストーリー3話を視聴",
+    "order": 457,
+    "releaseDate": "1758078000000",
+    "characterTalks": [
+      {
+        "text": "花の種類は多いですからね\n覚えるだけでも大変なのは\n私も経験済みなのでよく分かります",
+        "voiceAssetId": "sud_vo_home_rei-05-sail-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "そういう時は自分に関連する\n花言葉から調べていくと\nいいと思います。",
+        "voiceAssetId": "sud_vo_home_rei-05-sail-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "例えば、自分の誕生日の花なんて\n分かりやすいんじゃないでしょうか",
+        "voiceAssetId": "sud_vo_home_rei-05-sail-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私の誕生花にはバイモやニゲラ、\nブルースターなんかがあるそうで\nどの花も綺麗なんですよ。",
+        "voiceAssetId": "sud_vo_home_rei-05-sail-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "花言葉は、『才能』や『友情』、\nあと、その、恋愛系の花言葉も\nあったりしたんですが…",
+        "voiceAssetId": "sud_vo_home_rei-05-sail-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "はぁ！？　言う訳ないじゃ\nないですか！　あっ、後で\n調べるのも禁止ですからね！",
+        "voiceAssetId": "sud_vo_home_rei-05-sail-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-019_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-rei-05-wedd-00-talk-01",
     "characterId": "char-rei",
     "placeType": 1,

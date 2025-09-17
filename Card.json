@@ -10559,6 +10559,57 @@
     "skillId4": ""
   },
   {
+    "id": "card-rei-05-sail-00",
+    "assetId": "rei-05-sail-00",
+    "name": "陽光照らす君の髪色",
+    "description": "私自身でも気付けない\n小さな変化にも気付いてくれる\nそういうところ……\nか、かっこ……格好いい、と……",
+    "type": 3,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 287,
+    "danceRatioPermil": 414,
+    "visualRatioPermil": 329,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-sail-00-1",
+    "skillId2": "sk-rei-05-sail-00-2",
+    "skillId3": "sk-rei-05-sail-00-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 507,
+    "releaseDate": "1758078000000",
+    "rewardCostumeId": "cos-rei-sail-00",
+    "obtainMessage": "ひまわり畑に負けないぐらい、\n眩しく輝いてみせます！",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-sail-00-01"
+      },
+      {
+        "storyId": "st-card-rei-05-sail-00-02"
+      },
+      {
+        "storyId": "st-card-rei-05-sail-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-sail-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-sail-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-05-wedd-00",
     "assetId": "rei-05-wedd-00",
     "name": "花香る二人の未来",
