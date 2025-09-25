@@ -1074,6 +1074,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-ski-25-0926",
+    "name": "白石沙季 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は沙季の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "千紗と選んだ洋服",
+        "advAssetId": "hbd_05_ski_01"
+      },
+      {
+        "index": 2,
+        "text": "手作りハンコ",
+        "advAssetId": "hbd_05_ski_02"
+      },
+      {
+        "index": 3,
+        "text": "シュールストレミング",
+        "advAssetId": "hbd_05_ski_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-skr-24-0403",
     "name": "川咲さくら 誕生日2024",
     "advPlayTypes": [
@@ -12594,6 +12626,60 @@
     ],
     "advAssetIds": [
       "card_ski_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-birt-02-01",
+    "name": "可愛い\nお洋服とか\n良さそうね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-birt-02-02",
+    "name": "どちらも\n白石でしょう",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-birt-02-03",
+    "name": "毛布持って\nきましたから",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_53_03"
     ],
     "sectionName": "",
     "description": "",
