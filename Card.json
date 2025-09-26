@@ -9368,6 +9368,57 @@
     "skillId4": ""
   },
   {
+    "id": "card-ngs-05-maid-01",
+    "assetId": "ngs-05-maid-01",
+    "name": "二人で萌え萌えきゅん！",
+    "description": "それじゃあ、もっと愛をトッピングしますね\n萌え萌えきゅ～ん！　召し上がれ！",
+    "type": 2,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 396,
+    "danceRatioPermil": 323,
+    "visualRatioPermil": 281,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-maid-01-1",
+    "skillId2": "sk-ngs-05-maid-01-2",
+    "skillId3": "sk-ngs-05-maid-01-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 510,
+    "releaseDate": "1758942000000",
+    "rewardCostumeId": "cos-ngs-maid-01",
+    "obtainMessage": "萌え萌えきゅ～ん！\n召し上がれ！",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-maid-01-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-maid-01-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-maid-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ngs-05-maid-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ngs-05-maid-01",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ngs-05-mizg-01",
     "assetId": "ngs-05-mizg-01",
     "name": "光踊る砂浜のメッセージ",
@@ -11828,6 +11879,38 @@
     "skillId3": "sk-rui-02-eve-03-3",
     "order": 403,
     "releaseDate": "1724727600000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-rui-02-eve-04",
+    "assetId": "rui-02-eve-04",
+    "name": "学園祭でミュージカル！",
+    "description": "優のおかげで『学校の意味』が分かった気がするの\nありがとう、私も『学校生活の主人公』にしてくれて",
+    "type": 1,
+    "characterId": "char-rui",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 322,
+    "danceRatioPermil": 285,
+    "visualRatioPermil": 423,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-02-eve-04-1",
+    "skillId2": "sk-rui-02-eve-04-2",
+    "skillId3": "sk-rui-02-eve-04-3",
+    "order": 511,
+    "releaseDate": "1758942000000",
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
@@ -17974,6 +18057,57 @@
       },
       {
         "telephoneId": "tel-card-yu-05-nurs-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-yu-05-ster-00",
+    "assetId": "yu-05-ster-00",
+    "name": "誓約のぬくもり",
+    "description": "っ、理性が溶けてしまいそう……でも、受け止めてみせる\nたとえ悪魔でも、分かりあいたい、から……",
+    "type": 3,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 285,
+    "danceRatioPermil": 417,
+    "visualRatioPermil": 328,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-ster-00-1",
+    "skillId2": "sk-yu-05-ster-00-2",
+    "skillId3": "sk-yu-05-ster-00-3",
+    "activityAbilityId": "aab-lesson_gold_up",
+    "order": 509,
+    "releaseDate": "1758942000000",
+    "rewardCostumeId": "cos-yu-ster-00",
+    "obtainMessage": "瑠依ちゃんと一緒に、\nミュージカルをやる予定なんよ",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-ster-00-01"
+      },
+      {
+        "storyId": "st-card-yu-05-ster-00-02"
+      },
+      {
+        "storyId": "st-card-yu-05-ster-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-ster-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-ster-00",
         "messageId": ""
       }
     ],

@@ -40078,6 +40078,120 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-received_strength_effect_count_increase-critical_bonus_permil_up_recipe_distribution-5-cd-appeal",
+    "name": "被・クリティカル係数延長",
+    "description": "<スコアラータイプのみ>\n受けるクリティカル係数上昇効果を{0}延長します",
+    "abilityType": 28,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 17
+      },
+      {
+        "level": 145,
+        "value": 17
+      },
+      {
+        "level": 150,
+        "value": 17
+      },
+      {
+        "level": 155,
+        "value": 17
+      },
+      {
+        "level": 160,
+        "value": 17
+      },
+      {
+        "level": 165,
+        "value": 17
+      },
+      {
+        "level": 170,
+        "value": 17
+      },
+      {
+        "level": 175,
+        "value": 17
+      },
+      {
+        "level": 180,
+        "value": 17
+      },
+      {
+        "level": 185,
+        "value": 17
+      },
+      {
+        "level": 190,
+        "value": 17
+      },
+      {
+        "level": 195,
+        "value": 17
+      },
+      {
+        "level": 200,
+        "value": 17
+      },
+      {
+        "level": 205,
+        "value": 17
+      },
+      {
+        "level": 210,
+        "value": 17
+      },
+      {
+        "level": 215,
+        "value": 17
+      },
+      {
+        "level": 220,
+        "value": 17
+      },
+      {
+        "level": 225,
+        "value": 17
+      },
+      {
+        "level": 230,
+        "value": 17
+      },
+      {
+        "level": 235,
+        "value": 17
+      },
+      {
+        "level": 240,
+        "value": 17
+      },
+      {
+        "level": 245,
+        "value": 17
+      },
+      {
+        "level": 250,
+        "value": 17
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 1,
+    "statusEffectType": 8,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-received_strength_effect_count_increase-critical_rate_up_recipe_distribution-5",
     "name": "被・クリティカル率延長",
     "description": "受けるクリティカル率上昇効果を{0}延長します",

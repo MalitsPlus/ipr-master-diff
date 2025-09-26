@@ -6640,6 +6640,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ngs-05-maid-01-talk-01",
+    "characterId": "char-ngs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ngs-05-maid-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ngs-05-maid-01",
+    "choiceText": "メイドに種類があるのか？",
+    "managerText": "メイドに種類があるのか？",
+    "reliability": 5,
+    "title": "二人で萌え萌えきゅん！",
+    "displayConditionDescription": "二人で萌え萌えきゅん！ 伊吹渚\nストーリー3話を視聴",
+    "order": 460,
+    "releaseDate": "1758942000000",
+    "characterTalks": [
+      {
+        "text": "もちろん！　子育て専門の\nメイドさんがいたり、料理専門\nのメイドさんもいるんですよ。",
+        "voiceAssetId": "sud_vo_home_ngs-05-maid-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私が読んでいる恋愛小説に\nいろんなメイドさんが登場する\nので覚えちゃいました。",
+        "voiceAssetId": "sud_vo_home_ngs-05-maid-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "メイドさんの種類と同じく\n衣装の種類も多いんですよ。",
+        "voiceAssetId": "sud_vo_home_ngs-05-maid-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私が今着ている衣装が\n一般的なメイド喫茶の\n主流なのですが…",
+        "voiceAssetId": "sud_vo_home_ngs-05-maid-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "ロングドレス調の\nクラシカルなメイド服も\nあったりして…",
+        "voiceAssetId": "sud_vo_home_ngs-05-maid-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "はっ！？　琴乃ちゃんに\n絶対似合う…ど、どうにかして\n着てもらえないかな…！！",
+        "voiceAssetId": "sud_vo_home_ngs-05-maid-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ngs-05-mizg-01-talk-01",
     "characterId": "char-ngs",
     "placeType": 1,
@@ -12615,6 +12670,61 @@
         "text": "そんなそぶりがあったら、\nそれこそうちの膝枕で\nゆ～っくり休んでもらうで？",
         "voiceAssetId": "sud_vo_home_yu-05-nurs-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-yu-05-ster-00-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-ster-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-ster-00",
+    "choiceText": "瑠依と琴乃は、一緒じゃないのか？",
+    "managerText": "瑠依と琴乃は、一緒じゃないのか？",
+    "reliability": 5,
+    "title": "誓約のぬくもり",
+    "displayConditionDescription": "誓約のぬくもり 鈴村優\nストーリー3話を視聴",
+    "order": 459,
+    "releaseDate": "1758942000000",
+    "characterTalks": [
+      {
+        "text": "もちろん、四人でも打ち上げには\n行きましたけど、それとはまた\n違うんです。",
+        "voiceAssetId": "sud_vo_home_yu-05-ster-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ほら、うちも渚ちゃんも、\nグループのリーダーを支える、\n参謀ポジションやろ？",
+        "voiceAssetId": "sud_vo_home_yu-05-ster-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "その苦労やら、醍醐味なんかを、\n二人で思う存分、語り合おうって\n話になってなぁ。",
+        "voiceAssetId": "sud_vo_home_yu-05-ster-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あとは二人に着せたい衣装とか、\nこっそり写真を撮るコツとか、\nノウハウを交換して…",
+        "voiceAssetId": "sud_vo_home_yu-05-ster-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なんだかよく分からないけど、\n二人に迷惑掛けるなよって？\nふふ、もちろんです。",
+        "voiceAssetId": "sud_vo_home_yu-05-ster-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ～、明後日が楽しみやなぁ",
+        "voiceAssetId": "sud_vo_home_yu-05-ster-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
         "additionMotionAssetId": ""
       }
     ],
