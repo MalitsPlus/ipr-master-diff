@@ -1816,6 +1816,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-hrk-05-adlt-00-talk-01",
+    "characterId": "char-hrk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-hrk-05-adlt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-hrk-05-adlt-00",
+    "choiceText": "遙子さんが講師をした時に\n教えた練習生達ですね。\n何か言われましたか？",
+    "managerText": "遙子さんが講師をした時に\n教えた練習生達ですね。\n何か言われましたか？",
+    "reliability": 5,
+    "title": "beyond the goal",
+    "displayConditionDescription": "beyond the goal 佐伯遙子\nストーリー3話を視聴",
+    "order": 463,
+    "releaseDate": "1759719600000",
+    "characterTalks": [
+      {
+        "text": "サニピのライブを間近で観て\n感動したそうよ。感激のあまり\n泣いちゃった子もいたらしいわ。",
+        "voiceAssetId": "sud_vo_home_hrk-05-adlt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私のことも\n「歌う姿がとても素敵で\nステージで輝いて見えた」って…",
+        "voiceAssetId": "sud_vo_home_hrk-05-adlt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "自分達もこんな風に輝くアイドルに\nなりたい…遙子さんは私達の目標\nで憧れのアイドルだ、って…",
+        "voiceAssetId": "sud_vo_home_hrk-05-adlt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そんな風に褒めちぎられて\n照れくさかったけど\n凄く嬉しかった。",
+        "voiceAssetId": "sud_vo_home_hrk-05-adlt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "養成所の講師をするって決めた時は\n何を話せばいいか分からなくて\n迷ったりもしたけど…",
+        "voiceAssetId": "sud_vo_home_hrk-05-adlt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-005_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "実際にやってみたら、伝えるのと\n同じくらい、得るものが沢山あって\n先生になるのもたまにはいいわね。",
+        "voiceAssetId": "sud_vo_home_hrk-05-adlt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-hrk-05-chna-00-talk-01",
     "characterId": "char-hrk",
     "placeType": 1,
@@ -9634,6 +9689,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-skr-05-adlt-00-talk-01",
+    "characterId": "char-skr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-skr-05-adlt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-skr-05-adlt-00",
+    "choiceText": "俺もああいうのは出来ないから\n尊敬するよ",
+    "managerText": "俺もああいうのは出来ないから\n尊敬するよ",
+    "reliability": 5,
+    "title": "友が見守る成長の道",
+    "displayConditionDescription": "友が見守る成長の道 川咲さくら\nストーリー3話を視聴",
+    "order": 462,
+    "releaseDate": "1759719600000",
+    "characterTalks": [
+      {
+        "text": "星見プロのアイドルって\nみんな何かしら\n特技を持ってますよね",
+        "voiceAssetId": "sud_vo_home_skr-05-adlt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "千紗ちゃんの編み物\n遙子ちゃんの料理\n怜ちゃんのダンスに…",
+        "voiceAssetId": "sud_vo_home_skr-05-adlt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "雫ちゃんは釣り、すみれちゃんは\nけん玉、こころちゃんは書道で\n愛ちゃんはラーメン作り…",
+        "voiceAssetId": "sud_vo_home_skr-05-adlt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それに比べて私は\nいろんなことに挑戦してるけど\n特技と呼べるものは、まだ…",
+        "voiceAssetId": "sud_vo_home_skr-05-adlt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_sad-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　みんなの心を明るくする\nとびっきりの笑顔が\n私の特技…？",
+        "voiceAssetId": "sud_vo_home_skr-05-adlt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-047_in"
+      },
+      {
+        "text": "ありがとうございます\nこれからは特技を聞かれたら\n「笑顔です」って答えようかな～。",
+        "voiceAssetId": "sud_vo_home_skr-05-adlt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-skr-05-anml-00-talk-01",

@@ -255,6 +255,26 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-dice-25-1006",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-dice-25-1006",
+    "name": "すごろくミッション",
+    "order": 100,
+    "viewConditionId": "cd-dice-25-1006-exchange",
+    "missionIds": [
+      "event-ms-normal-25-1006-01-card_skill_level_up_count",
+      "event-ms-normal-25-1006-01-dice_area_clear_count",
+      "event-ms-normal-25-1006-01-dice_panel_move_count",
+      "event-ms-normal-25-1006-01-market_exchange_count",
+      "event-ms-normal-25-1006-01-photo_reroll_count",
+      "event-ms-normal-25-1006-01-photo_shoot_count",
+      "event-ms-normal-25-1006-01-quest_daily_clear_count",
+      "event-ms-normal-25-1006-01-quest_pvp_play_count",
+      "event-ms-normal-25-1006-02-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-dream-23-0912",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-dream-defalut",

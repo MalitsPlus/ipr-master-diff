@@ -2692,6 +2692,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-hrk-05-adlt-00",
+    "assetId": "hrk-05-adlt-00",
+    "name": "beyond the goal",
+    "description": "私が前を歩くから\r\nあなた達も最高の笑顔で私の背中について来て",
+    "type": 2,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 321,
+    "danceRatioPermil": 283,
+    "visualRatioPermil": 396,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-adlt-00-1",
+    "skillId2": "sk-hrk-05-adlt-00-2",
+    "skillId3": "sk-hrk-05-adlt-00-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 513,
+    "releaseDate": "1759719600000",
+    "rewardCostumeId": "cos-hrk-adlt-00",
+    "obtainMessage": "行くわよ、憧れの向こう側へ",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-adlt-00-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-adlt-00-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-adlt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-hrk-05-adlt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-hrk-05-adlt-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-05-birt-00",
     "assetId": "hrk-05-birt-00",
     "name": "大人のキャンプバースデー",
@@ -13829,6 +13880,57 @@
     "skillId4": "",
     "stories": [],
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-skr-05-adlt-00",
+    "assetId": "skr-05-adlt-00",
+    "name": "友が見守る成長の道",
+    "description": "素敵な大人になって、大好きな人達を\nもっともっと笑顔にするよ",
+    "type": 3,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 293,
+    "danceRatioPermil": 404,
+    "visualRatioPermil": 333,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-adlt-00-1",
+    "skillId2": "sk-skr-05-adlt-00-2",
+    "skillId3": "sk-skr-05-adlt-00-3",
+    "activityAbilityId": "aab-lesson_card_enhance_item_up",
+    "order": 512,
+    "releaseDate": "1759719600000",
+    "rewardCostumeId": "cos-skr-adlt-00",
+    "obtainMessage": "大人になっていく私を\n見守っていてね",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-adlt-00-01"
+      },
+      {
+        "storyId": "st-card-skr-05-adlt-00-02"
+      },
+      {
+        "storyId": "st-card-skr-05-adlt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-adlt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-adlt-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {
