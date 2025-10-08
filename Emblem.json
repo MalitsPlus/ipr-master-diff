@@ -5310,6 +5310,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_mna-05",
+    "name": "【誕生日】長瀬麻奈",
+    "assetId": "birthday_mna-05",
+    "autoProvideConditionId": "cd-birthday_emblem_mna-25-1009",
+    "order": 605210,
+    "description": "麻奈の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_ngs-03",
     "name": "【誕生日】伊吹渚",
     "assetId": "birthday_ngs-03",
@@ -5513,6 +5522,15 @@
     "assetId": "birthday_szk-04",
     "autoProvideConditionId": "cd-birthday_emblem_szk-24-1015",
     "order": 604090,
+    "description": "雫の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-birthday_szk-05",
+    "name": "【誕生日】兵藤雫",
+    "assetId": "birthday_szk-05",
+    "autoProvideConditionId": "cd-birthday_emblem_szk-25-1015",
+    "order": 605090,
     "description": "雫の誕生日を迎える",
     "isViewableInInactive": false
   },
@@ -6602,6 +6620,24 @@
     "assetId": "gvg-season-051-top010",
     "order": 405120,
     "description": "ユニオンライブシーズン51 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-052-top001",
+    "name": "ユニオンシーズン52 No.1",
+    "assetId": "gvg-season-052-top001",
+    "order": 405210,
+    "description": "ユニオンライブシーズン52 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-052-top010",
+    "name": "ユニオンシーズン52 TOP10",
+    "assetId": "gvg-season-052-top010",
+    "order": 405220,
+    "description": "ユニオンライブシーズン52 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

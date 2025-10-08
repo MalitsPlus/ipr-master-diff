@@ -8334,6 +8334,53 @@
     "homeTalks": []
   },
   {
+    "id": "card-mna-05-birt-02",
+    "assetId": "mna-05-birt-02",
+    "name": "在りし日の幸せバースデー",
+    "description": "まさか琴乃から曲をプレゼントされる日が\nくるなんて！\nアンサーソングの完成、楽しみに待ってるね！",
+    "type": 1,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 426,
+    "danceRatioPermil": 323,
+    "visualRatioPermil": 281,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-birt-02-1",
+    "skillId2": "sk-mna-05-birt-02-2",
+    "skillId3": "sk-mna-05-birt-02-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 514,
+    "releaseDate": "1759935600000",
+    "rewardHairIds": [
+      "hair-mna-hair-20",
+      "hair-mna-hair-21",
+      "hair-mna-hair-22",
+      "hair-mna-hair-23"
+    ],
+    "obtainMessage": "琴乃は私にとって\n一番の宝物だよ",
+    "rewardHairId": "hair-mna-hair-20",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-birt-02-01"
+      },
+      {
+        "storyId": "st-card-mna-05-birt-02-02"
+      },
+      {
+        "storyId": "st-card-mna-05-birt-02-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-mna-05-fest-00",
     "assetId": "mna-05-fest-00",
     "name": "ただ、手を繋ぐだけ",
@@ -16815,6 +16862,53 @@
       },
       {
         "storyId": "st-card-szk-05-birt-01-03"
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-szk-05-birt-02",
+    "assetId": "szk-05-birt-02",
+    "name": "wonderful day for 雫",
+    "description": "誕生日、昔じゃ考えられないくらい、本当に賑やか……\r\n……ふふ、後でお姉ちゃんに、自慢しちゃおうかな",
+    "type": 2,
+    "characterId": "char-szk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 319,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 402,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-05-birt-02-1",
+    "skillId2": "sk-szk-05-birt-02-2",
+    "skillId3": "sk-szk-05-birt-02-3",
+    "activityAbilityId": "aab-promotion_accessory_multi_step_reward_up",
+    "order": 515,
+    "releaseDate": "1760454000000",
+    "rewardHairIds": [
+      "hair-szk-hair-20",
+      "hair-szk-hair-21",
+      "hair-szk-hair-22",
+      "hair-szk-hair-23"
+    ],
+    "obtainMessage": "後でお姉ちゃんに、自慢しちゃおうかな",
+    "rewardHairId": "hair-szk-hair-20",
+    "stories": [
+      {
+        "storyId": "st-card-szk-05-birt-02-01"
+      },
+      {
+        "storyId": "st-card-szk-05-birt-02-02"
+      },
+      {
+        "storyId": "st-card-szk-05-birt-02-03"
       }
     ],
     "liveAbilityId": "",

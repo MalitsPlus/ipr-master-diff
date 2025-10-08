@@ -690,6 +690,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-birthday-branch-mna-25-1009",
+    "name": "長瀬麻奈 誕生日2025",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "hbd_05_mna"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-birthday-branch-ngs-23-0803",
     "name": "伊吹渚 誕生日2023",
     "advPlayTypes": [
@@ -1385,6 +1403,38 @@
         "index": 3,
         "text": "ハロウィン用グッズ",
         "advAssetId": "hbd_04_szk_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
+    "id": "st-birthday-branch-szk-25-1015",
+    "name": "兵藤雫 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は雫の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "釣りゲームのソフト",
+        "advAssetId": "hbd_05_szk_01"
+      },
+      {
+        "index": 2,
+        "text": "高性能ヘッドフォン",
+        "advAssetId": "hbd_05_szk_02"
+      },
+      {
+        "index": 3,
+        "text": "手作りのぬいぐるみ",
+        "advAssetId": "hbd_05_szk_03"
       }
     ],
     "sectionName": "",
@@ -8910,6 +8960,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-mna-05-birt-02-01",
+    "name": "アンサー\nソング",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mna-05-birt-02-02",
+    "name": "お揃いの\nネックレス",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mna-05-birt-02-03",
+    "name": "『with \nyour \nsongs』",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-mna-05-fest-00-01",
     "name": "突然のプレゼント",
     "rewardId": "rd_auto;stone;;30",
@@ -16082,6 +16186,60 @@
     ],
     "advAssetIds": [
       "card_szk_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-birt-02-01",
+    "name": "これは\n家宝に\nしなきゃ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-birt-02-02",
+    "name": "二人で食べ\nたらもっと\n美味しい",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-birt-02-03",
+    "name": "自慢\nしちゃおう\nかな",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_53_03"
     ],
     "sectionName": "",
     "description": "",

@@ -5159,6 +5159,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-6-target-center-18",
+    "name": "センターにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "センターに6段階Aスキルスコア上昇効果[18ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-6-target-center-20",
+    "name": "センターにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "センターに6段階Aスキルスコア上昇効果[20ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-6-target-center-22",
+    "name": "センターにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "センターに6段階Aスキルスコア上昇効果[22ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-6-target-center-31",
     "name": "センターにAスキルスコア上昇効果",
     "type": 18,
@@ -6299,6 +6332,39 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-7-target-center-22",
+    "name": "センターにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "センターに7段階Aスキルスコア上昇効果[22ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-7-target-center-25",
+    "name": "センターにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "センターに7段階Aスキルスコア上昇効果[25ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-7-target-center-28",
+    "name": "センターにAスキルスコア上昇効果",
+    "type": 18,
+    "description": "センターに7段階Aスキルスコア上昇効果[28ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -8173,10 +8239,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-self-22",
+    "name": "自身に集目超化",
+    "type": 100,
+    "description": "自身に集目超化効果[22ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_audience_amount_increase-10-target-self-23",
     "name": "自身に集目超化",
     "type": 100,
     "description": "自身に集目超化効果[23ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-self-28",
+    "name": "自身に集目超化",
+    "type": 100,
+    "description": "自身に集目超化効果[28ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -8195,10 +8283,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-self-34",
+    "name": "自身に集目超化",
+    "type": 100,
+    "description": "自身に集目超化効果[34ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_audience_amount_increase-10-target-self-37",
     "name": "自身に集目超化",
     "type": 100,
     "description": "自身に集目超化効果[37ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-self-40",
+    "name": "自身に集目超化",
+    "type": 100,
+    "description": "自身に集目超化効果[40ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -11286,6 +11396,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-visual-2-19",
+    "name": "ビジュアルタイプ2人に集目効果",
+    "type": 21,
+    "description": "ビジュアルタイプ2人に6段階の集目効果[19ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-visual-2-22",
     "name": "ビジュアルタイプ2人に集目効果",
     "type": 21,
@@ -11770,6 +11891,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-7-target-self-24",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[24ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-7-target-self-26",
     "name": "自身に集目効果",
     "type": 21,
@@ -12038,6 +12170,28 @@
     "name": "ビジュアルタイプ2人に集目効果",
     "type": 21,
     "description": "ビジュアルタイプ2人に7段階の集目効果[27ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-visual-2-29",
+    "name": "ビジュアルタイプ2人に集目効果",
+    "type": 21,
+    "description": "ビジュアルタイプ2人に7段階の集目効果[29ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-visual-2-33",
+    "name": "ビジュアルタイプ2人に集目効果",
+    "type": 21,
+    "description": "ビジュアルタイプ2人に7段階の集目効果[33ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-visual-2",
@@ -12841,6 +12995,17 @@
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に9段階の集目効果[40ビート]",
+    "grade": 9,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-9-target-self-42",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に9段階の集目効果[42ビート]",
     "grade": 9,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -20251,6 +20416,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-10-target-visual-2",
+    "name": "ビジュアルタイプ2人にCT減少",
+    "type": 27,
+    "description": "ビジュアルタイプ2人のCTを10減少",
+    "skillTargetId": "target-visual-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-10-target-visual_higher-2",
     "name": "ビジュアルが高い2人のCTを減少",
     "type": 27,
@@ -20333,6 +20509,17 @@
     "type": 27,
     "description": "自身のCTを11減少",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-11-target-visual-2",
+    "name": "ビジュアルタイプ2人にCT減少",
+    "type": 27,
+    "description": "ビジュアルタイプ2人のCTを11減少",
+    "skillTargetId": "target-visual-2",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -21857,6 +22044,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-6-target-visual-2",
+    "name": "ビジュアルタイプ2人にCT減少",
+    "type": 27,
+    "description": "ビジュアルタイプ2人のCTを6減少",
+    "skillTargetId": "target-visual-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-7-target-all",
     "name": "全員のCTを減少",
     "type": 27,
@@ -21928,6 +22126,17 @@
     "type": 27,
     "description": "自身のCTを7減少",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-7-target-visual-2",
+    "name": "ビジュアルタイプ2人にCT減少",
+    "type": 27,
+    "description": "ビジュアルタイプ2人のCTを7減少",
+    "skillTargetId": "target-visual-2",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -22022,6 +22231,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-8-target-visual-2",
+    "name": "ビジュアルタイプ2人にCT減少",
+    "type": 27,
+    "description": "ビジュアルタイプ2人のCTを8減少",
+    "skillTargetId": "target-visual-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-9-target-all",
     "name": "全員のCTを減少",
     "type": 27,
@@ -22104,6 +22324,17 @@
     "type": 27,
     "description": "自身のCTを9減少",
     "skillTargetId": "target-self",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-cool_time_reduction-9-target-visual-2",
+    "name": "ビジュアルタイプ2人にCT減少",
+    "type": 27,
+    "description": "ビジュアルタイプ2人のCTを9減少",
+    "skillTargetId": "target-visual-2",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -32014,6 +32245,17 @@
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
     "description": "自身に5段階クリティカル率上昇効果[29ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-5-target-self-30",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に5段階クリティカル率上昇効果[30ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -49181,10 +49423,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-36",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[36ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_audience_amount_increase-5-target-self-37",
     "name": "自身に集目上昇上限解放",
     "type": 82,
     "description": "自身に5段階集目上昇上限解放効果[37ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-42",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[42ビート]",
     "grade": 5,
     "maxGrade": 5,
     "skillTargetId": "target-self",
@@ -86944,6 +87208,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-2-target-center-18",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに2段階テンションUP効果[18ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-2-target-center-20",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに2段階テンションUP効果[20ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-2-target-center-22",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに2段階テンションUP効果[22ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-2-target-character_type-1-1-20",
     "name": "スコアラータイプ1人にテンションUP効果",
     "type": 38,
@@ -87303,6 +87600,39 @@
     "grade": 2,
     "maxGrade": 10,
     "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-3-target-center-22",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに3段階テンションUP効果[22ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-3-target-center-25",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに3段階テンションUP効果[25ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-3-target-center-28",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに3段階テンションUP効果[28ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
     "limitBreakMaxGrade": 20,
     "shortDescription": ""
   },
@@ -88341,6 +88671,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-4-target-self-16",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に4段階テンションUP効果[16ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-4-target-self-22",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に4段階テンションUP効果[22ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-4-target-self-24",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -89027,6 +89379,17 @@
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に5段階テンションUP効果[38ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-5-target-self-40",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に5段階テンションUP効果[40ビート]",
     "grade": 5,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -97702,6 +98065,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_up-6-target-visual-2-19",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に6段階ビジュアル上昇効果[19ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-6-target-visual-2-22",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に6段階ビジュアル上昇効果[22ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-6-target-visual-2-25",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に6段階ビジュアル上昇効果[25ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_up-6-target-visual-2-26",
     "name": "ビジュアルタイプ2人にビジュアル上昇効果",
     "type": 15,
@@ -98699,6 +99095,28 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-7-target-visual-2-25",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に7段階ビジュアル上昇効果[25ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-7-target-visual-2-29",
+    "name": "ビジュアルタイプ2人にビジュアル上昇効果",
+    "type": 15,
+    "description": "ビジュアルタイプ2人に7段階ビジュアル上昇効果[29ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-visual-2",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
