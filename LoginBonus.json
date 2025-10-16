@@ -2638,6 +2638,27 @@
     "receiveConditionId": "cd-time-login02-25-1021-1021"
   },
   {
+    "id": "login_bonus-campaign02-25-1021-02",
+    "name": "オータム\n第2弾",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-1021-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-act_promotion_shorten;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10"
+    ],
+    "openConditionId": "cd-time-login02-25-1021-1027-02",
+    "receiveConditionId": "cd-time-login02-25-1021-1103-02"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

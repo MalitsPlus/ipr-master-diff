@@ -2356,6 +2356,57 @@
     "skillId4": ""
   },
   {
+    "id": "card-chs-05-maid-00",
+    "assetId": "chs-05-maid-00",
+    "name": "殻破る挑戦者",
+    "description": "そこにある小道具を運べばいいんですよね？\r\nそれぐらいなら私にも……わぁっ！？",
+    "type": 3,
+    "characterId": "char-chs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 374,
+    "danceRatioPermil": 327,
+    "visualRatioPermil": 299,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-chs-05-maid-00-1",
+    "skillId2": "sk-chs-05-maid-00-2",
+    "skillId3": "sk-chs-05-maid-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 516,
+    "releaseDate": "1760670000000",
+    "rewardCostumeId": "cos-chs-maid-00",
+    "obtainMessage": "それぐらいなら\n私にも……\nわぁっ！？",
+    "stories": [
+      {
+        "storyId": "st-card-chs-05-maid-00-01"
+      },
+      {
+        "storyId": "st-card-chs-05-maid-00-02"
+      },
+      {
+        "storyId": "st-card-chs-05-maid-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-chs-05-maid-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-chs-05-maid-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-chs-05-pajm-00",
     "assetId": "chs-05-pajm-00",
     "name": "お姫様抱っこで夢の中",

@@ -1596,6 +1596,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-chs-05-maid-00-talk-01",
+    "characterId": "char-chs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-chs-05-maid-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-chs-05-maid-00",
+    "choiceText": "分からないから教えてくれないか？",
+    "managerText": "分からないから教えてくれないか？",
+    "reliability": 5,
+    "title": "殻破る挑戦者",
+    "displayConditionDescription": "殻破る挑戦者 白石千紗\nストーリー3話を視聴",
+    "order": 466,
+    "releaseDate": "1760670000000",
+    "characterTalks": [
+      {
+        "text": "仕方がないわね。あなたみたいな\nポンコツに私が特別に講義を\nしてあげるわ。感謝なさい。",
+        "voiceAssetId": "sud_vo_home_chs-05-maid-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-048_in"
+      },
+      {
+        "text": "役作りに大切なこと\nそれは、常にその役について\n考えるようにすることよ！",
+        "voiceAssetId": "sud_vo_home_chs-05-maid-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "自分の日常におけるありとあらゆる\n行動をその役に置き換えながら\n生活すること。",
+        "voiceAssetId": "sud_vo_home_chs-05-maid-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "簡単なように見えて、かなり\n難易度の高い方法ではあるわ\nでも、だからこそ効果があるの。",
+        "voiceAssetId": "sud_vo_home_chs-05-maid-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まぁ、偉そうに言っているけど\nすみれちゃんと渚ちゃんからの\n受け売りだけどね！　おほほ！",
+        "voiceAssetId": "sud_vo_home_chs-05-maid-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なんて…こ、この役を演じていると\n罪悪感でメンタルが\n削られていく感じがします。",
+        "voiceAssetId": "sud_vo_home_chs-05-maid-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_deny-004_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-chs-05-pajm-00-talk-01",
     "characterId": "char-chs",
     "placeType": 1,
