@@ -2440,5 +2440,55 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2511-race",
+    "assetId": "event-race-25-1028",
+    "name": "イベントストーリー",
+    "description": "let's 湯けむり dancing！",
+    "order": 251028,
+    "viewConditionId": "cd-event-story-25-1028",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2511_01_01",
+        "storyId": "st-eve-2511-race-001",
+        "unlockConditionId": "cd-event-race-25-1028-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2511_01_02",
+        "storyId": "st-eve-2511-race-002",
+        "unlockConditionId": "cd-event-race-25-1028-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2511_01_03",
+        "storyId": "st-eve-2511-race-003",
+        "unlockConditionId": "cd-event-race-25-1028-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2511_01_04",
+        "storyId": "st-eve-2511-race-004",
+        "unlockConditionId": "cd-event-race-25-1028-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2511_01_05",
+        "storyId": "st-eve-2511-race-005",
+        "unlockConditionId": "cd-event-race-25-1028-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      }
+    ]
   }
 ]

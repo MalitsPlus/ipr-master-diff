@@ -1,5 +1,60 @@
 [
   {
+    "homeTalkId": "home-talk-card-ai-05-arab-00-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-arab-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-arab-00",
+    "choiceText": "どうしたんだ、愛。\n何か悩みごとか？",
+    "managerText": "どうしたんだ、愛。\n何か悩みごとか？",
+    "reliability": 5,
+    "title": "湯けむりオアシス",
+    "displayConditionDescription": "湯けむりオアシス 小美山愛\nストーリー3話を視聴",
+    "order": 468,
+    "releaseDate": "1761620400000",
+    "characterTalks": [
+      {
+        "text": "あ、ちょうどいいところに。\n最近全国ツアーや海外に行く\n機会が多いじゃないですか。",
+        "voiceAssetId": "sud_vo_home_ai-05-arab-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これからも増えるかも\nと思って、トラベルグッズを\n見ていたんです。",
+        "voiceAssetId": "sud_vo_home_ai-05-arab-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "各種ポーチに、海外対応の充電器、\nコンパクトなドライヤーもあるし、\nヘアアイロンも種類が多くて…",
+        "voiceAssetId": "sud_vo_home_ai-05-arab-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_deny-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "長く使えるものがいいんですけど、\n気分を変えるのにいくつか\nあってもいいかも、とか考えたら…",
+        "voiceAssetId": "sud_vo_home_ai-05-arab-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_sad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "無限に買っちゃいそうで\n決められなくなっちゃいました。",
+        "voiceAssetId": "sud_vo_home_ai-05-arab-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今は、持ち歩けるタイプの\nダンベルの重さで悩んでます。\nどの重さがいいかな…",
+        "voiceAssetId": "sud_vo_home_ai-05-arab-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_think-010_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-chna-01-talk-01",
     "characterId": "char-ai",
     "placeType": 1,
@@ -640,6 +695,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-aoi-05-arab-00-talk-01",
+    "characterId": "char-aoi",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-aoi-05-arab-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-aoi-05-arab-00",
+    "choiceText": "あぁ、三枝さんは元々そんなに\n怒ってはいなかったからな。でも、\n葵には言い聞かせるようにって。",
+    "managerText": "あぁ、三枝さんは元々そんなに\n怒ってはいなかったからな。でも、\n葵には言い聞かせるようにって。",
+    "reliability": 5,
+    "title": "水踊る祝祭",
+    "displayConditionDescription": "水踊る祝祭 井川葵\nストーリー3話を視聴",
+    "order": 467,
+    "releaseDate": "1761620400000",
+    "characterTalks": [
+      {
+        "text": "えっ、ちょっと待って。どうして\n僕が悪いみたいな話になってるの？\n悪いの僕だったのかな？",
+        "voiceAssetId": "sud_vo_home_aoi-05-arab-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-004_in"
+      },
+      {
+        "text": "でもさ、考えてみてよ。僕はただ、\n仕事が終わった後、プライベートで\n趣味のダンスを楽しんだだけだよ？",
+        "voiceAssetId": "sud_vo_home_aoi-05-arab-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　オフの時間の楽しみなら\n他に趣味を見つけてほしい？\nうーん、他の趣味か…",
+        "voiceAssetId": "sud_vo_home_aoi-05-arab-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "音ゲーは好きだよ。\nでも最近出た音ゲーは、\nもう全部クリアしちゃったから。",
+        "voiceAssetId": "sud_vo_home_aoi-05-arab-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "対戦ゲーム？　悪くはないけど…\n君、対戦系はあんまり強くないよね\n見た感じで大体分かるんだ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-arab-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "そんなことない？\nじゃあ一度、試してみようよ。\nせっかくだし愛も誘ってさ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-arab-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-aoi-05-circ-00-talk-01",

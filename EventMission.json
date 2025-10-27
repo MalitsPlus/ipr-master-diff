@@ -2836,6 +2836,35 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-race-25-1028",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-race-25-1028",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-event-race-25-1028-exchange",
+    "missionIds": [
+      "event-race-25-1028-1",
+      "event-race-25-1028-10",
+      "event-race-25-1028-11",
+      "event-race-25-1028-12",
+      "event-race-25-1028-13",
+      "event-race-25-1028-14",
+      "event-race-25-1028-15",
+      "event-race-25-1028-16",
+      "event-race-25-1028-17",
+      "event-race-25-1028-18",
+      "event-race-25-1028-2",
+      "event-race-25-1028-3",
+      "event-race-25-1028-4",
+      "event-race-25-1028-5",
+      "event-race-25-1028-6",
+      "event-race-25-1028-7",
+      "event-race-25-1028-8",
+      "event-race-25-1028-9"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-shelf-23-1128",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-shelf-23-1128",
@@ -3233,6 +3262,26 @@
     ]
   },
   {
+    "id": "event-shelf-25-1028",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-shelf-25-1028",
+    "unlockConditionId": "cd-shelf-25-1028-play",
+    "missionIds": [
+      "event-shelf-25-1028-photo-album-complete",
+      "event-shelf-25-1028-photo-album-creating",
+      "event-shelf-25-1028-photo-creating",
+      "event-shelf-25-1028-photo-save",
+      "event-shelf-25-1028-story-001",
+      "event-shelf-25-1028-story-002",
+      "event-shelf-25-1028-story-003",
+      "event-shelf-25-1028-story-004",
+      "event-shelf-25-1028-story-005"
+    ]
+  },
+  {
     "id": "event-tour-21-0630",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-tour-21-0630",
@@ -3444,6 +3493,25 @@
       "event-ms-am-25-1010-00-login_count",
       "event-ms-am-25-1010-00-photo_expression_shooting_specified_character_shoot_count",
       "event-ms-am-25-1010-01-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_am-mission-25-1031",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-am-mission-25-1028",
+    "name": "オータムミッション第2弾",
+    "order": 2,
+    "viewConditionId": "cd-time-event-ms-am-25-1031-1106",
+    "missionIds": [
+      "event-ms-am-25-1031-00-character_quest_all_clear_count",
+      "event-ms-am-25-1031-00-character_start_activity_fan_event_count",
+      "event-ms-am-25-1031-00-character_start_activity_promotion_count",
+      "event-ms-am-25-1031-00-character_start_activity_refreshment_count",
+      "event-ms-am-25-1031-00-company_character_use_obtain_enjoy_point_item_count",
+      "event-ms-am-25-1031-00-login_count",
+      "event-ms-am-25-1031-00-photo_expression_shooting_specified_character_shoot_count",
+      "event-ms-am-25-1031-01-mission_clear_count"
     ],
     "unlockConditionId": ""
   },
@@ -4442,6 +4510,21 @@
       "event-ms-idoly-pride-day-mission-25-1020-mission_clear_count",
       "event-ms-idoly-pride-day-mission-25-1020-photo_shoot_count",
       "event-ms-idoly-pride-day-mission-25-1020-quest-daily-clear-count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_idoly-pride-day-mission-25-1030",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_campaign-25-0110-ip-day",
+    "name": "本日限定！0のつく日はアイプラの日！",
+    "order": 1,
+    "viewConditionId": "cd-time-market-discount-day-25-1030",
+    "missionIds": [
+      "event-ms-idoly-pride-day-mission-25-1030-login",
+      "event-ms-idoly-pride-day-mission-25-1030-mission_clear_count",
+      "event-ms-idoly-pride-day-mission-25-1030-photo_shoot_count",
+      "event-ms-idoly-pride-day-mission-25-1030-quest-daily-clear-count"
     ],
     "unlockConditionId": ""
   },

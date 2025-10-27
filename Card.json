@@ -160,6 +160,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-05-arab-00",
+    "assetId": "ai-05-arab-00",
+    "name": "湯けむりオアシス",
+    "description": "……なんだか頭が、ぼうっとしてきました～\nえへへ、このまま寝ちゃいそう……",
+    "type": 1,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 435,
+    "visualRatioPermil": 315,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-arab-00-1",
+    "skillId2": "sk-ai-05-arab-00-2",
+    "skillId3": "sk-ai-05-arab-00-3",
+    "liveAbilityId": "lba-critical_score_multiply",
+    "order": 518,
+    "releaseDate": "1761620400000",
+    "rewardCostumeId": "cos-ai-arab-00",
+    "obtainMessage": "今日の疲れが全部取れる気がします～～……",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-arab-00-01"
+      },
+      {
+        "storyId": "st-card-ai-05-arab-00-02"
+      },
+      {
+        "storyId": "st-card-ai-05-arab-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ai-05-arab-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ai-05-arab-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-birt-00",
     "assetId": "ai-05-birt-00",
     "name": "愛されラーメンバースデー",
@@ -993,6 +1044,57 @@
     "skillId4": "",
     "stories": [],
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-aoi-05-arab-00",
+    "assetId": "aoi-05-arab-00",
+    "name": "水踊る祝祭",
+    "description": "やっぱり楽しいな、ダンスは\n言葉が通じなくても、全身で通じ合えるから",
+    "type": 3,
+    "characterId": "char-aoi",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 332,
+    "danceRatioPermil": 293,
+    "visualRatioPermil": 405,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-05-arab-00-1",
+    "skillId2": "sk-aoi-05-arab-00-2",
+    "skillId3": "sk-aoi-05-arab-00-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 517,
+    "releaseDate": "1761620400000",
+    "rewardCostumeId": "cos-aoi-arab-00",
+    "obtainMessage": "フェスティバルの始まりだよ",
+    "stories": [
+      {
+        "storyId": "st-card-aoi-05-arab-00-01"
+      },
+      {
+        "storyId": "st-card-aoi-05-arab-00-02"
+      },
+      {
+        "storyId": "st-card-aoi-05-arab-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-aoi-05-arab-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-aoi-05-arab-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {
@@ -4080,6 +4182,38 @@
     "skillId3": "sk-kkr-02-eve-00-3",
     "order": 271,
     "releaseDate": "1677380400000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-kkr-02-eve-01",
+    "assetId": "kkr-02-eve-01",
+    "name": "こころ掴む海外ツアー",
+    "description": "はあ～、いいお湯でした～\n旅の疲れが癒やされました～",
+    "type": 3,
+    "characterId": "char-kkr",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 413,
+    "danceRatioPermil": 311,
+    "visualRatioPermil": 276,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-02-eve-01-1",
+    "skillId2": "sk-kkr-02-eve-01-2",
+    "skillId3": "sk-kkr-02-eve-01-3",
+    "order": 519,
+    "releaseDate": "1761620400000",
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
