@@ -9636,6 +9636,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_special_skill_score_up-10-target-self-999",
+    "name": "自身にSPスキルスコア上昇超化",
+    "type": 101,
+    "description": "自身にSPスキルスコア上昇超化効果",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_visual_up-10-target-all-23",
     "name": "全員にビジュアル上昇超化効果",
     "type": 96,
@@ -11473,6 +11484,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-self-21",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[21ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-6-target-self-24",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[24ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-self-26",
     "name": "自身に集目効果",
     "type": 21,
@@ -12199,6 +12232,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-7-target-self-28",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[28ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-7-target-self-30",
     "name": "自身に集目効果",
     "type": 21,
@@ -12214,6 +12258,17 @@
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に7段階の集目効果[31ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-self-32",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に7段階の集目効果[32ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -62238,6 +62293,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_strength_effect_count-10600-chart_dependence",
+    "name": "スコア獲得-強化効果が多い程効果上昇",
+    "type": 9,
+    "description": "1060%のスコア獲得、強化効果が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_strength_effect_count-10800-chart_dependence",
     "name": "スコア獲得-強化効果が多い程効果上昇",
     "type": 9,
@@ -62304,6 +62370,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_strength_effect_count-11800-chart_dependence",
+    "name": "スコア獲得-強化効果が多い程効果上昇",
+    "type": 9,
+    "description": "1180%のスコア獲得、強化効果が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_strength_effect_count-12000-chart_dependence",
     "name": "スコア獲得-強化効果が多い程効果上昇",
     "type": 9,
@@ -62359,6 +62436,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_strength_effect_count-13000-chart_dependence",
+    "name": "スコア獲得-強化効果が多い程効果上昇",
+    "type": 9,
+    "description": "1300%のスコア獲得、強化効果が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_strength_effect_count-13200-chart_dependence",
     "name": "スコア獲得-強化効果が多い程効果上昇",
     "type": 9,
@@ -62407,6 +62495,17 @@
     "name": "スコア獲得-強化効果が多い程効果上昇",
     "type": 9,
     "description": "1410%のスコア獲得、強化効果が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_strength_effect_count-14200-chart_dependence",
+    "name": "スコア獲得-強化効果が多い程効果上昇",
+    "type": 9,
+    "description": "1420%のスコア獲得、強化効果が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -62924,6 +63023,17 @@
     "name": "スコア獲得-強化効果が多い程効果上昇",
     "type": 9,
     "description": "840%のスコア獲得、強化効果が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_strength_effect_count-8600-chart_dependence",
+    "name": "スコア獲得-強化効果が多い程効果上昇",
+    "type": 9,
+    "description": "860%のスコア獲得、強化効果が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -91993,6 +92103,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-4-target-self-29",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に4段階ビジュアルブースト効果[29ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-4-target-self-30",
     "name": "自身にビジュアルブースト効果",
     "type": 58,
@@ -92521,6 +92642,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-5-target-self-36",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に5段階ビジュアルブースト効果[36ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-5-target-self-38",
     "name": "自身にビジュアルブースト効果",
     "type": 58,
@@ -92873,6 +93005,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_boost-6-target-self-36",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に6段階ビジュアルブースト効果[36ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_boost-6-target-self-37",
     "name": "自身にビジュアルブースト効果",
     "type": 58,
@@ -92888,6 +93031,17 @@
     "name": "自身にビジュアルブースト効果",
     "type": 58,
     "description": "自身に6段階ビジュアルブースト効果[40ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_boost-6-target-self-43",
+    "name": "自身にビジュアルブースト効果",
+    "type": 58,
+    "description": "自身に6段階ビジュアルブースト効果[43ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -98681,6 +98835,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-visual_up-6-target-self-24",
+    "name": "自身にビジュアル上昇効果",
+    "type": 15,
+    "description": "自身に6段階ビジュアル上昇効果[24ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-visual_up-6-target-self-25",
     "name": "自身にビジュアル上昇効果",
     "type": 15,
@@ -99763,6 +99928,17 @@
     "name": "自身にビジュアル上昇効果",
     "type": 15,
     "description": "自身に7段階ビジュアル上昇効果[26ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-visual_up-7-target-self-28",
+    "name": "自身にビジュアル上昇効果",
+    "type": 15,
+    "description": "自身に7段階ビジュアル上昇効果[28ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",

@@ -11593,6 +11593,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-suz-05-link-00-talk-01",
+    "characterId": "char-suz",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-suz-05-link-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-suz-05-link-00",
+    "choiceText": "うん？　どうした？",
+    "managerText": "うん？　どうした？",
+    "reliability": 5,
+    "title": "絆深まるジョイフルデイズ",
+    "displayConditionDescription": "絆深まるジョイフルデイズ 成宮すず\nストーリー3話を視聴",
+    "order": 470,
+    "releaseDate": "1762484400000",
+    "characterTalks": [
+      {
+        "text": "ちょ、ちょっと…\nもう少し驚いて\nくれませんこと…？",
+        "voiceAssetId": "sud_vo_home_suz-05-link-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-055_in"
+      },
+      {
+        "text": "今回の合宿で\n『わんにゃんツインズ』の\n新しい可能性を見つけたんですの。",
+        "voiceAssetId": "sud_vo_home_suz-05-link-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私達はかっこ可愛いだけでなく\n新しい驚きを届けられるはず、と。\nサプライズは素敵だと思いません？",
+        "voiceAssetId": "sud_vo_home_suz-05-link-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんにも\nわんにゃんツインズのライブで\nもっと驚いてほしいんですの。",
+        "voiceAssetId": "sud_vo_home_suz-05-link-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、次はイリュージョン\nめいたことをしてみても\n面白いですわね。",
+        "voiceAssetId": "sud_vo_home_suz-05-link-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "当然、練習は困難でしょうが…\nふふ、きっと大丈夫ですわ。\n芽衣と一緒でしたら、絶対に。",
+        "voiceAssetId": "sud_vo_home_suz-05-link-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-suz-05-mizg-01-talk-01",
     "characterId": "char-suz",
     "placeType": 1,
