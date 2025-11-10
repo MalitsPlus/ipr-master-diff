@@ -195796,6 +195796,468 @@
     "assetId": ""
   },
   {
+    "id": "sk-rui-05-birt-02-1",
+    "name": "恐るべきグミ魔術",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "350%のスコア獲得\n全員にAスキルスコア上昇超化効果[25ビート]\nセンターにクリティカル係数上昇超化効果[25ビート]\nスタミナ112消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-all-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_critical_bonus_permil_up-10-target-center-25",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "370%のスコア獲得\n全員にAスキルスコア上昇超化効果[29ビート]\nセンターにクリティカル係数上昇超化効果[29ビート]\nスタミナ120消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ120消費 CT:30",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 120,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-all-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_critical_bonus_permil_up-10-target-center-29",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "390%のスコア獲得\n全員にAスキルスコア上昇超化効果[33ビート]\nセンターにクリティカル係数上昇超化効果[33ビート]\nスタミナ128消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ128消費 CT:30",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 128,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-all-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_critical_bonus_permil_up-10-target-center-33",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "410%のスコア獲得\n全員にAスキルスコア上昇超化効果[37ビート]\nセンターにクリティカル係数上昇超化効果[37ビート]\nスタミナ135消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ135消費 CT:30",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 135,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-all-37",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_critical_bonus_permil_up-10-target-center-37",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "440%のスコア獲得\n全員にAスキルスコア上昇超化効果[42ビート]\nセンターにクリティカル係数上昇超化効果[42ビート]\nスタミナ146消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ146消費 CT:30",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 146,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-all-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_critical_bonus_permil_up-10-target-center-42",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "470%のスコア獲得\n全員にAスキルスコア上昇超化効果[47ビート]\nセンターにクリティカル係数上昇超化効果[47ビート]\nスタミナ157消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ157消費 CT:30",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 157,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-all-47",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_critical_bonus_permil_up-10-target-center-47",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-rui-05-birt-02-2",
+    "name": "本編になさ過ぎるセリフ",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身がボーカルレーンの時\n全員に10段階Aスキルスコア上昇上限解放効果[20ビート]\nセンターに4段階クリティカル係数上昇効果[20ビート]\nスタミナ166消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ166消費 CT:50",
+        "stamina": 166,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-all-20",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-4-target-center-20",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身がボーカルレーンの時\n全員に10段階Aスキルスコア上昇上限解放効果[24ビート]\nセンターに4段階クリティカル係数上昇効果[24ビート]\nスタミナ199消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ199消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 199,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-all-24",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-4-target-center-24",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身がボーカルレーンの時\n全員に10段階Aスキルスコア上昇上限解放効果[28ビート]\nセンターに4段階クリティカル係数上昇効果[28ビート]\nスタミナ232消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ232消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 232,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-all-28",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-4-target-center-28",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身がボーカルレーンの時\n全員に10段階Aスキルスコア上昇上限解放効果[28ビート]\nセンターに5段階クリティカル係数上昇効果[28ビート]\nスタミナ242消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ242消費 CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 242,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-all-28",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-5-target-center-28",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身がボーカルレーンの時\n全員に10段階Aスキルスコア上昇上限解放効果[33ビート]\nセンターに5段階クリティカル係数上昇効果[33ビート]\nスタミナ286消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ286消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 286,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-all-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-5-target-center-33",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身がボーカルレーンの時\n全員に10段階Aスキルスコア上昇上限解放効果[38ビート]\nセンターに5段階クリティカル係数上昇効果[38ビート]\nスタミナ330消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ330消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 330,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-all-38",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-5-target-center-38",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-rui-05-birt-02-3",
+    "name": "紹介したい莉央先輩",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "全員に3段階Aスキルスコア上昇効果[17ビート]\n100コンボ以上時 センターへ強化効果譲渡\nスタミナ142消費 CT:50",
+        "shortDescription": "\n \nスタミナ142消費 CT:50",
+        "stamina": 142,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-3-target-all-17",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_assignment_all-target-center",
+            "triggerId": "tg-combo-100"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "全員に3段階Aスキルスコア上昇効果[23ビート]\n100コンボ以上時 センターへ強化効果譲渡\nスタミナ162消費 CT:50",
+        "shortDescription": "\n \nスタミナ162消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 162,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-3-target-all-23",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_assignment_all-target-center",
+            "triggerId": "tg-combo-100"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "全員に4段階Aスキルスコア上昇効果[23ビート]\n100コンボ以上時 センターへ強化効果譲渡\nスタミナ187消費 CT:50",
+        "shortDescription": "\n \nスタミナ187消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 187,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-4-target-all-23",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_assignment_all-target-center",
+            "triggerId": "tg-combo-100"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "全員に4段階Aスキルスコア上昇効果[29ビート]\n100コンボ以上時 センターへ強化効果譲渡\nスタミナ213消費 CT:50",
+        "shortDescription": "\n \nスタミナ213消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 213,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-4-target-all-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_assignment_all-target-center",
+            "triggerId": "tg-combo-100"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "全員に5段階Aスキルスコア上昇効果[29ビート]\n100コンボ以上時 センターへ強化効果譲渡\nスタミナ244消費 CT:50",
+        "shortDescription": "\n \nスタミナ244消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 244,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-5-target-all-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_assignment_all-target-center",
+            "triggerId": "tg-combo-100"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "全員に5段階Aスキルスコア上昇効果[35ビート]\n100コンボ以上時 センターへ強化効果譲渡\nスタミナ276消費 CT:50",
+        "shortDescription": "\n \nスタミナ276消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 276,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-5-target-all-35",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_assignment_all-target-center",
+            "triggerId": "tg-combo-100"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-rui-05-date-00-1",
     "name": "クリアになった景色",
     "categoryType": 2,

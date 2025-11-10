@@ -5409,6 +5409,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_rui-05",
+    "name": "【誕生日】天動瑠依",
+    "assetId": "birthday_rui-05",
+    "autoProvideConditionId": "cd-birthday_emblem_rui-25-1111",
+    "order": 605110,
+    "description": "瑠依の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_ski-03",
     "name": "【誕生日】白石沙季",
     "assetId": "birthday_ski-03",
@@ -6647,6 +6656,24 @@
     "assetId": "gvg-season-052-top010",
     "order": 405220,
     "description": "ユニオンライブシーズン52 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-053-top001",
+    "name": "ユニオンシーズン53 No.1",
+    "assetId": "gvg-season-053-top001",
+    "order": 405310,
+    "description": "ユニオンライブシーズン53 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-053-top010",
+    "name": "ユニオンシーズン53 TOP10",
+    "assetId": "gvg-season-053-top010",
+    "order": 405320,
+    "description": "ユニオンライブシーズン53 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -9392,6 +9419,33 @@
     "assetId": "pvp-season-150-top100",
     "order": 315030,
     "description": "VENUSバトルシーズン150で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-151-top001",
+    "name": "VENUSシーズン151 No.1",
+    "assetId": "pvp-season-151-top001",
+    "order": 315110,
+    "description": "VENUSバトルシーズン151で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-151-top010",
+    "name": "VENUSシーズン151 TOP10",
+    "assetId": "pvp-season-151-top010",
+    "order": 315120,
+    "description": "VENUSバトルシーズン151で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-151-top100",
+    "name": "VENUSシーズン151 TOP100",
+    "assetId": "pvp-season-151-top100",
+    "order": 315130,
+    "description": "VENUSバトルシーズン151で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
