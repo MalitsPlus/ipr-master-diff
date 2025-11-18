@@ -3780,6 +3780,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-25-1120",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -7644,6 +7656,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-25-1119",
+    "name": "炸裂！弾丸サーブ！！ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -9904,6 +9928,18 @@
     "name": "「とまどいメイド日和」専用ガチャチケット",
     "assetId": "gacha-ticket-just",
     "description": "「とまどいメイド日和」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-25-1119-01",
+    "name": "「炸裂！弾丸サーブ！！」専用ガチャチケット",
+    "assetId": "gacha-ticket-just",
+    "description": "「炸裂！弾丸サーブ！！」ガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "アイドル活動ミッション",
     "type": 8,
     "value": 1,
