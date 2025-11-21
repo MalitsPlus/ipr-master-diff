@@ -192,6 +192,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-chs-25-1122",
+    "name": "白石千紗 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は千紗の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "有名女優の自伝",
+        "advAssetId": "hbd_05_chs_01"
+      },
+      {
+        "index": 2,
+        "text": "高級ウールの毛糸",
+        "advAssetId": "hbd_05_chs_02"
+      },
+      {
+        "index": 3,
+        "text": "猫キャラのシャツ",
+        "advAssetId": "hbd_05_chs_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-hrk-24-0103",
     "name": "佐伯遙子 誕生日2024",
     "advPlayTypes": [
@@ -3366,6 +3398,60 @@
     ],
     "advAssetIds": [
       "card_chs_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-chs-05-birt-02-01",
+    "name": "10カワだよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_chs_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-chs-05-birt-02-02",
+    "name": "ちょっと\n照れちゃう\nけど",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_chs_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-chs-05-birt-02-03",
+    "name": "みんなと\n出会えた\n奇跡に",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_chs_53_03"
     ],
     "sectionName": "",
     "description": "",

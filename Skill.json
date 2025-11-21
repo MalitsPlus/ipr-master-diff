@@ -26947,6 +26947,468 @@
     "assetId": ""
   },
   {
+    "id": "sk-chs-05-birt-02-1",
+    "name": "怜ちゃんの手作り怪談",
+    "categoryType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "description": "1000%のスコア獲得、80コンボ以下の時スコア獲得倍率が1770%に上昇\nスタミナ589消費 ",
+        "shortDescription": "\nスタミナ589消費 ",
+        "stamina": 589,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-10000-tg-combo_less_equal-80-17700-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "1080%のスコア獲得、80コンボ以下の時スコア獲得倍率が1920%に上昇\nスタミナ638消費 ",
+        "shortDescription": "\nスタミナ638消費 ",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 638,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-10800-tg-combo_less_equal-80-19200-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "1160%のスコア獲得、80コンボ以下の時スコア獲得倍率が2070%に上昇\nスタミナ686消費 ",
+        "shortDescription": "\nスタミナ686消費 ",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 686,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-11600-tg-combo_less_equal-80-20700-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "1330%のスコア獲得、80コンボ以下の時スコア獲得倍率が2370%に上昇\nスタミナ786消費 ",
+        "shortDescription": "\nスタミナ786消費 ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 786,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-13300-tg-combo_less_equal-80-23700-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "1490%のスコア獲得、80コンボ以下の時スコア獲得倍率が2650%に上昇\nスタミナ880消費 ",
+        "shortDescription": "\nスタミナ880消費 ",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 880,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-14900-tg-combo_less_equal-80-26500-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "1660%のスコア獲得、80コンボ以下の時スコア獲得倍率が2960%に上昇\nスタミナ982消費 ",
+        "shortDescription": "\nスタミナ982消費 ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 982,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_trigger-16600-tg-combo_less_equal-80-29600-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": "sk-chs-05-birt-02-1"
+  },
+  {
+    "id": "sk-chs-05-birt-02-2",
+    "name": "もっと美味しくなるように",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "360%のスコア獲得 \n自身がダンスレーンの時 自身に4段階の集目効果[20ビート]と3段階テンションUP効果[20ビート] \nスタミナ115消費 CT:30",
+        "shortDescription": "\n \n \nスタミナ115消費 CT:30",
+        "stamina": 115,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-4-target-self-20",
+            "triggerId": "tg-position_attribute_dance"
+          },
+          {
+            "efficacyId": "ef-tension_up-3-target-self-20",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "370%のスコア獲得\n自身がダンスレーンの時 自身に4段階の集目効果[24ビート]と3段階テンションUP効果[24ビート] \nスタミナ121消費 CT:30",
+        "shortDescription": "\n \n \nスタミナ121消費 CT:30",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 121,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-4-target-self-24",
+            "triggerId": "tg-position_attribute_dance"
+          },
+          {
+            "efficacyId": "ef-tension_up-3-target-self-24",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "380%のスコア獲得\n自身がダンスレーンの時 自身に4段階の集目効果[28ビート]と3段階テンションUP効果[28ビート]\nスタミナ126消費 CT:30",
+        "shortDescription": "\n \n \nスタミナ126消費 CT:30",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 126,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-4-target-self-28",
+            "triggerId": "tg-position_attribute_dance"
+          },
+          {
+            "efficacyId": "ef-tension_up-3-target-self-28",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "390%のスコア獲得 \n自身がダンスレーンの時 自身に5段階の集目効果[28ビート]と4段階テンションUP効果[28ビート]\nスタミナ135消費 CT:30",
+        "shortDescription": "\n \n \nスタミナ135消費 CT:30",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 135,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-5-target-self-28",
+            "triggerId": "tg-position_attribute_dance"
+          },
+          {
+            "efficacyId": "ef-tension_up-4-target-self-28",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "400%のスコア獲得 \n自身がダンスレーンの時 自身に5段階の集目効果[32ビート]と4段階テンションUP効果[32ビート]\nスタミナ142消費 CT:30",
+        "shortDescription": "\n \n \nスタミナ142消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 142,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-5-target-self-32",
+            "triggerId": "tg-position_attribute_dance"
+          },
+          {
+            "efficacyId": "ef-tension_up-4-target-self-32",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "420%のスコア獲得 \n自身がダンスレーンの時 自身に5段階の集目効果[36ビート]と4段階テンションUP効果[36ビート]\nスタミナ151消費 CT:30",
+        "shortDescription": "\n \n \nスタミナ151消費 CT:30",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 151,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-5-target-self-36",
+            "triggerId": "tg-position_attribute_dance"
+          },
+          {
+            "efficacyId": "ef-tension_up-4-target-self-36",
+            "triggerId": "tg-position_attribute_dance"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-chs-05-birt-02-3",
+    "name": "全力絶対バースデー！",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身に4段階ダンス上昇効果[22ビート]\n 80コンボ以下の時 自身に5段階クリティカル係数上昇効果[22ビート]と5段階クリティカル率上昇効果[22ビート]\nスタミナ166消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ166消費 CT:50",
+        "stamina": 166,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-4-target-self-22",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-5-target-self-22",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-5-target-self-22",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身に4段階ダンス上昇効果[25ビート] \n80コンボ以下の時 自身に5段階クリティカル係数上昇効果[25ビート]と5段階クリティカル率上昇効果[25ビート]\nスタミナ189消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ189消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 189,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-4-target-self-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-5-target-self-25",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-5-target-self-25",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身に4段階ダンス上昇効果[28ビート] \n80コンボ以下の時 自身に5段階クリティカル係数上昇効果[28ビート]と5段階クリティカル率上昇効果[28ビート]\nスタミナ212消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ212消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 212,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-4-target-self-28",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-5-target-self-28",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-5-target-self-28",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身に5段階ダンス上昇効果[28ビート] \n80コンボ以下の時 自身に6段階クリティカル係数上昇効果[28ビート]と6段階クリティカル率上昇効果[28ビート]\nスタミナ258消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ258消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 258,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-self-28",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-6-target-self-28",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-6-target-self-28",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身に5段階ダンス上昇効果[31ビート] \n80コンボ以下の時 自身に6段階クリティカル係数上昇効果[31ビート]と6段階クリティカル率上昇効果[31ビート]\nスタミナ286消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ286消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 286,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-self-31",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-6-target-self-31",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-6-target-self-31",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身に5段階ダンス上昇効果[35ビート] \n80コンボ以下の時 自身に6段階クリティカル係数上昇効果[35ビート]と6段階クリティカル率上昇効果[35ビート]\nスタミナ322消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ322消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 322,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-5-target-self-35",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-6-target-self-35",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-critical_rate_up-6-target-self-35",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-chs-05-chia-00-1",
     "name": "フレー、フレー！",
     "categoryType": 1,
