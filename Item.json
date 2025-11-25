@@ -1140,6 +1140,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_gold-25-1126",
+    "name": "すごろくコイン",
+    "assetId": "gold-dice",
+    "description": "マップ内のショップでアイテムを購入することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_medal-24-0404",
     "name": "すごろくメダル",
     "assetId": "medal-dice",
@@ -1236,6 +1248,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_medal-25-1126",
+    "name": "すごろくメダル",
+    "assetId": "medal-dice",
+    "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_stamina_recovery-24-0404",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
@@ -1321,6 +1345,18 @@
   },
   {
     "id": "item-dice_stamina_recovery-25-1006",
+    "name": "すごろくキャンディ",
+    "assetId": "dice-stamina-recovery",
+    "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント、ファンイベント、プロモーション など",
+    "type": 3001,
+    "value": 10,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-dice_stamina_recovery-25-1126",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
     "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
@@ -2188,6 +2224,18 @@
     "name": "初音ミクコラボ衣装メダル",
     "assetId": "medal-dress-25-0825",
     "description": "初音ミクコラボ衣装メダル交換所で様々なアイテムと交換できる 期限を過ぎるとメダルは消失します",
+    "howToGet": "ログボ、ギフト",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-collaboration-medal-25-1126",
+    "name": "To LOVEるコラボ衣装メダル",
+    "assetId": "medal_collaboration",
+    "description": "To LOVEるコラボ衣装メダル交換所で様々なアイテムと交換できる\n期限を過ぎるとメダルは消失します",
     "howToGet": "ログボ、ギフト",
     "type": 10,
     "value": 1,
@@ -3792,6 +3840,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-25-1130",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -5008,6 +5068,18 @@
     "name": "絆覚醒限定グッズメダル",
     "assetId": "medal-gacha-link-medal",
     "description": "絆覚醒限定グッズ交換所でグッズと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「絆シリーズ ～世界で一番大好きな親友～」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-1126",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「共演！宇宙のプリンセス達Ⅰ」など",
     "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
@@ -6854,6 +6926,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-25-1107",
     "name": "絆シリーズ \n～世界で一番大好きな親友～ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-1126",
+    "name": "共演！宇宙のプリンセス達ⅠガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -9194,6 +9278,18 @@
   {
     "id": "item-gacha_point-rev-select-01-25-1107",
     "name": "復刻選べる絆シリーズガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-25-1129",
+    "name": "選べる★5アイドルガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -12408,6 +12504,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-photo_contest_create-25-1126",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -14343,6 +14451,30 @@
     "id": "item-shop-gacha-ticket-10-r5-25-1107-01",
     "name": "絆シリーズ ～世界で一番大好きな親友～1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-1126-01",
+    "name": "共演！宇宙のプリンセス達Ⅰ1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-1226-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-25-1204-01",
+    "name": "共演！宇宙のプリンセス達Ⅱ1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-1230-01",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
     "type": 8,

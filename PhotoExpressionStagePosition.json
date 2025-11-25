@@ -1,5 +1,257 @@
 [
   {
+    "stageId": "photo_studio-03-000-noon",
+    "number": 1,
+    "name": "地点A",
+    "possiblePhotoPoseType": 1,
+    "initialPhotoPoseId": "photo-pose-standing-default",
+    "characterPositions": [
+      0.0,
+      0.0,
+      -2.11
+    ],
+    "characterAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "cameraPositions": [
+      0.0,
+      1.406,
+      -0.333
+    ],
+    "cameraAngles": [
+      7.02,
+      180.0,
+      0.0
+    ],
+    "upperLimit": 2.0,
+    "lowerLimit": 0.2,
+    "previewCameraPositions": [
+      0.0,
+      1.406,
+      -0.333
+    ],
+    "previewCameraAngles": [
+      7.02,
+      180.0,
+      0.0
+    ],
+    "previewUpperLimit": 2.0,
+    "previewLowerLimit": 0.2,
+    "lookEffectAssetId": "lok_pose_common-00_00"
+  },
+  {
+    "stageId": "photo_studio-03-000-noon",
+    "number": 2,
+    "name": "地点B",
+    "possiblePhotoPoseType": 2,
+    "initialPhotoPoseId": "photo-pose-sitting-default",
+    "characterPositions": [
+      0.24,
+      0.0,
+      -2.479
+    ],
+    "characterAngles": [
+      0.0,
+      0.004,
+      0.0
+    ],
+    "cameraPositions": [
+      0.148,
+      0.893,
+      -1.135
+    ],
+    "cameraAngles": [
+      3.561,
+      175.221,
+      0.0
+    ],
+    "upperLimit": 2.0,
+    "lowerLimit": 0.2,
+    "previewCameraPositions": [
+      0.148,
+      0.893,
+      -1.135
+    ],
+    "previewCameraAngles": [
+      3.561,
+      175.221,
+      0.0
+    ],
+    "previewUpperLimit": 2.0,
+    "previewLowerLimit": 0.2,
+    "lookEffectAssetId": "lok_pose_common-00_00"
+  },
+  {
+    "stageId": "photo_studio-03-000-noon",
+    "number": 3,
+    "name": "地点C",
+    "possiblePhotoPoseType": 3,
+    "initialPhotoPoseId": "photo-pose-lying-default-pool",
+    "characterPositions": [
+      0.028,
+      0.364,
+      -2.609
+    ],
+    "characterAngles": [
+      0.0,
+      117.246,
+      0.0
+    ],
+    "cameraPositions": [
+      -0.551,
+      0.665,
+      -0.917
+    ],
+    "cameraAngles": [
+      3.516,
+      172.528,
+      0.0
+    ],
+    "upperLimit": 2.0,
+    "lowerLimit": 0.2,
+    "previewCameraPositions": [
+      -0.551,
+      0.665,
+      -0.917
+    ],
+    "previewCameraAngles": [
+      3.516,
+      172.528,
+      0.0
+    ],
+    "previewUpperLimit": 2.0,
+    "previewLowerLimit": 0.2,
+    "lookEffectAssetId": "lok_pose_common-00_00"
+  },
+  {
+    "stageId": "photo_studio-04-001-noon",
+    "number": 1,
+    "name": "地点A",
+    "possiblePhotoPoseType": 1,
+    "initialPhotoPoseId": "photo-pose-standing-default",
+    "characterPositions": [
+      0.0,
+      0.0,
+      -2.11
+    ],
+    "characterAngles": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "cameraPositions": [
+      0.0,
+      1.406,
+      -0.333
+    ],
+    "cameraAngles": [
+      7.02,
+      180.0,
+      0.0
+    ],
+    "upperLimit": 2.0,
+    "lowerLimit": 0.2,
+    "previewCameraPositions": [
+      0.0,
+      1.406,
+      -0.333
+    ],
+    "previewCameraAngles": [
+      7.02,
+      180.0,
+      0.0
+    ],
+    "previewUpperLimit": 2.0,
+    "previewLowerLimit": 0.2,
+    "lookEffectAssetId": "lok_pose_common-00_00"
+  },
+  {
+    "stageId": "photo_studio-04-001-noon",
+    "number": 2,
+    "name": "地点B",
+    "possiblePhotoPoseType": 2,
+    "initialPhotoPoseId": "photo-pose-sitting-default",
+    "characterPositions": [
+      0.24,
+      0.0,
+      -2.479
+    ],
+    "characterAngles": [
+      0.0,
+      0.004,
+      0.0
+    ],
+    "cameraPositions": [
+      0.148,
+      0.893,
+      -1.135
+    ],
+    "cameraAngles": [
+      3.561,
+      175.221,
+      0.0
+    ],
+    "upperLimit": 2.0,
+    "lowerLimit": 0.2,
+    "previewCameraPositions": [
+      0.148,
+      0.893,
+      -1.135
+    ],
+    "previewCameraAngles": [
+      3.561,
+      175.221,
+      0.0
+    ],
+    "previewUpperLimit": 2.0,
+    "previewLowerLimit": 0.2,
+    "lookEffectAssetId": "lok_pose_common-00_00"
+  },
+  {
+    "stageId": "photo_studio-04-001-noon",
+    "number": 3,
+    "name": "地点C",
+    "possiblePhotoPoseType": 3,
+    "initialPhotoPoseId": "photo-pose-lying-default-pool",
+    "characterPositions": [
+      0.028,
+      0.364,
+      -2.609
+    ],
+    "characterAngles": [
+      0.0,
+      117.246,
+      0.0
+    ],
+    "cameraPositions": [
+      -0.551,
+      0.665,
+      -0.917
+    ],
+    "cameraAngles": [
+      3.516,
+      172.528,
+      0.0
+    ],
+    "upperLimit": 2.0,
+    "lowerLimit": 0.2,
+    "previewCameraPositions": [
+      -0.551,
+      0.665,
+      -0.917
+    ],
+    "previewCameraAngles": [
+      3.516,
+      172.528,
+      0.0
+    ],
+    "previewUpperLimit": 2.0,
+    "previewLowerLimit": 0.2,
+    "lookEffectAssetId": "lok_pose_common-00_00"
+  },
+  {
     "stageId": "stage-photo-bedrock-00",
     "number": 1,
     "name": "地点A",

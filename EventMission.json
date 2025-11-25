@@ -275,6 +275,29 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-dice-25-1126",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-dice-25_1126",
+    "name": "すごろくミッション",
+    "order": 100,
+    "viewConditionId": "cd-dice-25-1126-exchange",
+    "missionIds": [
+      "event-ms-normal-25-1126-01-card_skill_level_up_count",
+      "event-ms-normal-25-1126-01-condition_clear-story-001",
+      "event-ms-normal-25-1126-01-condition_clear-story-002",
+      "event-ms-normal-25-1126-01-condition_clear-story-003",
+      "event-ms-normal-25-1126-01-dice_area_clear_count",
+      "event-ms-normal-25-1126-01-dice_panel_move_count",
+      "event-ms-normal-25-1126-01-market_exchange_count",
+      "event-ms-normal-25-1126-01-photo_reroll_count",
+      "event-ms-normal-25-1126-01-photo_shoot_count",
+      "event-ms-normal-25-1126-01-quest_daily_clear_count",
+      "event-ms-normal-25-1126-01-quest_pvp_play_count",
+      "event-ms-normal-25-1126-02-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-dream-23-0912",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-dream-defalut",
@@ -3336,6 +3359,24 @@
     ]
   },
   {
+    "id": "event-shelf-25-1126",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-25-1126",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-shelf-25-1126",
+    "unlockConditionId": "cd-shelf-25-1126-play",
+    "missionIds": [
+      "event-shelf-25-1126-photo-album-complete",
+      "event-shelf-25-1126-photo-album-creating",
+      "event-shelf-25-1126-photo-creating",
+      "event-shelf-25-1126-photo-save",
+      "event-shelf-25-1126-story-001",
+      "event-shelf-25-1126-story-002",
+      "event-shelf-25-1126-story-003"
+    ]
+  },
+  {
     "id": "event-tour-21-0630",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-tour-21-0630",
@@ -3635,6 +3676,27 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_clb-mission-25-1129",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-clb-mission-25-1129",
+    "name": "To LOVEる コラボミッション",
+    "order": 5,
+    "viewConditionId": "cd-time-event-ms-clb-25-1129-1214",
+    "missionIds": [
+      "event-ms-clb-25-1129-00-character_quest_all_clear_count",
+      "event-ms-clb-25-1129-00-character_start_activity_fan_event_count",
+      "event-ms-clb-25-1129-00-character_start_activity_promotion_count",
+      "event-ms-clb-25-1129-00-character_start_activity_refreshment_count",
+      "event-ms-clb-25-1129-00-company_character_use_obtain_enjoy_point_item_count",
+      "event-ms-clb-25-1129-00-condition_clear",
+      "event-ms-clb-25-1129-00-login_count",
+      "event-ms-clb-25-1129-00-photo_expression_shooting_specified_character_shoot_count",
+      "event-ms-clb-25-1129-00-photo_expression_shooting_specified_pose_shoot_count",
+      "event-ms-clb-25-1129-01-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event_comeback-mission-23-0428",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-comeback-mission",
@@ -3779,6 +3841,21 @@
       "event-ms-comeback-25-0225-mission_clear_count",
       "event-ms-comeback-25-0225-quest_all_clear_count",
       "event-ms-comeback-25-0225-quest_all_clear_count-goal"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_comeback-mission-25-1126",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-comeback-mission-25-1107",
+    "name": "カムバックミッション",
+    "order": 80,
+    "viewConditionId": "cd_shop_comeback-shop-limited-25-1126-mission-view",
+    "missionIds": [
+      "event-ms-comeback-25-1126-login_count",
+      "event-ms-comeback-25-1126-mission_clear_count",
+      "event-ms-comeback-25-1126-quest_all_clear_count",
+      "event-ms-comeback-25-1126-quest_all_clear_count-goal"
     ],
     "unlockConditionId": ""
   },
@@ -4609,6 +4686,21 @@
       "event-ms-idoly-pride-day-mission-25-1120-mission_clear_count",
       "event-ms-idoly-pride-day-mission-25-1120-photo_shoot_count",
       "event-ms-idoly-pride-day-mission-25-1120-quest-daily-clear-count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_idoly-pride-day-mission-25-1130",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_campaign-25-0110-ip-day",
+    "name": "本日限定！0のつく日はアイプラの日！",
+    "order": 10,
+    "viewConditionId": "cd-time-market-discount-day-25-1130",
+    "missionIds": [
+      "event-ms-idoly-pride-day-mission-25-1130-login",
+      "event-ms-idoly-pride-day-mission-25-1130-mission_clear_count",
+      "event-ms-idoly-pride-day-mission-25-1130-photo_shoot_count",
+      "event-ms-idoly-pride-day-mission-25-1130-quest-daily-clear-count"
     ],
     "unlockConditionId": ""
   },
@@ -5685,6 +5777,20 @@
       "event-ms-sp-beginner-25-0225-00-clear-area-main-005",
       "event-ms-sp-beginner-25-0225-00-clear-area-main-010",
       "event-ms-sp-beginner-25-0225-00-clear-area-main-015"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_sp-beginner-mission-25-1126",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-sp-beginner-mission",
+    "name": "期間限定！スペシャルビギナーミッション",
+    "order": 20,
+    "viewConditionId": "cd-time-event-ms-sp-beginner-25-1126-0104",
+    "missionIds": [
+      "event-ms-sp-beginner-25-1126-00-clear-area-main-005",
+      "event-ms-sp-beginner-25-1126-00-clear-area-main-010",
+      "event-ms-sp-beginner-25-1126-00-clear-area-main-015"
     ],
     "unlockConditionId": ""
   },

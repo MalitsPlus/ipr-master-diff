@@ -11,10 +11,11 @@
       "idol-miku",
       "kion",
       "pajm",
-      "hruh"
+      "hruh",
+      "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 5,
+    "order": 15,
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -42,10 +43,11 @@
       "kion",
       "idol",
       "pajm",
-      "hruh"
+      "hruh",
+      "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 6,
+    "order": 16,
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -68,7 +70,7 @@
       "mizg"
     ],
     "forceCostumeTypeId": "mizg",
-    "order": 1,
+    "order": 11,
     "viewConditionId": "cd-photo_expression_shooting-bedrockbath",
     "impossibleShootingCharacterIds": [
       "char-mku",
@@ -83,7 +85,56 @@
       "photo-pose-lying-default-lesson",
       "photo-pose-lying-relax-lesson",
       "photo-pose-lying-default-pool",
-      "photo-pose-lying-down-pool"
+      "photo-pose-lying-down-pool",
+      "photo-pose-25-1126-02"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-christmas",
+    "name": "クリスマス撮影",
+    "thumbnailAssetId": "trbl-00",
+    "stageId": "photo_studio-03-000-noon",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion",
+      "waso",
+      "pajm",
+      "hruh",
+      "trbl",
+      "trbl-mizg"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 1,
+    "viewConditionId": "cd-photo_expression_shooting-1214",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-bedrockbath-naturally",
+      "photo-pose-bedrockbath-relax",
+      "photo-pose-bedrockbath-new",
+      "photo-pose-bedrockbath-lying",
+      "photo-pose-25-0718-moon",
+      "photo-pose-25-0718-sun",
+      "photo-pose-25-0718-tri",
+      "photo-pose-25-0718-liz",
+      "photo-pose-25-0718-thrx",
+      "photo-pose-25-0718-mna",
+      "photo-pose-lying-default-lesson",
+      "photo-pose-lying-default-pool",
+      "photo-pose-lying-relax-lesson"
     ],
     "unlockConditionId": ""
   },
@@ -101,10 +152,11 @@
       "kion",
       "waso",
       "pajm",
-      "hruh"
+      "hruh",
+      "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 3,
+    "order": 13,
     "viewConditionId": "cd-time-photo-garden-02-01",
     "impossibleShootingCharacterIds": [
       "char-mku",
@@ -132,10 +184,11 @@
       "idol",
       "waso",
       "pajm",
-      "hruh"
+      "hruh",
+      "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 1,
+    "order": 11,
     "viewConditionId": "cd-photo_expression_shooting-0318",
     "unlockConditionId": "",
     "impossibleShootingCharacterIds": [],
@@ -158,10 +211,12 @@
       "trng",
       "waso",
       "pajm",
-      "hruh"
+      "hruh",
+      "trbl",
+      "trbl-mizg"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 4,
+    "order": 14,
     "viewConditionId": "cd-time-photo-lesson-00-01",
     "impossibleShootingCharacterIds": [
       "char-mku",
@@ -184,7 +239,8 @@
       "photo-pose-bedrockbath-naturally",
       "photo-pose-bedrockbath-relax",
       "photo-pose-bedrockbath-new",
-      "photo-pose-bedrockbath-lying"
+      "photo-pose-bedrockbath-lying",
+      "photo-pose-25-1126-02"
     ],
     "unlockConditionId": ""
   },
@@ -195,10 +251,11 @@
     "stageId": "stage-photo-expression-pool-00",
     "costumeTypeIds": [
       "mizg",
-      "mizg-water-ng"
+      "mizg-water-ng",
+      "trbl-mizg"
     ],
     "forceCostumeTypeId": "mizg",
-    "order": 2,
+    "order": 12,
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -214,7 +271,8 @@
       "photo-pose-bedrockbath-naturally",
       "photo-pose-bedrockbath-relax",
       "photo-pose-bedrockbath-new",
-      "photo-pose-bedrockbath-lying"
+      "photo-pose-bedrockbath-lying",
+      "photo-pose-25-1126-02"
     ],
     "viewConditionId": "",
     "unlockConditionId": ""
@@ -248,6 +306,51 @@
     ],
     "impossiblePhotoPoseIds": [
       "photo-pose-lying-default-lesson",
+      "photo-pose-lying-relax-lesson"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-trbl",
+    "name": "クリスマス撮影",
+    "thumbnailAssetId": "trbl-01",
+    "stageId": "photo_studio-03-000-noon",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "waso",
+      "pajm",
+      "trbl",
+      "trbl-mizg"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 1,
+    "viewConditionId": "cd-photo_expression_shooting-1126",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-bedrockbath-naturally",
+      "photo-pose-bedrockbath-relax",
+      "photo-pose-bedrockbath-new",
+      "photo-pose-bedrockbath-lying",
+      "photo-pose-25-0718-moon",
+      "photo-pose-25-0718-sun",
+      "photo-pose-25-0718-tri",
+      "photo-pose-25-0718-liz",
+      "photo-pose-25-0718-thrx",
+      "photo-pose-25-0718-mna",
+      "photo-pose-lying-default-lesson",
+      "photo-pose-lying-default-pool",
       "photo-pose-lying-relax-lesson"
     ],
     "unlockConditionId": ""

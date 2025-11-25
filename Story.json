@@ -6270,6 +6270,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-kkr-05-trbl-00-01",
+    "name": "邪な視線を\n察知っ！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_14_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-trbl-00-02",
+    "name": "モモちゃん\nへの悪戯計画",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_14_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-trbl-00-03",
+    "name": "モモちゃん\nめぇ～！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_14_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-kkr-05-vlnt-00-01",
     "name": "零れる弱音",
     "rewardId": "rd_auto;stone;;30",
@@ -12956,6 +13010,60 @@
     ],
     "advAssetIds": [
       "card_rui_11_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rui-05-trbl-01-01",
+    "name": "入れ\n替わってる\nーー！？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_13_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rui-05-trbl-01-02",
+    "name": "たい焼きが\n好きみたいで",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_13_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rui-05-trbl-01-03",
+    "name": "覚えてて\nほしいな、\nなんて",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rui_13_03"
     ],
     "sectionName": "",
     "description": "",
@@ -25708,6 +25816,75 @@
     ],
     "sectionName": "",
     "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2512-dice-001",
+    "name": "突然の\nトラブル！",
+    "description": "クリスマスのイベントに向けて練習を重ねる、莉央、瑠依、怜、こころ、すみれの五人。だがそんな時、突如として空中から何かが降ってきて――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2512_01_01"
+    ],
+    "additionalDisplayCharacterIds": [
+      "char-momo",
+      "char-lala",
+      "char-yami",
+      "char-kyui"
+    ],
+    "sectionName": "",
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2512-dice-002",
+    "name": "プリンセス\nと共同生活",
+    "description": "帰る方法が見つかるまで、寮で一緒に暮らすことになったララ達。ただ、あまりにも不思議で個性的な彼女達によって、様々なトラブルが巻き起こり――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2512_01_02"
+    ],
+    "additionalDisplayCharacterIds": [
+      "char-momo",
+      "char-lala",
+      "char-yami",
+      "char-kyui"
+    ],
+    "sectionName": "",
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2512-dice-003",
+    "name": "聖夜の\n発明品",
+    "description": "ついに帰る方法を見つけたララ達。その方法は、なんとライブによって発生した熱気や想いをエネルギーに変換し、集めるというものだった。そのためには、衣装を改造する必要があるようで――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2512_01_03"
+    ],
+    "additionalDisplayCharacterIds": [
+      "char-momo",
+      "char-lala",
+      "char-yami",
+      "char-kyui"
+    ],
+    "sectionName": "",
     "branchFirstText": "",
     "branchCautionText": "",
     "branchBgmAssetId": "",
@@ -45010,6 +45187,60 @@
     ],
     "advAssetIds": [
       "event_2511_01_05"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-25-1126-001-001",
+    "name": "突然の\nトラブル！",
+    "description": "クリスマスのイベントに向けて練習を重ねる、莉央、瑠依、怜、こころ、すみれの五人。だがそんな時、突如として空中から何かが降ってきて――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2512_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-25-1126-001-002",
+    "name": "プリンセス\nと共同生活",
+    "description": "帰る方法が見つかるまで、寮で一緒に暮らすことになったララ達。ただ、あまりにも不思議で個性的な彼女達によって、様々なトラブルが巻き起こり――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2512_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-25-1126-001-003",
+    "name": "聖夜の\n発明品",
+    "description": "ついに帰る方法を見つけたララ達。その方法は、なんとライブによって発生した熱気や想いをエネルギーに変換し、集めるというものだった。そのためには、衣装を改造する必要があるようで――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2512_01_03"
     ],
     "sectionName": "",
     "rewardId": "",

@@ -5258,6 +5258,120 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-affect_strength_effect_count_increase-stamina_consumption_reduction_recipe_distribution-5",
+    "name": "与・消費スタ減延長",
+    "description": "付与する消費スタミナ低下効果を{0}延長します",
+    "abilityType": 30,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 19
+      },
+      {
+        "level": 145,
+        "value": 19
+      },
+      {
+        "level": 150,
+        "value": 19
+      },
+      {
+        "level": 155,
+        "value": 19
+      },
+      {
+        "level": 160,
+        "value": 19
+      },
+      {
+        "level": 165,
+        "value": 19
+      },
+      {
+        "level": 170,
+        "value": 19
+      },
+      {
+        "level": 175,
+        "value": 19
+      },
+      {
+        "level": 180,
+        "value": 19
+      },
+      {
+        "level": 185,
+        "value": 19
+      },
+      {
+        "level": 190,
+        "value": 19
+      },
+      {
+        "level": 195,
+        "value": 19
+      },
+      {
+        "level": 200,
+        "value": 19
+      },
+      {
+        "level": 205,
+        "value": 19
+      },
+      {
+        "level": 210,
+        "value": 19
+      },
+      {
+        "level": 215,
+        "value": 19
+      },
+      {
+        "level": 220,
+        "value": 19
+      },
+      {
+        "level": 225,
+        "value": 19
+      },
+      {
+        "level": 230,
+        "value": 19
+      },
+      {
+        "level": 235,
+        "value": 19
+      },
+      {
+        "level": 240,
+        "value": 19
+      },
+      {
+        "level": 245,
+        "value": 19
+      },
+      {
+        "level": 250,
+        "value": 19
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "statusEffectType": 9,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-affect_strength_effect_count_increase-tension_up_recipe_distribution-5",
     "name": "与・テンション延長",
     "description": "付与するテンションUP効果を{0}延長します",

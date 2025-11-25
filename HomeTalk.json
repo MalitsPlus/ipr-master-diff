@@ -3803,6 +3803,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-kkr-05-trbl-00-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-trbl-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-trbl-00",
+    "choiceText": "誰だろう？",
+    "managerText": "誰だろう？",
+    "reliability": 5,
+    "title": "悪戯好きなサンタさん",
+    "displayConditionDescription": "悪戯好きなサンタさん 赤崎こころ\nストーリー3話を視聴",
+    "order": 476,
+    "releaseDate": "1764126000000",
+    "characterTalks": [
+      {
+        "text": "ララさん、モモちゃんの、\nもう一人の姉妹で、モモちゃんとは\n双子なんだそうですよ。",
+        "voiceAssetId": "sud_vo_home_kkr-05-trbl-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "モモちゃんが植物と心を\n通わすように、ナナさんは\n動物と仲良しみたいなんです。",
+        "voiceAssetId": "sud_vo_home_kkr-05-trbl-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "しかもララさんの発明品を使って、\nその宇宙動物達を呼べるみたいで。\n一緒に遊べるそうなんですよ。",
+        "voiceAssetId": "sud_vo_home_kkr-05-trbl-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お友達のところに遊びに行ってて、\nワープには巻き込まれなかった\nみたいなんですが…",
+        "voiceAssetId": "sud_vo_home_kkr-05-trbl-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-007_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "ふふっ、こころ、ナナさんに\n会ってみたくなってきました！\nナナさんと仲良くなれば、きっと…",
+        "voiceAssetId": "sud_vo_home_kkr-05-trbl-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんを本物の\n猛獣で驚かせたり出来るかも…\n一緒に悪戯してみたいですね～。",
+        "voiceAssetId": "sud_vo_home_kkr-05-trbl-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-kkr-05-vlnt-00-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
@@ -9098,6 +9153,61 @@
         "text": "これからも、ファンのみなさんに\n還元出来るように、千紗やすみれ、\n渚達と一緒に、頑張りますね。",
         "voiceAssetId": "sud_vo_home_rui-05-sucu-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-rui-05-trbl-01-talk-01",
+    "characterId": "char-rui",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rui-05-trbl-01-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rui-05-trbl-01",
+    "choiceText": "瑠依、さっきからずっと\nお腹を触ってるみたいだけど、\n大丈夫か？　どこか痛いのか？　",
+    "managerText": "瑠依、さっきからずっと\nお腹を触ってるみたいだけど、\n大丈夫か？　どこか痛いのか？　",
+    "reliability": 5,
+    "title": "あなたと街を守るため",
+    "displayConditionDescription": "あなたと街を守るため 天動瑠依\nストーリー3話を視聴",
+    "order": 475,
+    "releaseDate": "1764126000000",
+    "characterTalks": [
+      {
+        "text": "{user}さん！？\nい、いつから見ていたんですか？\nいえ、あの、その…",
+        "voiceAssetId": "sud_vo_home_rui-05-trbl-01_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emb-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "実は、ララさんの料理が\n凄く美味しかったので、いくつか\nレシピを教えてもらったんです。",
+        "voiceAssetId": "sud_vo_home_rui-05-trbl-01_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-007_in"
+      },
+      {
+        "text": "それで、寮で夕食を食べる時、\n私が一品作って出してるんですけど\n…残っちゃうことが多くて。",
+        "voiceAssetId": "sud_vo_home_rui-05-trbl-01_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_sad-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それを毎回食べて、お腹一杯に\nなっちゃうから、最近、少し、その\n…ウエストが気になるような。",
+        "voiceAssetId": "sud_vo_home_rui-05-trbl-01_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emb-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私の思い過ごしならいいんですけど\nうぅ…そんな訳ないですよね。\n本当に気をつけないと…",
+        "voiceAssetId": "sud_vo_home_rui-05-trbl-01_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…料理する回数か量を\n再検討してみます。\n食べ過ぎの自覚はあるので…",
+        "voiceAssetId": "sud_vo_home_rui-05-trbl-01_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
         "additionMotionAssetId": ""
       }
     ],

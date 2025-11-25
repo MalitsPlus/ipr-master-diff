@@ -5130,6 +5130,57 @@
     "skillId4": ""
   },
   {
+    "id": "card-kkr-05-trbl-00",
+    "assetId": "kkr-05-trbl-00",
+    "name": "悪戯好きなサンタさん",
+    "description": "部屋で二人っきりになった瞬間\nモモちゃん、こ、こころを押し倒して……\n体中をくすぐってきたんです～！！",
+    "type": 1,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 321,
+    "danceRatioPermil": 284,
+    "visualRatioPermil": 425,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-trbl-00-1",
+    "skillId2": "sk-kkr-05-trbl-00-2",
+    "skillId3": "sk-kkr-05-trbl-00-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 526,
+    "releaseDate": "1764126000000",
+    "rewardCostumeId": "cos-kkr-trbl-00",
+    "obtainMessage": "むきゃああああ！！　モモちゃんめぇ～！",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-trbl-00-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-trbl-00-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-trbl-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-trbl-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-trbl-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kkr-05-vlnt-00",
     "assetId": "kkr-05-vlnt-00",
     "name": "ビタースイートメモリーズ",
@@ -13036,6 +13087,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-05-trbl-01",
+    "assetId": "rui-05-trbl-01",
+    "name": "あなたと街を守るため",
+    "description": "えっ、斬れた……このクナイの力……？\nいえ、違う、今のは……ヤミさん！",
+    "type": 2,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 272,
+    "danceRatioPermil": 408,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-trbl-01-1",
+    "skillId2": "sk-rui-05-trbl-01-2",
+    "skillId3": "sk-rui-05-trbl-01-3",
+    "activityAbilityId": "aab-lesson_manager_exp_up",
+    "order": 525,
+    "releaseDate": "1764126000000",
+    "rewardCostumeId": "cos-rui-trbl-01",
+    "obtainMessage": "ヤミさんの髪の毛って、凄いんですよ",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-trbl-01-01"
+      },
+      {
+        "storyId": "st-card-rui-05-trbl-01-02"
+      },
+      {
+        "storyId": "st-card-rui-05-trbl-01-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rui-05-trbl-01",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rui-05-trbl-01",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-vlnt-00",
     "assetId": "rui-05-vlnt-00",
     "name": "薔薇色の夕暮れに染まって",
@@ -15101,6 +15203,38 @@
     "skillId3": "sk-smr-02-eve-02-3",
     "order": 323,
     "releaseDate": "1698375600000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-smr-02-trbl-00",
+    "assetId": "smr-02-trbl-00",
+    "name": "宇宙一のクリスマスライブ",
+    "description": "次の曲は彼女達と一緒に歌います\n私達からのクリスマスの贈り物、聴いて下さい",
+    "type": 3,
+    "characterId": "char-smr",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 407,
+    "danceRatioPermil": 333,
+    "visualRatioPermil": 290,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-02-trbl-00-1",
+    "skillId2": "sk-smr-02-trbl-00-2",
+    "skillId3": "sk-smr-02-trbl-00-3",
+    "order": 529,
+    "releaseDate": "1764126000000",
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
