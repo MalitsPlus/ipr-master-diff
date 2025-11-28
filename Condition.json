@@ -264923,6 +264923,56 @@
     ]
   },
   {
+    "id": "cd-time-music-unit-010-25-1128",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1764298800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-unit-010-25-1128-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1764298800000",
+          "nowBefore": "1764601199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-unit-010-25-1128-close-shoot",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1764298800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-unit-010-25-1128-showcase-music",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1764298800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-music-unit-011-25-0426",
     "settings": [
       {
