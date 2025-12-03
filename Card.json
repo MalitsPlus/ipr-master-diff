@@ -11093,6 +11093,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-rei-05-trbl-00",
+    "assetId": "rei-05-trbl-00",
+    "name": "リボンなんてハレンチな！",
+    "description": "飾り付けたいって、私達を飾り付けたいって\n意味だったんですね！？",
+    "type": 2,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 313,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 408,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-trbl-00-1",
+    "skillId2": "sk-rei-05-trbl-00-2",
+    "skillId3": "sk-rei-05-trbl-00-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 528,
+    "releaseDate": "1764817200000",
+    "rewardCostumeId": "cos-rei-trbl-00",
+    "obtainMessage": "何をどうしたら\nこんな絡まり方をするんですか！",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-trbl-00-01"
+      },
+      {
+        "storyId": "st-card-rei-05-trbl-00-02"
+      },
+      {
+        "storyId": "st-card-rei-05-trbl-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-trbl-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-trbl-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-05-wedd-00",
     "assetId": "rei-05-wedd-00",
     "name": "花香る二人の未来",
@@ -12143,6 +12194,57 @@
     "skillId4": "",
     "stories": [],
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-05-trbl-00",
+    "assetId": "rio-05-trbl-00",
+    "name": "聖夜の女王とプリンセス",
+    "description": "あの状況でも物怖じしないララは\n本当にアイドルが向いているかもしれないわね",
+    "type": 3,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 270,
+    "danceRatioPermil": 418,
+    "visualRatioPermil": 312,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-trbl-00-1",
+    "skillId2": "sk-rio-05-trbl-00-2",
+    "skillId3": "sk-rio-05-trbl-00-3",
+    "activityAbilityId": "aab-lesson_gold_up",
+    "order": 527,
+    "releaseDate": "1764817200000",
+    "rewardCostumeId": "cos-rio-trbl-00",
+    "obtainMessage": "彼女のライブが観れるのは\nきっと今回だけよ",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-trbl-00-01"
+      },
+      {
+        "storyId": "st-card-rio-05-trbl-00-02"
+      },
+      {
+        "storyId": "st-card-rio-05-trbl-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rio-05-trbl-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rio-05-trbl-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {

@@ -3852,6 +3852,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-25-1210",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -5080,6 +5092,18 @@
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「共演！宇宙のプリンセス達Ⅰ」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-25-1204",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「共演！宇宙のプリンセス達Ⅱ」など",
     "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
@@ -6938,6 +6962,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-25-1126",
     "name": "共演！宇宙のプリンセス達ⅠガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-25-1204",
+    "name": "共演！宇宙のプリンセス達ⅡガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -10601,6 +10637,18 @@
     "assetId": "marathon-raid-pt",
     "description": "マルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
     "howToGet": "マルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-ladder_pt_25-1205",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
     "type": 8001,
     "value": 1,
     "order": 100,

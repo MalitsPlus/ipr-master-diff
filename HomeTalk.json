@@ -7991,6 +7991,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-rei-05-trbl-00-talk-01",
+    "characterId": "char-rei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rei-05-trbl-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rei-05-trbl-00",
+    "choiceText": "今度は何があったんだ？",
+    "managerText": "今度は何があったんだ？",
+    "reliability": 5,
+    "title": "リボンなんてハレンチな！",
+    "displayConditionDescription": "リボンなんてハレンチな！ 一ノ瀬怜\nストーリー3話を視聴",
+    "order": 478,
+    "releaseDate": "1764817200000",
+    "characterTalks": [
+      {
+        "text": "ララ達が帰ったのに、寮でまた、\nハレンチなことが起きたんです。",
+        "voiceAssetId": "sud_vo_home_rei-05-trbl-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_deny-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "遙子さんと庭に水を撒いていたら、\n急にホースが暴れて、もう全身\nずぶ濡れにされちゃったんですよ！",
+        "voiceAssetId": "sud_vo_home_rei-05-trbl-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "きっと、まだ何かが続いている\nんだわ。どこかに発明品が残ってて\nおかしなことになってるのかも…",
+        "voiceAssetId": "sud_vo_home_rei-05-trbl-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だから{user}さん、\n怪しい物を持っていないか\n調べさせて下さい！",
+        "voiceAssetId": "sud_vo_home_rei-05-trbl-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_ask-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ポケットの中だけじゃなく\n鞄や小物入れなんかも\n調べさせてもらいますから！",
+        "voiceAssetId": "sud_vo_home_rei-05-trbl-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "安心して、唯。\n唯の分まで、私が星見プロの\n風紀を守ってみせるから…！",
+        "voiceAssetId": "sud_vo_home_rei-05-trbl-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-006_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-rei-05-wedd-00-talk-01",
     "characterId": "char-rei",
     "placeType": 1,
@@ -8634,6 +8689,61 @@
         "voiceAssetId": "sud_vo_home_rio-05-past-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
         "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-rio-05-trbl-00-talk-01",
+    "characterId": "char-rio",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rio-05-trbl-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rio-05-trbl-00",
+    "choiceText": "感謝されるようなことは\n何もしていませんが…",
+    "managerText": "感謝されるようなことは\n何もしていませんが…",
+    "reliability": 5,
+    "title": "聖夜の女王とプリンセス",
+    "displayConditionDescription": "聖夜の女王とプリンセス 神崎莉央\nストーリー3話を視聴",
+    "order": 477,
+    "releaseDate": "1764817200000",
+    "characterTalks": [
+      {
+        "text": "こっちの世界で行き場のなかった\n自分達を、受け入れてくれて、\n嬉しかったそうよ。",
+        "voiceAssetId": "sud_vo_home_rio-05-trbl-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-016_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "…ララから聞いたんだけど\n彼女には一緒に暮らしている\n大好きな人がいるらしいわ。",
+        "voiceAssetId": "sud_vo_home_rio-05-trbl-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "その人は行き場のないララを\n受け入れてくれた、\nとても優しい人なんですって。",
+        "voiceAssetId": "sud_vo_home_rio-05-trbl-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もしかしたら、ララは貴方を見て\nその人を思い出したのかも\nしれないわね。",
+        "voiceAssetId": "sud_vo_home_rio-05-trbl-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "奔放なララのことだから、\n今頃きっと、その人を振り回して\n笑顔で過ごしているでしょうね。",
+        "voiceAssetId": "sud_vo_home_rio-05-trbl-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "自分の気持ちに正直で、素直に\n好きな人の胸に飛び込める…\nララがちょっとだけ羨ましいわ。",
+        "voiceAssetId": "sud_vo_home_rio-05-trbl-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
       }
     ],
     "cardId": ""

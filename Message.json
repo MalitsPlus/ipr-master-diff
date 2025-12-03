@@ -66898,6 +66898,471 @@
     "rarityType": 0
   },
   {
+    "id": "message-card-rei-05-trbl-00",
+    "messageGroupId": "message_group_rei",
+    "name": "「リボンなんてハレンチな！」",
+    "type": 1,
+    "characterId": "char-rei",
+    "unlockConditionId": "cd-st-read-st-card-rei-05-trbl-00-03",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-rei",
+        "text": "聞きたいことがあるのですが",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-rei",
+        "text": "急に聞かれても困りますよね",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-rei",
+        "text": "というか直接教えてもらった方が早いと思ったけど",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-rei",
+        "text": "もしかしてサプライズの方が良かったですか？",
+        "nextMessageDetailIds": [
+          "13-1",
+          "13-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13-1",
+        "text": "それはそれで楽しかったかも",
+        "choiceText": "それはそれで楽しかったかも",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13-2",
+        "text": "それも悪くなかったかもな",
+        "choiceText": "それも悪くなかったかもな",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-rei",
+        "text": "なるほど",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-rei",
+        "text": "{user}さんはプレゼントでドキドキしたかったと",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-rei",
+        "text": "ハレンチですね",
+        "nextMessageDetailIds": [
+          "17-1",
+          "17-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17-1",
+        "text": "待て待て待て",
+        "choiceText": "待て待て待て",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17-2",
+        "text": "曲解だそれは！",
+        "choiceText": "曲解だそれは！",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-rei",
+        "stampAssetId": "bear-wow",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-rei",
+        "text": "すみません",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-rei",
+        "text": "{user}さんは何かほしい物とかありますか？",
+        "nextMessageDetailIds": [
+          "3-1",
+          "3-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-rei",
+        "text": "またやってしまいました",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-rei",
+        "text": "それでどんなプレゼントがいいですか？",
+        "nextMessageDetailIds": [
+          "22-1",
+          "22-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22-1",
+        "text": "気持ちだけで十分だ",
+        "choiceText": "気持ちだけで十分だ",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22-2",
+        "text": "なんでも嬉しいよ",
+        "choiceText": "なんでも嬉しいよ",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23",
+        "characterId": "char-rei",
+        "text": "うーん、あんまり参考になりませんね",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-rei",
+        "text": "こっちでもう少し考えてみます",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25",
+        "characterId": "char-rei",
+        "text": "ハレンチな物は期待しないでくださいね！",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "3-1",
+        "text": "急にどうしたんだ？",
+        "choiceText": "急にどうしたんだ？",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-2",
+        "text": "ほしい物というと？",
+        "choiceText": "ほしい物というと？",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-rei",
+        "text": "はい",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-rei",
+        "text": "クリスマスが近いので何かプレゼントを用意しようと思っているので",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-rei",
+        "text": "今の内に確認しておこうと思いまして",
+        "nextMessageDetailIds": [
+          "7-1",
+          "7-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7-1",
+        "text": "ストレートに聞くところが怜らしいな",
+        "choiceText": "ストレートに聞くところが怜らしいな",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7-2",
+        "text": "すぐには思い浮かばないな",
+        "choiceText": "すぐには思い浮かばないな",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-rei",
+        "stampAssetId": "bear-impatience",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-rei",
+        "text": "すみません",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
     "id": "message-card-rei-05-wedd-00",
     "messageGroupId": "message_group_rei",
     "name": "「花香る二人の未来」",
@@ -72563,6 +73028,517 @@
         "nextMessageDetailIds": [
           "10-1",
           "10-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
+    "id": "message-card-rio-05-trbl-00",
+    "messageGroupId": "message_group_rio",
+    "name": "「聖夜の女王とプリンセス」",
+    "type": 1,
+    "characterId": "char-rio",
+    "unlockConditionId": "cd-st-read-st-card-rio-05-trbl-00-03",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-rio",
+        "text": "確認したいことがあるんだけど",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-rio",
+        "text": "いろいろあり過ぎて、本当に現実だったのか自信がなくなったのよ",
+        "nextMessageDetailIds": [
+          "11-1",
+          "11-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11-1",
+        "text": "全部現実ですよ",
+        "choiceText": "全部現実ですよ",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11-2",
+        "text": "触手は忘れて下さい",
+        "choiceText": "触手は忘れて下さい",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-rio",
+        "text": "私達、時空の狭間からよく無事に帰って来られたわよね",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-rio",
+        "text": "もしもあのまま帰れなかったら",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-rio",
+        "text": "{user}さんと二人きりで一生過ごすことになっていたのかしら",
+        "nextMessageDetailIds": [
+          "15-1",
+          "15-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-1",
+        "text": "二人きりなんて絶対ダメです！",
+        "choiceText": "二人きりなんて絶対ダメです！",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-2",
+        "text": "そんなことにはさせません！",
+        "choiceText": "そんなことにはさせません！",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-rio",
+        "text": "ふうん",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-rio",
+        "text": "そう",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-rio",
+        "text": "私と二人きりで過ごすのがそんなに嫌なの",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-rio",
+        "text": "別にいいけど",
+        "nextMessageDetailIds": [
+          "20-1",
+          "20-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-rio",
+        "text": "私達は時空の狭間にワープして閉じ込められたわよね？",
+        "nextMessageDetailIds": [
+          "3-1",
+          "3-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20-1",
+        "text": "莉央さんはみんなのアイドルですから",
+        "choiceText": "莉央さんはみんなのアイドルですから",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20-2",
+        "text": "大勢のファンが待っていますから",
+        "choiceText": "大勢のファンが待っていますから",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-rio",
+        "stampAssetId": "mouse-ok",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-rio",
+        "text": "貴方の言う通りね",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23",
+        "characterId": "char-rio",
+        "text": "一生ファンと交流出来ないなんてアイドルとしてあってはならないことだわ",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-rio",
+        "text": "無事に帰って来られて本当に良かった",
+        "nextMessageDetailIds": [
+          "25-1",
+          "25-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25-1",
+        "text": "俺が必ず莉央さんを助けます",
+        "choiceText": "俺が必ず莉央さんを助けます",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25-2",
+        "text": "莉央さんは俺が守ります",
+        "choiceText": "莉央さんは俺が守ります",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26",
+        "characterId": "char-rio",
+        "stampAssetId": "mouse-love",
+        "nextMessageDetailIds": [
+          "27"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27",
+        "characterId": "char-rio",
+        "text": "頼りにしているわ",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "3-1",
+        "text": "確かにワープしました",
+        "choiceText": "確かにワープしました",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-2",
+        "text": "閉じ込められました",
+        "choiceText": "閉じ込められました",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-rio",
+        "text": "やっぱりあれは現実よね",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-rio",
+        "text": "最近現実離れした出来事が多かったから、全部夢じゃないかと疑ってしまったわ",
+        "nextMessageDetailIds": [
+          "6-1",
+          "6-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6-1",
+        "text": "現実離れした出来事って？",
+        "choiceText": "現実離れした出来事って？",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6-2",
+        "text": "夢かと疑った出来事って？",
+        "choiceText": "夢かと疑った出来事って？",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-rio",
+        "text": "突然ワープしてきた宇宙人を寮に泊めたとか",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-rio",
+        "text": "尻尾の生えたプリンセスが裸で部屋を徘徊したとか",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-rio",
+        "text": "触手に襲われた貴方がハレンチな姿になったとか",
+        "nextMessageDetailIds": [
+          "10"
         ],
         "stampAssetId": "",
         "imageAssetId": "",
@@ -193875,6 +194851,4705 @@
         "messageDetailId": "9",
         "characterId": "char-suz",
         "text": "数の問題ではありませんわ！",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "unlockConditionId": ""
+  },
+  {
+    "id": "message-event-ladder-25-1205-01",
+    "messageGroupId": "message_group_ladder-25-1205",
+    "name": "「莉央さんVS瑠依さん？」",
+    "type": 1,
+    "characterId": "char-rio",
+    "rarityType": 3,
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-rio",
+        "text": "─莉央が{user}、こころ、怜、瑠依、すみれをグループに追加しました。─",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-kkr",
+        "text": "莉央さん",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-rio",
+        "text": "？",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-kkr",
+        "text": "アピール上手ですね～",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-rui",
+        "text": "{user}さん、私も何かあればいつでも手伝いますので声をかけてください",
+        "nextMessageDetailIds": [
+          "14-1",
+          "14-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14-1",
+        "text": "ありがとう",
+        "choiceText": "ありがとう",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14-2",
+        "text": "助かるよ",
+        "choiceText": "助かるよ",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-kkr",
+        "text": "お～っと～？\nここで瑠依さんも参戦！",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-kkr",
+        "text": "ほら！莉央さん！追加攻撃！",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-rio",
+        "text": "だから何がよ！",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-smr",
+        "text": "あの！",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-smr",
+        "text": "みんな忙しいですし、先に集まれる日程を調整しませんか？",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-rio",
+        "text": "打ち合わせお疲れ様",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-rei",
+        "text": "─怜が【スケジュール調整】を作成しました─",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-rei",
+        "text": "レッスンルームの空いてる日と時間をまとめたわ",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-kkr",
+        "text": "しごでき！！！！",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23",
+        "characterId": "char-kkr",
+        "text": "さあ、莉央さんと瑠依さんはどう動く！？",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-rio",
+        "text": "どうもこうもないわよ！",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25",
+        "characterId": "char-rui",
+        "text": "回答したわ",
+        "nextMessageDetailIds": [
+          "26-1",
+          "26-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26-1",
+        "text": "俺も回答したよ",
+        "choiceText": "俺も回答したよ",
+        "nextMessageDetailIds": [
+          "27"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26-2",
+        "text": "怜、ありがとう",
+        "choiceText": "怜、ありがとう",
+        "nextMessageDetailIds": [
+          "27"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27",
+        "characterId": "char-rei",
+        "text": "─{user}、怜、瑠依、莉央、すみれが【スケジュールを回答しました】─",
+        "nextMessageDetailIds": [
+          "28"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28",
+        "characterId": "char-kkr",
+        "text": "美味しいお土産（プリン希望）を持って{user}さんも練習見に来てくださいね～～",
+        "nextMessageDetailIds": [
+          "29"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "29",
+        "characterId": "char-smr",
+        "text": "あとこころちゃんだけだよ～！\n回答してくれると嬉しいな！",
+        "nextMessageDetailIds": [
+          "30"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3",
+        "characterId": "char-rio",
+        "text": "今後クリスマスイベントに向けてのやり取りはこのグループで行いましょう",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "30",
+        "characterId": "char-smr",
+        "text": "やるべきことはさっさとやっちゃおう！",
+        "nextMessageDetailIds": [
+          "31"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "31",
+        "characterId": "char-rio",
+        "text": "すみれって本当にしっかりしているわね",
+        "nextMessageDetailIds": [
+          "32"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "32",
+        "characterId": "char-rui",
+        "text": "ありがとうございます",
+        "nextMessageDetailIds": [
+          "33"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "33",
+        "characterId": "char-smr",
+        "text": "なんで瑠依ちゃんがお礼言ってるの！？",
+        "nextMessageDetailIds": [
+          "34"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "34",
+        "characterId": "char-rui",
+        "text": "うちのすみれは本当に良い子で。私もいつも助けられています",
+        "nextMessageDetailIds": [
+          "35"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "35",
+        "characterId": "char-rio",
+        "text": "うちのこころと年齢も１つしか違わないのに素晴らしいわ",
+        "nextMessageDetailIds": [
+          "36"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "36",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-love",
+        "nextMessageDetailIds": [
+          "37"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "37",
+        "characterId": "char-smr",
+        "text": "莉央さんに褒められると照れちゃいます",
+        "nextMessageDetailIds": [
+          "38"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "38",
+        "characterId": "char-rei",
+        "text": "─こころが【スケジュールを回答しました】─",
+        "nextMessageDetailIds": [
+          "39"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "39",
+        "characterId": "char-kkr",
+        "text": "いつの間にかこころの「偉い子ポイント」が急降下してる！？",
+        "nextMessageDetailIds": [
+          "40"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-rei",
+        "stampAssetId": "bear-bow",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "40",
+        "characterId": "char-kkr",
+        "stampAssetId": "naruto-impatience",
+        "nextMessageDetailIds": [
+          "41"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "41",
+        "characterId": "char-rio",
+        "text": "あなたが偉い子だったことなんてあるかしら？",
+        "nextMessageDetailIds": [
+          "42"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "42",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-wow",
+        "nextMessageDetailIds": [
+          "43"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "43",
+        "characterId": "char-kkr",
+        "text": "酷いです！こころはいつだって偉い子です！",
+        "nextMessageDetailIds": [
+          "44"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "44",
+        "characterId": "char-rei",
+        "text": "次みんなで集まれるのは、4日後の15時からかしら",
+        "nextMessageDetailIds": [
+          "45-1",
+          "45-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "45-1",
+        "text": "レッスンルームは押さえとくよ",
+        "choiceText": "レッスンルームは押さえとくよ",
+        "nextMessageDetailIds": [
+          "46"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "45-2",
+        "text": "時間があれば見に行くよ",
+        "choiceText": "時間があれば見に行くよ",
+        "nextMessageDetailIds": [
+          "46"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "46",
+        "characterId": "char-rio",
+        "text": "レッスンの前にまずはどんなイベントにするか軽く詳細を話し合いたいわよね",
+        "nextMessageDetailIds": [
+          "47"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "47",
+        "characterId": "char-smr",
+        "text": "私と瑠依ちゃん、明日の15時くらいからなら空いてます！",
+        "nextMessageDetailIds": [
+          "48"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "48",
+        "characterId": "char-rui",
+        "text": "レッスンルームは空いてないけれど、事務所で打ち合わせくらいなら出来そうよね",
+        "nextMessageDetailIds": [
+          "49"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "49",
+        "characterId": "char-rio",
+        "text": "私とこころも12時には仕事が終わると思うわ",
+        "nextMessageDetailIds": [
+          "50-1",
+          "50-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-ok",
+        "nextMessageDetailIds": [
+          "6-1",
+          "6-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "50-1",
+        "text": "怜はどうだ？",
+        "choiceText": "怜はどうだ？",
+        "nextMessageDetailIds": [
+          "51"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "50-2",
+        "text": "サニピはオフだったはず",
+        "choiceText": "サニピはオフだったはず",
+        "nextMessageDetailIds": [
+          "51"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "51",
+        "characterId": "char-rei",
+        "stampAssetId": "bear-bow",
+        "nextMessageDetailIds": [
+          "52"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "52",
+        "characterId": "char-rei",
+        "text": "すみません、明日は遙子さんとお出かけする約束をしていたので",
+        "nextMessageDetailIds": [
+          "53"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "53",
+        "characterId": "char-rei",
+        "text": "日程変更できないかすぐ確認してみます！",
+        "nextMessageDetailIds": [
+          "54"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "54",
+        "characterId": "char-rio",
+        "text": "せっかくのオフなんだし、そっち優先で大丈夫よ",
+        "nextMessageDetailIds": [
+          "55"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "55",
+        "characterId": "char-smr",
+        "text": "そうですね。急いで決めなきゃいけないこともありませんし",
+        "nextMessageDetailIds": [
+          "56"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "56",
+        "characterId": "char-rei",
+        "text": "でも、遊びより仕事の方が大事だもの",
+        "nextMessageDetailIds": [
+          "57"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "57",
+        "characterId": "char-kkr",
+        "text": "いえ！！！！！！",
+        "nextMessageDetailIds": [
+          "58"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "58",
+        "characterId": "char-kkr",
+        "text": "仕事が上で遊びが下なんてことはありません！！！！！",
+        "nextMessageDetailIds": [
+          "59"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "59",
+        "characterId": "char-kkr",
+        "text": "しっかり遊ぶことで、仕事も頑張れるんです！！！！",
+        "nextMessageDetailIds": [
+          "60"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6-1",
+        "text": "グループ作成ありがとうございます",
+        "choiceText": "グループ作成ありがとうございます",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6-2",
+        "text": "任せてしまってすみません",
+        "choiceText": "任せてしまってすみません",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "60",
+        "characterId": "char-rio",
+        "text": "いいこと言うじゃない、こころ",
+        "nextMessageDetailIds": [
+          "61"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "61",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-love",
+        "nextMessageDetailIds": [
+          "62"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "62",
+        "characterId": "char-rui",
+        "text": "私達もそれぞれオフにやりたいことはあるから大丈夫よ",
+        "nextMessageDetailIds": [
+          "63"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "63",
+        "characterId": "char-rio",
+        "text": "どうしても怜が気になるなら、次集まる時に少し早めに集合するのはどうかしら？",
+        "nextMessageDetailIds": [
+          "64"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "64",
+        "characterId": "char-rei",
+        "text": "ありがとうございます、それじゃあ明日は遊んで来ます！",
+        "nextMessageDetailIds": [
+          "65"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "65",
+        "characterId": "char-smr",
+        "text": "楽しんできて下さーい！",
+        "nextMessageDetailIds": [
+          "66"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "66",
+        "characterId": "char-rei",
+        "text": "みんなにお土産も買って来るわね！",
+        "nextMessageDetailIds": [
+          "67"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "67",
+        "characterId": "char-rei",
+        "stampAssetId": "bear-love",
+        "reliability": 2,
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-rio",
+        "text": "気にしなくて大丈夫よ\n{user}さんも忙しいでしょ",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-love",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-rio",
+        "text": "何よ",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "unlockConditionId": ""
+  },
+  {
+    "id": "message-event-ladder-25-1205-02",
+    "messageGroupId": "message_group_ladder-25-1205",
+    "name": "「トラブル発生」",
+    "type": 1,
+    "characterId": "char-rio",
+    "rarityType": 3,
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-rei",
+        "text": "今、遙子さんと一緒に横浜に来てるんですけど、何かお土産の希望ある人いますか？",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-rei",
+        "text": "{user}さんは何がいいですか？",
+        "nextMessageDetailIds": [
+          "11-1",
+          "11-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11-1",
+        "text": "パンダさん饅頭",
+        "choiceText": "パンダさん饅頭",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11-2",
+        "text": "龍の剣キーホルダー",
+        "choiceText": "龍の剣キーホルダー",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-kkr",
+        "stampAssetId": "naruto-wow",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-rei",
+        "stampAssetId": "bear-ok",
+        "nextMessageDetailIds": [
+          "14-1",
+          "14-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14-1",
+        "text": "こころはどんなオフを？",
+        "choiceText": "こころはどんなオフを？",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14-2",
+        "text": "オフは満喫しているか？",
+        "choiceText": "オフは満喫しているか？",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-kkr",
+        "text": "こころは、こころのお部屋で莉央さんとまったーりしてます～",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-kkr",
+        "text": "午前中はリズノワで仕事だったんですけど、午後はこころと莉央さんだけオフだったので",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-kkr",
+        "text": "お昼には莉央さんが作ってくれたカツ丼を食べて",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-kkr",
+        "text": "今はfranさんから借りた漫画を読みながら、莉央さんの作ってくれたパンケーキをおやつに食べていたところです～",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-smr",
+        "text": "素敵なオフの過ごし方～！",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-rei",
+        "text": "クリスマスマーケットと中華街に行く予定です！",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-rei",
+        "text": "莉央さんとこころって仲がいいわよね",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-kkr",
+        "text": "莉央さんが「どーしてもこころとオフを過ごしたい！お願い！」って言ってきたからですよ！",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-rei",
+        "text": "莉央さんが訂正しにきそうね笑",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23",
+        "characterId": "char-kkr",
+        "text": "大丈夫です",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-kkr",
+        "imageAssetId": "ladder-25-1205-01",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "text": "",
+        "stampAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-love",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26",
+        "characterId": "char-kkr",
+        "text": "こころと居ると居心地がいいんでしょうね～",
+        "nextMessageDetailIds": [
+          "27"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27",
+        "characterId": "char-kkr",
+        "text": "後輩の部屋で爆睡だなんて、まったく、まったくですけど！",
+        "nextMessageDetailIds": [
+          "28-1",
+          "28-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28-1",
+        "text": "すみれは何をしてるんだ？",
+        "choiceText": "すみれは何をしてるんだ？",
+        "nextMessageDetailIds": [
+          "29"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28-2",
+        "text": "瑠依は何をしてるんだ？",
+        "choiceText": "瑠依は何をしてるんだ？",
+        "nextMessageDetailIds": [
+          "29"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "29",
+        "characterId": "char-smr",
+        "text": "トリエルはちょうど今お仕事が終わったところなので、この後3人で遅めのお昼ご飯を食べに行きます～",
+        "nextMessageDetailIds": [
+          "30"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-love",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "30",
+        "characterId": "char-smr",
+        "text": "瑠依ちゃんと優ちゃんが楽屋に戻って来るまで待機中です！",
+        "nextMessageDetailIds": [
+          "31"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "31",
+        "characterId": "char-rui",
+        "text": "メイクさんから近くのオススメのお店を教えてもらったのだけれどこことかはどう？",
+        "nextMessageDetailIds": [
+          "32"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "32",
+        "characterId": "char-rui",
+        "text": "─瑠依が【URLを共有しました】─",
+        "nextMessageDetailIds": [
+          "33"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "33",
+        "characterId": "char-smr",
+        "text": "瑠依ちゃん、ここトリエルのグループじゃないよ～",
+        "nextMessageDetailIds": [
+          "34"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "34",
+        "characterId": "char-rui",
+        "stampAssetId": "nabe-impatience",
+        "nextMessageDetailIds": [
+          "35"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "35",
+        "characterId": "char-kkr",
+        "text": "おお～～～！\nアフタヌーンティーじゃないですか～！",
+        "nextMessageDetailIds": [
+          "36"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "36",
+        "characterId": "char-kkr",
+        "text": "クリスマス仕様でカワイイ&美味しそうですね～",
+        "nextMessageDetailIds": [
+          "37"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "37",
+        "characterId": "char-smr",
+        "text": "アフタヌーンティー！？！？すごいっちゃ～～～～～！！",
+        "nextMessageDetailIds": [
+          "38"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "38",
+        "characterId": "char-smr",
+        "text": "これぞ東京！って感じのオシャレなケーキとかデザートがたくさんのってる！！",
+        "nextMessageDetailIds": [
+          "39"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "39",
+        "characterId": "char-rui",
+        "text": "ここで良さそうだったら予約取っちゃうけど",
+        "nextMessageDetailIds": [
+          "40"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-kkr",
+        "text": "可愛いパンダさんプリンがいいです～\nそれかパンダさん饅頭！",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "40",
+        "characterId": "char-smr",
+        "text": "ありがとう！よろしくお願いします！",
+        "nextMessageDetailIds": [
+          "41"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "41",
+        "characterId": "char-smr",
+        "stampAssetId": "dog-bow",
+        "nextMessageDetailIds": [
+          "42-1",
+          "42-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "42-1",
+        "text": "みんな楽しそうだな",
+        "choiceText": "みんな楽しそうだな",
+        "nextMessageDetailIds": [
+          "43"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "42-2",
+        "text": "オフを楽しんでくれ",
+        "choiceText": "オフを楽しんでくれ",
+        "nextMessageDetailIds": [
+          "43"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "43",
+        "characterId": "char-rei",
+        "text": "あの",
+        "nextMessageDetailIds": [
+          "44"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "44",
+        "characterId": "char-rei",
+        "text": "みんなに伝えるか本当に迷ったんだけど",
+        "nextMessageDetailIds": [
+          "45"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "45",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-wow",
+        "nextMessageDetailIds": [
+          "46"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "46",
+        "characterId": "char-rui",
+        "text": "何かあったの？",
+        "nextMessageDetailIds": [
+          "47"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "47",
+        "characterId": "char-rei",
+        "text": "私一人じゃ抱えきれないから話させて",
+        "nextMessageDetailIds": [
+          "48"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "48",
+        "characterId": "char-kkr",
+        "text": "なんだか怖い話の導入みたいですね",
+        "nextMessageDetailIds": [
+          "49"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "49",
+        "characterId": "char-rei",
+        "text": "遙子さんと軽い気持ちで『占いの館』に入ってみたの",
+        "nextMessageDetailIds": [
+          "50"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-rei",
+        "text": "探してみるわね",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "50",
+        "characterId": "char-rei",
+        "text": "それで「クリスマスイベントは成功しますか？」って聞いたら",
+        "nextMessageDetailIds": [
+          "51"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "51",
+        "characterId": "char-rui",
+        "text": "成功するに決まってるじゃない",
+        "nextMessageDetailIds": [
+          "52"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "52",
+        "characterId": "char-rei",
+        "text": "うん。その通りなんだけど「大いに盛り上がるが、宇宙から降りしトラブル有り」って言われて…",
+        "nextMessageDetailIds": [
+          "53"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "53",
+        "characterId": "char-kkr",
+        "text": "宇宙から降りしトラブル？",
+        "nextMessageDetailIds": [
+          "54"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "54",
+        "characterId": "char-rui",
+        "text": "パッとは思いつかないわね",
+        "nextMessageDetailIds": [
+          "55"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "55",
+        "characterId": "char-smr",
+        "text": "宇宙人がやってくる、とか？",
+        "nextMessageDetailIds": [
+          "56"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "56",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-hey",
+        "nextMessageDetailIds": [
+          "57"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "57",
+        "characterId": "char-kkr",
+        "text": "そんなわけないじゃないですか～\nすみれちゃんは子供ですね～",
+        "nextMessageDetailIds": [
+          "58"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "58",
+        "characterId": "char-smr",
+        "text": "も～冗談だってば～",
+        "nextMessageDetailIds": [
+          "59-1",
+          "59-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "59-1",
+        "text": "宇宙には気を付けておこう",
+        "choiceText": "宇宙には気を付けておこう",
+        "nextMessageDetailIds": [
+          "60"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "59-2",
+        "text": "俺も注意しとくよ",
+        "choiceText": "俺も注意しとくよ",
+        "nextMessageDetailIds": [
+          "60"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-bow",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "60",
+        "characterId": "char-rei",
+        "text": "まあ所詮占いなんで何もないとは思いますが",
+        "nextMessageDetailIds": [
+          "61"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "61",
+        "characterId": "char-rio",
+        "text": "それよりもこころあんた今どこにいるの？",
+        "nextMessageDetailIds": [
+          "62"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "62",
+        "characterId": "char-smr",
+        "text": "え？こころちゃんは莉央さんと一緒にこころちゃんの部屋にいるんじゃ……？",
+        "nextMessageDetailIds": [
+          "63"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "63",
+        "characterId": "char-rio",
+        "text": "いないのよ",
+        "nextMessageDetailIds": [
+          "64"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "64",
+        "characterId": "char-rio",
+        "text": "うたた寝から目が覚めたら、こころがいないの",
+        "nextMessageDetailIds": [
+          "65"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "65",
+        "characterId": "char-rui",
+        "text": "さっきまでここのグループには顔出してましたよね",
+        "nextMessageDetailIds": [
+          "66"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "66",
+        "characterId": "char-rio",
+        "text": "こころちゃん？はやくお部屋に戻って来なさい",
+        "nextMessageDetailIds": [
+          "67"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "67",
+        "characterId": "char-rio",
+        "stampAssetId": "mouse-love",
+        "nextMessageDetailIds": [
+          "68"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "68",
+        "characterId": "char-kkr",
+        "text": "こころはただいま不在です～",
+        "nextMessageDetailIds": [
+          "69"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "69",
+        "characterId": "char-rio",
+        "text": "よくもまあ人の顔にこんな派手なイタズラしてくれたわね？",
+        "nextMessageDetailIds": [
+          "70"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-smr",
+        "text": "私もパンダさん饅頭欲しいです！",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "70",
+        "characterId": "char-kkr",
+        "text": "なんのことですかぁ？ひどいですぅ～\nカワイイ莉央さんのお顔にこころがイタズラなんてするわけないじゃないですかぁ",
+        "nextMessageDetailIds": [
+          "71"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "71",
+        "characterId": "char-kkr",
+        "imageAssetId": "ladder-25-1205-02",
+        "nextMessageDetailIds": [
+          "72"
+        ],
+        "text": "",
+        "stampAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "72",
+        "characterId": "char-kkr",
+        "text": "カワイイ莉央さんのお顔をさらに可愛くするためにデコってあげたんですよ～？",
+        "nextMessageDetailIds": [
+          "73"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "73",
+        "characterId": "char-rio",
+        "stampAssetId": "bear-angry",
+        "nextMessageDetailIds": [
+          "74"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "74",
+        "characterId": "char-rui",
+        "text": "莉央さんの顔にトラブルが発生してるわね",
+        "nextMessageDetailIds": [
+          "75"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "75",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-impatience",
+        "nextMessageDetailIds": [
+          "76"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "76",
+        "characterId": "char-rio",
+        "text": "{user}さん、たぶんこころは事務所に隠れてると思うから見つけ次第すぐに捕まえてちょうだい",
+        "nextMessageDetailIds": [
+          "77-1",
+          "77-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "77-1",
+        "text": "承知しました",
+        "choiceText": "承知しました",
+        "nextMessageDetailIds": [
+          "78"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "77-2",
+        "text": "捕まえる…？",
+        "choiceText": "捕まえる…？",
+        "nextMessageDetailIds": [
+          "78"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "78",
+        "characterId": "char-rio",
+        "text": "私もすぐに事務所に向かうわ",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-love",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-rei",
+        "stampAssetId": "bear-ok",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "unlockConditionId": ""
+  },
+  {
+    "id": "message-event-ladder-25-1205-03",
+    "messageGroupId": "message_group_ladder-25-1205",
+    "name": "「ハレンチ警察怜」",
+    "type": 1,
+    "characterId": "char-rio",
+    "rarityType": 3,
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-rio",
+        "text": "みんな、クリスマスライブ本当にお疲れ様！\n今日はゆっくり休んでちょうだい",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-rio",
+        "stampAssetId": "bear-angry",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-rio",
+        "text": "ダメよ、怜。こころに教えちゃ",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-rio",
+        "text": "どーせろくなことにならないから",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-kkr",
+        "stampAssetId": "naruto-wow",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-rei",
+        "stampAssetId": "gyogyo-ok",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-tears",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-rei",
+        "text": "エネルギーが溜まったってことはみんな明日帰っちゃうのよね",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-rui",
+        "text": "なんだか寂しいわ",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-rui",
+        "text": "最近彼女たちのおかげで事務所も寮もいつも以上に、にぎやかだったから",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-kkr",
+        "text": "ほんと騒がしい方々ですよ～",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-rui",
+        "text": "無事に終わって良かったです",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-rio",
+        "text": "あなたも十分張り合えるわよ",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-kkr",
+        "stampAssetId": "naruto-love",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-smr",
+        "text": "お風呂上がったので次の人どうぞ～",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23",
+        "characterId": "char-rui",
+        "stampAssetId": "bear-ok",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-rui",
+        "text": "さっと入って来るわ",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-ok",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26",
+        "characterId": "char-rei",
+        "text": "そういえば",
+        "nextMessageDetailIds": [
+          "27"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27",
+        "characterId": "char-rei",
+        "text": "{user}さん、聞いて下さいよ。ライブ後の打ち上げでも大変だったんですから",
+        "nextMessageDetailIds": [
+          "28-1",
+          "28-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28-1",
+        "text": "何があったんだ？",
+        "choiceText": "何があったんだ？",
+        "nextMessageDetailIds": [
+          "29"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28-2",
+        "text": "どうしたんだ？",
+        "choiceText": "どうしたんだ？",
+        "nextMessageDetailIds": [
+          "29"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "29",
+        "characterId": "char-rei",
+        "text": "最近、自由奔放なララの影響で寮のみんなも気が緩んでしまっていたじゃないですか？",
+        "nextMessageDetailIds": [
+          "30"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3",
+        "characterId": "char-kkr",
+        "text": "一時はどうなるかと思いましたが『ぴょんぴょんワープくんDXカスタム』のエネルギーも溜まりましたし、大成功ですね！",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "30",
+        "characterId": "char-rio",
+        "text": "お風呂上りに服を着ずに歩き回ってる子達がいたり",
+        "nextMessageDetailIds": [
+          "31"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "31",
+        "characterId": "char-smr",
+        "text": "ハレンチだっちゃ…！",
+        "nextMessageDetailIds": [
+          "32"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "32",
+        "characterId": "char-rei",
+        "text": "トリエルにも一人いたわよ？",
+        "nextMessageDetailIds": [
+          "33"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "33",
+        "characterId": "char-smr",
+        "stampAssetId": "dog-wow",
+        "nextMessageDetailIds": [
+          "34"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "34",
+        "characterId": "char-rei",
+        "text": "モモに影響されて変な植物で変なイタズラをする子たちが出てきたり",
+        "nextMessageDetailIds": [
+          "35"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "35",
+        "characterId": "char-kkr",
+        "text": "そんな不届き者が！？",
+        "nextMessageDetailIds": [
+          "36"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "36",
+        "characterId": "char-rio",
+        "text": "よくそんな反応が出来るわね！？",
+        "nextMessageDetailIds": [
+          "37"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "37",
+        "characterId": "char-rei",
+        "text": "私と唯で寮の風紀を守ってたんですけど、同時多発的にトラブルが起きるから全部対処するのは本当に大変でした",
+        "nextMessageDetailIds": [
+          "38"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "38",
+        "characterId": "char-kkr",
+        "text": "こころだって大変だったんですからね！",
+        "nextMessageDetailIds": [
+          "39-1",
+          "39-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "39-1",
+        "text": "そうなのか？",
+        "choiceText": "そうなのか？",
+        "nextMessageDetailIds": [
+          "40"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "39-2",
+        "text": "そうは思えないが…",
+        "choiceText": "そうは思えないが…",
+        "nextMessageDetailIds": [
+          "40"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-rei",
+        "text": "もしかして占い師の言っていた「宇宙から降りしトラブル有り」ってララ達のことだったのかしら？",
+        "nextMessageDetailIds": [
+          "5-1",
+          "5-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "40",
+        "characterId": "char-kkr",
+        "text": "怜ちゃんのハレンチセンサーがすっごく敏感で！",
+        "nextMessageDetailIds": [
+          "41"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "41",
+        "characterId": "char-kkr",
+        "text": "ちょっとでも何かしようとしたらすぐに「ハレンチ！ハレンチ！」言ってきてほんっとーに大変でした！",
+        "nextMessageDetailIds": [
+          "42"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "42",
+        "characterId": "char-smr",
+        "text": "それはこころちゃんが悪いような気も？",
+        "nextMessageDetailIds": [
+          "43"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "43",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-wow",
+        "nextMessageDetailIds": [
+          "44"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "44",
+        "characterId": "char-kkr",
+        "text": "すみれちゃんだってハレンチ警察に捕まってたじゃないですか～！",
+        "nextMessageDetailIds": [
+          "45"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "45",
+        "characterId": "char-rei",
+        "text": "ハレンチ警察って誰のことよ！",
+        "nextMessageDetailIds": [
+          "46"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "46",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-wow",
+        "nextMessageDetailIds": [
+          "47-1",
+          "47-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "47-1",
+        "text": "喧嘩は良くないぞ",
+        "choiceText": "喧嘩は良くないぞ",
+        "nextMessageDetailIds": [
+          "48"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "47-2",
+        "text": "打ち上げの話を教えてくれ",
+        "choiceText": "打ち上げの話を教えてくれ",
+        "nextMessageDetailIds": [
+          "48"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "48",
+        "characterId": "char-rei",
+        "text": "そうですね。話を打ち上げの話に戻します",
+        "nextMessageDetailIds": [
+          "49"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "49",
+        "characterId": "char-rei",
+        "text": "みんなでカラオケに行ったんですけど",
+        "nextMessageDetailIds": [
+          "50"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5-1",
+        "text": "まさか占いが当たるなんて",
+        "choiceText": "まさか占いが当たるなんて",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5-2",
+        "text": "そんな気がするよな",
+        "choiceText": "そんな気がするよな",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "50",
+        "characterId": "char-smr",
+        "text": "大変です！",
+        "nextMessageDetailIds": [
+          "51-1",
+          "51-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "51-1",
+        "text": "どうしたんだ？",
+        "choiceText": "どうしたんだ？",
+        "nextMessageDetailIds": [
+          "52"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "51-2",
+        "text": "すみれ？",
+        "choiceText": "すみれ？",
+        "nextMessageDetailIds": [
+          "52"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "52",
+        "characterId": "char-smr",
+        "text": "お風呂あがってすぐの瑠依ちゃんが宇宙植物に捕まってしまいました！",
+        "nextMessageDetailIds": [
+          "53"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "53",
+        "characterId": "char-smr",
+        "text": "私一人じゃ救出出来なさそうなので、誰か来てください！",
+        "nextMessageDetailIds": [
+          "54-1",
+          "54-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "54-1",
+        "text": "分かった、すぐ行く",
+        "choiceText": "分かった、すぐ行く",
+        "nextMessageDetailIds": [
+          "55"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "54-2",
+        "text": "助けに行くぞ",
+        "choiceText": "助けに行くぞ",
+        "nextMessageDetailIds": [
+          "55"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "55",
+        "characterId": "char-smr",
+        "stampAssetId": "dog-wow",
+        "nextMessageDetailIds": [
+          "56"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "56",
+        "characterId": "char-smr",
+        "text": "状況が状況なので{user}さんは来なくて大丈夫です！",
+        "nextMessageDetailIds": [
+          "57"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "57",
+        "characterId": "char-smr",
+        "text": "むしろ来ないで下さい！",
+        "nextMessageDetailIds": [
+          "58"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "58",
+        "characterId": "char-rei",
+        "text": "{user}さん、今、変な想像しましたか？",
+        "nextMessageDetailIds": [
+          "59-1",
+          "59-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "59-1",
+        "text": "何のことだ",
+        "choiceText": "何のことだ",
+        "nextMessageDetailIds": [
+          "60"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "59-2",
+        "text": "何も想像していないぞ",
+        "choiceText": "何も想像していないぞ",
+        "nextMessageDetailIds": [
+          "60"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-rei",
+        "stampAssetId": "gyogyo-impatience",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "60",
+        "characterId": "char-kkr",
+        "text": "きゃ～～～いやらしいです～～",
+        "nextMessageDetailIds": [
+          "61"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "61",
+        "characterId": "char-kkr",
+        "text": "ハレンチ警察に逮捕されてくださーい",
+        "nextMessageDetailIds": [
+          "62"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "62",
+        "characterId": "char-rio",
+        "text": "こころも怜もふざけてないで瑠依を救出しに行くわよ！",
+        "nextMessageDetailIds": [
+          "63"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "63",
+        "characterId": "char-rei",
+        "stampAssetId": "gyogyo-ok",
+        "nextMessageDetailIds": [
+          "64"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "64",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-ok",
+        "reliability": 2,
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-kkr",
+        "text": "その占い師さんなかなかやりお～るですね",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-kkr",
+        "text": "今度こころも占ってもらおーっと",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-kkr",
+        "text": "怜ちゃん、その占い師さんのお名前おしえてくださーい",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "unlockConditionId": ""
+  },
+  {
+    "id": "message-event-ladder-25-1205-04",
+    "messageGroupId": "message_group_ladder-25-1205",
+    "name": "「イタズラ力UP」",
+    "type": 1,
+    "characterId": "char-rio",
+    "rarityType": 3,
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-rui",
+        "stampAssetId": "bear-greeting",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-rio",
+        "text": "今度は私達が向こうに行ってもいいかもしれないわ",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-rui",
+        "text": "そのためには『ぴょんぴょんワープくんDXカスタム』を発明しないとですよね",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-rei",
+        "text": "星見プロに発明品を作れそうな人なんていたかしら",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-smr",
+        "text": "沙季さんとか！",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-smr",
+        "text": "お勉強も得意なので作れそうじゃないですか？",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-rio",
+        "text": "確かにそうね",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-rei",
+        "text": "イタズラ目的の発明品だったらこころも作れそうですけど",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-love",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-rei",
+        "text": "褒めてないわよ",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-wow",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-rui",
+        "text": "ララさん達が帰ってしばらく経ちますが、今日の現場でプロデューサーさんから彼女たちのことを聞かれました",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-rio",
+        "text": "ところでこころ。今、あなた、どこにいるのかしら？",
+        "nextMessageDetailIds": [
+          "21-1",
+          "21-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21-1",
+        "text": "何かあったんですか？",
+        "choiceText": "何かあったんですか？",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21-2",
+        "text": "事務所にはいませんよ",
+        "choiceText": "事務所にはいませんよ",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-kkr",
+        "text": "寮のお庭で植物にお水をあげてまーす",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23",
+        "characterId": "char-rui",
+        "text": "アレってこころが埋めたの？",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-kkr",
+        "text": "はい～宇宙植物ちゃんたちのことですよね？",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25",
+        "characterId": "char-kkr",
+        "text": "モモちゃんから種をもらったので、大切に大切に育ててるんです～",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26",
+        "characterId": "char-rui",
+        "stampAssetId": "bear-wow",
+        "nextMessageDetailIds": [
+          "27"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27",
+        "characterId": "char-smr",
+        "text": "瑠依ちゃん気が付いてなかったの！？",
+        "nextMessageDetailIds": [
+          "28"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28",
+        "characterId": "char-smr",
+        "text": "むしろこころちゃん以外思い浮かばなくないかな！？",
+        "nextMessageDetailIds": [
+          "29"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "29",
+        "characterId": "char-rui",
+        "text": "それじゃあこの間、お風呂上がりの私が捕まった植物もこころの物なのね？",
+        "nextMessageDetailIds": [
+          "30"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3",
+        "characterId": "char-rui",
+        "text": "「あの子たちは星見プロから近々デビューするんですか？」って",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "30",
+        "characterId": "char-kkr",
+        "text": "えーと",
+        "nextMessageDetailIds": [
+          "31"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "31",
+        "characterId": "char-kkr",
+        "text": "それはどうだったっけな～モモちゃんが置きっぱなしにしていた物のような気も～",
+        "nextMessageDetailIds": [
+          "32"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "32",
+        "characterId": "char-kkr",
+        "text": "しなくもなくもない気が～",
+        "nextMessageDetailIds": [
+          "33-1",
+          "33-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "33-1",
+        "text": "怪しいな",
+        "choiceText": "怪しいな",
+        "nextMessageDetailIds": [
+          "34"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "33-2",
+        "text": "その反応は信じられないな",
+        "choiceText": "その反応は信じられないな",
+        "nextMessageDetailIds": [
+          "34"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "34",
+        "characterId": "char-kkr",
+        "text": "ひどーい！どーしてこころのことを信じてくれないんですか！？こころはショックです！",
+        "nextMessageDetailIds": [
+          "35"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "35",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-tears",
+        "nextMessageDetailIds": [
+          "36"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "36",
+        "characterId": "char-rio",
+        "text": "日頃の行いのせいよ",
+        "nextMessageDetailIds": [
+          "37"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "37",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-angry",
+        "nextMessageDetailIds": [
+          "38"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "38",
+        "characterId": "char-rio",
+        "text": "さて。話が戻るけど。こころ、今あなた、どこにいるのかしら？",
+        "nextMessageDetailIds": [
+          "39"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "39",
+        "characterId": "char-rei",
+        "text": "寮の庭じゃないんですか？",
+        "nextMessageDetailIds": [
+          "40"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-rio",
+        "text": "確かにモモとララのあの度胸はかなりアイドル向きよね",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "40",
+        "characterId": "char-kkr",
+        "text": "さっきお庭にいるって言ったじゃないですか～",
+        "nextMessageDetailIds": [
+          "41"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "41",
+        "characterId": "char-rio",
+        "text": "そう",
+        "nextMessageDetailIds": [
+          "42"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "42",
+        "characterId": "char-rio",
+        "text": "ならもういいわ",
+        "nextMessageDetailIds": [
+          "43-1",
+          "43-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "43-1",
+        "text": "なんだか不穏ですね",
+        "choiceText": "なんだか不穏ですね",
+        "nextMessageDetailIds": [
+          "44"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "43-2",
+        "text": "なんだか怖いですね",
+        "choiceText": "なんだか怖いですね",
+        "nextMessageDetailIds": [
+          "44"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "44",
+        "characterId": "char-smr",
+        "text": "あの",
+        "nextMessageDetailIds": [
+          "45"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "45",
+        "characterId": "char-smr",
+        "text": "寮のお庭にこころちゃんいないです",
+        "nextMessageDetailIds": [
+          "46"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "46",
+        "characterId": "char-rio",
+        "text": "そうでしょうね",
+        "nextMessageDetailIds": [
+          "47"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "47",
+        "characterId": "char-rui",
+        "text": "知ってたんですか？",
+        "nextMessageDetailIds": [
+          "48"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "48",
+        "characterId": "char-rio",
+        "text": "さっきからこころのスマホのGPSがずーっと私の部屋の前で止まってるの",
+        "nextMessageDetailIds": [
+          "49"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "49",
+        "characterId": "char-rei",
+        "text": "こころがスマホを落としたってことですか？",
+        "nextMessageDetailIds": [
+          "50"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-kkr",
+        "text": "ヤミちゃんの殺し屋設定もなかなか作り込まれていましたし",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "50",
+        "characterId": "char-rui",
+        "text": "いや、さっきからずっとこころも会話に参加しているからそれはないわ",
+        "nextMessageDetailIds": [
+          "51"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "51",
+        "characterId": "char-rio",
+        "text": "こころちゃ～ん？私の部屋の前で何をしているのかしら？",
+        "nextMessageDetailIds": [
+          "52"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "52",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-wow",
+        "nextMessageDetailIds": [
+          "53"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "53",
+        "characterId": "char-kkr",
+        "text": "人のスマホに勝手にGPSを付けるなんて！？",
+        "nextMessageDetailIds": [
+          "54"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "54",
+        "characterId": "char-rio",
+        "text": "付けたのは私じゃないわ",
+        "nextMessageDetailIds": [
+          "55"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "55",
+        "characterId": "char-rio",
+        "text": "モモよ",
+        "nextMessageDetailIds": [
+          "56"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "56",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-wow",
+        "nextMessageDetailIds": [
+          "57"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "57",
+        "characterId": "char-kkr",
+        "text": "もしかして、この間渡されたキーホルダーってGPSだったんですか！？",
+        "nextMessageDetailIds": [
+          "58-1",
+          "58-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "58-1",
+        "text": "こころは何をしているんだ",
+        "choiceText": "こころは何をしているんだ",
+        "nextMessageDetailIds": [
+          "59"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "58-2",
+        "text": "莉央さんの部屋の前になぜ",
+        "choiceText": "莉央さんの部屋の前になぜ",
+        "nextMessageDetailIds": [
+          "59"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "59",
+        "characterId": "char-rio",
+        "text": "おおむね予想はつくわ。どーせイタズラを仕掛けようとしているんでしょう？",
+        "nextMessageDetailIds": [
+          "60"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-smr",
+        "text": "唯さんのみんなをまとめる力も凄かったです！",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "60",
+        "characterId": "char-kkr",
+        "text": "そんなことないです！",
+        "nextMessageDetailIds": [
+          "61"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "61",
+        "characterId": "char-rio",
+        "text": "それなら庭にいるなんて嘘をつく必要はないわよね",
+        "nextMessageDetailIds": [
+          "62"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "62",
+        "characterId": "char-kkr",
+        "stampAssetId": "dog-impatience",
+        "nextMessageDetailIds": [
+          "63"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "63",
+        "characterId": "char-rio",
+        "text": "さあ観念しなさい",
+        "nextMessageDetailIds": [
+          "64"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "64",
+        "characterId": "char-kkr",
+        "stampAssetId": "naruto-impatience",
+        "nextMessageDetailIds": [
+          "65"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "65",
+        "characterId": "char-rio",
+        "text": "誰かこころが私の部屋の前で何をしているか見に行ってくれる？",
+        "nextMessageDetailIds": [
+          "66"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "66",
+        "characterId": "char-rui",
+        "stampAssetId": "nabe-ok",
+        "nextMessageDetailIds": [
+          "67"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "67",
+        "characterId": "char-rei",
+        "stampAssetId": "gyogyo-ok",
+        "nextMessageDetailIds": [
+          "68"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "68",
+        "characterId": "char-rui",
+        "text": "植木鉢が沢山置かれています",
+        "nextMessageDetailIds": [
+          "69"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "69",
+        "characterId": "char-rei",
+        "text": "たぶん中身は色んな宇宙植物かと",
+        "nextMessageDetailIds": [
+          "70"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-rei",
+        "text": "もしアイドルになったら強敵になりそうよね",
+        "nextMessageDetailIds": [
+          "8-1",
+          "8-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "70",
+        "characterId": "char-rio",
+        "stampAssetId": "bear-angry",
+        "nextMessageDetailIds": [
+          "71"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "71",
+        "characterId": "char-rio",
+        "text": "こころ！今すぐ片付けなさい！",
+        "nextMessageDetailIds": [
+          "72-1",
+          "72-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "72-1",
+        "text": "大変そうですね",
+        "choiceText": "大変そうですね",
+        "nextMessageDetailIds": [
+          "73"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "72-2",
+        "text": "騒がしくなりそうですね",
+        "choiceText": "騒がしくなりそうですね",
+        "nextMessageDetailIds": [
+          "73"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "73",
+        "characterId": "char-smr",
+        "text": "イタズラに使うとなれば、こころちゃんもいつか本当に『ぴょんぴょんワープくんDXカスタム』を開発できちゃうかもしれませんね",
+        "nextMessageDetailIds": [
+          "74"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "74",
+        "characterId": "char-rio",
+        "text": "そこまでイタズラ力が伸びたら大したもんよ",
+        "nextMessageDetailIds": [
+          "75"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "75",
+        "characterId": "char-rio",
+        "text": "その時はみんなでララ達に会いに行きましょう",
+        "nextMessageDetailIds": [
+          "76"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "76",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-love",
+        "reliability": 2,
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "8-1",
+        "text": "確かにな",
+        "choiceText": "確かにな",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8-2",
+        "text": "懐かしいな",
+        "choiceText": "懐かしいな",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-smr",
+        "text": "またみんなで一緒にライブしたいです！",
         "nextMessageDetailIds": [
           "10"
         ],
