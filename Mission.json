@@ -30572,6 +30572,102 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "event-ms-idoly-pride-day-mission-25-1220-login",
+    "categoryType": 1,
+    "missionType": 4,
+    "name": "ログイン1回",
+    "shortDescription": "ログイン1回",
+    "longDescription": "ログインを1回しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-daily_quest_ticket_01;1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-25-1220",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-25-1220-mission_clear_count",
+    "categoryType": 1,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-idoly-pride-day-mission-25-1220-login",
+      "event-ms-idoly-pride-day-mission-25-1220-quest-daily-clear-count",
+      "event-ms-idoly-pride-day-mission-25-1220-photo_shoot_count"
+    ],
+    "name": "イベントミッションを全てクリア",
+    "shortDescription": "イベントミッションを全てクリア",
+    "longDescription": "イベントミッションを全てクリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_event-ms-idoly-pride-day-mission-25-1220-mission_clear_count"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-25-1220",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-25-1220-photo_shoot_count",
+    "categoryType": 1,
+    "missionType": 33,
+    "name": "フォト撮影{threshold}回",
+    "shortDescription": "フォト撮影{threshold}回",
+    "longDescription": "フォト撮影を{threshold}回しましょう。",
+    "order": 4,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-act_promotion_shorten;1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-25-1220",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-25-1220-quest-daily-clear-count",
+    "categoryType": 1,
+    "missionType": 7,
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア",
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-act_lesson-boost;1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-25-1220",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "event-ms-live-23-0503-condition_clear-1",
     "categoryType": 3,
     "missionType": 4,
@@ -63998,6 +64094,190 @@
       }
     ],
     "eventMissionId": "event_pvp-mission-25-0929",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-pvp-25-1218-quest_pvp_play_count-03",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 1,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-pvp-25-1218-quest_pvp_play_count-03"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-25-1218",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-pvp-25-1218-quest_pvp_play_count-06",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 2,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-pvp-25-1218-quest_pvp_play_count-06"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-25-1218",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-pvp-25-1218-quest_pvp_play_count-09",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 3,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "9",
+        "rewardSetId": "rd-event-ms-pvp-25-1218-quest_pvp_play_count-09"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-25-1218",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-pvp-25-1218-quest_pvp_play_count-12",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 4,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "12",
+        "rewardSetId": "rd-event-ms-pvp-25-1218-quest_pvp_play_count-12"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-25-1218",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-pvp-25-1218-quest_pvp_play_count-15",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 5,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-pvp-25-1218-quest_pvp_play_count-15"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-25-1218",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-pvp-25-1218-quest_pvp_play_count-18",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 6,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "18",
+        "rewardSetId": "rd-event-ms-pvp-25-1218-quest_pvp_play_count-18"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-25-1218",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-pvp-25-1218-quest_pvp_play_count-21",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 7,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "21",
+        "rewardSetId": "rd-event-ms-pvp-25-1218-quest_pvp_play_count-21"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-25-1218",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-pvp-25-1218-quest_pvp_play_count-24",
+    "categoryType": 3,
+    "missionType": 45,
+    "name": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "shortDescription": "スペシャルVENUSバトルに挑戦{threshold}回",
+    "longDescription": "スペシャルVENUSバトルに挑戦を{threshold}回しましょう。",
+    "order": 8,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "24",
+        "rewardSetId": "rd-event-ms-pvp-25-1218-quest_pvp_play_count-24"
+      }
+    ],
+    "eventMissionId": "event_pvp-mission-25-1218",
     "targetIds": [],
     "viewConditionId": "",
     "linkDetail": "",
@@ -208657,6 +208937,102 @@
       {
         "threshold": "8",
         "rewardSetId": "rd-ms-normal-quest_main_clear_count-122"
+      }
+    ],
+    "linkDetail": "",
+    "eventMissionId": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-123",
+    "categoryType": 3,
+    "missionType": 5,
+    "targetIds": [
+      "qt-main-1-123-01",
+      "qt-main-1-123-02",
+      "qt-main-1-123-03",
+      "qt-main-1-123-04",
+      "qt-main-1-123-05",
+      "qt-main-1-123-06",
+      "qt-main-1-123-07",
+      "qt-main-1-123-08"
+    ],
+    "name": "メインライブ:#123をクリア",
+    "shortDescription": "メインライブ:#123をクリア",
+    "longDescription": "メインライブ:#123をクリアしましょう。",
+    "order": 1,
+    "viewConditionId": "cd-clear-area-main-122-251220",
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "8",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-123"
+      }
+    ],
+    "linkDetail": "",
+    "eventMissionId": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-124",
+    "categoryType": 3,
+    "missionType": 5,
+    "targetIds": [
+      "qt-main-1-124-01",
+      "qt-main-1-124-02",
+      "qt-main-1-124-03",
+      "qt-main-1-124-04",
+      "qt-main-1-124-05",
+      "qt-main-1-124-06",
+      "qt-main-1-124-07",
+      "qt-main-1-124-08"
+    ],
+    "name": "メインライブ:#124をクリア",
+    "shortDescription": "メインライブ:#124をクリア",
+    "longDescription": "メインライブ:#124をクリアしましょう。",
+    "order": 1,
+    "viewConditionId": "cd-clear-area-main-123",
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "8",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-124"
+      }
+    ],
+    "linkDetail": "",
+    "eventMissionId": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "ms-normal-quest_main_clear_count-125",
+    "categoryType": 3,
+    "missionType": 5,
+    "targetIds": [
+      "qt-main-1-125-01",
+      "qt-main-1-125-02",
+      "qt-main-1-125-03",
+      "qt-main-1-125-04",
+      "qt-main-1-125-05",
+      "qt-main-1-125-06",
+      "qt-main-1-125-07",
+      "qt-main-1-125-08"
+    ],
+    "name": "メインライブ:#125をクリア",
+    "shortDescription": "メインライブ:#125をクリア",
+    "longDescription": "メインライブ:#125をクリアしましょう。",
+    "order": 1,
+    "viewConditionId": "cd-clear-area-main-124",
+    "linkType": 3,
+    "progresses": [
+      {
+        "threshold": "8",
+        "rewardSetId": "rd-ms-normal-quest_main_clear_count-125"
       }
     ],
     "linkDetail": "",
