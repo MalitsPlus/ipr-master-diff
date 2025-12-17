@@ -255903,6 +255903,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-select-01-25-1218",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1766026800000",
+          "nowBefore": "1767193199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-25-1218-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-select-01-25-1218-banner-end"
+        },
+        "term": {
+          "nowAfter": "1766026800000",
+          "nowBefore": "1767193199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-select-01-25-1218-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-select-01-25-1218-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gift-21-0624-0627",
     "settings": [
       {
