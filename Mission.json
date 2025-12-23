@@ -9698,6 +9698,7 @@
     "shortDescription": "ルイGOODエンドをクリア",
     "longDescription": "ルイGOODエンドをクリアしましょう。",
     "order": 3,
+    "viewConditionId": "cd-date-event-mission-love-25-0426-limited-end",
     "progresses": [
       {
         "threshold": "1",
@@ -9705,7 +9706,6 @@
       }
     ],
     "eventMissionId": "event-love-25-0426-limited",
-    "viewConditionId": "",
     "linkType": 0,
     "linkDetail": "",
     "companyEnjoyCharacterId": "",
@@ -9723,6 +9723,7 @@
     "shortDescription": "チサGOODエンドをクリア",
     "longDescription": "チサGOODエンドをクリアしましょう。",
     "order": 4,
+    "viewConditionId": "cd-date-event-mission-love-25-0426-limited-end",
     "progresses": [
       {
         "threshold": "1",
@@ -9730,7 +9731,6 @@
       }
     ],
     "eventMissionId": "event-love-25-0426-limited",
-    "viewConditionId": "",
     "linkType": 0,
     "linkDetail": "",
     "companyEnjoyCharacterId": "",
@@ -9748,6 +9748,7 @@
     "shortDescription": "すみれGOODエンドをクリア",
     "longDescription": "すみれGOODエンドをクリアしましょう。",
     "order": 5,
+    "viewConditionId": "cd-date-event-mission-love-25-0426-limited-end",
     "progresses": [
       {
         "threshold": "1",
@@ -9755,7 +9756,6 @@
       }
     ],
     "eventMissionId": "event-love-25-0426-limited",
-    "viewConditionId": "",
     "linkType": 0,
     "linkDetail": "",
     "companyEnjoyCharacterId": "",
@@ -9773,6 +9773,7 @@
     "shortDescription": "渚GOODエンドをクリア",
     "longDescription": "渚GOODエンドをクリアしましょう。",
     "order": 6,
+    "viewConditionId": "cd-date-event-mission-love-25-0426-limited-end",
     "progresses": [
       {
         "threshold": "1",
@@ -9780,7 +9781,6 @@
       }
     ],
     "eventMissionId": "event-love-25-0426-limited",
-    "viewConditionId": "",
     "linkType": 0,
     "linkDetail": "",
     "companyEnjoyCharacterId": "",
@@ -9798,6 +9798,7 @@
     "shortDescription": "？？？",
     "longDescription": "？？？",
     "order": 7,
+    "viewConditionId": "cd-date-event-mission-love-25-0426-limited-end",
     "progresses": [
       {
         "threshold": "1",
@@ -9805,7 +9806,6 @@
       }
     ],
     "eventMissionId": "event-love-25-0426-limited",
-    "viewConditionId": "",
     "linkType": 0,
     "linkDetail": "",
     "companyEnjoyCharacterId": "",
@@ -9927,6 +9927,7 @@
     "shortDescription": "エンドを{threshold}種類クリア",
     "longDescription": "エンドを{threshold}種類クリアしましょう。",
     "order": 2,
+    "viewConditionId": "cd-date-event-mission-love-25-0426-limited-end",
     "progresses": [
       {
         "threshold": "1",
@@ -9978,7 +9979,6 @@
       }
     ],
     "eventMissionId": "event-love-25-0426-limited",
-    "viewConditionId": "",
     "linkType": 0,
     "linkDetail": "",
     "companyEnjoyCharacterId": "",
@@ -10424,6 +10424,34 @@
       }
     ],
     "eventMissionId": "event-love-25-0426-normal",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-love-25-1224-normal-mission_char-photo-shooting_daily",
+    "categoryType": 1,
+    "missionType": 88,
+    "targetIds": [
+      "char-rui",
+      "char-chs",
+      "char-smr",
+      "char-ngs"
+    ],
+    "name": "【デイリー】瑠依、千紗、すみれ、渚のいずれかでポーズ撮影を合計{threshold}回撮影",
+    "shortDescription": "【デイリー】瑠依、千紗、すみれ、渚のいずれかでポーズ撮影を合計{threshold}回撮影",
+    "longDescription": "瑠依、千紗、すみれ、渚のいずれかで ポーズ撮影を\n合計{threshold}回撮影しましょう。",
+    "order": 2,
+    "viewConditionId": "cd-date-event-mission-love-25-0426-limited",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-love-25-1224-char-photo-shooting_daily-01"
+      }
+    ],
+    "eventMissionId": "event-love-25-0426-limited",
     "linkType": 0,
     "linkDetail": "",
     "companyEnjoyCharacterId": "",

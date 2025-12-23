@@ -576,6 +576,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-ktn-25-1225",
+    "name": "長瀬琴乃 誕生日2025",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は琴乃の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "プラネタリウムのチケット",
+        "advAssetId": "hbd_06_ktn_01"
+      },
+      {
+        "index": 2,
+        "text": "バイクの模型",
+        "advAssetId": "hbd_06_ktn_02"
+      },
+      {
+        "index": 3,
+        "text": "メイドのコスプレセット",
+        "advAssetId": "hbd_06_ktn_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-mei-23-0707",
     "name": "早坂芽衣 誕生日2023",
     "advPlayTypes": [
@@ -7156,6 +7188,60 @@
     ],
     "advAssetIds": [
       "card_ktn_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ktn-05-birt-02-01",
+    "name": "メリー\nクリスマス、\n渚",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ktn_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ktn-05-birt-02-02",
+    "name": "覚えててね、\nお姉ちゃん",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ktn_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ktn-05-birt-02-03",
+    "name": "素敵な\nプレゼントを\nありがとう",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ktn_53_03"
     ],
     "sectionName": "",
     "description": "",
@@ -37823,6 +37909,96 @@
     ],
     "advAssetIds": [
       "main_04_06_05"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-31",
+    "sectionName": "Repaying Kindness",
+    "name": "荒療治",
+    "description": "どりきゅんが連れてきたのは、なんとバンプロダクションの社長にして瑠依の父、朝倉恭一だった。しかも、なんと彼と一泊二日の旅行に行かねばならず――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_01"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-32",
+    "sectionName": "Repaying Kindness",
+    "name": "難しい\n課題",
+    "description": "旅行に出発するも、瑠依達三人はどりきゅんから出された課題に悩む。全力で朝倉にお土産をおねだりすること。全力で大爆笑させること。そして、パパと呼ぶこと。瑠依達は戸惑いつつも、覚悟を決める。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_02"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-33",
+    "sectionName": "Repaying Kindness",
+    "name": "娘として\n社長として",
+    "description": "夜、旅館のロビーで朝倉と向き合う瑠依。自分がアイドルを目指した理由、これまでのお互いの関係、そして長瀬麻奈について。二人は初めて、本心を打ち明ける。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_03"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-34",
+    "sectionName": "Repaying Kindness",
+    "name": "父として",
+    "description": "朝倉の不器用な本心を聞いた、瑠依。これまで面と向かって呼んでこなかったが、気づくと初めて朝倉のことを『パパ』と呼んでいた。朝倉は、隠れて聞いていた優とすみれにも気づいており――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_04"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-35",
+    "sectionName": "Repaying Kindness",
+    "name": "見つけた\n想い",
+    "description": "朝倉の言葉を聞いた瑠依達は、ついに自分達の核となる想いを見つける。その話は、あなたの耳にも届いており――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_05"
     ],
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",

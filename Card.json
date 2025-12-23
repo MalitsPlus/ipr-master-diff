@@ -6266,6 +6266,53 @@
     "homeTalks": []
   },
   {
+    "id": "card-ktn-05-birt-02",
+    "assetId": "ktn-05-birt-02",
+    "name": "wonderful day for 琴乃",
+    "description": "そっか。そうだよね。私達が、お姉ちゃんに向けて歌うように……\nお姉ちゃんも、きっと……",
+    "type": 3,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 291,
+    "danceRatioPermil": 407,
+    "visualRatioPermil": 332,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-birt-02-1",
+    "skillId2": "sk-ktn-05-birt-02-2",
+    "skillId3": "sk-ktn-05-birt-02-3",
+    "activityAbilityId": "aab-promotion_accessory_multi_step_reward_up",
+    "order": 531,
+    "releaseDate": "1766588400000",
+    "rewardHairIds": [
+      "hair-ktn-hair-20",
+      "hair-ktn-hair-21",
+      "hair-ktn-hair-22",
+      "hair-ktn-hair-23"
+    ],
+    "obtainMessage": "お姉ちゃんは、\nやっぱりアイドルなんだね",
+    "rewardHairId": "hair-ktn-hair-20",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-birt-02-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-birt-02-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-birt-02-03"
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-05-circ-00",
     "assetId": "ktn-05-circ-00",
     "name": "カットバックタンデム",
@@ -18926,6 +18973,38 @@
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",
     "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-yu-05-prem-00",
+    "assetId": "yu-05-prem-00",
+    "name": "輝く笑顔のクリスマス",
+    "description": "あ、マネージャーさん。早く早く、うちの隣、あいてますよ？\nふふ、それとも……うちが膝の上、座ってあげましょか？",
+    "type": 1,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 282,
+    "visualRatioPermil": 428,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-prem-00-1",
+    "skillId2": "sk-yu-05-prem-00-2",
+    "skillId3": "sk-yu-05-prem-00-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 532,
+    "releaseDate": "1766545200000",
+    "obtainMessage": "それじゃあ、みんなで乾杯しましょか！",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
     "homeTalks": []
   },
   {

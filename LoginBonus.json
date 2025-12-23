@@ -2781,6 +2781,29 @@
     "receiveConditionId": "cd-time-login02-25-1208-1221"
   },
   {
+    "id": "login_bonus-campaign02-25-1225-01",
+    "name": "4.5周年記念",
+    "description": "9日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-25-1225-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-daily_quest_ticket_sp-25-1224;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-act_promotion_shorten;5",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-daily_quest_ticket_sp-25-1224;3",
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-25-1225-0102",
+    "receiveConditionId": "cd-time-login02-25-1225-0109"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

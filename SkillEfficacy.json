@@ -627,6 +627,39 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-active_score_multiplier_add-4-target-center-24",
+    "name": "センターにAスキルスコア追加効果",
+    "type": 60,
+    "description": "センターに4段階Aスキルスコア追加効果[24ビート]",
+    "grade": 4,
+    "maxGrade": 30,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-4-target-center-28",
+    "name": "センターにAスキルスコア追加効果",
+    "type": 60,
+    "description": "センターに4段階Aスキルスコア追加効果[28ビート]",
+    "grade": 4,
+    "maxGrade": 30,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-4-target-center-32",
+    "name": "センターにAスキルスコア追加効果",
+    "type": 60,
+    "description": "センターに4段階Aスキルスコア追加効果[32ビート]",
+    "grade": 4,
+    "maxGrade": 30,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-active_score_multiplier_add-4-target-character_type-1-2-33",
     "name": "スコアラータイプ2人にAスキルスコア追加効果",
     "type": 60,
@@ -832,6 +865,39 @@
     "grade": 5,
     "maxGrade": 30,
     "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-5-target-center-32",
+    "name": "センターにAスキルスコア追加効果",
+    "type": 60,
+    "description": "センターに5段階Aスキルスコア追加効果[32ビート]",
+    "grade": 5,
+    "maxGrade": 30,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-5-target-center-36",
+    "name": "センターにAスキルスコア追加効果",
+    "type": 60,
+    "description": "センターに5段階Aスキルスコア追加効果[36ビート]",
+    "grade": 5,
+    "maxGrade": 30,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-5-target-center-40",
+    "name": "センターにAスキルスコア追加効果",
+    "type": 60,
+    "description": "センターに5段階Aスキルスコア追加効果[40ビート]",
+    "grade": 5,
+    "maxGrade": 30,
+    "skillTargetId": "target-center",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
@@ -2860,6 +2926,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-4-target-character_type-1-2-31",
+    "name": "スコアラータイプ2人にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "スコアラータイプ2人に4段階Aスキルスコア上昇効果[31ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-4-target-character_type-1-2-32",
     "name": "スコアラータイプ2人にAスキルスコア上昇効果",
     "type": 18,
@@ -4173,6 +4250,17 @@
     "name": "スコアラータイプ2人にAスキルスコア上昇効果",
     "type": 18,
     "description": "スコアラータイプ2人に5段階Aスキルスコア上昇効果[33ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-5-target-character_type-1-2-34",
+    "name": "スコアラータイプ2人にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "スコアラータイプ2人に5段階Aスキルスコア上昇効果[34ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -8239,10 +8327,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-22",
+    "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[22ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-25",
     "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
     "type": 98,
     "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[25ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-26",
+    "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[26ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
@@ -8261,10 +8371,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-31",
+    "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[31ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-34",
     "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
     "type": 98,
     "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[34ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-36",
+    "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[36ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
@@ -8283,10 +8415,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-41",
+    "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[41ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-44",
     "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
     "type": 98,
     "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[44ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-46",
+    "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[46ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
@@ -8723,10 +8877,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_beat_score_up-10-target-all-22",
+    "name": "全員にビートスコア上昇超化効果",
+    "type": 97,
+    "description": "全員にビートスコア上昇超化効果[22ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_beat_score_up-10-target-all-25",
     "name": "全員にビートスコア上昇超化効果",
     "type": 97,
     "description": "全員にビートスコア上昇超化効果[25ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_beat_score_up-10-target-all-26",
+    "name": "全員にビートスコア上昇超化効果",
+    "type": 97,
+    "description": "全員にビートスコア上昇超化効果[26ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-all",
@@ -8745,10 +8921,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_beat_score_up-10-target-all-31",
+    "name": "全員にビートスコア上昇超化効果",
+    "type": 97,
+    "description": "全員にビートスコア上昇超化効果[31ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_beat_score_up-10-target-all-35",
     "name": "全員にビートスコア上昇超化効果",
     "type": 97,
     "description": "全員にビートスコア上昇超化効果[35ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_beat_score_up-10-target-all-36",
+    "name": "全員にビートスコア上昇超化効果",
+    "type": 97,
+    "description": "全員にビートスコア上昇超化効果[36ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-all",
@@ -8767,10 +8965,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_beat_score_up-10-target-all-41",
+    "name": "全員にビートスコア上昇超化効果",
+    "type": 97,
+    "description": "全員にビートスコア上昇超化効果[41ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_beat_score_up-10-target-all-45",
     "name": "全員にビートスコア上昇超化効果",
     "type": 97,
     "description": "全員にビートスコア上昇超化効果[45ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_beat_score_up-10-target-all-46",
+    "name": "全員にビートスコア上昇超化効果",
+    "type": 97,
+    "description": "全員にビートスコア上昇超化効果[46ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-all",
@@ -15202,10 +15422,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-beat_score_up-3-target-all-25",
+    "name": "全員にビートスコア上昇効果",
+    "type": 17,
+    "description": "全員に3段階ビートスコア上昇効果[25ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-beat_score_up-3-target-all-27",
     "name": "全員にビートスコア上昇効果",
     "type": 17,
     "description": "全員に3段階ビートスコア上昇効果[27ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 21,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-beat_score_up-3-target-all-28",
+    "name": "全員にビートスコア上昇効果",
+    "type": 17,
+    "description": "全員に3段階ビートスコア上昇効果[28ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-all",
@@ -29282,6 +29524,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-8-target-center-24",
+    "name": "センターにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "センターに8段階クリティカル係数上昇効果[24ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-8-target-center-28",
+    "name": "センターにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "センターに8段階クリティカル係数上昇効果[28ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-8-target-center-32",
     "name": "センターにクリティカル係数上昇効果",
     "type": 20,
@@ -29843,6 +30107,28 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-9-target-center-32",
+    "name": "センターにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "センターに9段階クリティカル係数上昇効果[32ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-9-target-center-36",
+    "name": "センターにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "センターに9段階クリティカル係数上昇効果[36ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-9-target-center-38",
     "name": "センターにクリティカル係数上昇効果",
     "type": 20,
@@ -29861,6 +30147,17 @@
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-9-target-center-40-01",
+    "name": "センターにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "センターに9段階クリティカル係数上昇効果[40ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -52415,6 +52712,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_skill_success_rate_up-5-target-self-20",
+    "name": "自身にスキル成功率上昇上限解放",
+    "type": 84,
+    "description": "自身に5段階スキル成功率上昇上限解放効果[20ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_skill_success_rate_up-5-target-self-21",
     "name": "自身にスキル成功率上昇上限解放",
     "type": 84,
@@ -52430,6 +52738,17 @@
     "name": "自身にスキル成功率上昇上限解放",
     "type": 84,
     "description": "自身に5段階スキル成功率上昇上限解放効果[22ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_skill_success_rate_up-5-target-self-25",
+    "name": "自身にスキル成功率上昇上限解放",
+    "type": 84,
+    "description": "自身に5段階スキル成功率上昇上限解放効果[25ビート]",
     "grade": 5,
     "maxGrade": 5,
     "skillTargetId": "target-self",
@@ -52492,10 +52811,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_skill_success_rate_up-5-target-self-35",
+    "name": "自身にスキル成功率上昇上限解放",
+    "type": 84,
+    "description": "自身に5段階スキル成功率上昇上限解放効果[35ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_skill_success_rate_up-5-target-self-39",
     "name": "自身にスキル成功率上昇上限解放",
     "type": 84,
     "description": "自身に5段階スキル成功率上昇上限解放効果[39ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_skill_success_rate_up-5-target-self-40",
+    "name": "自身にスキル成功率上昇上限解放",
+    "type": 84,
+    "description": "自身に5段階スキル成功率上昇上限解放効果[40ビート]",
     "grade": 5,
     "maxGrade": 5,
     "skillTargetId": "target-self",
@@ -59829,6 +60170,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_skill_success_rate_up-11100-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "1110%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_skill_success_rate_up-11200-chart_dependence",
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
@@ -59855,6 +60207,17 @@
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
     "description": "1200%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-12100-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "1210%のスコア獲得、スキル成功率が高い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -60324,6 +60687,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_skill_success_rate_up-7400-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "740%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_skill_success_rate_up-7500-chart_dependence",
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
@@ -60346,6 +60720,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_skill_success_rate_up-8300-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "830%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_skill_success_rate_up-8400-chart_dependence",
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
@@ -60361,6 +60746,17 @@
     "name": "スコア獲得-スキル成功率が高い程効果上昇",
     "type": 54,
     "description": "900%のスコア獲得、スキル成功率が高い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_skill_success_rate_up-9200-chart_dependence",
+    "name": "スコア獲得-スキル成功率が高い程効果上昇",
+    "type": 54,
+    "description": "920%のスコア獲得、スキル成功率が高い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -78309,6 +78705,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-5-target-all-40",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に5段階スキル成功率上昇効果[40ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-5-target-all-41",
     "name": "全員にスキル成功率上昇効果",
     "type": 37,
@@ -78331,10 +78738,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-5-target-all-45",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に5段階スキル成功率上昇効果[45ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-5-target-all-47",
     "name": "全員にスキル成功率上昇効果",
     "type": 37,
     "description": "全員に5段階スキル成功率上昇効果[47ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-5-target-all-50",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に5段階スキル成功率上昇効果[50ビート]",
     "grade": 5,
     "maxGrade": 10,
     "skillTargetId": "target-all",
@@ -79325,6 +79754,39 @@
     "name": "全員にスキル成功率上昇効果",
     "type": 37,
     "description": "全員に6段階スキル成功率上昇効果[45ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-all-55",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に6段階スキル成功率上昇効果[55ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-all-60",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に6段階スキル成功率上昇効果[60ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-6-target-all-65",
+    "name": "全員にスキル成功率上昇効果",
+    "type": 37,
+    "description": "全員に6段階スキル成功率上昇効果[65ビート]",
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-all",
@@ -92312,6 +92774,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-5-target-self-31",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に5段階テンションUP効果[31ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-5-target-self-32",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -92719,6 +93192,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-6-target-self-31",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に6段階テンションUP効果[31ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-6-target-self-32",
     "name": "自身にテンションUP効果",
     "type": 38,
@@ -92745,6 +93229,17 @@
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に6段階テンションUP効果[34ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-6-target-self-35",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に6段階テンションUP効果[35ビート]",
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -93038,10 +93533,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-7-target-self-35",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に7段階テンションUP効果[35ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-7-target-self-37",
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に7段階テンションUP効果[37ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-7-target-self-38",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に7段階テンションUP効果[38ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -93071,10 +93588,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-7-target-self-41",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に7段階テンションUP効果[41ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-7-target-self-44",
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に7段階テンションUP効果[44ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-7-target-self-45",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に7段階テンションUP効果[45ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-self",
