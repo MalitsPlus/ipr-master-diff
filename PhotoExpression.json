@@ -2,6 +2,36 @@
   {
     "id": "photo_activity-living",
     "name": "東京寮リビング",
+    "thumbnailAssetId": "living-02",
+    "stageId": "stage-photo-living-01",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "pajm",
+      "hruh",
+      "trbl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 11,
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_activity-living_02",
+    "name": "東京寮リビング②",
     "thumbnailAssetId": "living-01",
     "stageId": "stage-photo-living-01",
     "costumeTypeIds": [
@@ -15,7 +45,8 @@
       "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 15,
+    "order": 12,
+    "viewConditionId": "cd-photo_expression_shooting-1224",
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -25,7 +56,36 @@
       "char-chn",
       "char-cca"
     ],
-    "viewConditionId": "",
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_activity-living_03",
+    "name": "東京寮リビング③",
+    "thumbnailAssetId": "living-03",
+    "stageId": "stage-photo-living-01",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "pajm",
+      "hruh",
+      "trbl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 13,
+    "viewConditionId": "cd-photo_expression_shooting-1224",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
     "unlockConditionId": "",
     "impossiblePhotoPoseIds": []
   },
@@ -70,7 +130,7 @@
       "mizg"
     ],
     "forceCostumeTypeId": "mizg",
-    "order": 11,
+    "order": 15,
     "viewConditionId": "cd-photo_expression_shooting-bedrockbath",
     "impossibleShootingCharacterIds": [
       "char-mku",
@@ -156,8 +216,72 @@
       "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 13,
+    "order": 7,
     "viewConditionId": "cd-time-photo-garden-02-01",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_expression-garden_02",
+    "name": "ガーデンテラス②",
+    "thumbnailAssetId": "garden-02_01",
+    "stageId": "stage-photo-garden-02",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "waso",
+      "pajm",
+      "hruh",
+      "trbl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 8,
+    "viewConditionId": "cd-time-photo-garden-02-01_01",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_expression-garden_03",
+    "name": "ガーデンテラス③",
+    "thumbnailAssetId": "garden-02_02",
+    "stageId": "stage-photo-garden-02-03",
+    "costumeTypeIds": [
+      "idol",
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "waso",
+      "pajm",
+      "hruh",
+      "trbl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 9,
+    "viewConditionId": "cd-time-photo-garden-02-01_01",
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -188,10 +312,82 @@
       "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 11,
+    "order": 1,
     "viewConditionId": "cd-photo_expression_shooting-0318",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
     "unlockConditionId": "",
-    "impossibleShootingCharacterIds": [],
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_expression-hillpark_02",
+    "name": "星見市高台②",
+    "thumbnailAssetId": "hillpark-02",
+    "stageId": "stage-photo-hillpark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol",
+      "waso",
+      "pajm",
+      "hruh",
+      "trbl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 2,
+    "viewConditionId": "cd-photo_expression_shooting-0318_01",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_expression-hillpark_03",
+    "name": "星見市高台③",
+    "thumbnailAssetId": "hillpark-03",
+    "stageId": "stage-photo-hillpark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol",
+      "waso",
+      "pajm",
+      "hruh",
+      "trbl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 3,
+    "viewConditionId": "cd-photo_expression_shooting-0318_01",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "unlockConditionId": "",
     "impossiblePhotoPoseIds": []
   },
   {
@@ -216,7 +412,7 @@
       "trbl-mizg"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 14,
+    "order": 10,
     "viewConditionId": "cd-time-photo-lesson-00-01",
     "impossibleShootingCharacterIds": [
       "char-mku",
@@ -255,7 +451,7 @@
       "trbl-mizg"
     ],
     "forceCostumeTypeId": "mizg",
-    "order": 12,
+    "order": 4,
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -275,6 +471,72 @@
       "photo-pose-25-1126-02"
     ],
     "viewConditionId": "",
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-pool_02",
+    "name": "水着グラビア撮影②",
+    "thumbnailAssetId": "pool-02",
+    "stageId": "stage-photo-expression-pool-00",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng",
+      "trbl-mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "order": 5,
+    "viewConditionId": "cd-photo_expression_shooting-1224",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-lesson",
+      "photo-pose-lying-relax-lesson",
+      "photo-pose-bedrockbath-naturally",
+      "photo-pose-bedrockbath-relax",
+      "photo-pose-bedrockbath-new",
+      "photo-pose-bedrockbath-lying",
+      "photo-pose-25-1126-02"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-pool_03",
+    "name": "水着グラビア撮影③",
+    "thumbnailAssetId": "pool-03",
+    "stageId": "stage-photo-expression-pool-00",
+    "costumeTypeIds": [
+      "mizg",
+      "mizg-water-ng",
+      "trbl-mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "order": 6,
+    "viewConditionId": "cd-photo_expression_shooting-1224",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-lesson",
+      "photo-pose-lying-relax-lesson",
+      "photo-pose-bedrockbath-naturally",
+      "photo-pose-bedrockbath-relax",
+      "photo-pose-bedrockbath-new",
+      "photo-pose-bedrockbath-lying",
+      "photo-pose-25-1126-02"
+    ],
     "unlockConditionId": ""
   },
   {

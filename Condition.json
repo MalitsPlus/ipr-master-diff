@@ -145322,6 +145322,20 @@
     ]
   },
   {
+    "id": "cd-photo_expression_shooting-0318_01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1766545200000",
+          "nowBefore": "0"
+        },
+        "clearArea": {
+          "areaId": "area-main-002"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-photo_expression_shooting-1126",
     "settings": [
       {
@@ -145345,6 +145359,17 @@
         },
         "clearArea": {
           "areaId": "area-main-002"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo_expression_shooting-1224",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1766545200000",
+          "nowBefore": "0"
         }
       }
     ]
@@ -267616,6 +267641,23 @@
     ]
   },
   {
+    "id": "cd-time-home-winter-evening-25-1224",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-day-christmas-01-25-1224"
+        },
+        "dayOfWeek": {
+          "dayOfWeekType": 5
+        },
+        "time": {
+          "nowAfter": "57600000",
+          "nowBefore": "66599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-home-winter-night",
     "settings": [
       {
@@ -277781,6 +277823,17 @@
       {
         "term": {
           "nowAfter": "1687748400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-photo-garden-02-01_01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1766545200000",
           "nowBefore": "0"
         }
       }
