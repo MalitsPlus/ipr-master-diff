@@ -1758,6 +1758,24 @@
     "notWearableCostumeIds": []
   },
   {
+    "id": "hair-chs-casl-03",
+    "hairAssetId": "chs-casl-03",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-casl-03",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-casl-03"
+    ],
+    "fittingCostumeId": "cos-chs-casl-03",
+    "order": 378,
+    "name": "ニコイチスタイル",
+    "releaseTime": "1767063600000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
     "id": "hair-chs-chia-00",
     "hairAssetId": "chs-chia-00",
     "faceAssetId": "chs-base-00",
@@ -2142,6 +2160,24 @@
     "order": 368,
     "name": "リエステラ",
     "releaseTime": "1744686000000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-chs-link-01",
+    "hairAssetId": "chs-link-01",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-link-01",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-link-01"
+    ],
+    "fittingCostumeId": "cos-chs-link-01",
+    "order": 378,
+    "name": "リエルフレ",
+    "releaseTime": "1767063600000",
     "impossiblePhotoPoseTypes": [
       3
     ],
@@ -2673,6 +2709,24 @@
     "notWearableCostumeIds": []
   },
   {
+    "id": "hair-hrk-casl-03",
+    "hairAssetId": "hrk-casl-03",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-casl-03",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-casl-03"
+    ],
+    "fittingCostumeId": "cos-hrk-casl-03",
+    "order": 377,
+    "name": "ニコイチスタイル",
+    "releaseTime": "1766718000000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
     "id": "hair-hrk-chia-00",
     "hairAssetId": "hrk-chia-00",
     "faceAssetId": "hrk-base-00",
@@ -2814,6 +2868,74 @@
     "impossiblePhotoPoseTypes": []
   },
   {
+    "id": "hair-hrk-hair-20",
+    "hairAssetId": "hrk-hair-20",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-hair-20",
+    "characterId": "char-hrk",
+    "notWearableCostumeIds": [
+      "cos-hrk-sdpl-00",
+      "cos-hrk-sdam-00"
+    ],
+    "fittingCostumeId": "cos-hrk-casl-00",
+    "order": 1106,
+    "name": "ナチュラルショートボブ",
+    "releaseTime": "1767366000000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": []
+  },
+  {
+    "id": "hair-hrk-hair-21",
+    "hairAssetId": "hrk-hair-21",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "ornament_hair_1",
+    "characterId": "char-hrk",
+    "notWearableCostumeIds": [
+      "cos-hrk-sdpl-00",
+      "cos-hrk-sdam-00"
+    ],
+    "fittingCostumeId": "cos-hrk-casl-00",
+    "order": 1063,
+    "name": "椿の髪飾り",
+    "releaseTime": "1767366000000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": []
+  },
+  {
+    "id": "hair-hrk-hair-22",
+    "hairAssetId": "hrk-hair-22",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "ornament_hair_2",
+    "characterId": "char-hrk",
+    "notWearableCostumeIds": [
+      "cos-hrk-sdpl-00",
+      "cos-hrk-sdam-00"
+    ],
+    "fittingCostumeId": "cos-hrk-casl-00",
+    "order": 1064,
+    "name": "バースデークラウン",
+    "releaseTime": "1767366000000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": []
+  },
+  {
+    "id": "hair-hrk-hair-23",
+    "hairAssetId": "hrk-hair-23",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "ornament_hair_3",
+    "characterId": "char-hrk",
+    "notWearableCostumeIds": [
+      "cos-hrk-sdpl-00",
+      "cos-hrk-sdam-00"
+    ],
+    "fittingCostumeId": "cos-hrk-casl-00",
+    "order": 1065,
+    "name": "バースデーハット",
+    "releaseTime": "1767366000000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": []
+  },
+  {
     "id": "hair-hrk-idol-00",
     "hairAssetId": "hrk-base-00",
     "faceAssetId": "hrk-base-00",
@@ -2934,6 +3056,24 @@
     "order": 5343,
     "name": "桜が丘女子高等学校",
     "releaseTime": "1682650800000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-hrk-link-01",
+    "hairAssetId": "hrk-link-01",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-link-01",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-link-01"
+    ],
+    "fittingCostumeId": "cos-hrk-link-01",
+    "order": 377,
+    "name": "リエルフレ",
+    "releaseTime": "1766718000000",
     "impossiblePhotoPoseTypes": [
       3
     ],
@@ -3718,6 +3858,25 @@
     "releaseTime": "1722049200000",
     "notWearableCostumeIds": [],
     "impossiblePhotoPoseTypes": []
+  },
+  {
+    "id": "hair-kan-newy-00",
+    "hairAssetId": "kan-newy-00",
+    "faceAssetId": "kan-base-00",
+    "sdHairAssetId": "kan-newy-00",
+    "characterId": "char-kan",
+    "wearableCostumeIds": [
+      "cos-kan-newy-00"
+    ],
+    "fittingCostumeId": "cos-kan-newy-00",
+    "order": 5813,
+    "name": "インサイドアウト",
+    "releaseTime": "1767495600000",
+    "impossiblePhotoPoseTypes": [
+      2,
+      3
+    ],
+    "notWearableCostumeIds": []
   },
   {
     "id": "hair-kan-pair-00",
@@ -5186,6 +5345,25 @@
     "releaseTime": "1722049200000",
     "notWearableCostumeIds": [],
     "impossiblePhotoPoseTypes": []
+  },
+  {
+    "id": "hair-kor-newy-00",
+    "hairAssetId": "kor-newy-00",
+    "faceAssetId": "kor-base-00",
+    "sdHairAssetId": "kor-newy-00",
+    "characterId": "char-kor",
+    "wearableCostumeIds": [
+      "cos-kor-newy-00"
+    ],
+    "fittingCostumeId": "cos-kor-newy-00",
+    "order": 438,
+    "name": "インサイドアウト",
+    "releaseTime": "1767495600000",
+    "impossiblePhotoPoseTypes": [
+      2,
+      3
+    ],
+    "notWearableCostumeIds": []
   },
   {
     "id": "hair-kor-nurs-00",
@@ -7499,6 +7677,25 @@
     "impossiblePhotoPoseTypes": []
   },
   {
+    "id": "hair-mhk-newy-00",
+    "hairAssetId": "mhk-newy-00",
+    "faceAssetId": "mhk-base-00",
+    "sdHairAssetId": "mhk-newy-00",
+    "characterId": "char-mhk",
+    "wearableCostumeIds": [
+      "cos-mhk-newy-00"
+    ],
+    "fittingCostumeId": "cos-mhk-newy-00",
+    "order": 439,
+    "name": "インサイドアウト",
+    "releaseTime": "1767495600000",
+    "impossiblePhotoPoseTypes": [
+      2,
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
     "id": "hair-mhk-pajm-00",
     "hairAssetId": "mhk-pajm-00",
     "faceAssetId": "mhk-base-00",
@@ -7829,6 +8026,24 @@
     "notWearableCostumeIds": []
   },
   {
+    "id": "hair-mna-casl-03",
+    "hairAssetId": "mna-casl-03",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-casl-03",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-casl-03"
+    ],
+    "fittingCostumeId": "cos-mna-casl-03",
+    "order": 378,
+    "name": "ニコイチスタイル",
+    "releaseTime": "1766718000000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
     "id": "hair-mna-fest-00",
     "hairAssetId": "mna-fest-00",
     "faceAssetId": "mna-base-00",
@@ -8069,6 +8284,24 @@
     "order": 348,
     "name": "リエステラ",
     "releaseTime": "1739329200000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-mna-link-01",
+    "hairAssetId": "mna-link-01",
+    "faceAssetId": "mna-base-00",
+    "sdHairAssetId": "mna-link-01",
+    "characterId": "char-mna",
+    "wearableCostumeIds": [
+      "cos-mna-link-01"
+    ],
+    "fittingCostumeId": "cos-mna-link-01",
+    "order": 378,
+    "name": "リエルフレ",
+    "releaseTime": "1766718000000",
     "impossiblePhotoPoseTypes": [
       3
     ],
@@ -15192,6 +15425,24 @@
     "notWearableCostumeIds": []
   },
   {
+    "id": "hair-szk-casl-03",
+    "hairAssetId": "szk-casl-03",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-casl-03",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-casl-03"
+    ],
+    "fittingCostumeId": "cos-szk-casl-03",
+    "order": 377,
+    "name": "ニコイチスタイル",
+    "releaseTime": "1767063600000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
     "id": "hair-szk-chia-00",
     "hairAssetId": "szk-chia-00",
     "faceAssetId": "szk-base-00",
@@ -15557,6 +15808,24 @@
     "order": 5342,
     "name": "桜が丘女子高等学校",
     "releaseTime": "1682650800000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": []
+  },
+  {
+    "id": "hair-szk-link-01",
+    "hairAssetId": "szk-link-01",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-link-01",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-link-01"
+    ],
+    "fittingCostumeId": "cos-szk-link-01",
+    "order": 377,
+    "name": "リエルフレ",
+    "releaseTime": "1767063600000",
     "impossiblePhotoPoseTypes": [
       3
     ],

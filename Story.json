@@ -288,6 +288,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-hrk-26-0103",
+    "name": "佐伯遙子 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は遙子さんの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "おとそのセット",
+        "advAssetId": "hbd_06_hrk_01"
+      },
+      {
+        "index": 2,
+        "text": "多機能ナイフ",
+        "advAssetId": "hbd_06_hrk_02"
+      },
+      {
+        "index": 3,
+        "text": "ダイエットベルト",
+        "advAssetId": "hbd_06_hrk_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-kan-24-0410",
     "name": "kana 誕生日2024",
     "advPlayTypes": [
@@ -4336,6 +4368,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-hrk-05-birt-02-01",
+    "name": "工具セット\nどうするのよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-birt-02-02",
+    "name": "浴びるほど\n食べてやる",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-birt-02-03",
+    "name": "けん玉\nそのものに",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-hrk-05-chna-00-01",
     "name": "羞恥心克服",
     "rewardId": "rd_auto;stone;;30",
@@ -4542,6 +4628,60 @@
     ],
     "advAssetIds": [
       "card_hrk_05_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-link-00-01",
+    "name": "ミュージカル\nのオーディ\nション",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_14_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-link-00-02",
+    "name": "次に泣く時は、\n喜びの嬉し涙",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_14_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-link-00-03",
+    "name": "一緒に\n歌ってね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_14_03"
     ],
     "sectionName": "",
     "description": "",
@@ -6928,6 +7068,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-kor-05-newy-00-01",
+    "name": "う、うーん\n……ぐぅ……",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_10_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kor-05-newy-00-02",
+    "name": "うっわ\n大外れ、\nkanaだ～",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_10_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kor-05-newy-00-03",
+    "name": "斬新な\nギャグ動画",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_10_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-kor-05-nurs-00-01",
     "name": "私が\nネクロ！？",
     "rewardId": "rd_auto;stone;;30",
@@ -9078,6 +9272,60 @@
     ],
     "advAssetIds": [
       "card_mhk_04_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-newy-00-01",
+    "name": "自分の車を\n買うつもり\nなんです",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_10_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-newy-00-02",
+    "name": "素敵な車\nですけど",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_10_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-newy-00-03",
+    "name": "今年も\nよろしく\nお願いします",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_10_03"
     ],
     "sectionName": "",
     "description": "",
@@ -17232,6 +17480,60 @@
     ],
     "advAssetIds": [
       "card_szk_01_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-link-00-01",
+    "name": "私が\n『一緒に歌い\nたい』のは",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_12_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-link-00-02",
+    "name": "待たなくて\n大丈夫だよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_12_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-link-00-03",
+    "name": "ずっと\nずっと、\n親友だよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_12_03"
     ],
     "sectionName": "",
     "description": "",
@@ -26171,6 +26473,100 @@
     "branchChoices": []
   },
   {
+    "id": "st-eve-2601-race-001",
+    "name": "ⅢX公式動画\nチャンネル",
+    "description": "SNSにて、ⅢXの公式動画チャンネルを開設することが決定。何度か会議を重ねた結果、それぞれがオフの姿を撮影してきて、動画にしてみることになるが――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_01"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2601-race-002",
+    "name": "ドライブ\n行っちゃい\nましょ～！",
+    "description": "mihoが車を買ったことを知り、ドライブ動画を撮ろうと提案するkana。流れで大事な車をfranやkanaに運転されることになり、不機嫌なmihoだが、動画を盛り上げようとkana達はさらに画策をし――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2601-race-003",
+    "name": "ろくな動画が\n撮れてない！",
+    "description": "様々な企画を立て、様々な動画を撮るⅢX。だが、チャンネル開設まで後三日と迫る中、ろくな動画が撮れていない。そんな中、mihoがあることを提案し――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_03"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2601-race-004",
+    "name": "仲良し三人組\nと友情破壊\nゲーム",
+    "description": "mihoの提案で、家庭用のゲーム機を用意し、プレイ動画を撮ることにしたⅢX。『友情破壊ゲーム』と呼ばれるものを、仲良し三人組でプレイすることになるが――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_04"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2601-race-005",
+    "name": "全世界に\n生配信！",
+    "description": "チャンネル開設日、当日。年越しのカウントダウンライブにて、ライブの映像を同時生配信をするⅢX。無事に登録者も伸び、晴れやかな気持ちで新年を迎えるが――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1,
+      2,
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_05_01",
+      "adv-live-eve-2601-race-05",
+      "event_2601_01_05_02"
+    ],
+    "sectionName": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-ex-story-part-anniversary-01-23-0624-01",
     "sectionName": "SPECIAL STAGE",
     "name": "プロローグ",
@@ -27426,6 +27822,24 @@
     ],
     "advAssetIds": [
       "event_2506_03_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-ex-story-part-special-01-26-0104-newyear-01",
+    "name": "お正月 2026",
+    "advPlayTypes": [
+      3
+    ],
+    "advAssetIds": [
+      "event_2601_02_01"
     ],
     "sectionName": "",
     "description": "",
@@ -45611,6 +46025,96 @@
     ],
     "advAssetIds": [
       "event_2512_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0104-001-001",
+    "name": "ⅢX公式動画\nチャンネル",
+    "description": "SNSにて、ⅢXの公式動画チャンネルを開設することが決定。何度か会議を重ねた結果、それぞれがオフの姿を撮影してきて、動画にしてみることになるが――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0104-001-002",
+    "name": "ドライブ\n行っちゃい\nましょ～！",
+    "description": "mihoが車を買ったことを知り、ドライブ動画を撮ろうと提案するkana。流れで大事な車をfranやkanaに運転されることになり、不機嫌なmihoだが、動画を盛り上げようとkana達はさらに画策をし――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0104-001-003",
+    "name": "ろくな動画が\n撮れてない！",
+    "description": "様々な企画を立て、様々な動画を撮るⅢX。だが、チャンネル開設まで後三日と迫る中、ろくな動画が撮れていない。そんな中、mihoがあることを提案し――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0104-001-004",
+    "name": "仲良し三人組\nと友情破壊\nゲーム",
+    "description": "mihoの提案で、家庭用のゲーム機を用意し、プレイ動画を撮ることにしたⅢX。『友情破壊ゲーム』と呼ばれるものを、仲良し三人組でプレイすることになるが――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0104-001-005",
+    "name": "全世界に\n生配信！",
+    "description": "チャンネル開設日、当日。年越しのカウントダウンライブにて、ライブの映像を同時生配信をするⅢX。無事に登録者も伸び、晴れやかな気持ちで新年を迎えるが――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2601_01_05"
     ],
     "sectionName": "",
     "rewardId": "",

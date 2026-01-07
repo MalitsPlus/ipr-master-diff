@@ -40826,6 +40826,120 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-received_strength_effect_count_increase-combo_score_up_recipe_distribution-5-cd-appeal",
+    "name": "被・コンボスコア延長",
+    "description": "<スコアラータイプのみ>\n受けるコンボスコア上昇効果を{0}延長します",
+    "abilityType": 28,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 23
+      },
+      {
+        "level": 145,
+        "value": 23
+      },
+      {
+        "level": 150,
+        "value": 23
+      },
+      {
+        "level": 155,
+        "value": 23
+      },
+      {
+        "level": 160,
+        "value": 23
+      },
+      {
+        "level": 165,
+        "value": 23
+      },
+      {
+        "level": 170,
+        "value": 23
+      },
+      {
+        "level": 175,
+        "value": 23
+      },
+      {
+        "level": 180,
+        "value": 23
+      },
+      {
+        "level": 185,
+        "value": 23
+      },
+      {
+        "level": 190,
+        "value": 23
+      },
+      {
+        "level": 195,
+        "value": 23
+      },
+      {
+        "level": 200,
+        "value": 23
+      },
+      {
+        "level": 205,
+        "value": 23
+      },
+      {
+        "level": 210,
+        "value": 23
+      },
+      {
+        "level": 215,
+        "value": 23
+      },
+      {
+        "level": 220,
+        "value": 23
+      },
+      {
+        "level": 225,
+        "value": 23
+      },
+      {
+        "level": 230,
+        "value": 23
+      },
+      {
+        "level": 235,
+        "value": 23
+      },
+      {
+        "level": 240,
+        "value": 23
+      },
+      {
+        "level": 245,
+        "value": 23
+      },
+      {
+        "level": 250,
+        "value": 23
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "conditionCardType": 1,
+    "statusEffectType": 16,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-received_strength_effect_count_increase-critical_bonus_permil_up_recipe_distribution-5-cd-appeal",
     "name": "被・クリティカル係数延長",
     "description": "<スコアラータイプのみ>\n受けるクリティカル係数上昇効果を{0}延長します",

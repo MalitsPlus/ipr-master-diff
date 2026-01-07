@@ -7792,6 +7792,50 @@
     "shootingTime": "0"
   },
   {
+    "id": "phot-prm-5-153",
+    "assetId": "phot-prm-5-153",
+    "name": "葵&渚",
+    "rarity": 5,
+    "placeName": "お正月",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-beat-score-up_multiply_distribution-5",
+        "effectValue": 100,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-mhk",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-prm-5-16",
     "assetId": "phot-prm-5-0016",
     "name": "fran&miho",
@@ -9064,6 +9108,94 @@
       }
     ],
     "focusCharacterId": "char-mna",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-shop-2512-1",
+    "assetId": "phot-link-shop-2512-01",
+    "name": "佐伯遙子",
+    "rarity": 5,
+    "placeName": "一緒にがんばろう",
+    "eventName": "メモリアルフォト",
+    "level": 60,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-critical-score-up_multiply_distribution-5",
+        "effectValue": 145,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-hrk",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-shop-2512-3",
+    "assetId": "phot-link-shop-2512-02",
+    "name": "兵藤雫",
+    "rarity": 5,
+    "placeName": "優勝の景色",
+    "eventName": "メモリアルフォト",
+    "level": 60,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-active-skill-score-up_multiply_distribution-5",
+        "effectValue": 70,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-szk",
     "characterIds": [],
     "shootingTime": "0"
   },

@@ -3031,6 +3031,53 @@
     "homeTalks": []
   },
   {
+    "id": "card-hrk-05-birt-02",
+    "assetId": "hrk-05-birt-02",
+    "name": "wonderful day for 遙子",
+    "description": "止めないで怜ちゃん……遙子は今、バランス感覚を\r\n磨くことでけん玉そのものになろうとしているの",
+    "type": 3,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 415,
+    "danceRatioPermil": 327,
+    "visualRatioPermil": 288,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-birt-02-1",
+    "skillId2": "sk-hrk-05-birt-02-2",
+    "skillId3": "sk-hrk-05-birt-02-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 537,
+    "releaseDate": "1767366000000",
+    "rewardHairIds": [
+      "hair-hrk-hair-20",
+      "hair-hrk-hair-21",
+      "hair-hrk-hair-22",
+      "hair-hrk-hair-23"
+    ],
+    "obtainMessage": "決めた！　\n今日はチートバースデーよ！",
+    "rewardHairId": "hair-hrk-hair-20",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-birt-02-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-birt-02-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-birt-02-03"
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-hrk-05-chna-00",
     "assetId": "hrk-05-chna-00",
     "name": "解き放たれる十七歳",
@@ -3236,6 +3283,57 @@
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",
     "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-hrk-05-link-00",
+    "assetId": "hrk-05-link-00",
+    "name": "絆が示す涙の航路",
+    "description": "想像通りとはいかなかったけど\r\n麻奈ちゃんなら、頑張った私を褒めてくれるわよね？",
+    "type": 2,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 279,
+    "danceRatioPermil": 408,
+    "visualRatioPermil": 313,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-link-00-1",
+    "skillId2": "sk-hrk-05-link-00-2",
+    "skillId3": "sk-hrk-05-link-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 533,
+    "releaseDate": "1766718000000",
+    "rewardCostumeId": "cos-hrk-link-01",
+    "obtainMessage": "麻奈ちゃんと同じ舞台に\n立てる日がくるって、\n信じるわ",
+    "cardEvolutionLevelReleaseGroupId": "card_evolution_level_release_bond",
+    "cardEvolutionLevelGroupId": "card_evolution_level_bond",
+    "skillId4": "sk-hrk-05-link-00-4",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-link-00-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-link-00-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-link-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-hrk-05-link-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-hrk-05-link-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
     "homeTalks": []
   },
   {
@@ -3701,6 +3799,38 @@
     "skillId3": "sk-kan-02-eve-02-3",
     "order": 487,
     "releaseDate": "1751382000000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-kan-02-eve-03",
+    "assetId": "kan-02-eve-03",
+    "name": "仮面に隠した素顔",
+    "description": "……さてと、お参りもしたし……あ、絵馬みっけ\r\nせっかくだし、何か書いていこうかな",
+    "type": 1,
+    "characterId": "char-kan",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 281,
+    "danceRatioPermil": 428,
+    "visualRatioPermil": 321,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-02-eve-03-1",
+    "skillId2": "sk-kan-02-eve-03-2",
+    "skillId3": "sk-kan-02-eve-03-3",
+    "order": 540,
+    "releaseDate": "1767495600000",
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
@@ -5729,6 +5859,57 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-kor-05-newy-00",
+    "assetId": "kor-05-newy-00",
+    "name": "夜桜マスケンヴァル",
+    "description": "この衣装だったら、こういう動きの方が\n映えますよね\nせっかくですし、もっと海外ウケするように\nしますね",
+    "type": 2,
+    "characterId": "char-kor",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 405,
+    "danceRatioPermil": 317,
+    "visualRatioPermil": 278,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kor-05-newy-00-1",
+    "skillId2": "sk-kor-05-newy-00-2",
+    "skillId3": "sk-kor-05-newy-00-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 538,
+    "releaseDate": "1767495600000",
+    "rewardCostumeId": "cos-kor-newy-00",
+    "obtainMessage": "新年あけまして\nおめでとうございます",
+    "stories": [
+      {
+        "storyId": "st-card-kor-05-newy-00-01"
+      },
+      {
+        "storyId": "st-card-kor-05-newy-00-02"
+      },
+      {
+        "storyId": "st-card-kor-05-newy-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kor-05-newy-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kor-05-newy-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",
@@ -8279,6 +8460,57 @@
       }
     ],
     "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mhk-05-newy-00",
+    "assetId": "mhk-05-newy-00",
+    "name": "盃映す雪景色",
+    "description": "ほら、これはお酒じゃなくてただの水ですよ\r\n撮影用の小道具ですから、安心して下さい",
+    "type": 3,
+    "characterId": "char-mhk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 326,
+    "danceRatioPermil": 288,
+    "visualRatioPermil": 416,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mhk-05-newy-00-1",
+    "skillId2": "sk-mhk-05-newy-00-2",
+    "skillId3": "sk-mhk-05-newy-00-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 539,
+    "releaseDate": "1767495600000",
+    "rewardCostumeId": "cos-mhk-newy-00",
+    "obtainMessage": "衣装でも着物風のを\n着られるのは、嬉しいですね",
+    "stories": [
+      {
+        "storyId": "st-card-mhk-05-newy-00-01"
+      },
+      {
+        "storyId": "st-card-mhk-05-newy-00-02"
+      },
+      {
+        "storyId": "st-card-mhk-05-newy-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mhk-05-newy-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mhk-05-newy-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",
@@ -17786,6 +18018,57 @@
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",
     "skillId4": ""
+  },
+  {
+    "id": "card-szk-05-link-00",
+    "assetId": "szk-05-link-00",
+    "name": "二人の絆がたからもの",
+    "description": "口下手な私の青春は、千紗ちゃんのおかげで\n輝いてる\nありがとう、千紗ちゃん",
+    "type": 1,
+    "characterId": "char-szk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 437,
+    "danceRatioPermil": 317,
+    "visualRatioPermil": 276,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-05-link-00-1",
+    "skillId2": "sk-szk-05-link-00-2",
+    "skillId3": "sk-szk-05-link-00-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 535,
+    "releaseDate": "1767063600000",
+    "rewardCostumeId": "cos-szk-link-01",
+    "obtainMessage": "私の青春には、\nいつも隣に千紗ちゃんが\nいてくれた",
+    "cardEvolutionLevelReleaseGroupId": "card_evolution_level_release_bond",
+    "cardEvolutionLevelGroupId": "card_evolution_level_bond",
+    "skillId4": "sk-szk-05-link-00-4",
+    "stories": [
+      {
+        "storyId": "st-card-szk-05-link-00-01"
+      },
+      {
+        "storyId": "st-card-szk-05-link-00-02"
+      },
+      {
+        "storyId": "st-card-szk-05-link-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-szk-05-link-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-szk-05-link-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "homeTalks": []
   },
   {
     "id": "card-szk-05-mizg-03",
