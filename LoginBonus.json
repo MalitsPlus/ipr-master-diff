@@ -2254,6 +2254,27 @@
     "receiveConditionId": "cd-time-login-25-1219-1230"
   },
   {
+    "id": "login_bonus-campaign-26-0116-01",
+    "name": "新春第2弾",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0116-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-gacha_lottery-ticket-26-0101;10",
+      "rd_auto;item;item-gacha_lottery-ticket-26-0101;10",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-gacha_lottery-ticket-26-0101;10",
+      "rd_auto;item;item-gacha_lottery-ticket-26-0101;10",
+      "rd_auto;item;item-gacha_lottery-ticket-26-0101;10",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-26-0116-0122",
+    "receiveConditionId": "cd-time-login-26-0116-0129"
+  },
+  {
     "id": "login_bonus-campaign02-24-1114-01",
     "name": "もし恋",
     "description": "7日間の特別なログインボーナス",

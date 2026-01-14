@@ -276,6 +276,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-cd_cover-music-0120",
+    "name": "カバー楽曲「最高優美ロンリネス(琴乃、渚、遙子、怜ver.)」",
+    "assetId": "cover-music-0120",
+    "description": "カバー楽曲「最高優美ロンリネス(琴乃、渚、遙子、怜ver.)」\nの鑑賞や撮影を、【撮影 > ライブ】から行うことができます。",
+    "howToGet": "ショップ",
+    "type": 3001,
+    "value": 1,
+    "order": 3000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-cd_cover-music-0922",
     "name": "カバー楽曲「Daytime Moon(サニーピースver.)」",
     "assetId": "cover-music-0922",
@@ -2045,6 +2057,18 @@
     "assetId": "enjoy-episode-06",
     "description": "交流ストーリーEpisode6",
     "howToGet": "事務所ランクLv.50達成",
+    "type": 10,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-enjoy-story-bond-007",
+    "name": "交流ストーリーEpisode7",
+    "assetId": "enjoy-episode-07",
+    "description": "交流ストーリーEpisode7",
+    "howToGet": "事務所ランクLv.55達成",
     "type": 10,
     "value": 1,
     "order": 100,
@@ -8244,6 +8268,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-26-0115",
+    "name": "響き渡る音の記憶ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -10356,6 +10392,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-select-01-26-0116",
+    "name": "選べる★5スコアラーガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_ticket",
     "name": "ガチャチケ",
     "assetId": "gacha-ticket-normal",
@@ -10636,6 +10684,18 @@
     "name": "「炸裂！弾丸サーブ！！」専用ガチャチケット",
     "assetId": "gacha-ticket-just",
     "description": "「炸裂！弾丸サーブ！！」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-26-0115-01",
+    "name": "「響き渡る音の記憶」専用ガチャチケット",
+    "assetId": "gacha-ticket-just",
+    "description": "「響き渡る音の記憶」ガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "アイドル活動ミッション",
     "type": 8,
     "value": 1,

@@ -11605,6 +11605,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-smr-05-seik-00-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-seik-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-seik-00",
+    "choiceText": "悩み事か？",
+    "managerText": "悩み事か？",
+    "reliability": 5,
+    "title": "keys of memory",
+    "displayConditionDescription": "keys of memory 奥山すみれ\nストーリー3話を視聴",
+    "order": 491,
+    "releaseDate": "1768446000000",
+    "characterTalks": [
+      {
+        "text": "あ、{user}さん！\nちょっと相談に乗ってほしいことが\nあるんです。",
+        "voiceAssetId": "sud_vo_home_smr-05-seik-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-023_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "ベレー帽、可愛いからほしいなって\n思ったんですけど、\n私の私服だと、その…",
+        "voiceAssetId": "sud_vo_home_smr-05-seik-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_moji-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "すっごく子供っぽくなっちゃって。\nならいっそ、服も合わせて買ったら\nいいのかなって悩んでるんです。",
+        "voiceAssetId": "sud_vo_home_smr-05-seik-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emb-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "気になる服もあるんですけど…\n普段着としては、少し動きにくくて\n着る機会はあまりないかなって。",
+        "voiceAssetId": "sud_vo_home_smr-05-seik-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "山形で浮いちゃったり、\n遊んでて服に穴が開いちゃったら、\n困りますし。",
+        "voiceAssetId": "sud_vo_home_smr-05-seik-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…東京で着ればいい？　確かに\nそうですね。可愛い服を買ったら、\n沢山遊びに連れてって下さいね！",
+        "voiceAssetId": "sud_vo_home_smr-05-seik-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-smr-05-xmas-00-talk-01",
     "characterId": "char-smr",
     "placeType": 1,

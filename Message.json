@@ -96944,6 +96944,410 @@
     "rarityType": 0
   },
   {
+    "id": "message-card-smr-05-seik-00",
+    "messageGroupId": "message_group_smr",
+    "name": "「keys of memory」",
+    "type": 1,
+    "characterId": "char-smr",
+    "unlockConditionId": "cd-st-read-st-card-smr-05-seik-00-03",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-smr",
+        "text": "今ちょっと相談してもいいですか？",
+        "nextMessageDetailIds": [
+          "2-1",
+          "2-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-smr",
+        "text": "ストリートライブなんてどうでしょう？",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-smr",
+        "text": "まずは山形県のすべての駅にストリートピアノを設置して",
+        "nextMessageDetailIds": [
+          "12-1",
+          "12-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12-1",
+        "text": "おぉ…",
+        "choiceText": "おぉ…",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12-2",
+        "text": "それで…？",
+        "choiceText": "それで…？",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-smr",
+        "text": "その様子を動画配信するんです！",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-smr",
+        "text": "謎のピアニストXとして！",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-smr",
+        "text": "私のSNSアカウントで流したら、関係者の人も見てくれますよね？",
+        "nextMessageDetailIds": [
+          "16-1",
+          "16-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16-1",
+        "text": "お兄さんは、なんて？",
+        "choiceText": "お兄さんは、なんて？",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16-2",
+        "text": "お兄さんも乗り気なのか？",
+        "choiceText": "お兄さんも乗り気なのか？",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-smr",
+        "text": "お兄ちゃんは、自分の力でデビューするから待ってて、って",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-smr",
+        "text": "やっぱり余計なお世話ですよね…",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-smr",
+        "text": "お手伝いはしたいんだけど、お兄ちゃんの邪魔にはなりたくないから…",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2-1",
+        "text": "あぁ、構わないよ",
+        "choiceText": "あぁ、構わないよ",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2-2",
+        "text": "どうしたんだ？",
+        "choiceText": "どうしたんだ？",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-smr",
+        "text": "だから{user}さんも一緒に考えてほしいんです",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-smr",
+        "text": "何かいいアイデアが思いついたらいつでも教えて下さいね",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-smr",
+        "text": "約束ですよ！",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "3",
+        "characterId": "char-smr",
+        "text": "ありがとうございます",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-smr",
+        "stampAssetId": "nabe-bow",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-smr",
+        "text": "お兄ちゃんのことなんです",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-smr",
+        "text": "あ、山形のお兄ちゃんですよ",
+        "nextMessageDetailIds": [
+          "7-1",
+          "7-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7-1",
+        "text": "なるほど？",
+        "choiceText": "なるほど？",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7-2",
+        "text": "お兄さんがどうした？",
+        "choiceText": "お兄さんがどうした？",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-smr",
+        "text": "私、お兄ちゃんには本当にプロデビューをしてほしいと思ってるんです",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-smr",
+        "text": "そこで、私考えたんですけど",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
     "id": "message-card-smr-05-xmas-00",
     "messageGroupId": "message_group_smr",
     "name": "「六花イルミネーション」",

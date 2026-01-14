@@ -16449,6 +16449,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-smr-05-seik-00",
+    "assetId": "smr-05-seik-00",
+    "name": "keys of memory",
+    "description": "お兄ちゃんのピアノの音を聴いてると、元気になれる\r\n私の歌と、お兄ちゃんのピアノが重なっていく――",
+    "type": 3,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 334,
+    "danceRatioPermil": 292,
+    "visualRatioPermil": 404,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-seik-00-1",
+    "skillId2": "sk-smr-05-seik-00-2",
+    "skillId3": "sk-smr-05-seik-00-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 541,
+    "releaseDate": "1768446000000",
+    "rewardCostumeId": "cos-smr-seik-00",
+    "obtainMessage": "お兄ちゃん達、\n大好きだよ……！",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-seik-00-01"
+      },
+      {
+        "storyId": "st-card-smr-05-seik-00-02"
+      },
+      {
+        "storyId": "st-card-smr-05-seik-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-seik-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-seik-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-smr-05-xmas-00",
     "assetId": "smr-05-xmas-00",
     "name": "六花イルミネーション",
