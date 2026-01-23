@@ -224460,6 +224460,396 @@
     "rarityType": 0
   },
   {
+    "id": "message-hbd-mhk-26-0125",
+    "messageGroupId": "message_group_mhk",
+    "name": "油断大敵",
+    "type": 1,
+    "characterId": "char-mhk",
+    "unlockConditionId": "cd-birthday_mhk-26-0125",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-mhk",
+        "text": "油断していました",
+        "nextMessageDetailIds": [
+          "2-1",
+          "2-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-mhk",
+        "text": "何も考えていないような顔で近付いて、裏では私のことを探っていたとは",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-mhk",
+        "text": "少し馴れ合い過ぎたかもしれませんね",
+        "nextMessageDetailIds": [
+          "12-1",
+          "12-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12-1",
+        "text": "そんなつもりじゃないはず",
+        "choiceText": "そんなつもりじゃないはず",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12-2",
+        "text": "ただ仲良くしたいだけです",
+        "choiceText": "ただ仲良くしたいだけです",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-mhk",
+        "text": "まさかとは思いますが{user}さん",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-mhk",
+        "text": "私の情報を売り渡してないでしょうね？",
+        "nextMessageDetailIds": [
+          "15-1",
+          "15-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-1",
+        "text": "そんなことしません",
+        "choiceText": "そんなことしません",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-2",
+        "text": "そんなまさか……",
+        "choiceText": "そんなまさか……",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-mhk",
+        "text": "まぁ、それについてはまた詰めるとして",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-mhk",
+        "text": "別件で今から電話してもいいでしょうか？",
+        "nextMessageDetailIds": [
+          "18-1",
+          "18-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18-1",
+        "text": "分かりました",
+        "choiceText": "分かりました",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18-2",
+        "text": "大丈夫ですよ",
+        "choiceText": "大丈夫ですよ",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-mhk",
+        "text": "掛けます",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2-1",
+        "text": "どうしました？",
+        "choiceText": "どうしました？",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2-2",
+        "text": "トラブルですか？",
+        "choiceText": "トラブルですか？",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-mhk",
+        "telephoneId": "tel-hbd-mhk-26-0125",
+        "reliability": 2,
+        "text": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "3",
+        "characterId": "char-mhk",
+        "text": "星見プロのメンバーから誕生日プレゼントを渡されたことは話しましたね？",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-mhk",
+        "text": "あらためて中を確認したのですが……悪くない物ばかりなんです",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-mhk",
+        "text": "私の趣向に合わせた物はもちろん、最近インタビューで欲しいと回答した物までありました",
+        "nextMessageDetailIds": [
+          "6-1",
+          "6-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6-1",
+        "text": "良かったじゃないですか",
+        "choiceText": "良かったじゃないですか",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6-2",
+        "text": "何か問題が……？",
+        "choiceText": "何か問題が……？",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-mhk",
+        "text": "伝わっていないようなので、はっきりと言いますが",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-mhk",
+        "text": "それだけ他のグループから研究されているということです",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-mhk",
+        "text": "ああ恐ろしい",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
     "id": "message-hbd-ngs-21-0803",
     "messageGroupId": "message_group_ngs",
     "name": "プレゼントのお礼",

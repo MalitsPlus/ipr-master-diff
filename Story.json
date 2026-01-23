@@ -800,6 +800,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-mhk-26-0125",
+    "name": "miho 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はmihoさんの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "高級旅館の宿泊券",
+        "advAssetId": "hbd_06_mhk_01"
+      },
+      {
+        "index": 2,
+        "text": "日よけ帽子",
+        "advAssetId": "hbd_06_mhk_02"
+      },
+      {
+        "index": 3,
+        "text": "星見プロアイドルのブルーレイ",
+        "advAssetId": "hbd_06_mhk_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-mna-24-1009",
     "name": "長瀬麻奈 誕生日2024",
     "advPlayTypes": [
@@ -9002,6 +9034,60 @@
     ],
     "advAssetIds": [
       "card_mhk_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-birt-02-01",
+    "name": "それは\nそれで\n撮れ高が",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-birt-02-02",
+    "name": "あの曲は\n歌い続ける",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mhk-05-birt-02-03",
+    "name": "新たな一歩に\nなるのかしら",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mhk_53_03"
     ],
     "sectionName": "",
     "description": "",

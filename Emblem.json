@@ -5328,6 +5328,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_mhk-04",
+    "name": "【誕生日】miho",
+    "assetId": "birthday_mhk-06",
+    "autoProvideConditionId": "cd-birthday_emblem_mhk-26-0125",
+    "order": 605200,
+    "description": "mihoの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_mku-18",
     "name": "【18th Anniversary】初音ミク",
     "assetId": "birthday_mku-18",
@@ -9680,6 +9689,33 @@
     "assetId": "pvp-season-156-top100",
     "order": 315630,
     "description": "VENUSバトルシーズン156で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-157-top001",
+    "name": "VENUSシーズン157 No.1",
+    "assetId": "pvp-season-157-top001",
+    "order": 315710,
+    "description": "VENUSバトルシーズン157で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-157-top010",
+    "name": "VENUSシーズン157 TOP10",
+    "assetId": "pvp-season-157-top010",
+    "order": 315720,
+    "description": "VENUSバトルシーズン157で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-157-top100",
+    "name": "VENUSシーズン157 TOP100",
+    "assetId": "pvp-season-157-top100",
+    "order": 315730,
+    "description": "VENUSバトルシーズン157で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
