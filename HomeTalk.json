@@ -5680,6 +5680,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-mei-05-vlnt-00-talk-01",
+    "characterId": "char-mei",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mei-05-vlnt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mei-05-vlnt-00",
+    "choiceText": "あるけど、どうして？",
+    "managerText": "あるけど、どうして？",
+    "reliability": 5,
+    "title": "本命meet up",
+    "displayConditionDescription": "本命meet up 早坂芽衣\nストーリー3話を視聴",
+    "order": 492,
+    "releaseDate": "1769569200000",
+    "characterTalks": [
+      {
+        "text": "この前のチョコ作りが\n結構楽しかったから\n他にもお菓子を作ろうかなって！",
+        "voiceAssetId": "sud_vo_home_mei-05-vlnt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ハート型のチョコを作ったから\n次は猫型にしてもいいかなー。",
+        "voiceAssetId": "sud_vo_home_mei-05-vlnt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ドーナツも作りたい！\nいろんな味と形があるから\n楽しく作れると思うんだー。",
+        "voiceAssetId": "sud_vo_home_mei-05-vlnt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、いいこと思いついちゃった！\n今度{user}さんも\n一緒に作ろうよ！",
+        "voiceAssetId": "sud_vo_home_mei-05-vlnt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "まずは誰にあげよっか？\nどうせなら月ストのみんなにも\n食べてもらいたいなー。",
+        "voiceAssetId": "sud_vo_home_mei-05-vlnt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "またリサーチしなくっちゃ！\n{user}さんも一緒に\nみんなに聞いて回ろうねー！",
+        "voiceAssetId": "sud_vo_home_mei-05-vlnt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-mei-05-wedd-00-talk-01",
     "characterId": "char-mei",
     "placeType": 1,
@@ -7286,6 +7341,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-ngs-05-vlnt-00-talk-01",
+    "characterId": "char-ngs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ngs-05-vlnt-00",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ngs-05-vlnt-00",
+    "choiceText": "何を悩んでるんだ？",
+    "managerText": "何を悩んでるんだ？",
+    "reliability": 5,
+    "title": "息吹導く甘い瞬間",
+    "displayConditionDescription": "息吹導く甘い瞬間 伊吹渚\nストーリー3話を視聴",
+    "order": 493,
+    "releaseDate": "1769569200000",
+    "characterTalks": [
+      {
+        "text": "よくぞ聞いてくれました！\n良かったら、私と一緒に\n考えてくれませんか？",
+        "voiceAssetId": "sud_vo_home_ngs-05-vlnt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今回、みんなに凄く助けてもらった\nので、お礼がしたいんですけど…\n内容に悩んでいて。",
+        "voiceAssetId": "sud_vo_home_ngs-05-vlnt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "タコのかわりにチョコを入れる、\nタコパなんてどうかな、って\n考えてるんですけど…",
+        "voiceAssetId": "sud_vo_home_ngs-05-vlnt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でもそれって、美味しいのかなぁ？\nすずちゃんなら、ポテトチップス\n食べ比べの方が喜ぶかもしれないし",
+        "voiceAssetId": "sud_vo_home_ngs-05-vlnt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そうだ、ポテトチップスを用意して\nチョコのディップソースを用意して\n…うん、それならいいかも！",
+        "voiceAssetId": "sud_vo_home_ngs-05-vlnt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これで月ストのみんなに\n素敵なお礼が出来そうです！\nそれじゃ私、早速買ってきますね。",
+        "voiceAssetId": "sud_vo_home_ngs-05-vlnt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-ngs-05-wedd-00-talk-01",

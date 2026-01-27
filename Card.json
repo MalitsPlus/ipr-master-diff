@@ -7959,6 +7959,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-mei-05-vlnt-00",
+    "assetId": "mei-05-vlnt-00",
+    "name": "本命meet up",
+    "description": "なんだか少し照れちゃうな……\r\nでも、それって芽衣が本気だからなんだよね",
+    "type": 2,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 401,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-vlnt-00-1",
+    "skillId2": "sk-mei-05-vlnt-00-2",
+    "skillId3": "sk-mei-05-vlnt-00-3",
+    "activityAbilityId": "aab-lesson_manager_exp_up",
+    "order": 542,
+    "releaseDate": "1769569200000",
+    "rewardCostumeId": "cos-mei-vlnt-00",
+    "obtainMessage": "これが芽衣にとっての本命チョコだから！",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-vlnt-00-01"
+      },
+      {
+        "storyId": "st-card-mei-05-vlnt-00-02"
+      },
+      {
+        "storyId": "st-card-mei-05-vlnt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-vlnt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-vlnt-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mei-05-wedd-00",
     "assetId": "mei-05-wedd-00",
     "name": "パールホワイトの想い出",
@@ -9664,6 +9715,38 @@
     "homeTalks": []
   },
   {
+    "id": "card-ngs-02-eve-03",
+    "assetId": "ngs-02-eve-03",
+    "name": "強く優しく照らせるように",
+    "description": "ふふ、こう言うのも変だけど、沙季ちゃんのセンター\r\n見てみたいな。きっと、誰よりも真っ直ぐで綺麗だから",
+    "type": 2,
+    "characterId": "char-ngs",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 402,
+    "visualRatioPermil": 318,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-02-eve-03-1",
+    "skillId2": "sk-ngs-02-eve-03-2",
+    "skillId3": "sk-ngs-02-eve-03-3",
+    "order": 544,
+    "releaseDate": "1769569200000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-ngs-03-schl-00",
     "assetId": "ngs-03-schl-00",
     "name": "背中を追って",
@@ -10359,6 +10442,57 @@
     "skillId4": "",
     "stories": [],
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-ngs-05-vlnt-00",
+    "assetId": "ngs-05-vlnt-00",
+    "name": "息吹導く甘い瞬間",
+    "description": "はい、受け取って下さい。今日はちょっぴり独占出来て嬉しいです\r\n……なんて、ぎゅんってきました？　えへへ",
+    "type": 1,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 435,
+    "danceRatioPermil": 316,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-vlnt-00-1",
+    "skillId2": "sk-ngs-05-vlnt-00-2",
+    "skillId3": "sk-ngs-05-vlnt-00-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 543,
+    "releaseDate": "1769569200000",
+    "rewardCostumeId": "cos-ngs-vlnt-00",
+    "obtainMessage": "今日はちょっぴり独占出来て、嬉しいです",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-vlnt-00-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-vlnt-00-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-vlnt-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ngs-05-vlnt-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ngs-05-vlnt-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {

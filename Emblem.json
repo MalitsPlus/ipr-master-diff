@@ -6024,7 +6024,7 @@
     "id": "emb-eve-25-0826",
     "name": "イベント称号",
     "assetId": "event-contest-25-0826",
-    "order": 125091,
+    "order": 125043,
     "description": "フォトオーディション「未来へ続く夏祭り」条件達成",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
@@ -6069,7 +6069,7 @@
     "id": "emb-eve-250625-1",
     "name": "星見プロ全国ツアー　Stars Journey",
     "assetId": "race-25-0625",
-    "order": 125051,
+    "order": 125042,
     "description": "VENUSレース「星見プロ全国ツアー　Stars Journey」クリア",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
@@ -6078,7 +6078,7 @@
     "id": "emb-eve-250927-1",
     "name": "私達の青春謳歌～DOTABATA SCHOOL FESTIVAL～",
     "assetId": "marathon-raid-25-0927",
-    "order": 125042,
+    "order": 125051,
     "description": "マルチリンクス「私達の青春謳歌\n～DOTABATA SCHOOL FESTIVAL～」",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
@@ -6107,6 +6107,15 @@
     "assetId": "race-26-0104",
     "order": 125054,
     "description": "VENUSレース「新春万福　素顔の晒し合いGAME」クリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-eve-260128-1",
+    "name": "イベント称号",
+    "assetId": "dice-26_0128",
+    "order": 125055,
+    "description": "すごろく「ぶつかり愛のCenter Battle！」条件達成",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -9716,6 +9725,33 @@
     "assetId": "pvp-season-157-top100",
     "order": 315730,
     "description": "VENUSバトルシーズン157で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-158-top001",
+    "name": "VENUSシーズン158 No.1",
+    "assetId": "pvp-season-158-top001",
+    "order": 315810,
+    "description": "VENUSバトルシーズン158で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-158-top010",
+    "name": "VENUSシーズン158 TOP10",
+    "assetId": "pvp-season-158-top010",
+    "order": 315820,
+    "description": "VENUSバトルシーズン158で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-158-top100",
+    "name": "VENUSシーズン158 TOP100",
+    "assetId": "pvp-season-158-top100",
+    "order": 315830,
+    "description": "VENUSバトルシーズン158で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
