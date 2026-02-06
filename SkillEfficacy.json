@@ -8800,10 +8800,65 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-self-24",
+    "name": "自身にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "自身にAスキルスコア上昇超化効果[24ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-self-30",
+    "name": "自身にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "自身にAスキルスコア上昇超化効果[30ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-self-36",
+    "name": "自身にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "自身にAスキルスコア上昇超化効果[36ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-self-42",
+    "name": "自身にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "自身にAスキルスコア上昇超化効果[42ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_active_skill_score_up-10-target-self-45",
     "name": "自身にAスキルスコア上昇超化効果",
     "type": 98,
     "description": "自身にAスキルスコア上昇超化効果[45ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-self-48",
+    "name": "自身にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "自身にAスキルスコア上昇超化効果[48ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -12903,6 +12958,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-self-36",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[36ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-self-37",
     "name": "自身に集目効果",
     "type": 21,
@@ -12947,6 +13013,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-self-42",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[42ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-self-43",
     "name": "自身に集目効果",
     "type": 21,
@@ -12973,6 +13050,17 @@
     "name": "自身に集目効果",
     "type": 21,
     "description": "自身に6段階の集目効果[45ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-6-target-self-48",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[48ビート]",
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -33752,6 +33840,17 @@
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
     "description": "自身に4段階クリティカル率上昇効果[28ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-4-target-self-29",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に4段階クリティカル率上昇効果[29ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -63250,6 +63349,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_rate_up-10800-chart_dependence",
+    "name": "スコア獲得-クリティカル率上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1080%のスコア獲得、クリティカル率上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-critical_rate_up-11400-chart_dependence",
     "name": "スコア獲得-クリティカル率上昇状態の段階数が多い程効果上昇",
     "type": 36,
@@ -63265,6 +63375,17 @@
     "name": "スコア獲得-クリティカル率上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1180%のスコア獲得、クリティカル率上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_rate_up-11900-chart_dependence",
+    "name": "スコア獲得-クリティカル率上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1190%のスコア獲得、クリティカル率上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -63459,10 +63580,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_rate_up-7800-chart_dependence",
+    "name": "スコア獲得-クリティカル率上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "780%のスコア獲得、クリティカル率上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-critical_rate_up-8500-chart_dependence",
     "name": "スコア獲得-クリティカル率上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "850%のスコア獲得、クリティカル率上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_rate_up-8800-chart_dependence",
+    "name": "スコア獲得-クリティカル率上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "880%のスコア獲得、クリティカル率上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -63485,6 +63628,17 @@
     "name": "スコア獲得-クリティカル率上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "960%のスコア獲得、クリティカル率上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-critical_rate_up-9800-chart_dependence",
+    "name": "スコア獲得-クリティカル率上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "980%のスコア獲得、クリティカル率上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
