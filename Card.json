@@ -4286,6 +4286,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-kan-05-link-00",
+    "assetId": "kan-05-link-00",
+    "name": "絆育む天使と悪魔",
+    "description": "毎度毎度、ガキが一丁前に気を遣いやがって\r\nでもガキの浅知恵なんざ、どうせ大人にはバレてっから\r\n隠し事も、ほどほどにしときな",
+    "type": 3,
+    "characterId": "char-kan",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 312,
+    "danceRatioPermil": 270,
+    "visualRatioPermil": 418,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-05-link-00-1",
+    "skillId2": "sk-kan-05-link-00-2",
+    "skillId3": "sk-kan-05-link-00-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 547,
+    "releaseDate": "1770865200000",
+    "rewardCostumeId": "cos-kan-link-00",
+    "obtainMessage": "さ～て、このバカ面に\nなんて描いてやろうか",
+    "cardEvolutionLevelReleaseGroupId": "card_evolution_level_release_bond",
+    "cardEvolutionLevelGroupId": "card_evolution_level_bond",
+    "skillId4": "sk-kan-05-link-00-4",
+    "stories": [
+      {
+        "storyId": "st-card-kan-05-link-00-01"
+      },
+      {
+        "storyId": "st-card-kan-05-link-00-02"
+      },
+      {
+        "storyId": "st-card-kan-05-link-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kan-05-link-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kan-05-link-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kan-05-mizg-02",
     "assetId": "kan-05-mizg-02",
     "name": "泡映る七色の君",

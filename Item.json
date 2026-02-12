@@ -5592,6 +5592,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-26-0212",
+    "name": "絆覚醒限定グッズメダル",
+    "assetId": "medal-gacha-link-medal",
+    "description": "絆覚醒限定グッズ交換所でグッズと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「絆シリーズ ～二人は最強TWINkle！～」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point",
     "name": "共通ガチャPt",
     "assetId": "gacha-point",
@@ -7574,6 +7586,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-26-0128",
     "name": "今日はあなたのセンターに♡\nピックアップガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-26-0212",
+    "name": "絆シリーズ \n～二人は最強TWINkle！～ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -10070,6 +10094,18 @@
   {
     "id": "item-gacha_point-rev-select-01-26-0201",
     "name": "選べる★5アイドルガチャ\n月のテンペスト ver.Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-rev-select-01-26-0212",
+    "name": "復刻選べる絆シリーズガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -15638,6 +15674,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-26-0128-01",
     "name": "今日はあなたのセンターに♡1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-26-0212-01",
+    "name": "絆シリーズ ～二人は最強TWINkle！～1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
