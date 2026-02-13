@@ -192,6 +192,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-backside_medal-26-0214",
+    "name": "特別合宿メダル",
+    "assetId": "medal-backside",
+    "description": "特別合宿メダル交換所で様々なアイテムと交換できる\nイベント終了後はコインに変換されます",
+    "howToGet": "バレンタイン特別合宿イベント",
+    "type": 3001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-card_ability",
     "name": "エールパウダー",
     "assetId": "card-ability",
@@ -280,6 +292,18 @@
     "name": "カバー楽曲「最高優美ロンリネス(琴乃、渚、遙子、怜ver.)」",
     "assetId": "cover-music-0120",
     "description": "カバー楽曲「最高優美ロンリネス(琴乃、渚、遙子、怜ver.)」\nの鑑賞や撮影を、【撮影 > ライブ】から行うことができます。",
+    "howToGet": "ショップ",
+    "type": 3001,
+    "value": 1,
+    "order": 3000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-cd_cover-music-0121",
+    "name": "カバー楽曲「チョコラブキッス(さくら、芽衣、千紗ver.)」",
+    "assetId": "cover-music-0121",
+    "description": "カバー楽曲「チョコラブキッス(さくら、芽衣、千紗ver.)」\nの鑑賞や撮影を、【撮影 > ライブ】から行うことができます。",
     "howToGet": "ショップ",
     "type": 3001,
     "value": 1,
@@ -4205,6 +4229,18 @@
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
     "description": "サニピからのプレゼント10連チケットガチャを1回引くことができる",
     "howToGet": "サニーピースからのプレゼント",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-valentine-ticket-10s-26-0214",
+    "name": "月ストからのプレゼント10連ガチャチケ",
+    "assetId": "gacha-free-valentine-ticket-10s-26-0214",
+    "description": "月ストからのプレゼント10連チケットガチャを1回引くことができる",
+    "howToGet": "月のテンペストからのプレゼント",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -10116,6 +10152,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-26-0214",
+    "name": "バレンタイン記念\n選べる★5アイドルガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -11477,6 +11525,18 @@
     "assetId": "marathon-raid-pt",
     "description": "ミニマルチリンクスイベントで報酬を獲得することができます\nイベント終了後はコインに変換されます",
     "howToGet": "ミニマルチリンクスイベント",
+    "type": 8001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-ladder_pt_26-0214",
+    "name": "メッセPt",
+    "assetId": "ladder-pt",
+    "description": "メッセージミッションで報酬を獲得することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "メッセージミッション、自主トレ、プロモーション、ファンイベントなど",
     "type": 8001,
     "value": 1,
     "order": 100,

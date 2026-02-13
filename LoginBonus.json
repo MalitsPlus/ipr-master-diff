@@ -2275,6 +2275,27 @@
     "receiveConditionId": "cd-time-login-26-0116-0129"
   },
   {
+    "id": "login_bonus-campaign-26-0215-01",
+    "name": "バレンタイン\n第二弾",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0215-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;photo_pose;photo-pose-26-0215;1",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-enjoy-present-general-02-01;3",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-26-0215-0221",
+    "receiveConditionId": "cd-time-login-26-0215-0228"
+  },
+  {
     "id": "login_bonus-campaign02-24-1114-01",
     "name": "もし恋",
     "description": "7日間の特別なログインボーナス",

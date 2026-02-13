@@ -2736,6 +2736,42 @@
     ]
   },
   {
+    "id": "cd-backside-26-0214-26-0228",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772247599000"
+        },
+        "clearArea": {
+          "areaId": "area-main-004"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-backside-260214-sbanner",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772247599000"
+        },
+        "clearArea": {
+          "areaId": "area-main-004"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-backside-area_clear-01-21-0831",
     "settings": [
       {}
@@ -2868,6 +2904,12 @@
     ]
   },
   {
+    "id": "cd-backside-area_clear-real-practice-04-26-0214",
+    "settings": [
+      {}
+    ]
+  },
+  {
     "id": "cd-backside-area_clear-real-practice-21-0831",
     "settings": [
       {},
@@ -2909,6 +2951,14 @@
   },
   {
     "id": "cd-backside-area_clear-real-practice-25-0606",
+    "settings": [
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": "cd-backside-area_clear-real-practice-26-0214",
     "settings": [
       {},
       {},
@@ -3020,6 +3070,24 @@
         "term": {
           "nowAfter": "1749178800000",
           "nowBefore": "1751252399000"
+        },
+        "clearArea": {
+          "areaId": "area-main-004"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-backside-exchange-26-0214",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772679599000"
         },
         "clearArea": {
           "areaId": "area-main-004"
@@ -19533,6 +19601,57 @@
     ]
   },
   {
+    "id": "cd-date-event-ladder-26-0214",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771945199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-26-0214-panel-message-01",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-event-ladder-26-0214"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-26-0214-panel-message-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-event-ladder-26-0214"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-26-0214-panel-message-03",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-event-ladder-26-0214"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-date-event-ladder-26-0214-panel-message-04",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-date-event-ladder-26-0214"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-date-event-ladder-marathon-raid-22-1028-panel-story-01",
     "settings": [
       {
@@ -25477,6 +25596,12 @@
   },
   {
     "id": "cd-dream-26-01-season-max-grade-a",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-dream-26-02-season-max-grade-a",
     "settings": [
       {}
     ]
@@ -62968,6 +63093,35 @@
     ]
   },
   {
+    "id": "cd-dress-shop-pack-26-0214-0220",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1771556399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dress-shop-pack-26-0214-0220-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1771556399000"
+        },
+        "notAnyObtainCostumes": {
+          "costumeIds": [
+            "cos-rei-vlnt-00",
+            "cos-chs-vlnt-00",
+            "cos-szk-vlnt-00"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-duty-25-0115-date",
     "settings": [
       {
@@ -75129,6 +75283,24 @@
         "term": {
           "nowAfter": "1749178800000",
           "nowBefore": "1750820399000"
+        },
+        "clearArea": {
+          "areaId": "area-main-004"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-event-story-read-001-26-0214-26-0305",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 40,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772247599000"
         },
         "clearArea": {
           "areaId": "area-main-004"
@@ -191284,6 +191456,72 @@
     ]
   },
   {
+    "id": "cd-shop-pack-26-0214",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-26-0214-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-26-0214-02-0228",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772247599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-26-0214-02-0228-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772247599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-26-0214-0220",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1771556399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-26-0214-0220-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1771556399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop-pack1-23-0809",
     "settings": [
       {
@@ -198962,6 +199200,54 @@
     ]
   },
   {
+    "id": "cd-shop_top_purchased-dress-shop-pack-26-0214-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1771556399000"
+        },
+        "allObtainCostumes": {
+          "costumeIds": [
+            "cos-rei-vlnt-00"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_top_purchased-dress-shop-pack-26-0214-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1771556399000"
+        },
+        "allObtainCostumes": {
+          "costumeIds": [
+            "cos-chs-vlnt-00"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop_top_purchased-dress-shop-pack-26-0214-03",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1771556399000"
+        },
+        "allObtainCostumes": {
+          "costumeIds": [
+            "cos-szk-vlnt-00"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop_top_shop-pack-23-0927-01",
     "settings": [
       {
@@ -199524,6 +199810,23 @@
         },
         "obtainItem": {
           "itemId": "item-cd_cover-music-0115"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-showcase-covermusic-0121",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        },
+        "obtainItem": {
+          "itemId": "item-cd_cover-music-0121"
         }
       }
     ]
@@ -204925,6 +205228,53 @@
         "term": {
           "nowAfter": "1770865200000",
           "nowBefore": "1771988399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-special-shop-pack-26-0214",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-special-shop-pack-26-0214-0228",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772247599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-special-shop-pack-26-0214-0228-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772247599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-special-shop-pack-26-0214-0228-mlv-120",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-120"
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772247599000"
         }
       }
     ]
@@ -226644,6 +226994,17 @@
     ]
   },
   {
+    "id": "cd-time-dream-26-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771124400000",
+          "nowBefore": "1773543599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-dress-shop-fix-2504-key-get",
     "settings": [
       {
@@ -228233,6 +228594,17 @@
         "term": {
           "nowAfter": "1749178800000",
           "nowBefore": "1751252399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event_backside-mission-26-0214",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1772679599000"
         }
       }
     ]
@@ -230562,6 +230934,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-gacha_point-26-0301-0331",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1772290800000",
+          "nowBefore": "1774969199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-idle_medal-21-0624-0731",
     "settings": [
       {
@@ -231178,6 +231561,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-idle_medal-26-0301-0331",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1772290800000",
+          "nowBefore": "1774969199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-idol_medal-21-0630-0831",
     "settings": [
       {
@@ -231741,6 +232135,20 @@
         "term": {
           "nowAfter": "1769871600000",
           "nowBefore": "1772290799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-league_medal-26-0301-0331",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-015"
+        },
+        "term": {
+          "nowAfter": "1772290800000",
+          "nowBefore": "1774969199000"
         }
       }
     ]
@@ -232604,6 +233012,17 @@
         "term": {
           "nowAfter": "1769871600000",
           "nowBefore": "1772290799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-pvp_medal-26-0301-0331",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1772290800000",
+          "nowBefore": "1774969199000"
         }
       }
     ]
@@ -249809,6 +250228,62 @@
         "term": {
           "nowAfter": "1765465200000",
           "nowBefore": "1766501999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-26-0214",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771988399000"
+        },
+        "itemAmount": {
+          "itemId": "item-gacha-free-valentine-ticket-10s-26-0214",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-26-0214-01-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771988399000"
+        },
+        "itemAmount": {
+          "itemId": "item-gacha-free-valentine-ticket-10s-26-0214",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-26-0214-01-check",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-free-26-0214-01"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-26-0214-distribute",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771988399000"
+        },
+        "finishedMessage": {
+          "messageId": "message-event-ladder-26-0214-04"
         }
       }
     ]
@@ -268197,6 +268672,62 @@
     ]
   },
   {
+    "id": "cd-time-gacha-rev-select-01-26-0214",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-select-01-26-0214-free-check"
+        },
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771556399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-26-0214-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771556399000"
+        },
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-rev-step-rockon-26-0214-2nd"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-26-0214-free-check",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-rev-select-01-26-0214-free"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-26-0214-free-open",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-select-01-26-0214-free-check"
+        },
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771556399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-rev-select-24-1130",
     "settings": [
       {
@@ -271027,6 +271558,86 @@
         "drawGacha": {
           "gachaButtonIds": [
             "btn-10-gacha-rev-step-rockon-26-0128-2nd"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0214-1st",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771556399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0214-1st-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-step-rockon-26-0214-1st-banner-end"
+        },
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771556399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0214-1st-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-rev-step-rockon-26-0214-1st"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0214-2nd",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-step-rockon-26-0214-1st-banner-end"
+        },
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771556399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0214-2nd-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-step-rockon-26-0214-1st-banner-end"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-step-rockon-26-0214-2nd-banner-end"
+        },
+        "term": {
+          "nowAfter": "1770994800000",
+          "nowBefore": "1771556399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0214-2nd-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-rev-step-rockon-26-0214-2nd"
           ]
         }
       }
@@ -274578,6 +275189,31 @@
         "term": {
           "nowAfter": "1768402800000",
           "nowBefore": "1769007599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gvg-26-0215-0217_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-012"
+        },
+        "term": {
+          "nowAfter": "1771081200000",
+          "nowBefore": "1771340399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gvg-26-0215-0221",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771081200000",
+          "nowBefore": "1771685999000"
         }
       }
     ]
@@ -279714,6 +280350,28 @@
     ]
   },
   {
+    "id": "cd-time-login-26-0215-0221",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771081200000",
+          "nowBefore": "1771685999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-login-26-0215-0228",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771081200000",
+          "nowBefore": "1772290799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-login02-24-1114-1120",
     "settings": [
       {
@@ -284837,6 +285495,124 @@
         "term": {
           "nowAfter": "1674874800000",
           "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-005-unit-26-0214",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-005-unit-26-0214-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "1771340399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-005-unit-26-0214-close-shoot",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-005-unit-26-0214-possession-01",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        },
+        "obtainItem": {
+          "itemId": "item-cd_cover-music-0121"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-005-unit-26-0214-possession-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        },
+        "obtainItem": {
+          "itemId": "item-cd_cover-music-0121"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-005-unit-26-0214-possession-03",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-005-unit-26-0214-showcase-music",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-005-unit26-0214-possession",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1771038000000",
+          "nowBefore": "0"
+        },
+        "obtainItem": {
+          "itemId": "item-cd_cover-music-0121"
         }
       }
     ]
@@ -290375,6 +291151,20 @@
         "term": {
           "nowAfter": "1770303600000",
           "nowBefore": "1770562799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-pvp-26-0216-0218_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1771167600000",
+          "nowBefore": "1771426799000"
         }
       }
     ]
