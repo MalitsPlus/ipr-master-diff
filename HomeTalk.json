@@ -6817,6 +6817,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-mna-05-msic-00-talk-01",
+    "characterId": "char-mna",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mna-05-msic-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mna-05-msic-00",
+    "choiceText": "ライブで歌った後に\nさらにカラオケで\n歌うつもりなのか？",
+    "managerText": "ライブで歌った後に\nさらにカラオケで\n歌うつもりなのか？",
+    "reliability": 5,
+    "title": "未来への五線譜",
+    "displayConditionDescription": "未来への五線譜 長瀬麻奈\nストーリー3話を視聴",
+    "order": 499,
+    "releaseDate": "1771297200000",
+    "characterTalks": [
+      {
+        "text": "カラオケで歌うのは\nライブで歌うのと\nまた違う楽しさがあるんだよ。",
+        "voiceAssetId": "sud_vo_home_mna-05-msic-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "もちろん一緒に行ってくれるよね\n長瀬麻奈の歌声を一人占め\n出来るんだからきみも役得でしょ？",
+        "voiceAssetId": "sud_vo_home_mna-05-msic-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "久しぶりにきみの歌声も聞きたいな\n昔と比べて結構上達したよね\nやっぱり私の教え方がいいのかな。",
+        "voiceAssetId": "sud_vo_home_mna-05-msic-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "……え？　仕方ないから\n付き合ってやる、って？\nふふ……ありがと。",
+        "voiceAssetId": "sud_vo_home_mna-05-msic-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なんだかんだ言いつつ、いつも\n私のわがままに付き合ってくれて\nきみは優しいよね。",
+        "voiceAssetId": "sud_vo_home_mna-05-msic-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}くんの\nそういう優しいところ\n大好きだよ。",
+        "voiceAssetId": "sud_vo_home_mna-05-msic-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-mna-05-vlnt-00-talk-01",
     "characterId": "char-mna",
     "placeType": 1,

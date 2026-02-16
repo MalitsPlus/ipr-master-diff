@@ -134679,6 +134679,420 @@
     "assetId": ""
   },
   {
+    "id": "sk-mna-05-msic-00-1",
+    "name": "想いを込めて歌い続けるよ",
+    "categoryType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "description": "1090%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇\nスタミナ591消費 ",
+        "shortDescription": "\nスタミナ591消費 ",
+        "stamina": 591,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-10900-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "1230%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇\nスタミナ667消費 ",
+        "shortDescription": "\nスタミナ667消費 ",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 667,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-12300-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "1370%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇\nスタミナ743消費 ",
+        "shortDescription": "\nスタミナ743消費 ",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 743,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-13700-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "1510%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇\nスタミナ819消費 ",
+        "shortDescription": "\nスタミナ819消費 ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 819,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-15100-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "1660%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇\nスタミナ900消費 ",
+        "shortDescription": "\nスタミナ900消費 ",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 900,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-16600-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "1810%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇\nスタミナ981消費 ",
+        "shortDescription": "\nスタミナ981消費 ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 981,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-18100-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": "sk-mna-05-msic-00-1"
+  },
+  {
+    "id": "sk-mna-05-msic-00-2",
+    "name": "これは長瀬麻奈の歌",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "240%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇 \n自身に5段階消費スタミナ低下効果[33ビート]とダンス上昇超化効果[33ビート]\nスタミナ108消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ108消費 CT:30",
+        "stamina": 108,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-2400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-5-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_dance_up-10-target-self-33",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "250%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇\n自身に5段階消費スタミナ低下効果[36ビート]とダンス上昇超化効果[36ビート] \nスタミナ113消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ113消費 CT:30",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 113,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-2500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-5-target-self-36",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_dance_up-10-target-self-36",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "260%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇 \n自身に5段階消費スタミナ低下効果[40ビート]とダンス上昇超化効果[40ビート] \nスタミナ119消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ119消費 CT:30",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 119,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-2600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-5-target-self-40",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_dance_up-10-target-self-40",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "270%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇 \n自身に6段階消費スタミナ低下効果[40ビート]とダンス上昇超化効果[40ビート] \nスタミナ124消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ124消費 CT:30",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 124,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-2700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-6-target-self-40",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_dance_up-10-target-self-40",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "280%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇 \n自身に6段階消費スタミナ低下効果[45ビート]とダンス上昇超化効果[45ビート] \nスタミナ130消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ130消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 130,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-2800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-6-target-self-45",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_dance_up-10-target-self-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "300%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇 \n自身に6段階消費スタミナ低下効果[50ビート]とダンス上昇超化効果[50ビート]\nスタミナ141消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ141消費 CT:30",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 141,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-dance_up-3000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-stamina_consumption_reduction-6-target-self-50",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_dance_up-10-target-self-50",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-mna-05-msic-00-3",
+    "name": "カラオケ好きな幽霊",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身がダンスレーンの時\n自身に8段階ダンス上昇効果[25ビート]\nスタミナ164消費 CT:50",
+        "shortDescription": "\n\nスタミナ164消費 CT:50",
+        "stamina": 164,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-8-target-self-25",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身がダンスレーンの時\n自身に8段階ダンス上昇効果[30ビート]\nスタミナ197消費 CT:50",
+        "shortDescription": "\n\nスタミナ197消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 197,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-8-target-self-30",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身がダンスレーンの時\n自身に8段階ダンス上昇効果[35ビート]\nスタミナ230消費 CT:50",
+        "shortDescription": "\n\nスタミナ230消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 230,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-8-target-self-35",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身がダンスレーンの時\n自身に9段階ダンス上昇効果[35ビート]\nスタミナ259消費 CT:50",
+        "shortDescription": "\n\nスタミナ259消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 259,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-9-target-self-35",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身がダンスレーンの時\n自身に9段階ダンス上昇効果[40ビート]\nスタミナ295消費 CT:50",
+        "shortDescription": "\n\nスタミナ295消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 295,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-9-target-self-40",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身がダンスレーンの時\n自身に9段階ダンス上昇効果[45ビート]\nスタミナ332消費 CT:50",
+        "shortDescription": "\n\nスタミナ332消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 332,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-dance_up-9-target-self-45",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-mna-05-prem-00-1",
     "name": "頼りにしてるよ",
     "categoryType": 1,
