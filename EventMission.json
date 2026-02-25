@@ -3172,6 +3172,35 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event-race-26-0226",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-race-26-0226",
+    "name": "イベントミッション",
+    "order": 99,
+    "viewConditionId": "cd-event-race-26-0226-exchange",
+    "missionIds": [
+      "event-race-26-0226-1",
+      "event-race-26-0226-10",
+      "event-race-26-0226-11",
+      "event-race-26-0226-12",
+      "event-race-26-0226-13",
+      "event-race-26-0226-14",
+      "event-race-26-0226-15",
+      "event-race-26-0226-16",
+      "event-race-26-0226-17",
+      "event-race-26-0226-18",
+      "event-race-26-0226-2",
+      "event-race-26-0226-3",
+      "event-race-26-0226-4",
+      "event-race-26-0226-5",
+      "event-race-26-0226-6",
+      "event-race-26-0226-7",
+      "event-race-26-0226-8",
+      "event-race-26-0226-9"
+    ],
+    "unlockConditionId": ""
+  },
+  {
     "id": "event-shelf-23-1128",
     "eventMissionType": 1,
     "assetId": "img_banner_l_event-shelf-23-1128",
@@ -3644,6 +3673,26 @@
       "event-shelf-26-0128-story-003",
       "event-shelf-26-0128-story-004",
       "event-shelf-26-0128-story-005"
+    ]
+  },
+  {
+    "id": "event-shelf-26-0226",
+    "eventMissionType": 1,
+    "assetId": "img_banner_l_event-shelf-defalut",
+    "name": "フォトアルバム",
+    "order": 1,
+    "viewConditionId": "cd-shelf-26-0226",
+    "unlockConditionId": "cd-shelf-26-0226-play",
+    "missionIds": [
+      "event-shelf-26-0226-photo-album-complete",
+      "event-shelf-26-0226-photo-album-creating",
+      "event-shelf-26-0226-photo-creating",
+      "event-shelf-26-0226-photo-save",
+      "event-shelf-26-0226-story-001",
+      "event-shelf-26-0226-story-002",
+      "event-shelf-26-0226-story-003",
+      "event-shelf-26-0226-story-004",
+      "event-shelf-26-0226-story-005"
     ]
   },
   {
@@ -6419,6 +6468,26 @@
       "event-ms-thanks-24-0302-01-condition_clear",
       "event-ms-thanks-24-0302-01-mission_clear_count",
       "event-ms-thanks-24-0302-02-mission_clear_count"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "event_thanks-mission-26-0228",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-thanks-mission-26-0228",
+    "name": "感謝祭ミッション",
+    "order": 6,
+    "viewConditionId": "cd-time-event-ms-thanks-26-0228-0306",
+    "missionIds": [
+      "event-ms-thanks-26-0228-00-card_skill_level_up_count",
+      "event-ms-thanks-26-0228-00-login_count",
+      "event-ms-thanks-26-0228-00-market_exchange_count",
+      "event-ms-thanks-26-0228-00-photo_reroll_count",
+      "event-ms-thanks-26-0228-00-quest_contest_clear_count",
+      "event-ms-thanks-26-0228-00-quest_daily_clear_count",
+      "event-ms-thanks-26-0228-01-mission_clear_count",
+      "event-ms-thanks-26-0228-01-photo_expression_shooting_count",
+      "event-ms-thanks-26-0228-02-mission_clear_count"
     ],
     "unlockConditionId": ""
   },

@@ -2624,5 +2624,55 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2603-race",
+    "assetId": "event-race-26-0226",
+    "name": "イベントストーリー",
+    "description": "あなたに捧ぐwith your songs",
+    "order": 260226,
+    "viewConditionId": "cd-event-story-26-0226",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "event_2603_01_01",
+        "storyId": "st-eve-2603-race-001",
+        "unlockConditionId": "cd-event-race-26-0226-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "event_2603_01_02",
+        "storyId": "st-eve-2603-race-002",
+        "unlockConditionId": "cd-event-race-26-0226-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 3,
+        "assetId": "event_2603_01_03",
+        "storyId": "st-eve-2603-race-003",
+        "unlockConditionId": "cd-event-race-26-0226-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 4,
+        "assetId": "event_2603_01_04",
+        "storyId": "st-eve-2603-race-004",
+        "unlockConditionId": "cd-event-race-26-0226-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 5,
+        "assetId": "event_2603_01_05",
+        "storyId": "st-eve-2603-race-005",
+        "unlockConditionId": "cd-event-race-26-0226-close",
+        "viewConditionId": "",
+        "isAppeal": false
+      }
+    ]
   }
 ]

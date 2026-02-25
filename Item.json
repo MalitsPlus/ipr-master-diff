@@ -1080,6 +1080,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-26-0226",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる\nイベント終了後は消失します",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-daily_quest_ticket_sp-present",
     "name": "プレゼントデイリーパス",
     "assetId": "quest-daily-special-pr",
@@ -5664,6 +5676,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-26-0226",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「あなたの歌と共にピックアップガチャ」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point",
     "name": "共通ガチャPt",
     "assetId": "gacha-point",
@@ -7658,6 +7682,18 @@
   {
     "id": "item-gacha_point-lm-set-bloom-26-0212",
     "name": "絆シリーズ \n～二人は最強TWINkle！～ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-lm-set-bloom-26-0226",
+    "name": "あなたの歌と共にピックアップガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -13584,6 +13620,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-photo_contest_create-26-0226",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -14880,6 +14928,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_medal-26-0226",
+    "name": "レースメダル",
+    "assetId": "medal-race",
+    "description": "ライブボーナスを習得・強化することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 3001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_point-22-0228",
     "name": "レースPt",
     "assetId": "race-pt",
@@ -15084,6 +15144,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-race_point-26-0226",
+    "name": "レースPt",
+    "assetId": "race-pt",
+    "description": "マスを進めたりVENUSステージに挑戦することができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7001,
+    "value": 1,
+    "order": 1001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-race_reset-live-bonus-22-0228",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
@@ -15277,6 +15349,18 @@
   },
   {
     "id": "item-race_reset-live-bonus-26-0104",
+    "name": "ボーナスイレイザー",
+    "assetId": "race-bonus-reset",
+    "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
+    "howToGet": "VENUSレース",
+    "type": 7002,
+    "value": 1,
+    "order": 1002,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-race_reset-live-bonus-26-0226",
     "name": "ボーナスイレイザー",
     "assetId": "race-bonus-reset",
     "description": "習得・強化したライブボーナスをリセットすることができます\nイベント終了後は消失します",
@@ -15806,6 +15890,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-26-0212-01",
     "name": "絆シリーズ ～二人は最強TWINkle！～1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-26-0226-01",
+    "name": "あなたの歌と共に1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",

@@ -42151,6 +42151,334 @@
     "rarityType": 0
   },
   {
+    "id": "message-card-ktn-05-msic-00",
+    "messageGroupId": "message_group_ktn",
+    "name": "「my best answer」",
+    "type": 1,
+    "characterId": "char-ktn",
+    "unlockConditionId": "cd-st-read-st-card-ktn-05-msic-00-03",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-ktn",
+        "text": "昨日、{user}さんにもらったキャラメルなんですけど",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-ktn",
+        "text": "{user}さんが私を弄んでるなんて思わなかったのに！　って",
+        "nextMessageDetailIds": [
+          "11-1",
+          "11-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11-1",
+        "text": "やっぱり渚が噂の出所か",
+        "choiceText": "やっぱり渚が噂の出所か",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11-2",
+        "text": "もう少し早く信じてほしかった…",
+        "choiceText": "もう少し早く信じてほしかった…",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-ktn",
+        "text": "本当ですよね",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-ktn",
+        "stampAssetId": "gyogyo-angry",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-ktn",
+        "text": "ちなみに、私がキャラメルを好きだってお姉ちゃんに聞いたんですか？",
+        "nextMessageDetailIds": [
+          "15-1",
+          "15-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-1",
+        "text": "いや、知らなかった",
+        "choiceText": "いや、知らなかった",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-2",
+        "text": "ただ琴乃が好きそうだと思って",
+        "choiceText": "ただ琴乃が好きそうだと思って",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-ktn",
+        "text": "ですよね",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-ktn",
+        "text": "{user}さんが贈り物の意味とか知ってるわけないと思いました",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-ktn",
+        "text": "でも私のためにお菓子を選んでくれたなら、嬉しいです",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-ktn",
+        "text": "今日、月ストのみんなと一緒にいただきました",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3",
+        "characterId": "char-ktn",
+        "text": "美味しかったです",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-ktn",
+        "text": "みんなも喜んで食べてて、すぐなくなっちゃいましたけど",
+        "nextMessageDetailIds": [
+          "5-1",
+          "5-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5-1",
+        "text": "それは良かった",
+        "choiceText": "それは良かった",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5-2",
+        "text": "好評ならまた買ってくるよ",
+        "choiceText": "好評ならまた買ってくるよ",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-ktn",
+        "text": "そう言えば、渚が言ってたんですけど",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-ktn",
+        "text": "バレンタインと違って、ホワイトデーの贈り物は色々種類がありますけど",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-ktn",
+        "text": "キャラメルには「一緒にいると安心する」って意味があるらしいです",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-ktn",
+        "text": "{user}さんのプレゼントがキャラメルだって分かってたら",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
     "id": "message-card-ktn-05-newy-00",
     "messageGroupId": "message_group_ktn",
     "name": "「新年祝う雪月花」",
@@ -103583,6 +103911,607 @@
         "text": "やかましいですわ！",
         "nextMessageDetailIds": [
           "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
+    "id": "message-card-suz-05-msic-00",
+    "messageGroupId": "message_group_suz",
+    "name": "「星降る夜に誓う夢」",
+    "type": 1,
+    "characterId": "char-suz",
+    "unlockConditionId": "cd-st-read-st-card-suz-05-msic-00-03",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-suz",
+        "text": "もしかしてですけど",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10-1",
+        "text": "なぜここで麻奈が？",
+        "choiceText": "なぜここで麻奈が？",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10-2",
+        "text": "どうしてそう思うんだ？",
+        "choiceText": "どうしてそう思うんだ？",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-suz",
+        "text": "麻奈様といえば星見まつりのステージ！　そしてその好物はカレー！",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-suz",
+        "text": "その功績を讃えて、星見市のお祭りでカレーを出すようになったんですわ！",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-suz",
+        "text": "それに偶然だとしても",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-suz",
+        "text": "そう考えた方が嬉しくなれるでしょう？",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-suz",
+        "text": "今も星見市の人々が、麻奈様を忘れないでいるのだと思えますし",
+        "nextMessageDetailIds": [
+          "16-1",
+          "16-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16-1",
+        "text": "確かにそうかもしれない",
+        "choiceText": "確かにそうかもしれない",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16-2",
+        "text": "麻奈も嬉しいだろうね",
+        "choiceText": "麻奈も嬉しいだろうね",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-suz",
+        "text": "こうしてはいられませんわ",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-suz",
+        "text": "麻奈様のようにお祭りの屋台に好物が並ぶくらいのアイドルになってみせます",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-suz",
+        "text": "ポテトチップスや焼肉で埋め尽くされるお祭り会場",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-suz",
+        "text": "カレーの屋台ってめずらしいんですの？",
+        "nextMessageDetailIds": [
+          "3-1",
+          "3-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-suz",
+        "text": "素敵ですわね…",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-suz",
+        "text": "考えただけでよだれが",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-suz",
+        "stampAssetId": "dog-love",
+        "nextMessageDetailIds": [
+          "23-1",
+          "23-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23-1",
+        "text": "素敵…かな？",
+        "choiceText": "素敵…かな？",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23-2",
+        "text": "少し飛躍し過ぎなような",
+        "choiceText": "少し飛躍し過ぎなような",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-suz",
+        "text": "でも星見市のお祭りの屋台に私と麻奈様の好物だけでなく",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25",
+        "characterId": "char-suz",
+        "text": "星見プロのアイドル達の好きな食べ物も並ぶといいですわね",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26",
+        "characterId": "char-suz",
+        "text": "それだけ私達が愛されている証拠にもなりますから",
+        "nextMessageDetailIds": [
+          "27-1",
+          "27-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27-1",
+        "text": "楽しそうだな",
+        "choiceText": "楽しそうだな",
+        "nextMessageDetailIds": [
+          "28"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27-2",
+        "text": "俺の好物も置いてほしい",
+        "choiceText": "俺の好物も置いてほしい",
+        "nextMessageDetailIds": [
+          "28"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28",
+        "characterId": "char-suz",
+        "stampAssetId": "dog-ok",
+        "nextMessageDetailIds": [
+          "29"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "29",
+        "characterId": "char-suz",
+        "text": "そういう企画、ありかもしれませんわね",
+        "nextMessageDetailIds": [
+          "30"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-1",
+        "text": "メジャーではないかも",
+        "choiceText": "メジャーではないかも",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-2",
+        "text": "あまり見ないかな",
+        "choiceText": "あまり見ないかな",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "30",
+        "characterId": "char-suz",
+        "text": "ということで任せましたわよ",
+        "nextMessageDetailIds": [
+          "31-1",
+          "31-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "31-1",
+        "text": "えっ！？",
+        "choiceText": "えっ！？",
+        "nextMessageDetailIds": [
+          "32"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "31-2",
+        "text": "前向きに検討しよう",
+        "choiceText": "前向きに検討しよう",
+        "nextMessageDetailIds": [
+          "32"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "32",
+        "characterId": "char-suz",
+        "text": "さすがに冗談ですわ",
+        "nextMessageDetailIds": [
+          "33"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "33",
+        "characterId": "char-suz",
+        "text": "ですがいつか叶うのでしたら…やってみたいですわね",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-suz",
+        "stampAssetId": "dog-wow",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-suz",
+        "text": "やはりそうですのね！",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-suz",
+        "text": "理由はやはりいたみやすいからかしら",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-suz",
+        "text": "星見市のお祭りでよく見ていたからそれが普通だと思っていましたわ",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-suz",
+        "text": "この前の春祭りでも見かけましたし",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-suz",
+        "text": "まさか、これも麻奈様の影響だったりするんでしょうか？",
+        "nextMessageDetailIds": [
+          "10-1",
+          "10-2"
         ],
         "stampAssetId": "",
         "imageAssetId": "",

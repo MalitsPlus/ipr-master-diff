@@ -7059,6 +7059,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-ktn-05-msic-00",
+    "assetId": "ktn-05-msic-00",
+    "name": "my best answer",
+    "description": "私の、私達の想いを聴いて下さい\n『with your songs』",
+    "type": 2,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 278,
+    "danceRatioPermil": 407,
+    "visualRatioPermil": 315,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-msic-00-1",
+    "skillId2": "sk-ktn-05-msic-00-2",
+    "skillId3": "sk-ktn-05-msic-00-3",
+    "activityAbilityId": "aab-lesson_gold_up",
+    "order": 550,
+    "releaseDate": "1772074800000",
+    "rewardCostumeId": "cos-ktn-msic-00",
+    "obtainMessage": "聴いて下さい、\nお姉ちゃんへのアンサーソングを",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-msic-00-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-msic-00-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-msic-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ktn-05-msic-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ktn-05-msic-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-05-newy-00",
     "assetId": "ktn-05-newy-00",
     "name": "新年祝う雪月花",
@@ -9127,6 +9178,38 @@
     "skillId3": "sk-mna-02-eve-02-3",
     "order": 411,
     "releaseDate": "1727233200000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-mna-02-eve-03",
+    "assetId": "mna-02-eve-03",
+    "name": "お揃いの思い出",
+    "description": "ちょっと短くなっちゃったし、元通りではないけど\n形は変わっても琴乃とお揃いなことは変わらないでしょ",
+    "type": 2,
+    "characterId": "char-mna",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 276,
+    "visualRatioPermil": 404,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-02-eve-03-1",
+    "skillId2": "sk-mna-02-eve-03-2",
+    "skillId3": "sk-mna-02-eve-03-3",
+    "order": 552,
+    "releaseDate": "1772074800000",
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
@@ -17605,6 +17688,57 @@
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",
     "skillId4": ""
+  },
+  {
+    "id": "card-suz-05-msic-00",
+    "assetId": "suz-05-msic-00",
+    "name": "星降る夜に誓う夢",
+    "description": "どうか……みなさまに、麻奈様に届きますように\n『星屑カンパネラ』！",
+    "type": 3,
+    "characterId": "char-suz",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 417,
+    "danceRatioPermil": 329,
+    "visualRatioPermil": 284,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-05-msic-00-1",
+    "skillId2": "sk-suz-05-msic-00-2",
+    "skillId3": "sk-suz-05-msic-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 551,
+    "releaseDate": "1772074800000",
+    "rewardCostumeId": "cos-suz-msic-00",
+    "obtainMessage": "どうか……みなさまに、\n麻奈様に届きますように",
+    "stories": [
+      {
+        "storyId": "st-card-suz-05-msic-00-01"
+      },
+      {
+        "storyId": "st-card-suz-05-msic-00-02"
+      },
+      {
+        "storyId": "st-card-suz-05-msic-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-suz-05-msic-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-suz-05-msic-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
   },
   {
     "id": "card-suz-05-onep-00",

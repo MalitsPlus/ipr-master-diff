@@ -6520,6 +6520,14 @@
     "description": "イベント期間(交換期間含む)"
   },
   {
+    "id": "cd-date-event-race-26-0226",
+    "description": "イベント期間(交換期間含まず)"
+  },
+  {
+    "id": "cd-date-event-race-26-0226-exchange",
+    "description": "イベント期間(交換期間含む)"
+  },
+  {
     "id": "cd-date-event-seaparalive",
     "description": "イベント期間(交換期間含まず)"
   },
@@ -24624,6 +24632,10 @@
     "description": "開始3日"
   },
   {
+    "id": "cd-event-26-0226-banner",
+    "description": "開始3日"
+  },
+  {
     "id": "cd-event-banner-marathon-raid-0128-0206",
     "description": "イベントバナー"
   },
@@ -25916,6 +25928,18 @@
     "description": "イベント期間(交換期間含む)&参加可能"
   },
   {
+    "id": "cd-event-race-26-0226",
+    "description": "イベント期間(交換期間含まず)&参加可能"
+  },
+  {
+    "id": "cd-event-race-26-0226-close",
+    "description": "マスの進行"
+  },
+  {
+    "id": "cd-event-race-26-0226-exchange",
+    "description": "イベント期間(交換期間含む)&参加可能"
+  },
+  {
     "id": "cd-event-shelf-23-1128-story-001",
     "description": "イベントストーリー1話を視聴"
   },
@@ -26632,6 +26656,46 @@
     "description": "イベントストーリー5話を視聴"
   },
   {
+    "id": "cd-event-shelf-26-0226-story-001",
+    "description": "イベントストーリー1話を視聴"
+  },
+  {
+    "id": "cd-event-shelf-26-0226-story-001-unlock",
+    "description": "VENUSレースで特定マス到達"
+  },
+  {
+    "id": "cd-event-shelf-26-0226-story-002",
+    "description": "イベントストーリー2話を視聴"
+  },
+  {
+    "id": "cd-event-shelf-26-0226-story-002-unlock",
+    "description": "VENUSレースで特定マス到達"
+  },
+  {
+    "id": "cd-event-shelf-26-0226-story-003",
+    "description": "イベントストーリー3話を視聴"
+  },
+  {
+    "id": "cd-event-shelf-26-0226-story-003-unlock",
+    "description": "VENUSレースで特定マス到達"
+  },
+  {
+    "id": "cd-event-shelf-26-0226-story-004",
+    "description": "イベントストーリー4話を視聴"
+  },
+  {
+    "id": "cd-event-shelf-26-0226-story-004-unlock",
+    "description": "VENUSレースで特定マス到達"
+  },
+  {
+    "id": "cd-event-shelf-26-0226-story-005",
+    "description": "イベントストーリー5話を視聴"
+  },
+  {
+    "id": "cd-event-shelf-26-0226-story-005-unlock",
+    "description": "VENUSレースで特定マス到達"
+  },
+  {
     "id": "cd-event-story-01-23-0328",
     "description": "イベントストーリー\n「音色の輝石が紡ぐ未来」1話読了"
   },
@@ -26885,6 +26949,10 @@
   },
   {
     "id": "cd-event-story-26-0128",
+    "description": "イベントストーリー視聴可能"
+  },
+  {
+    "id": "cd-event-story-26-0226",
     "description": "イベントストーリー視聴可能"
   },
   {
@@ -45740,6 +45808,10 @@
     "description": "メッセージ読了で解放"
   },
   {
+    "id": "cd-ms-read-message-card-ktn-05-msic-00",
+    "description": "メッセージ読了で解放"
+  },
+  {
     "id": "cd-ms-read-message-card-ktn-05-newy-00",
     "description": "メッセージ読了で解放"
   },
@@ -46265,6 +46337,10 @@
   },
   {
     "id": "cd-ms-read-message-card-suz-05-mizg-01",
+    "description": "メッセージ読了で解放"
+  },
+  {
+    "id": "cd-ms-read-message-card-suz-05-msic-00",
     "description": "メッセージ読了で解放"
   },
   {
@@ -56852,6 +56928,430 @@
     "description": "Lv54クリア"
   },
   {
+    "id": "cd-race-qt-26-0226-medal-003",
+    "description": "MLv35またはLv2クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-004",
+    "description": "MLv35またはLv3クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-005",
+    "description": "MLv35またはLv4クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-006",
+    "description": "MLv35またはLv5クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-007",
+    "description": "MLv35またはLv6クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-008",
+    "description": "MLv35またはLv7クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-009",
+    "description": "MLv35またはLv8クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-010",
+    "description": "MLv100またはLv9クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-011",
+    "description": "MLv100またはLv10クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-012",
+    "description": "MLv100またはLv11クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-013",
+    "description": "MLv100またはLv12クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-014",
+    "description": "MLv100またはLv13クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-015",
+    "description": "MLv125またはLv14クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-016",
+    "description": "MLv125またはLv15クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-017",
+    "description": "MLv125またはLv16クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-018",
+    "description": "MLv125またはLv17クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-019",
+    "description": "MLv125またはLv18クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-020",
+    "description": "MLv155またはLv19クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-021",
+    "description": "MLv155またはLv20クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-022",
+    "description": "MLv155またはLv21クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-023",
+    "description": "MLv155またはLv22クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-024",
+    "description": "MLv155またはLv23クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-025",
+    "description": "MLv180またはLv24クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-026",
+    "description": "MLv180またはLv25クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-027",
+    "description": "MLv180またはLv26クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-028",
+    "description": "MLv180またはLv27クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-029",
+    "description": "MLv180またはLv28クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-030",
+    "description": "MLv210またはLv29クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-031",
+    "description": "MLv210またはLv30クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-032",
+    "description": "MLv220またはLv31クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-033",
+    "description": "MLv220またはLv32クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-034",
+    "description": "MLv230またはLv33クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-035",
+    "description": "MLv230またはLv34クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-036",
+    "description": "MLv240またはLv35クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-037",
+    "description": "MLv240またはLv36クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-038",
+    "description": "MLv250またはLv37クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-039",
+    "description": "MLv250またはLv38クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-040",
+    "description": "Lv39クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-041",
+    "description": "Lv40クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-042",
+    "description": "Lv41クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-043",
+    "description": "Lv42クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-044",
+    "description": "Lv43クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-045",
+    "description": "Lv44クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-046",
+    "description": "Lv45クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-047",
+    "description": "Lv46クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-048",
+    "description": "Lv47クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-049",
+    "description": "Lv48クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-050",
+    "description": "Lv49クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-051",
+    "description": "Lv50クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-052",
+    "description": "Lv51クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-053",
+    "description": "Lv52クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-054",
+    "description": "Lv53クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-medal-055",
+    "description": "Lv54クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-003",
+    "description": "MLv35またはLv2クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-004",
+    "description": "MLv35またはLv3クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-005",
+    "description": "MLv35またはLv4クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-006",
+    "description": "MLv35またはLv5クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-007",
+    "description": "MLv35またはLv6クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-008",
+    "description": "MLv35またはLv7クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-009",
+    "description": "MLv35またはLv8クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-010",
+    "description": "MLv100またはLv9クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-011",
+    "description": "MLv100またはLv10クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-012",
+    "description": "MLv100またはLv11クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-013",
+    "description": "MLv100またはLv12クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-014",
+    "description": "MLv100またはLv13クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-015",
+    "description": "MLv125またはLv14クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-016",
+    "description": "MLv125またはLv15クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-017",
+    "description": "MLv125またはLv16クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-018",
+    "description": "MLv125またはLv17クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-019",
+    "description": "MLv125またはLv18クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-020",
+    "description": "MLv155またはLv19クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-021",
+    "description": "MLv155またはLv20クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-022",
+    "description": "MLv155またはLv21クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-023",
+    "description": "MLv155またはLv22クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-024",
+    "description": "MLv155またはLv23クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-025",
+    "description": "MLv180またはLv24クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-026",
+    "description": "MLv180またはLv25クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-027",
+    "description": "MLv180またはLv26クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-028",
+    "description": "MLv180またはLv27クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-029",
+    "description": "MLv180またはLv28クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-030",
+    "description": "MLv210またはLv29クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-031",
+    "description": "MLv210またはLv30クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-032",
+    "description": "MLv220またはLv31クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-033",
+    "description": "MLv220またはLv32クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-034",
+    "description": "MLv230またはLv33クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-035",
+    "description": "MLv230またはLv34クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-036",
+    "description": "MLv240またはLv35クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-037",
+    "description": "MLv240またはLv36クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-038",
+    "description": "MLv250またはLv37クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-039",
+    "description": "MLv250またはLv38クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-040",
+    "description": "Lv39クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-041",
+    "description": "Lv40クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-042",
+    "description": "Lv41クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-043",
+    "description": "Lv42クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-044",
+    "description": "Lv43クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-045",
+    "description": "Lv44クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-046",
+    "description": "Lv45クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-047",
+    "description": "Lv46クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-048",
+    "description": "Lv47クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-049",
+    "description": "Lv48クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-050",
+    "description": "Lv49クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-051",
+    "description": "Lv50クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-052",
+    "description": "Lv51クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-053",
+    "description": "Lv52クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-054",
+    "description": "Lv53クリア"
+  },
+  {
+    "id": "cd-race-qt-26-0226-pt-055",
+    "description": "Lv54クリア"
+  },
+  {
     "id": "cd-refresh_total_count_gte-50",
     "description": "リフレッシュを50回行う"
   },
@@ -60376,6 +60876,18 @@
     "description": "フォトアルバムストーリー表示"
   },
   {
+    "id": "cd-shelf-26-0226",
+    "description": "フォトアルバム開催期間"
+  },
+  {
+    "id": "cd-shelf-26-0226-play",
+    "description": "メインライブ#5のクリア"
+  },
+  {
+    "id": "cd-shelf-26-0226-story",
+    "description": "フォトアルバムストーリー表示"
+  },
+  {
     "id": "cd-shop-21-0731-close",
     "description": "21−0731パック廃止"
   },
@@ -62536,6 +63048,26 @@
     "description": "【ドカン】カバー楽曲ショップ"
   },
   {
+    "id": "cd-shop-pack-26-0226",
+    "description": "【お知らせ】感謝祭ショップ"
+  },
+  {
+    "id": "cd-shop-pack-26-0226-0319",
+    "description": "感謝祭ショップ"
+  },
+  {
+    "id": "cd-shop-pack-26-0226-0319-dokan",
+    "description": "【ドカン】感謝祭ショップ"
+  },
+  {
+    "id": "cd-shop-pack-26-0226-0319-dokan-free",
+    "description": "【ドカン】Web限定 感謝祭ショップ"
+  },
+  {
+    "id": "cd-shop-pack-26-0226-0319-mlv-120",
+    "description": "感謝祭ショップMlv120制御"
+  },
+  {
     "id": "cd-shop-pack1-23-0809",
     "description": "【お知らせ】リリース777日記念ショップ"
   },
@@ -63229,6 +63761,10 @@
   },
   {
     "id": "cd-shop_dress-shop-26-0128-0219",
+    "description": "衣装ショップドカン&バナー期間"
+  },
+  {
+    "id": "cd-shop_dress-shop-26-0226-0319",
     "description": "衣装ショップドカン&バナー期間"
   },
   {
@@ -64722,6 +65258,10 @@
   {
     "id": "cd-shop_special-shop-26-0128-26-0208",
     "description": "すごろくキャンディパック期間"
+  },
+  {
+    "id": "cd-shop_special-shop-26-0226-0309",
+    "description": "フォトアルバムフィルムパック期間"
   },
   {
     "id": "cd-shop_special-shop-banner-21-1125",
@@ -67044,6 +67584,22 @@
     "description": "バレンタイン特別ショップ第2弾Mlv120制御"
   },
   {
+    "id": "cd-special-shop-pack-26-0226",
+    "description": "【お知らせ】感謝祭特別ショップ"
+  },
+  {
+    "id": "cd-special-shop-pack-26-0226-0123",
+    "description": "感謝祭特別ショップ"
+  },
+  {
+    "id": "cd-special-shop-pack-26-0226-0123-dokan",
+    "description": "【ドカン】感謝祭特別ショップ"
+  },
+  {
+    "id": "cd-special-shop-pack-26-0226-0123-mlv-120",
+    "description": "感謝祭特別ショップMlv120制御"
+  },
+  {
     "id": "cd-special-shop-pack2-24-0708-0721-02",
     "description": "真夏のウキドキサバイバル！1人★5確定10連ガチャチケショップ"
   },
@@ -67182,6 +67738,14 @@
   {
     "id": "cd-special-shop-pack2-26-0128-0218-02-dokan",
     "description": "【ドカン】今日はあなたのセンターに♡1人★5確定10連ガチャチケショップ"
+  },
+  {
+    "id": "cd-special-shop-pack2-26-0226-0318-02",
+    "description": "あなたの歌と共に1人★5確定10連ガチャチケショップ"
+  },
+  {
+    "id": "cd-special-shop-pack2-26-0226-0318-02-dokan",
+    "description": "【ドカン】あなたの歌と共に1人★5確定10連ガチャチケショップ"
   },
   {
     "id": "cd-st-eve-2108-marathon-001",
@@ -69920,6 +70484,46 @@
     "description": "星空編34話を視聴"
   },
   {
+    "id": "cd-st-main-cmn-03-01-36-unlock",
+    "description": "メインライブ#26をクリア"
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-36-view",
+    "description": "星空編35話を視聴"
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-37-unlock",
+    "description": "メインライブ#26をクリア"
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-37-view",
+    "description": "星空編36話を視聴"
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-38-unlock",
+    "description": "メインライブ#26をクリア"
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-38-view",
+    "description": "星空編37話を視聴"
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-39-unlock",
+    "description": "メインライブ#26をクリア"
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-39-view",
+    "description": "星空編38話を視聴"
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-40-unlock",
+    "description": "メインライブ#26をクリア"
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-40-view",
+    "description": "星空編39話を視聴"
+  },
+  {
     "id": "cd-st-main-cmn-03-01-prologue-view",
     "description": ""
   },
@@ -71396,6 +72000,10 @@
     "description": "#3視聴\nで解放"
   },
   {
+    "id": "cd-st-read-st-card-ktn-05-msic-00-03",
+    "description": "#3視聴\nで解放"
+  },
+  {
     "id": "cd-st-read-st-card-ktn-05-newy-00-03",
     "description": "#3視聴\nで解放"
   },
@@ -71957,6 +72565,14 @@
   },
   {
     "id": "cd-st-read-st-card-suz-05-mizg-01-03",
+    "description": "#3視聴\nで解放"
+  },
+  {
+    "id": "cd-st-read-st-card-suz-05-msic-00",
+    "description": "#3視聴\nで解放"
+  },
+  {
+    "id": "cd-st-read-st-card-suz-05-msic-00-03",
     "description": "#3視聴\nで解放"
   },
   {
@@ -73836,6 +74452,10 @@
     "description": "スペシャルデイリーライブ開催期間"
   },
   {
+    "id": "cd-time-daily-sp-26-0226-26-0319",
+    "description": "スペシャルデイリーライブ開催期間"
+  },
+  {
     "id": "cd-time-diary-21-1009",
     "description": "準備中"
   },
@@ -74533,6 +75153,14 @@
   },
   {
     "id": "cd-time-event-ms-thanks-24-0302-0309-mlv20",
+    "description": "感謝祭ミッション"
+  },
+  {
+    "id": "cd-time-event-ms-thanks-26-0228-0306",
+    "description": "感謝祭ミッション"
+  },
+  {
+    "id": "cd-time-event-ms-thanks-26-0228-0306-mlv20",
     "description": "感謝祭ミッション"
   },
   {
@@ -79656,6 +80284,18 @@
     "description": "バナー期間終了条件：期間：君のための歌★5アイドル1人確定"
   },
   {
+    "id": "cd-time-gacha-fixed-26-0226",
+    "description": "期間：★5アイドル1人確定ピックアップガチャ"
+  },
+  {
+    "id": "cd-time-gacha-fixed-26-0226-banner",
+    "description": "バナー期間：期間：★5アイドル1人確定ピックアップガチャ"
+  },
+  {
+    "id": "cd-time-gacha-fixed-26-0226-banner-end",
+    "description": "バナー期間終了条件：期間：★5アイドル1人確定ピックアップガチャ"
+  },
+  {
     "id": "cd-time-gacha-fixed-selection-23-0328",
     "description": "期間：感謝祭記念1人★5確定セレクションガチャ"
   },
@@ -83196,6 +83836,22 @@
     "description": "専用ガチャチケット所持"
   },
   {
+    "id": "cd-time-gacha-lm-set-bloom-26-0226",
+    "description": "期間：あなたの歌と共にピックアップガチャ"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-26-0226-banner",
+    "description": "期間：あなたの歌と共にガチャバナー"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-26-0226-dokan",
+    "description": "期間：あなたの歌と共にガチャドカン"
+  },
+  {
+    "id": "cd-time-gacha-lm-set-bloom-26-0226-free-ticket-1s",
+    "description": "専用ガチャチケット所持"
+  },
+  {
     "id": "cd-time-gacha-lm-set-bloom-dokan-22-1128",
     "description": "期間：君を照らす贈りもの:ドカン"
   },
@@ -84245,11 +84901,11 @@
   },
   {
     "id": "cd-time-gacha-pick-set-bloom-26-0217",
-    "description": "期間：君のための歌"
+    "description": "期間：【2/25 21:00 追記】君のための歌"
   },
   {
     "id": "cd-time-gacha-pick-set-bloom-26-0217-banner",
-    "description": "期間：君のための歌_バナー"
+    "description": "期間：【2/25 21:00 追記】君のための歌_バナー"
   },
   {
     "id": "cd-time-gacha-pickup-21-0624-01",
@@ -90388,6 +91044,14 @@
     "description": "バレンタインログインボーナス第2弾ログボ受け取り期間"
   },
   {
+    "id": "cd-time-login-26-0227-0305",
+    "description": "アイプラ感謝祭ログインボーナスログボ期間"
+  },
+  {
+    "id": "cd-time-login-26-0227-0312",
+    "description": "アイプラ感謝祭ログインボーナスログボ受け取り期間"
+  },
+  {
     "id": "cd-time-login02-24-1114-1120",
     "description": "もし恋ログボ期間"
   },
@@ -91194,6 +91858,10 @@
   {
     "id": "cd-time-medal-buttonbadge-lm-set-bloom-26-0212",
     "description": "期間：絆シリーズ ～二人は最強TWINkle！～缶バッジ交換"
+  },
+  {
+    "id": "cd-time-medal-buttonbadge-lm-set-bloom-26-0226",
+    "description": "期間：あなたの歌と共にピックアップガチャ缶バッジ交換"
   },
   {
     "id": "cd-time-mirrativ-close-21-0731-0801",
@@ -92304,6 +92972,22 @@
     "description": "開始：Vivid School Graffiti☆☆楽曲"
   },
   {
+    "id": "cd-time-music-unit-013-26-0226",
+    "description": "開始：with your songs楽曲"
+  },
+  {
+    "id": "cd-time-music-unit-013-26-0226-close",
+    "description": "期間：with your songs楽曲"
+  },
+  {
+    "id": "cd-time-music-unit-013-26-0226-close-shoot",
+    "description": "開始：with your songs楽曲"
+  },
+  {
+    "id": "cd-time-music-unit-013-26-0226-showcase-music",
+    "description": "開始：with your songs楽曲"
+  },
+  {
     "id": "cd-time-night",
     "description": "夜 18:00 - 23:00"
   },
@@ -93010,6 +93694,10 @@
   {
     "id": "cd-time-period-2330-end-01",
     "description": "閉じる対応：period-2330"
+  },
+  {
+    "id": "cd-time-period-2340-end-01",
+    "description": "閉じる対応：period-2340"
   },
   {
     "id": "cd-time-photo-aj-00-01",
@@ -93853,6 +94541,10 @@
   },
   {
     "id": "cd-time-pvp-26-0216-0218_s-banner",
+    "description": "PVP_Sバナー 開始から3日間"
+  },
+  {
+    "id": "cd-time-pvp-26-0226-0228_s-banner",
     "description": "PVP_Sバナー 開始から3日間"
   },
   {
@@ -102412,6 +103104,10 @@
     "description": ""
   },
   {
+    "id": "cd-wear-costume-cos-ktn-msic-00",
+    "description": ""
+  },
+  {
     "id": "cd-wear-costume-cos-ktn-newy-00",
     "description": ""
   },
@@ -102969,6 +103665,10 @@
   },
   {
     "id": "cd-wear-costume-cos-suz-mizg-01",
+    "description": ""
+  },
+  {
+    "id": "cd-wear-costume-cos-suz-msic-00",
     "description": ""
   },
   {
