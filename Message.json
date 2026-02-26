@@ -248973,6 +248973,471 @@
     "rarityType": 0
   },
   {
+    "id": "message-hbd-yu-26-0227",
+    "messageGroupId": "message_group_yu",
+    "name": "うちの性",
+    "type": 1,
+    "characterId": "char-yu",
+    "unlockConditionId": "cd-birthday_yu-26-0227",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-yu",
+        "text": "あかん",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-yu",
+        "text": "ただな",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-yu",
+        "text": "されっぱなしはうちの性に合わへん！",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-yu",
+        "text": "うちもみんなの笑った顔やビックリした顔いっぱい見たい！",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-yu",
+        "text": "瑠依ちゃんのはにかんだ顔や可愛く照れてる顔をもっと見たいんです！",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-yu",
+        "stampAssetId": "nabe-angry",
+        "nextMessageDetailIds": [
+          "15-1",
+          "15-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-1",
+        "text": "言いたいことは分かるが",
+        "choiceText": "言いたいことは分かるが",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-2",
+        "text": "後半私欲じゃないか？",
+        "choiceText": "後半私欲じゃないか？",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-yu",
+        "text": "とにかくです",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-yu",
+        "text": "うちもみんなにサプライズのお返しをしようと思ってて",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-yu",
+        "text": "{user}さんにも協力してもらいたいんです",
+        "nextMessageDetailIds": [
+          "19-1",
+          "19-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19-1",
+        "text": "もちろん構わないぞ",
+        "choiceText": "もちろん構わないぞ",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19-2",
+        "text": "みんなが喜ぶなら",
+        "choiceText": "みんなが喜ぶなら",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-yu",
+        "text": "もう自分を抑えられへんかも",
+        "nextMessageDetailIds": [
+          "3"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-yu",
+        "stampAssetId": "bear-love",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-yu",
+        "text": "さすがうちが見込んだお人やわ～",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-yu",
+        "text": "そしたら早速相談したいことがあるんで、今からお電話いいですか？",
+        "nextMessageDetailIds": [
+          "23-1",
+          "23-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23-1",
+        "text": "分かった",
+        "choiceText": "分かった",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23-2",
+        "text": "掛けてくれ",
+        "choiceText": "掛けてくれ",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-yu",
+        "text": "ほな掛けます～",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25",
+        "characterId": "char-yu",
+        "telephoneId": "tel-hbd-yu-26-0227",
+        "reliability": 2,
+        "text": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "3",
+        "characterId": "char-yu",
+        "stampAssetId": "nabe-impatience",
+        "nextMessageDetailIds": [
+          "4-1",
+          "4-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4-1",
+        "text": "急にどうした",
+        "choiceText": "急にどうした",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4-2",
+        "text": "なんとも不穏だな",
+        "choiceText": "なんとも不穏だな",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-yu",
+        "text": "今日はうちの誕生日やないですか",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-yu",
+        "text": "みんなプレゼントはもちろんサプライズもいろいろ考えてくれて",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-yu",
+        "text": "沢山驚かしたり笑かしたりしてくれたんです",
+        "nextMessageDetailIds": [
+          "8-1",
+          "8-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8-1",
+        "text": "楽しそうだ",
+        "choiceText": "楽しそうだ",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8-2",
+        "text": "良かったじゃないか",
+        "choiceText": "良かったじゃないか",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-yu",
+        "text": "もちろん楽しかったし嬉しかったです",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
     "id": "message-instant-ai-00001",
     "messageGroupId": "message_group_ai",
     "name": "ありがたやありがたや…",

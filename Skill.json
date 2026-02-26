@@ -269840,6 +269840,468 @@
     "assetId": ""
   },
   {
+    "id": "sk-yu-05-birt-02-1",
+    "name": "ハスハスしてる優ちゃん",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "340%のスコア獲得 \nスコアラータイプ2人に7段階クリティカル係数上昇効果[28ビート]と10段階クリティカル係数上昇上限解放効果[28ビート] \nスタミナ112消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-7-target-character_type-1-2-28",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_critical_bonus_permil_up-10-target-character_type-1-2-28",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "360%のスコア獲得 \nスコアラータイプ2人に7段階クリティカル係数上昇効果[32ビート]と10段階クリティカル係数上昇上限解放効果[32ビート] \nスタミナ120消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ120消費 CT:30",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 120,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-7-target-character_type-1-2-32",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_critical_bonus_permil_up-10-target-character_type-1-2-32",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "380%のスコア獲得 \nスコアラータイプ2人に7段階クリティカル係数上昇効果[37ビート]と10段階クリティカル係数上昇上限解放効果[37ビート] \nスタミナ129消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ129消費 CT:30",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 129,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-7-target-character_type-1-2-37",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_critical_bonus_permil_up-10-target-character_type-1-2-37",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "400%のスコア獲得 \nスコアラータイプ2人に8段階クリティカル係数上昇効果[37ビート]と10段階クリティカル係数上昇上限解放効果[37ビート] \nスタミナ136消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ136消費 CT:30",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 136,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-8-target-character_type-1-2-37",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_critical_bonus_permil_up-10-target-character_type-1-2-37",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "420%のスコア獲得 \nスコアラータイプ2人に8段階クリティカル係数上昇効果[42ビート]と10段階クリティカル係数上昇上限解放効果[42ビート] \nスタミナ145消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ145消費 CT:30",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 145,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-8-target-character_type-1-2-42",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_critical_bonus_permil_up-10-target-character_type-1-2-42",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "450%のスコア獲得 \nスコアラータイプ2人に8段階クリティカル係数上昇効果[47ビート]と10段階クリティカル係数上昇上限解放効果[47ビート] \nスタミナ157消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ157消費 CT:30",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 157,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-8-target-character_type-1-2-47",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_critical_bonus_permil_up-10-target-character_type-1-2-47",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-yu-05-birt-02-2",
+    "name": "かんしょ～かい",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "スコアラータイプ1人に5段階コンボスコア上昇効果[25ビート]と10段階コンボスコア上昇上限解放効果[25ビート] \nスタミナ143消費 CT:50",
+        "shortDescription": "\n\nスタミナ143消費 CT:50",
+        "stamina": 143,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-combo_score_up-5-target-character_type-1-1-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_combo_score_up-10-target-character_type-1-1-25",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "スコアラータイプ1人に5段階コンボスコア上昇効果[29ビート]と10段階コンボスコア上昇上限解放効果[29ビート] \nスタミナ166消費 CT:50",
+        "shortDescription": "\n\nスタミナ166消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 166,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-combo_score_up-5-target-character_type-1-1-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_combo_score_up-10-target-character_type-1-1-29",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "スコアラータイプ1人に5段階コンボスコア上昇効果[34ビート]と10段階コンボスコア上昇上限解放効果[34ビート] \nスタミナ195消費 CT:50",
+        "shortDescription": "\n\nスタミナ195消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 195,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-combo_score_up-5-target-character_type-1-1-34",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_combo_score_up-10-target-character_type-1-1-34",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "スコアラータイプ1人に6段階コンボスコア上昇効果[34ビート]と10段階コンボスコア上昇上限解放効果[34ビート] \nスタミナ215消費 CT:50",
+        "shortDescription": "\n\nスタミナ215消費 CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 215,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-combo_score_up-6-target-character_type-1-1-34",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_combo_score_up-10-target-character_type-1-1-34",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "スコアラータイプ1人に6段階コンボスコア上昇効果[39ビート]と10段階コンボスコア上昇上限解放効果[39ビート] \nスタミナ247消費 CT:50",
+        "shortDescription": "\n\nスタミナ247消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 247,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-combo_score_up-6-target-character_type-1-1-39",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_combo_score_up-10-target-character_type-1-1-39",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "スコアラータイプ1人に6段階コンボスコア上昇効果[44ビート]と10段階コンボスコア上昇上限解放効果[44ビート] \nスタミナ279消費 CT:50",
+        "shortDescription": "\n\nスタミナ279消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 279,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-combo_score_up-6-target-character_type-1-1-44",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_combo_score_up-10-target-character_type-1-1-44",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-yu-05-birt-02-3",
+    "name": "これぞ深夜の背徳感",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身がビジュアルレーンの時 \nスコアラータイプ1人に4段階Aスキルスコア上昇効果[21ビート]と10段階Aスキルスコア上昇上限解放効果[21ビート] \nスタミナ163消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ163消費 CT:50",
+        "stamina": 163,
+        "triggerId": "tg-position_attribute_visual",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-4-target-character_type-1-1-21",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-character_type-1-1-21",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身がビジュアルレーンの時 \nスコアラータイプ1人に4段階Aスキルスコア上昇効果[25ビート]と10段階Aスキルスコア上昇上限解放効果[25ビート] \nスタミナ194消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ194消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 194,
+        "triggerId": "tg-position_attribute_visual",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-4-target-character_type-1-1-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-character_type-1-1-25",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身がビジュアルレーンの時\nスコアラータイプ1人に4段階Aスキルスコア上昇効果[29ビート]と10段階Aスキルスコア上昇上限解放効果[29ビート] \nスタミナ225消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ225消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 225,
+        "triggerId": "tg-position_attribute_visual",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-4-target-character_type-1-1-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-character_type-1-1-29",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身がビジュアルレーンの時 \nスコアラータイプ1人に5段階Aスキルスコア上昇効果[29ビート]と10段階Aスキルスコア上昇上限解放効果[29ビート] \nスタミナ247消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ247消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 247,
+        "triggerId": "tg-position_attribute_visual",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-5-target-character_type-1-1-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-character_type-1-1-29",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身がビジュアルレーンの時 \nスコアラータイプ1人に5段階Aスキルスコア上昇効果[34ビート]と10段階Aスキルスコア上昇上限解放効果[34ビート] \nスタミナ289消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ289消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 289,
+        "triggerId": "tg-position_attribute_visual",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-5-target-character_type-1-1-34",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-character_type-1-1-34",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身がビジュアルレーンの時 \nスコアラータイプ1人に5段階Aスキルスコア上昇効果[39ビート]と10段階Aスキルスコア上昇上限解放効果[39ビート] \nスタミナ332消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ332消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 332,
+        "triggerId": "tg-position_attribute_visual",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-active_skill_score_up-5-target-character_type-1-1-39",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_active_skill_score_up-10-target-character_type-1-1-39",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-yu-05-casl-02-1",
     "name": "お忍びクリスマスデート",
     "categoryType": 2,
