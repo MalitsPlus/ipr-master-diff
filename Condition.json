@@ -13364,7 +13364,21 @@
           "questId": "qt-daily-001-24"
         },
         "term": {
-          "nowAfter": "1758985200000",
+          "nowAfter": "1772074800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-daily-001-25",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-daily-001-25"
+        },
+        "term": {
+          "nowAfter": "1772074800000",
           "nowBefore": "0"
         }
       }
@@ -13644,7 +13658,21 @@
           "questId": "qt-daily-002-24"
         },
         "term": {
-          "nowAfter": "1758985200000",
+          "nowAfter": "1772074800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-daily-002-25",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-daily-002-25"
+        },
+        "term": {
+          "nowAfter": "1772074800000",
           "nowBefore": "0"
         }
       }
@@ -13868,7 +13896,21 @@
           "questId": "qt-daily-003-18"
         },
         "term": {
-          "nowAfter": "1758985200000",
+          "nowAfter": "1772074800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-clear-qt-daily-003-19",
+    "settings": [
+      {
+        "clearQuest": {
+          "questId": "qt-daily-003-19"
+        },
+        "term": {
+          "nowAfter": "1772074800000",
           "nowBefore": "0"
         }
       }
@@ -116630,6 +116672,17 @@
     ]
   },
   {
+    "id": "cd-manager_level_gte-265",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 265,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-manager_level_gte-27",
     "settings": [
       {
@@ -116668,6 +116721,17 @@
       {
         "managerLevel": {
           "levelGte": 280,
+          "levelLte": 0
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-manager_level_gte-285",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 285,
           "levelLte": 0
         }
       }
