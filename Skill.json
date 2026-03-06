@@ -185626,6 +185626,468 @@
     "assetId": ""
   },
   {
+    "id": "sk-rei-05-birt-02-1",
+    "name": "朝が弱い一ノ瀬怜",
+    "categoryType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "description": "900%のスコア獲得、強化効果が多い程効果上昇\n自身に5段階Aスキルスコア追加効果[44ビート]\nスタミナ630消費 ",
+        "shortDescription": "\n\nスタミナ630消費 ",
+        "stamina": 630,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-9000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_score_multiplier_add-5-target-self-44",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "1000%のスコア獲得、強化効果が多い程効果上昇\n自身に5段階Aスキルスコア追加効果[53ビート]\nスタミナ711消費 ",
+        "shortDescription": "\n\nスタミナ711消費 ",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 711,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-10000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_score_multiplier_add-5-target-self-53",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "1100%のスコア獲得、強化効果が多い程効果上昇\n自身に6段階Aスキルスコア追加効果[53ビート]\nスタミナ796消費 ",
+        "shortDescription": "\n\nスタミナ796消費 ",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 796,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-11000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_score_multiplier_add-6-target-self-53",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "1200%のスコア獲得、強化効果が多い程効果上昇\n自身に6段階Aスキルスコア追加効果[63ビート]\nスタミナ886消費 ",
+        "shortDescription": "\n\nスタミナ886消費 ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 886,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-12000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_score_multiplier_add-6-target-self-63",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "1300%のスコア獲得、強化効果が多い程効果上昇\n自身に7段階Aスキルスコア追加効果[63ビート]\nスタミナ977消費 ",
+        "shortDescription": "\n\nスタミナ977消費 ",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 977,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-13000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_score_multiplier_add-7-target-self-63",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "1410%のスコア獲得、強化効果が多い程効果上昇\n自身に7段階Aスキルスコア追加効果[73ビート]\nスタミナ1077消費 ",
+        "shortDescription": "\n\nスタミナ1077消費 ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 1077,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-14100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_score_multiplier_add-7-target-self-73",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": "sk-rei-05-birt-02-1"
+  },
+  {
+    "id": "sk-rei-05-birt-02-2",
+    "name": "マカロンつまみぐい",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "440%のスコア獲得\n自身に6段階コンボスコア上昇効果[21ビート]\nスタミナ134消費 CT:50",
+        "shortDescription": "\n\nスタミナ134消費 CT:50",
+        "stamina": 134,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_score_up-6-target-self-21",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "460%のスコア獲得\n自身に6段階コンボスコア上昇効果[30ビート]\nスタミナ144消費 CT:50",
+        "shortDescription": "\n\nスタミナ144消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 144,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_score_up-6-target-self-30",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "480%のスコア獲得\n自身に7段階コンボスコア上昇効果[30ビート]\nスタミナ152消費 CT:50",
+        "shortDescription": "\n\nスタミナ152消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 152,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_score_up-7-target-self-30",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "500%のスコア獲得\n自身に7段階コンボスコア上昇効果[39ビート]\nスタミナ162消費 CT:50",
+        "shortDescription": "\n\nスタミナ162消費 CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 162,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_score_up-7-target-self-39",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "520%のスコア獲得\n自身に8段階コンボスコア上昇効果[39ビート]\nスタミナ171消費 CT:50",
+        "shortDescription": "\n\nスタミナ171消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 171,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_score_up-8-target-self-39",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "550%のスコア獲得\n自身に8段階コンボスコア上昇効果[49ビート]\nスタミナ185消費 CT:50",
+        "shortDescription": "\n\nスタミナ185消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 185,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-combo_score_up-8-target-self-49",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-rei-05-birt-02-3",
+    "name": "寝るなら咲の字で",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "380%のスコア獲得\n自身に4段階テンションUP効果[25ビート]と強化効果を3延長 \nスタミナ134消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ134消費 CT:50",
+        "stamina": 134,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-4-target-self-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-3-target-self",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "390%のスコア獲得\n自身に4段階テンションUP効果[29ビート]と強化効果を4延長 \nスタミナ143消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ143消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 143,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-4-target-self-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-4-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "400%のスコア獲得 \n自身に4段階テンションUP効果[34ビート]と強化効果を5延長 \nスタミナ152消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ152消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 152,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-4-target-self-34",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-5-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "410%のスコア獲得\n自身に5段階テンションUP効果[34ビート]と強化効果を6延長 \nスタミナ164消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ164消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 164,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-5-target-self-34",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-6-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "420%のスコア獲得 \n自身に5段階テンションUP効果[39ビート]と強化効果を7延長 \nスタミナ174消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ174消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 174,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-5-target-self-39",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-7-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "440%のスコア獲得 \n自身に5段階テンションUP効果[43ビート]と強化効果を8延長 \nスタミナ186消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ186消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 186,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-5-target-self-43",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-8-target-self",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-rei-05-casl-02-1",
     "name": "もっと乙女心を学んで下さい！",
     "categoryType": 1,

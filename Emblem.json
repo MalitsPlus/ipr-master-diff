@@ -5418,6 +5418,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_rei-05",
+    "name": "【誕生日】一ノ瀬怜",
+    "assetId": "birthday_rei-05",
+    "autoProvideConditionId": "cd-birthday_emblem_rei-26-0308",
+    "order": 605080,
+    "description": "怜の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_rio-03",
     "name": "【誕生日】神崎莉央",
     "assetId": "birthday_rio-03",
@@ -9851,6 +9860,33 @@
     "assetId": "pvp-season-160-top100",
     "order": 316030,
     "description": "VENUSバトルシーズン160で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-161-top001",
+    "name": "VENUSシーズン161 No.1",
+    "assetId": "pvp-season-161-top001",
+    "order": 316110,
+    "description": "VENUSバトルシーズン161で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-161-top010",
+    "name": "VENUSシーズン161 TOP10",
+    "assetId": "pvp-season-161-top010",
+    "order": 316120,
+    "description": "VENUSバトルシーズン161で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-161-top100",
+    "name": "VENUSシーズン161 TOP100",
+    "assetId": "pvp-season-161-top100",
+    "order": 316130,
+    "description": "VENUSバトルシーズン161で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

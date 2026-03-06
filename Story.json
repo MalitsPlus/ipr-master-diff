@@ -1060,6 +1060,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-rei-26-0308",
+    "name": "一ノ瀬怜 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は怜の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "特大マカロン",
+        "advAssetId": "hbd_06_rei_01"
+      },
+      {
+        "index": 2,
+        "text": "着圧ソックス",
+        "advAssetId": "hbd_06_rei_02"
+      },
+      {
+        "index": 3,
+        "text": "特大ブリ",
+        "advAssetId": "hbd_06_rei_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-rio-23-0828",
     "name": "神崎莉央 誕生日2023",
     "advPlayTypes": [
@@ -11636,6 +11668,60 @@
     ],
     "advAssetIds": [
       "card_rei_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rei-05-birt-02-01",
+    "name": "うー……\nあと五分……",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rei_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rei-05-birt-02-02",
+    "name": "これも\n懐かしいわね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rei_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rei-05-birt-02-03",
+    "name": "離さぬ！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rei_53_03"
     ],
     "sectionName": "",
     "description": "",
