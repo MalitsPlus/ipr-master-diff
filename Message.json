@@ -87014,6 +87014,485 @@
     "rarityType": 0
   },
   {
+    "id": "message-card-ski-05-ster-00",
+    "messageGroupId": "message_group_ski",
+    "name": "「静寂の祈り手」",
+    "type": 1,
+    "characterId": "char-ski",
+    "unlockConditionId": "cd-st-read-st-card-ski-05-ster-00-03",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-ski",
+        "text": "この間の、心霊ドッキリのことなんですが",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-ski",
+        "text": "例えば、くさやが貼られていたところとか、最初は違ったのかなって",
+        "nextMessageDetailIds": [
+          "11-1",
+          "11-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11-1",
+        "text": "最初は御札だったな",
+        "choiceText": "最初は御札だったな",
+        "nextMessageDetailIds": [
+          "12-1"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11-2",
+        "text": "最初は宇宙ムカデだったな",
+        "choiceText": "最初は宇宙ムカデだったな",
+        "nextMessageDetailIds": [
+          "12-2"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12-1",
+        "characterId": "char-ski",
+        "stampAssetId": "cat-impatience",
+        "nextMessageDetailIds": [
+          "13-1"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12-2",
+        "characterId": "char-ski",
+        "stampAssetId": "cat-wow",
+        "nextMessageDetailIds": [
+          "13-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13-1",
+        "characterId": "char-ski",
+        "text": "オーソドックスに怖いですね",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13-2",
+        "characterId": "char-ski",
+        "text": "そもそもなんですかそれ！？",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-ski",
+        "text": "千紗と観たホラー映画に、似たシーンが出ていた気もしますが",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-ski",
+        "text": "ちなみに、魚魚っとさんのぬいぐるみの部分は？",
+        "nextMessageDetailIds": [
+          "16-1",
+          "16-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16-1",
+        "text": "人間の…",
+        "choiceText": "人間の…",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16-2",
+        "text": "半魚人の…",
+        "choiceText": "半魚人の…",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-ski",
+        "text": "やっぱり大丈夫です！！！！",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-ski",
+        "text": "台本を書く時、{user}さんにアドバイスしてもらった、って言っていたんですが",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-ski",
+        "text": "ありがとうございました",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-ski",
+        "text": "台本は千紗が書いてくれたんですよね？",
+        "nextMessageDetailIds": [
+          "3-1",
+          "3-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-ski",
+        "text": "そのままだったら、ドッキリどころじゃない内容でしたし、さすがです",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-ski",
+        "text": "引き続き、これからもよろしくお願いしますね",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-ski",
+        "stampAssetId": "cat-bow",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23",
+        "characterId": "char-ski",
+        "text": "あ",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-ski",
+        "text": "飛びついたことは内緒でお願いします！",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "3-1",
+        "text": "そうだな",
+        "choiceText": "そうだな",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-2",
+        "text": "それがどうしたんだ？",
+        "choiceText": "それがどうしたんだ？",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-ski",
+        "text": "千紗から聞いたんですが",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-ski",
+        "text": "最初はもっと怖くするつもりだったんだとか",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-ski",
+        "text": "どんな内容か知っていますか？",
+        "nextMessageDetailIds": [
+          "7-1",
+          "7-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7-1",
+        "text": "なんとなくは聞いてるよ",
+        "choiceText": "なんとなくは聞いてるよ",
+        "nextMessageDetailIds": [
+          "8-1"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7-2",
+        "text": "千紗に聞けばいいんじゃ？",
+        "choiceText": "千紗に聞けばいいんじゃ？",
+        "nextMessageDetailIds": [
+          "8-2"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8-1",
+        "characterId": "char-ski",
+        "text": "あ、やっぱり",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8-2",
+        "characterId": "char-ski",
+        "text": "いえ、何か嫌な予感がするので…聞かずにやめておいたんですよね…",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-ski",
+        "text": "良ければ、教えてくれませんか？",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
     "id": "message-card-ski-05-waso-00",
     "messageGroupId": "message_group_ski",
     "name": "「胸に秘めていた情熱」",

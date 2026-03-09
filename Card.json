@@ -14952,6 +14952,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-ski-05-ster-00",
+    "assetId": "ski-05-ster-00",
+    "name": "静寂の祈り手",
+    "description": "どうぞ、隣に座ってお休みになって下さい\r\n私でよろしければ、お話をうかがいますので",
+    "type": 2,
+    "characterId": "char-ski",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 405,
+    "visualRatioPermil": 315,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-05-ster-00-1",
+    "skillId2": "sk-ski-05-ster-00-2",
+    "skillId3": "sk-ski-05-ster-00-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 554,
+    "releaseDate": "1773111600000",
+    "rewardCostumeId": "cos-ski-ster-00",
+    "obtainMessage": "この出会いは、\nきっと神のお導きです",
+    "stories": [
+      {
+        "storyId": "st-card-ski-05-ster-00-01"
+      },
+      {
+        "storyId": "st-card-ski-05-ster-00-02"
+      },
+      {
+        "storyId": "st-card-ski-05-ster-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ski-05-ster-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ski-05-ster-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ski-05-waso-00",
     "assetId": "ski-05-waso-00",
     "name": "胸に秘めていた情熱",

@@ -40931,6 +40931,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_boost-4-target-dance_higher-2-26",
+    "name": "ダンスが高い2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスが高い2人に4段階ダンスブースト効果[26ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance_higher-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-4-target-dance_higher-2-29",
+    "name": "ダンスが高い2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスが高い2人に4段階ダンスブースト効果[29ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance_higher-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-4-target-dance_higher-2-33",
+    "name": "ダンスが高い2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスが高い2人に4段階ダンスブースト効果[33ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance_higher-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_boost-4-target-self-24",
     "name": "自身にダンスブースト効果",
     "type": 57,
@@ -41191,6 +41224,39 @@
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-dance-3",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-5-target-dance_higher-2-33",
+    "name": "ダンスが高い2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスが高い2人に5段階ダンスブースト効果[33ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance_higher-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-5-target-dance_higher-2-37",
+    "name": "ダンスが高い2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスが高い2人に5段階ダンスブースト効果[37ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance_higher-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-5-target-dance_higher-2-41",
+    "name": "ダンスが高い2人にダンスブースト効果",
+    "type": 57,
+    "description": "ダンスが高い2人に5段階ダンスブースト効果[41ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance_higher-2",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -45111,10 +45177,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-4-target-dance-2-23",
+    "name": "ダンスタイプ2人にダンス上昇効果",
+    "type": 13,
+    "description": "ダンスタイプ2人に4段階ダンス上昇効果[23ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-4-target-dance-2-27",
     "name": "ダンスタイプ2人にダンス上昇効果",
     "type": 13,
     "description": "ダンスタイプ2人に4段階ダンス上昇効果[27ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-4-target-dance-2-29",
+    "name": "ダンスタイプ2人にダンス上昇効果",
+    "type": 13,
+    "description": "ダンスタイプ2人に4段階ダンス上昇効果[29ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
@@ -46105,6 +46193,17 @@
     "name": "ダンスタイプ2人にダンス上昇効果",
     "type": 13,
     "description": "ダンスタイプ2人に5段階ダンス上昇効果[33ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-dance-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-5-target-dance-2-36",
+    "name": "ダンスタイプ2人にダンス上昇効果",
+    "type": 13,
+    "description": "ダンスタイプ2人に5段階ダンス上昇効果[36ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-dance-2",
@@ -86064,10 +86163,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_consumption_increase-20-target-opponent_character_type-1-2-29",
+    "name": "相手のスコアラータイプ2人にスタミナ消費増加効果",
+    "type": 33,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に20段階スタミナ消費増加効果[29ビート]",
+    "grade": 20,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_consumption_increase-20-target-opponent_character_type-1-2-30",
     "name": "相手のスコアラータイプ2人にスタミナ消費増加効果",
     "type": 33,
     "description": "[ライブバトルのみ]相手のスコアラータイプ2人に20段階スタミナ消費増加効果[30ビート]",
+    "grade": 20,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption_increase-20-target-opponent_character_type-1-2-33",
+    "name": "相手のスコアラータイプ2人にスタミナ消費増加効果",
+    "type": 33,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に20段階スタミナ消費増加効果[33ビート]",
     "grade": 20,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_character_type-1-2",
@@ -86097,6 +86218,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_consumption_increase-20-target-opponent_character_type-1-2-37",
+    "name": "相手のスコアラータイプ2人にスタミナ消費増加効果",
+    "type": 33,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に20段階スタミナ消費増加効果[37ビート]",
+    "grade": 20,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_consumption_increase-20-target-opponent_character_type-1-2-38",
     "name": "相手のスコアラータイプ2人にスタミナ消費増加効果",
     "type": 33,
@@ -86112,6 +86244,17 @@
     "name": "相手のスコアラータイプ2人にスタミナ消費増加効果",
     "type": 33,
     "description": "[ライブバトルのみ]相手のスコアラータイプ2人に20段階スタミナ消費増加効果[40ビート]",
+    "grade": 20,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption_increase-20-target-opponent_character_type-1-2-41",
+    "name": "相手のスコアラータイプ2人にスタミナ消費増加効果",
+    "type": 33,
+    "description": "[ライブバトルのみ]相手のスコアラータイプ2人に20段階スタミナ消費増加効果[41ビート]",
     "grade": 20,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_character_type-1-2",

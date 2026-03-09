@@ -10461,6 +10461,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ski-05-ster-00-talk-01",
+    "characterId": "char-ski",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ski-05-ster-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ski-05-ster-00",
+    "choiceText": "いきなりどうした？",
+    "managerText": "いきなりどうした？",
+    "reliability": 5,
+    "title": "静寂の祈り手",
+    "displayConditionDescription": "静寂の祈り手 白石沙季\nストーリー3話を視聴",
+    "order": 504,
+    "releaseDate": "1773111600000",
+    "characterTalks": [
+      {
+        "text": "この前の映画で、シスター役を\n演じてからというもの\n相談されることが増えまして。",
+        "voiceAssetId": "sud_vo_home_ski-05-ster-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "なくしものの場所を推理したり、\n人生について相談されたりと\nいろんな方に頼りにされるんです。",
+        "voiceAssetId": "sud_vo_home_ski-05-ster-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんも\n何か悩んでいる事があれば\n気軽に話して下さいね。",
+        "voiceAssetId": "sud_vo_home_ski-05-ster-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　冷蔵庫にしまっていた\n来客用のプリンがなくなっている？\nなるほど、それは事件ですね。",
+        "voiceAssetId": "sud_vo_home_ski-05-ster-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "犯人はプリン好きのこころちゃん…\nではなく、おそらくすずちゃんです\nさっきスプーンを探していましたし",
+        "voiceAssetId": "sud_vo_home_ski-05-ster-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ふふふ、どうですか？\nこれも神のお導きです。\nなんて。",
+        "voiceAssetId": "sud_vo_home_ski-05-ster-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ski-05-waso-00-talk-01",
     "characterId": "char-ski",
     "placeType": 1,
