@@ -15,7 +15,7 @@
       "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 11,
+    "order": 13,
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -45,7 +45,7 @@
       "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 12,
+    "order": 14,
     "viewConditionId": "cd-photo_expression_shooting-1224",
     "impossibleShootingCharacterIds": [
       "char-mku",
@@ -75,7 +75,7 @@
       "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 13,
+    "order": 15,
     "viewConditionId": "cd-photo_expression_shooting-1224",
     "impossibleShootingCharacterIds": [
       "char-mku",
@@ -107,7 +107,7 @@
       "trbl"
     ],
     "forceCostumeTypeId": "casl",
-    "order": 16,
+    "order": 19,
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -122,16 +122,138 @@
     "impossiblePhotoPoseIds": []
   },
   {
+    "id": "photo_activity-theme_park_02",
+    "name": "テーマパーク②",
+    "thumbnailAssetId": "themepark-02",
+    "stageId": "stage-photo-themepark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol",
+      "pajm",
+      "hruh",
+      "trbl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 20,
+    "viewConditionId": "cd-photo_expression_shooting-26-0310",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
+    "id": "photo_activity-theme_park_03",
+    "name": "テーマパーク③",
+    "thumbnailAssetId": "themepark-03",
+    "stageId": "stage-photo-themepark-00",
+    "costumeTypeIds": [
+      "casl",
+      "schl",
+      "trng",
+      "gene",
+      "idol-miku",
+      "kion",
+      "idol",
+      "pajm",
+      "hruh",
+      "trbl"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 21,
+    "viewConditionId": "cd-photo_expression_shooting-26-0310",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "unlockConditionId": "",
+    "impossiblePhotoPoseIds": []
+  },
+  {
     "id": "photo_expression-bedrockbath",
     "name": "岩盤浴",
+    "thumbnailAssetId": "bedrock-00-01",
+    "stageId": "stage-photo-bedrock-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "order": 16,
+    "viewConditionId": "cd-photo_expression_shooting-bedrockbath",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-lesson",
+      "photo-pose-lying-relax-lesson",
+      "photo-pose-lying-default-pool",
+      "photo-pose-lying-down-pool",
+      "photo-pose-25-1126-02"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-bedrockbath_02",
+    "name": "岩盤浴②",
     "thumbnailAssetId": "bedrock-00",
     "stageId": "stage-photo-bedrock-00",
     "costumeTypeIds": [
       "mizg"
     ],
     "forceCostumeTypeId": "mizg",
-    "order": 15,
-    "viewConditionId": "cd-photo_expression_shooting-bedrockbath",
+    "order": 17,
+    "viewConditionId": "cd-photo_expression_shooting-26-0310",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-lesson",
+      "photo-pose-lying-relax-lesson",
+      "photo-pose-lying-default-pool",
+      "photo-pose-lying-down-pool",
+      "photo-pose-25-1126-02"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-bedrockbath_03",
+    "name": "岩盤浴③",
+    "thumbnailAssetId": "bedrock-00-03",
+    "stageId": "stage-photo-bedrock-00",
+    "costumeTypeIds": [
+      "mizg"
+    ],
+    "forceCostumeTypeId": "mizg",
+    "order": 18,
+    "viewConditionId": "cd-photo_expression_shooting-26-0310",
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
@@ -414,6 +536,106 @@
     "forceCostumeTypeId": "casl",
     "order": 10,
     "viewConditionId": "cd-time-photo-lesson-00-01",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-pool",
+      "photo-pose-lying-down-pool",
+      "photo-pose-25-0718-moon",
+      "photo-pose-25-0718-sun",
+      "photo-pose-25-0718-tri",
+      "photo-pose-25-0718-liz",
+      "photo-pose-25-0718-thrx",
+      "photo-pose-25-0718-mna",
+      "photo-pose-bedrockbath-naturally",
+      "photo-pose-bedrockbath-relax",
+      "photo-pose-bedrockbath-new",
+      "photo-pose-bedrockbath-lying",
+      "photo-pose-25-1126-02"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-lesson_02",
+    "name": "レッスン室②",
+    "thumbnailAssetId": "lesson-02",
+    "stageId": "stage-photo-lesson-00",
+    "costumeTypeIds": [
+      "casl",
+      "gene",
+      "idol",
+      "idol-miku",
+      "kion",
+      "mizg",
+      "mizg-water-ng",
+      "schl",
+      "trng",
+      "waso",
+      "pajm",
+      "hruh",
+      "trbl",
+      "trbl-mizg"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 11,
+    "viewConditionId": "cd-photo_expression_shooting-26-0310",
+    "impossibleShootingCharacterIds": [
+      "char-mku",
+      "char-chk",
+      "char-ymk",
+      "char-rik",
+      "char-yo",
+      "char-chn",
+      "char-cca"
+    ],
+    "impossiblePhotoPoseIds": [
+      "photo-pose-lying-default-pool",
+      "photo-pose-lying-down-pool",
+      "photo-pose-25-0718-moon",
+      "photo-pose-25-0718-sun",
+      "photo-pose-25-0718-tri",
+      "photo-pose-25-0718-liz",
+      "photo-pose-25-0718-thrx",
+      "photo-pose-25-0718-mna",
+      "photo-pose-bedrockbath-naturally",
+      "photo-pose-bedrockbath-relax",
+      "photo-pose-bedrockbath-new",
+      "photo-pose-bedrockbath-lying",
+      "photo-pose-25-1126-02"
+    ],
+    "unlockConditionId": ""
+  },
+  {
+    "id": "photo_expression-lesson_03",
+    "name": "レッスン室③",
+    "thumbnailAssetId": "lesson-03",
+    "stageId": "stage-photo-lesson-00",
+    "costumeTypeIds": [
+      "casl",
+      "gene",
+      "idol",
+      "idol-miku",
+      "kion",
+      "mizg",
+      "mizg-water-ng",
+      "schl",
+      "trng",
+      "waso",
+      "pajm",
+      "hruh",
+      "trbl",
+      "trbl-mizg"
+    ],
+    "forceCostumeTypeId": "casl",
+    "order": 12,
+    "viewConditionId": "cd-photo_expression_shooting-26-0310",
     "impossibleShootingCharacterIds": [
       "char-mku",
       "char-chk",
