@@ -17364,6 +17364,54 @@
     "actionType": 0
   },
   {
+    "homeActionId": "home-action-rio-05-casl-02-01",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+    "voiceAssetId": "sud_vo_home_rio-05-casl-02_01",
+    "text": "次のランキングが楽しみね。\nふふ、貴方も私と\n結婚したくなったんじゃない？",
+    "conditionId": "cd-wear-costume-cos-rio-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rio-05-casl-02-cos-01",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_pos-023_in",
+    "voiceAssetId": "sud_vo_home_rio-05-casl-02_cos-01",
+    "text": "仕事中に居眠りしちゃだめよ。\n残業はほどほどにして、\nたまには早く帰って休みなさい。",
+    "conditionId": "cd-wear-costume-cos-rio-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rio-05-casl-02-cos-02",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+    "voiceAssetId": "sud_vo_home_rio-05-casl-02_cos-02",
+    "text": "なぜだか分からないけど、大人の\n恋愛が似合うってよく言われるわ。\nそんな経験、全然ないのに…",
+    "conditionId": "cd-wear-costume-cos-rio-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rio-05-casl-02-cos-03",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_think-008_in",
+    "voiceAssetId": "sud_vo_home_rio-05-casl-02_cos-03",
+    "text": "私と結婚したい人って、\n私に何を期待しているのかしら。\nもしかして、罵倒されたいとか？",
+    "conditionId": "cd-wear-costume-cos-rio-casl-02",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
     "homeActionId": "home-action-rio-05-fest-00-01",
     "characterId": "char-rio",
     "motionAssetId": "mot_adv_chr_cmn_pos-004_in",
@@ -18451,6 +18499,42 @@
     "text": "イタズラしている暇が\nあったらレッスンするわ……",
     "conditionId": "cd-day_halloween",
     "weight": 1000,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rio-love-01-true-01",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_angry-012_in",
+    "voiceAssetId": "sud_vo_home_rio_love-01-home-01",
+    "text": "ちょっと！　事務所では絶対に\n私のもし恋で遊ばないでって\n言ったわよね！？　何してるのよ！",
+    "conditionId": "cd-event-love-26-0313_love-end_true",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rio-love-01-true-02",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_angry-015_in",
+    "voiceAssetId": "sud_vo_home_rio_love-01-home-02",
+    "text": "もし私が結婚するならずっと隣で\n支えてくれた人を選ぶだろうな…。\nあ、あくまでもしも、の話だから！",
+    "conditionId": "cd-event-love-26-0313_love-end_true",
+    "weight": 100,
+    "additionMotionAssetId": "",
+    "positionType": 0,
+    "actionType": 0
+  },
+  {
+    "homeActionId": "home-action-rio-love-01-true-03",
+    "characterId": "char-rio",
+    "motionAssetId": "mot_adv_chr_cmn_emb-005_in",
+    "voiceAssetId": "sud_vo_home_rio_love-01-home-03",
+    "text": "私の恋愛観を知ってるのは貴方\nだけよ。機会があったら貴方の\n恋愛観も今度聞かせてちょうだい。",
+    "conditionId": "cd-event-love-26-0313_love-end_true",
+    "weight": 100,
     "additionMotionAssetId": "",
     "positionType": 0,
     "actionType": 0

@@ -4260,6 +4260,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-26-0320",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -8652,6 +8664,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-26-0318",
+    "name": "もしも君と恋をしたら~神崎莉央編~ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -11945,6 +11969,42 @@
     "assetId": "love-25-0426-story-pt",
     "description": "サキュ×まほのストーリーを読むために必要なPt\nサキュ×まほで使用できる",
     "howToGet": "サキュ×まほ",
+    "type": 9001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-love-26-0313-lesson-boost",
+    "name": "もし恋スキップドリンク",
+    "assetId": "love-23-0514-lesson-boost",
+    "description": "2時間分の報酬をすぐに獲得できる\nもし恋 神崎莉央編で使用できる",
+    "howToGet": "もし恋",
+    "type": 9003,
+    "value": 120,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-love-26-0313-present",
+    "name": "プレゼント",
+    "assetId": "love-26-0313-present",
+    "description": "ヒロインに渡すことができるプレゼント\nもし恋 神崎莉央編で使用できる",
+    "howToGet": "もし恋",
+    "type": 9002,
+    "value": 167,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-love-26-0313-story",
+    "name": "もし恋ストーリーPt",
+    "assetId": "love-26-0313-story-pt",
+    "description": "もし恋のストーリーを読むために必要なPt\nもし恋 神崎莉央編で使用できる",
+    "howToGet": "もし恋",
     "type": 9001,
     "value": 1,
     "order": 1000,
@@ -16046,6 +16106,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-26-0226-01",
     "name": "あなたの歌と共に1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-26-0318-01",
+    "name": "もしも君と恋をしたら~神崎莉央編~1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",

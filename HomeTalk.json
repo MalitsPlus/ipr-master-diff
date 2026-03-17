@@ -8541,6 +8541,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-rio-05-casl-02-talk-01",
+    "characterId": "char-rio",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rio-05-casl-02-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rio-05-casl-02",
+    "choiceText": "何があったんですか？",
+    "managerText": "何があったんですか？",
+    "reliability": 5,
+    "title": "もしも職場で恋をしたら",
+    "displayConditionDescription": "もしも職場で恋をしたら 神崎莉央\nストーリー3話を視聴",
+    "order": 506,
+    "releaseDate": "1773802800000",
+    "characterTalks": [
+      {
+        "text": "あの日は早めにスタジオ入りして\nこの衣装に着替えて、カメラの前で\n準備してたんだけど…",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-02_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "カメラアシスタントの子が私を見て\n「もうすぐアイドルが来るから\nそこどいて」って怒ってきたのよ。",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-02_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "仕方ないからスタジオの隅で立って\n待っていたら、気付いたカメラマン\nさんに平謝りされちゃったわ。",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-02_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どうやらアシスタントの子は、私の\nことをどこかの会社の営業の人だと\n勘違いしたみたいで…",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-02_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-001_in"
+      },
+      {
+        "text": "思いがけない形で、この衣装と\n役が似合うと実証されて、\n思わず笑っちゃった。",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-02_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "「営業の女性は綺麗な人が多いから\n間違えても仕方ないわね」って私が\n言ったらみんなも笑ってくれたわ。",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-02_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-rio-05-fest-00-talk-01",
     "characterId": "char-rio",
     "placeType": 1,

@@ -2317,6 +2317,27 @@
     "receiveConditionId": "cd-time-login-26-0227-0312"
   },
   {
+    "id": "login_bonus-campaign-26-0319-01",
+    "name": "もし恋",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0319-01",
+    "topColorCode": "AE5287",
+    "bottomColorCode": "C6A6E9",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;decoration;deco-login-campaign-26-0319-01;1",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-gacha_ticket_piece-r5;10"
+    ],
+    "openConditionId": "cd-time-login-26-0319-0325",
+    "receiveConditionId": "cd-time-login-26-0319-0401"
+  },
+  {
     "id": "login_bonus-campaign02-24-1114-01",
     "name": "もし恋",
     "description": "7日間の特別なログインボーナス",

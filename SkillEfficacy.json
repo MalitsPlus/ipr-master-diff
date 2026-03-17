@@ -1639,6 +1639,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-2-target-all-25",
+    "name": "全員にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "全員に2段階Aスキルスコア上昇効果[25ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-2-target-all-28",
+    "name": "全員にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "全員に2段階Aスキルスコア上昇効果[28ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-2-target-all-31",
+    "name": "全員にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "全員に2段階Aスキルスコア上昇効果[31ビート]",
+    "grade": 2,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-2-target-center-27",
     "name": "センターにAスキルスコア上昇効果",
     "type": 18,
@@ -2061,6 +2094,17 @@
     "name": "全員にAスキルスコア上昇効果",
     "type": 18,
     "description": "全員に3段階Aスキルスコア上昇効果[36ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-3-target-all-37",
+    "name": "全員にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "全員に3段階Aスキルスコア上昇効果[37ビート]",
     "grade": 3,
     "maxGrade": 20,
     "skillTargetId": "target-all",
@@ -56826,6 +56870,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-passive_skill_cool_time_reset-target-vocal-3",
+    "name": "ボーカルタイプ3人のPスキルのCTをリセット",
+    "type": 73,
+    "description": "ボーカルタイプ3人のPスキルのCTをリセット",
+    "skillTargetId": "target-vocal-3",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-passive_skill_impossible-target-opponent_character_type-1-2-31",
     "name": "相手のスコアラータイプ2人のPスキルを封印",
     "type": 74,
@@ -80487,6 +80542,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-skill_success_rate_up-3-target-vocal-3-25",
+    "name": "ボーカルタイプ3人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ボーカルタイプ3人に3段階スキル成功率上昇効果[25ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-vocal-3",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-vocal-3-28",
+    "name": "ボーカルタイプ3人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ボーカルタイプ3人に3段階スキル成功率上昇効果[28ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-vocal-3",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-3-target-vocal-3-31",
+    "name": "ボーカルタイプ3人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ボーカルタイプ3人に3段階スキル成功率上昇効果[31ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-vocal-3",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-skill_success_rate_up-3-target-vocal_higher-1-16",
     "name": "ボーカルが高い1人にスキル成功率上昇効果",
     "type": 37,
@@ -81704,6 +81792,39 @@
     "grade": 4,
     "maxGrade": 10,
     "skillTargetId": "target-vocal-1",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-vocal-3-31",
+    "name": "ボーカルタイプ3人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ボーカルタイプ3人に4段階スキル成功率上昇効果[31ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-vocal-3",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-vocal-3-34",
+    "name": "ボーカルタイプ3人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ボーカルタイプ3人に4段階スキル成功率上昇効果[34ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-vocal-3",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-skill_success_rate_up-4-target-vocal-3-37",
+    "name": "ボーカルタイプ3人にスキル成功率上昇効果",
+    "type": 37,
+    "description": "ボーカルタイプ3人に4段階スキル成功率上昇効果[37ビート]",
+    "grade": 4,
+    "maxGrade": 10,
+    "skillTargetId": "target-vocal-3",
     "limitBreakMaxGrade": 20,
     "shortDescription": ""
   },

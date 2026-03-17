@@ -4841,7 +4841,9 @@
       "cos-rio-buny-99",
       "cos-rio-casl-00",
       "cos-rio-casl-01",
+      "cos-rio-casl-02",
       "cos-rio-chna-01",
+      "cos-rio-date-00",
       "cos-rio-fest-00",
       "cos-rio-fest-01",
       "cos-rio-fest-02",
@@ -4992,6 +4994,15 @@
     "isHomeDanceTarget": true,
     "type": 1,
     "groupName": "LizNoir",
+    "loveInfo": {
+      "name": "神崎莉央",
+      "enName": "RIO KANZAKI",
+      "cv": "神崎莉央",
+      "colorCode": "E04BA1",
+      "description": "星見商事の社員。仕事はやり手だが、クールな見た目と指導の厳しさから社内では『鬼』と呼ばれている。新入社員である主人公の教育係。",
+      "loveId": "love-26-0313",
+      "nameRegex": ""
+    },
     "companyEnjoyStories": [
       {
         "number": 1,
@@ -5046,13 +5057,23 @@
     "homeMainCharacterStayMotionAssetId": "mot_all_chr_rio_idle-001_pose",
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rio_idle-001-start_in",
     "gachaMovieName": "RIO",
+    "loveInfos": [
+      {
+        "name": "神崎莉央",
+        "enName": "RIO KANZAKI",
+        "cv": "神崎莉央",
+        "colorCode": "E04BA1",
+        "description": "星見商事の社員。仕事はやり手だが、クールな見た目と指導の厳しさから社内では『鬼』と呼ばれている。新入社員である主人公の教育係。",
+        "loveId": "love-26-0313",
+        "nameRegex": ""
+      }
+    ],
     "talkArrivalAdditionMotionAssetId": "",
     "viewConditionId": "",
     "isLeftHanded": false,
     "unlockConditionId": "",
     "homeMainCharacterStayAdditionMotionAssetId": "",
-    "homeMainCharacterStayPropAssetId": "",
-    "loveInfos": []
+    "homeMainCharacterStayPropAssetId": ""
   },
   {
     "id": "char-rui",
@@ -5227,12 +5248,12 @@
     "type": 1,
     "groupName": "TRINITYAiLE",
     "loveInfo": {
-      "name": "ルイ",
-      "enName": "RUI",
+      "name": "天動瑠依",
+      "enName": "RUI TENDOU",
       "cv": "天動瑠依",
       "colorCode": "D0C6A5",
-      "description": "魔界からやってきた、強大な力を持つサキュバス。傲慢で人間を見下しているように見えるが、真面目で友達思いの一面も。",
-      "loveId": "love-extra-25-0426",
+      "loveId": "love-26-0313",
+      "description": "",
       "nameRegex": ""
     },
     "companyEnjoyStories": [
@@ -5290,6 +5311,15 @@
     "homeMainCharacterStayStartMotionAssetId": "mot_adv_chr_rui_idle-001-start_in",
     "gachaMovieName": "RUI",
     "loveInfos": [
+      {
+        "name": "天動瑠依",
+        "enName": "RUI TENDOU",
+        "cv": "天動瑠依",
+        "colorCode": "D0C6A5",
+        "loveId": "love-26-0313",
+        "description": "",
+        "nameRegex": ""
+      },
       {
         "name": "ルイ",
         "enName": "RUI",

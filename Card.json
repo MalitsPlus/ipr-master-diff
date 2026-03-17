@@ -12378,6 +12378,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-rio-05-casl-02",
+    "assetId": "rio-05-casl-02",
+    "name": "もしも職場で恋をしたら",
+    "description": "貴方も覚悟してプレイすることね\r\n私にプロポーズしたくなっても知らないわよ",
+    "type": 3,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 378,
+    "danceRatioPermil": 325,
+    "visualRatioPermil": 297,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-casl-02-1",
+    "skillId2": "sk-rio-05-casl-02-2",
+    "skillId3": "sk-rio-05-casl-02-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 556,
+    "releaseDate": "1773802800000",
+    "rewardCostumeId": "cos-rio-casl-02",
+    "obtainMessage": "ふふ、『愛おしいと思う瞬間』ね……",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-casl-02-01"
+      },
+      {
+        "storyId": "st-card-rio-05-casl-02-02"
+      },
+      {
+        "storyId": "st-card-rio-05-casl-02-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rio-05-casl-02",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rio-05-casl-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rio-05-fest-00",
     "assetId": "rio-05-fest-00",
     "name": "奇跡より必然",
