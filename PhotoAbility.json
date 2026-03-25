@@ -3958,6 +3958,120 @@
     "conditionLiveType": 0
   },
   {
+    "id": "pab-affect_strength_effect_count_increase-active_score_multiplier_add_recipe_distribution-5",
+    "name": "与・Aスコア追加効果延長",
+    "description": "付与するAスキルスコア追加効果を{0}延長します",
+    "abilityType": 30,
+    "photoAbilityLevels": [
+      {
+        "level": 140,
+        "value": 10
+      },
+      {
+        "level": 145,
+        "value": 10
+      },
+      {
+        "level": 150,
+        "value": 10
+      },
+      {
+        "level": 155,
+        "value": 10
+      },
+      {
+        "level": 160,
+        "value": 10
+      },
+      {
+        "level": 165,
+        "value": 10
+      },
+      {
+        "level": 170,
+        "value": 10
+      },
+      {
+        "level": 175,
+        "value": 10
+      },
+      {
+        "level": 180,
+        "value": 10
+      },
+      {
+        "level": 185,
+        "value": 10
+      },
+      {
+        "level": 190,
+        "value": 10
+      },
+      {
+        "level": 195,
+        "value": 10
+      },
+      {
+        "level": 200,
+        "value": 10
+      },
+      {
+        "level": 205,
+        "value": 10
+      },
+      {
+        "level": 210,
+        "value": 10
+      },
+      {
+        "level": 215,
+        "value": 10
+      },
+      {
+        "level": 220,
+        "value": 10
+      },
+      {
+        "level": 225,
+        "value": 10
+      },
+      {
+        "level": 230,
+        "value": 10
+      },
+      {
+        "level": 235,
+        "value": 10
+      },
+      {
+        "level": 240,
+        "value": 10
+      },
+      {
+        "level": 245,
+        "value": 10
+      },
+      {
+        "level": 250,
+        "value": 10
+      }
+    ],
+    "photoAbilityGrades": [
+      {
+        "grade": 1,
+        "bonusPermil": 1000,
+        "type": 3,
+        "bonusValue": 0
+      }
+    ],
+    "statusEffectType": 22,
+    "moodType": 0,
+    "skillId": "",
+    "abilityTargetId": "",
+    "conditionCardType": 0,
+    "conditionLiveType": 0
+  },
+  {
     "id": "pab-affect_strength_effect_count_increase-active_skill_score_up_recipe_distribution-5",
     "name": "与・Aスコア延長",
     "description": "付与するAスキルスコア上昇効果を{0}延長します",

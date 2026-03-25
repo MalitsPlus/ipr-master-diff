@@ -2338,6 +2338,27 @@
     "receiveConditionId": "cd-time-login-26-0319-0401"
   },
   {
+    "id": "login_bonus-campaign-26-0328-01",
+    "name": "フェス開催記念",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0328-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-act_promotion_shorten;3",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login-26-0328-0403",
+    "receiveConditionId": "cd-time-login-26-0328-0410"
+  },
+  {
     "id": "login_bonus-campaign02-24-1114-01",
     "name": "もし恋",
     "description": "7日間の特別なログインボーナス",

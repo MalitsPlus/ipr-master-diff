@@ -1700,6 +1700,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-aoi-05-wdnc-00",
+    "assetId": "aoi-05-wdnc-00",
+    "name": "Break Out, Midnight!",
+    "description": "僕、ばぁばみたいに、ファンを強く思いやれる\nアイドルに、大人に……なるよ",
+    "type": 2,
+    "characterId": "char-aoi",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 408,
+    "danceRatioPermil": 315,
+    "visualRatioPermil": 277,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-05-wdnc-00-1",
+    "skillId2": "sk-aoi-05-wdnc-00-2",
+    "skillId3": "sk-aoi-05-wdnc-00-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 558,
+    "releaseDate": "1774580400000",
+    "rewardCostumeId": "cos-aoi-wdnc-00",
+    "obtainMessage": "熱烈な声に、\n僕は燃えてきたよ",
+    "stories": [
+      {
+        "storyId": "st-card-aoi-05-wdnc-00-01"
+      },
+      {
+        "storyId": "st-card-aoi-05-wdnc-00-02"
+      },
+      {
+        "storyId": "st-card-aoi-05-wdnc-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-aoi-05-wdnc-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-aoi-05-wdnc-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-aoi-05-wedd-00",
     "assetId": "aoi-05-wedd-00",
     "name": "リングに誓う永遠",
@@ -8159,6 +8210,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-mei-05-wdnc-00",
+    "assetId": "mei-05-wdnc-00",
+    "name": "Underground Queen",
+    "description": "メイメイ達のパフォーマンスで、もっと元気になって\n一緒にすっごーいライブバトルにしようね！",
+    "type": 1,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 431,
+    "danceRatioPermil": 320,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-wdnc-00-1",
+    "skillId2": "sk-mei-05-wdnc-00-2",
+    "skillId3": "sk-mei-05-wdnc-00-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 559,
+    "releaseDate": "1774580400000",
+    "rewardCostumeId": "cos-mei-wdnc-00",
+    "obtainMessage": "ばりばり～～～～！\nどっかーーーーん",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-wdnc-00-01"
+      },
+      {
+        "storyId": "st-card-mei-05-wdnc-00-02"
+      },
+      {
+        "storyId": "st-card-mei-05-wdnc-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-wdnc-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-wdnc-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mei-05-wedd-00",
     "assetId": "mei-05-wedd-00",
     "name": "パールホワイトの想い出",
@@ -11926,6 +12028,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-rei-05-wdnc-00",
+    "assetId": "rei-05-wdnc-00",
+    "name": "Calling My NAME!",
+    "description": "ここにいる全員で、最高のステージを作りましょう！\nさあ、ぶち上げていくわよー！！",
+    "type": 3,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 330,
+    "danceRatioPermil": 289,
+    "visualRatioPermil": 411,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-wdnc-00-1",
+    "skillId2": "sk-rei-05-wdnc-00-2",
+    "skillId3": "sk-rei-05-wdnc-00-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 557,
+    "releaseDate": "1774580400000",
+    "rewardCostumeId": "cos-rei-wdnc-00",
+    "obtainMessage": "さあ、ぶち上げて\nいくわよー！！",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-wdnc-00-01"
+      },
+      {
+        "storyId": "st-card-rei-05-wdnc-00-02"
+      },
+      {
+        "storyId": "st-card-rei-05-wdnc-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-wdnc-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-wdnc-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-05-wedd-00",
     "assetId": "rei-05-wedd-00",
     "name": "花香る二人の未来",
@@ -14240,6 +14393,38 @@
     "skillId3": "sk-ski-02-eve-01-3",
     "order": 454,
     "releaseDate": "1740452400000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-ski-02-eve-02",
+    "assetId": "ski-02-eve-02",
+    "name": "潜入！アイドル地下闘技場",
+    "description": "三人とも、こんな時間にどこへ行くんでしょうか\n地下闘技場と言っていたような……怪しいですね",
+    "type": 3,
+    "characterId": "char-ski",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 297,
+    "danceRatioPermil": 377,
+    "visualRatioPermil": 326,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-02-eve-02-1",
+    "skillId2": "sk-ski-02-eve-02-2",
+    "skillId3": "sk-ski-02-eve-02-3",
+    "order": 560,
+    "releaseDate": "1774580400000",
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
