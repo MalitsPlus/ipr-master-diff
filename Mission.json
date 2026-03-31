@@ -15888,6 +15888,160 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "event-ms-april-26-0401-00-fish_heaven_score_achievement",
+    "categoryType": 3,
+    "missionType": 92,
+    "targetIds": [
+      "fishheaven-26-0401"
+    ],
+    "name": "ぎょぎょ！雫のミラクル魚群伝でスコア{threshold}獲得",
+    "shortDescription": "ぎょぎょ！雫のミラクル魚群伝でスコア{threshold}獲得する",
+    "longDescription": "ぎょぎょ！雫のミラクル魚群伝でスコア{threshold}獲得する",
+    "order": 6,
+    "progresses": [
+      {
+        "threshold": "50",
+        "rewardSetId": "rd-event-ms-april-26-0401-00-fish_heaven_score_achievement-50"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd-event-ms-april-26-0401-00-fish_heaven_score_achievement-100"
+      }
+    ],
+    "eventMissionId": "event_april-mission-26-0401",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-april-26-0401-01-condition_clear",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-story-read-st-eve-2604-april-001"
+    ],
+    "name": "イベントストーリーを視聴する",
+    "shortDescription": "イベントストーリーを視聴",
+    "longDescription": "イベントストーリーを視聴しましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-april-26-0401-01-condition_clear-1"
+      }
+    ],
+    "eventMissionId": "event_april-mission-26-0401",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-april-26-0401-02-condition_clear",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-story-read-st-eve-2604-april-002"
+    ],
+    "name": "イベントストーリーを視聴する",
+    "shortDescription": "イベントストーリーを視聴",
+    "longDescription": "イベントストーリーを視聴しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-april-26-0401-02-condition_clear-1"
+      }
+    ],
+    "eventMissionId": "event_april-mission-26-0401",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-april-26-0401-03-condition_clear",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-story-read-st-eve-2604-april-003"
+    ],
+    "name": "イベントストーリーを視聴する",
+    "shortDescription": "イベントストーリーを視聴",
+    "longDescription": "イベントストーリーを視聴しましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-april-26-0401-03-condition_clear-1"
+      }
+    ],
+    "eventMissionId": "event_april-mission-26-0401",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-april-26-0401-04-condition_clear",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-story-read-st-eve-2604-april-004"
+    ],
+    "name": "イベントストーリーを視聴する",
+    "shortDescription": "イベントストーリーを視聴",
+    "longDescription": "イベントストーリーを視聴しましょう。",
+    "order": 4,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-april-26-0401-04-condition_clear-1"
+      }
+    ],
+    "eventMissionId": "event_april-mission-26-0401",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-april-26-0401-05-condition_clear",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-story-read-st-eve-2604-april-005"
+    ],
+    "name": "イベントストーリーを全て視聴する",
+    "shortDescription": "イベントストーリーを全て視聴",
+    "longDescription": "イベントストーリーを全て視聴しましょう。",
+    "order": 5,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-april-26-0401-05-condition_clear-1"
+      }
+    ],
+    "eventMissionId": "event_april-mission-26-0401",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "event-ms-bunny-24-0409-00-card_skill_level_up_count",
     "categoryType": 3,
     "missionType": 14,

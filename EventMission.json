@@ -4115,6 +4115,23 @@
     "unlockConditionId": ""
   },
   {
+    "id": "event_april-mission-26-0401",
+    "eventMissionType": 2,
+    "assetId": "img_banner_l_event-april-mission-26-0401",
+    "name": "おさかな☆HEAVEN開催ミッション",
+    "order": 4,
+    "viewConditionId": "cd-time-event-ms-april-26-0401-0407",
+    "unlockConditionId": "cd-time-event-ms-april-26-0401-0407-area",
+    "missionIds": [
+      "event-ms-april-26-0401-00-fish_heaven_score_achievement",
+      "event-ms-april-26-0401-01-condition_clear",
+      "event-ms-april-26-0401-02-condition_clear",
+      "event-ms-april-26-0401-03-condition_clear",
+      "event-ms-april-26-0401-04-condition_clear",
+      "event-ms-april-26-0401-05-condition_clear"
+    ]
+  },
+  {
     "id": "event_bunny-mission-24-0409",
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-bunny-mission-24-0409",
@@ -4505,7 +4522,7 @@
     "eventMissionType": 2,
     "assetId": "img_banner_l_event-fes-mission-26-0329",
     "name": "アイプラフェス開催記念ミッション",
-    "order": 3,
+    "order": 21,
     "viewConditionId": "cd-time-event-ms-fes-26-0329-0405",
     "missionIds": [
       "event-ms-fes-26-0329-00-character_quest_all_clear_count",

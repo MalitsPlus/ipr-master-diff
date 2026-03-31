@@ -252,6 +252,48 @@
     "lookEffectAssetId": "lok_pose_common-00_00"
   },
   {
+    "stageId": "photo_studio-05-000-noon",
+    "number": 1,
+    "name": "地点A",
+    "possiblePhotoPoseType": 1,
+    "initialPhotoPoseId": "photo-pose-standing-default",
+    "characterPositions": [
+      0.0,
+      0.0134,
+      -2.453
+    ],
+    "characterAngles": [
+      0.0,
+      -12.972,
+      0.0
+    ],
+    "cameraPositions": [
+      -0.006,
+      1.136,
+      0.336
+    ],
+    "cameraAngles": [
+      6.708,
+      180.0,
+      0.0
+    ],
+    "upperLimit": 2.0,
+    "lowerLimit": 0.2,
+    "previewCameraPositions": [
+      0.0,
+      1.406,
+      -0.333
+    ],
+    "previewCameraAngles": [
+      7.02,
+      180.0,
+      0.0
+    ],
+    "previewUpperLimit": 2.0,
+    "previewLowerLimit": 0.2,
+    "lookEffectAssetId": "lok_pose_common-00_00"
+  },
+  {
     "stageId": "stage-photo-bedrock-00",
     "number": 1,
     "name": "地点A",
