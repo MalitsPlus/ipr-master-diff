@@ -1444,6 +1444,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-skr-26-0403",
+    "name": "川咲さくら 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はさくらの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "等身大、魚魚っとさん像",
+        "advAssetId": "hbd_06_skr_01"
+      },
+      {
+        "index": 2,
+        "text": "キリ美ちゃんのぬいぐるみ",
+        "advAssetId": "hbd_06_skr_02"
+      },
+      {
+        "index": 3,
+        "text": "トゲのついた肩当て",
+        "advAssetId": "hbd_06_skr_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-smr-24-0505",
     "name": "奥山すみれ 誕生日2024",
     "advPlayTypes": [
@@ -15610,6 +15642,60 @@
     ],
     "advAssetIds": [
       "card_skr_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-birt-02-01",
+    "name": "ナイス\nセレブ\nリティ！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-birt-02-02",
+    "name": "特大\nバースデー\nグミ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-birt-02-03",
+    "name": "私の心も\nピカピカ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_53_03"
     ],
     "sectionName": "",
     "description": "",

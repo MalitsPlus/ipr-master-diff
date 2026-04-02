@@ -5553,6 +5553,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_skr-05",
+    "name": "【誕生日】川咲さくら",
+    "assetId": "birthday_skr-05",
+    "autoProvideConditionId": "cd-birthday_emblem_skr-26-0403",
+    "order": 605060,
+    "description": "さくらの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_smr-02",
     "name": "【誕生日】奥山すみれ",
     "assetId": "birthday_smr-02",
@@ -10013,6 +10022,33 @@
     "assetId": "pvp-season-163-top100",
     "order": 316330,
     "description": "VENUSバトルシーズン163で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-164-top001",
+    "name": "VENUSシーズン164 No.1",
+    "assetId": "pvp-season-164-top001",
+    "order": 316410,
+    "description": "VENUSバトルシーズン164で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-164-top010",
+    "name": "VENUSシーズン164 TOP10",
+    "assetId": "pvp-season-164-top010",
+    "order": 316420,
+    "description": "VENUSバトルシーズン164で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-164-top100",
+    "name": "VENUSシーズン164 TOP100",
+    "assetId": "pvp-season-164-top100",
+    "order": 316430,
+    "description": "VENUSバトルシーズン164で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
