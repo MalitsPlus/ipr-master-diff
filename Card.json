@@ -16878,6 +16878,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-smr-05-jwel-00",
+    "assetId": "smr-05-jwel-00",
+    "name": "挑戦のエメラルド",
+    "description": "ふーん。人間って不便そうだね\n飛べないから、いつも走ってないといけないなんて",
+    "type": 3,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 411,
+    "danceRatioPermil": 330,
+    "visualRatioPermil": 289,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-jwel-00-1",
+    "skillId2": "sk-smr-05-jwel-00-2",
+    "skillId3": "sk-smr-05-jwel-00-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 568,
+    "releaseDate": "1775530800000",
+    "rewardCostumeId": "cos-smr-jwel-00",
+    "obtainMessage": "一度出来たんだから、\n次もきっと大丈夫",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-jwel-00-01"
+      },
+      {
+        "storyId": "st-card-smr-05-jwel-00-02"
+      },
+      {
+        "storyId": "st-card-smr-05-jwel-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-jwel-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-jwel-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-smr-05-magi-00",
     "assetId": "smr-05-magi-00",
     "name": "願い羽ばたく魔法のエール",
@@ -19982,6 +20033,57 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-yu-05-jwel-00",
+    "assetId": "yu-05-jwel-00",
+    "name": "笑顔輝くアメジスト",
+    "description": "ふふ、今回はミュージカルやから、演技は当然\n歌もダンスもライブ感も、全部大事にしたいんです",
+    "type": 1,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 434,
+    "visualRatioPermil": 316,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-jwel-00-1",
+    "skillId2": "sk-yu-05-jwel-00-2",
+    "skillId3": "sk-yu-05-jwel-00-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 567,
+    "releaseDate": "1775530800000",
+    "rewardCostumeId": "cos-yu-jwel-00",
+    "obtainMessage": "お姫様の役に、\nすみれちゃんと一緒に挑戦します",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-jwel-00-01"
+      },
+      {
+        "storyId": "st-card-yu-05-jwel-00-02"
+      },
+      {
+        "storyId": "st-card-yu-05-jwel-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-jwel-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-jwel-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",

@@ -4368,6 +4368,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-26-0410",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -5860,6 +5872,18 @@
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「あなたの歌と共にピックアップガチャ」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-26-0407",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「Jewel Symphonyピックアップガチャ」など",
     "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
@@ -7944,6 +7968,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-lm-set-bloom-26-0407",
+    "name": "Jewel SymphonyピックアップガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pick-set-bloom-21-1112",
     "name": "福招く獅子舞娘ガチャPt",
     "assetId": "gacha-point",
@@ -8834,6 +8870,18 @@
   {
     "id": "item-gacha_point-pick-set-bloom-26-0318",
     "name": "もしも君と恋をしたら~神崎莉央編~ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-pick-set-bloom-26-0407",
+    "name": "【復刻】もし恋~鈴村優編~ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -16322,6 +16370,18 @@
   {
     "id": "item-shop-gacha-ticket-10-r5-26-0327-01",
     "name": "アイプラフェス1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-26-0407-01",
+    "name": "Jewel Symphony1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
