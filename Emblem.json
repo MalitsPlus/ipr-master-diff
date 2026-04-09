@@ -5238,6 +5238,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_kan-04",
+    "name": "【誕生日】kana",
+    "assetId": "birthday_kan-06",
+    "autoProvideConditionId": "cd-birthday_emblem_kan-26-0410",
+    "order": 605190,
+    "description": "kanaの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_kkr-03",
     "name": "【誕生日】赤崎こころ",
     "assetId": "birthday_kkr-03",
@@ -6908,6 +6917,24 @@
     "assetId": "gvg-season-057-top010",
     "order": 405720,
     "description": "ユニオンライブシーズン57 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-058-top001",
+    "name": "ユニオンシーズン58 No.1",
+    "assetId": "gvg-season-058-top001",
+    "order": 405810,
+    "description": "ユニオンライブシーズン58 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-058-top010",
+    "name": "ユニオンシーズン58 TOP10",
+    "assetId": "gvg-season-058-top010",
+    "order": 405820,
+    "description": "ユニオンライブシーズン58 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -10049,6 +10076,33 @@
     "assetId": "pvp-season-164-top100",
     "order": 316430,
     "description": "VENUSバトルシーズン164で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-165-top001",
+    "name": "VENUSシーズン165 No.1",
+    "assetId": "pvp-season-165-top001",
+    "order": 316510,
+    "description": "VENUSバトルシーズン165で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-165-top010",
+    "name": "VENUSシーズン165 TOP10",
+    "assetId": "pvp-season-165-top010",
+    "order": 316520,
+    "description": "VENUSバトルシーズン165で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-165-top100",
+    "name": "VENUSシーズン165 TOP100",
+    "assetId": "pvp-season-165-top100",
+    "order": 316530,
+    "description": "VENUSバトルシーズン165で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

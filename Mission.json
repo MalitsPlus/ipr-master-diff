@@ -7180,6 +7180,202 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "event-dream-26-04-dream_area_generate_count",
+    "categoryType": 3,
+    "missionType": 1601,
+    "targetIds": [
+      "dream-26-04"
+    ],
+    "name": "今回のイベントで{threshold}回生成",
+    "shortDescription": "今回のイベントで{threshold}回生成",
+    "longDescription": "今回のイベントで{threshold}回生成",
+    "order": 1,
+    "viewConditionId": "cd-time-dream-26-04",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;stone;;100"
+      }
+    ],
+    "eventMissionId": "event-dream-26-04",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-dream-26-04-dream_quest_clear_count",
+    "categoryType": 3,
+    "missionType": 1603,
+    "targetIds": [
+      "dream-26-04"
+    ],
+    "name": "今回のイベントで{threshold}回ライブクリア",
+    "shortDescription": "今回のイベントで{threshold}回ライブクリア",
+    "longDescription": "今回のイベントで{threshold}回ライブクリア",
+    "order": 2,
+    "viewConditionId": "cd-time-dream-26-04",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dream-generate-dream-25-0320;1"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-dream-generate-dream-25-0320;1"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-dream-generate-dream-25-0320;1"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "35",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "45",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-photo_ink-basic-03;1"
+      }
+    ],
+    "eventMissionId": "event-dream-26-04",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-dream-26-04-dream_quest_clear_difficulty_level_achievement",
+    "categoryType": 3,
+    "missionType": 1606,
+    "targetIds": [
+      "dream-26-04"
+    ],
+    "name": "今回のイベントで難易度Lv{threshold}以上をクリア",
+    "shortDescription": "今回のイベントで難易度Lv{threshold}以上をクリア",
+    "longDescription": "今回のイベントで難易度Lv{threshold}以上をクリア",
+    "order": 3,
+    "viewConditionId": "cd-time-dream-26-04",
+    "progresses": [
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "60",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;200"
+      },
+      {
+        "threshold": "80",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;stone;;100"
+      },
+      {
+        "threshold": "120",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;300"
+      },
+      {
+        "threshold": "140",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;400"
+      },
+      {
+        "threshold": "160",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;400"
+      },
+      {
+        "threshold": "180",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;450"
+      },
+      {
+        "threshold": "200",
+        "rewardSetId": "rd_auto;stone;;100"
+      },
+      {
+        "threshold": "210",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;450"
+      },
+      {
+        "threshold": "220",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;500"
+      },
+      {
+        "threshold": "230",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;500"
+      },
+      {
+        "threshold": "240",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;500"
+      },
+      {
+        "threshold": "250",
+        "rewardSetId": "rd_auto;item;item-mini-tour_medal-tour-21-0721;500"
+      }
+    ],
+    "eventMissionId": "event-dream-26-04",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-dream-26-04-dream_season_dream_max_grade_a",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-dream-26-04-season-max-grade-a"
+    ],
+    "name": "今回のイベントでGRADE A以上のステージを生成",
+    "shortDescription": "今回のイベントでGRADE A以上のステージを生成",
+    "longDescription": "今回のイベントでGRADE A以上のステージを生成",
+    "order": 4,
+    "viewConditionId": "cd-time-dream-26-04",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-dream-generate-dream-25-0320;1"
+      }
+    ],
+    "eventMissionId": "event-dream-26-04",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "event-love-23-0514-limited-mission_love-end_costume-sp",
     "categoryType": 3,
     "missionType": 4,
@@ -73195,6 +73391,262 @@
     "eventMissionId": "event_spr-mission-23-0313",
     "targetIds": [],
     "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0411-00-character_quest_all_clear_count",
+    "categoryType": 3,
+    "missionType": 66,
+    "targetIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "name": "TRINITYAiLEのメンバーでライブを合計{threshold}回クリア",
+    "shortDescription": "TRINITYAiLEのメンバーでライブを合計{threshold}回クリア",
+    "longDescription": "TRINITYAiLEのメンバーで\nライブを合計{threshold}回クリアしましょう。",
+    "order": 4,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-character_quest_all_clear_count-10"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-character_quest_all_clear_count-15"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-character_quest_all_clear_count-20"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0411",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0411-00-character_start_activity_fan_event_count",
+    "categoryType": 3,
+    "missionType": 69,
+    "targetIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "name": "TRINITYAiLEのメンバーでファンイベント{threshold}回実施",
+    "shortDescription": "TRINITYAiLEのメンバーでファンイベント{threshold}回実施",
+    "longDescription": "TRINITYAiLEのメンバーで\nファンイベント{threshold}回実施しましょう。",
+    "order": 8,
+    "linkType": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-character_start_activity_fan_event_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-character_start_activity_fan_event_count-3"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0411",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0411-00-character_start_activity_promotion_count",
+    "categoryType": 3,
+    "missionType": 70,
+    "targetIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "name": "TRINITYAiLEのメンバーでプロモーション{threshold}回実施",
+    "shortDescription": "TRINITYAiLEのメンバーでプロモーション{threshold}回実施",
+    "longDescription": "TRINITYAiLEのメンバーで\nプロモーション{threshold}回実施しましょう。",
+    "order": 6,
+    "linkType": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-character_start_activity_promotion_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-character_start_activity_promotion_count-3"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0411",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0411-00-character_start_activity_refreshment_count",
+    "categoryType": 3,
+    "missionType": 71,
+    "targetIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "name": "TRINITYAiLEのメンバーでリフレッシュ{threshold}回実施",
+    "shortDescription": "TRINITYAiLEのメンバーでリフレッシュ{threshold}回実施",
+    "longDescription": "TRINITYAiLEのメンバーで\nリフレッシュ{threshold}回実施しましょう。",
+    "order": 7,
+    "linkType": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-character_start_activity_refreshment_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-character_start_activity_refreshment_count-3"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0411",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0411-00-company_character_use_obtain_enjoy_point_item_count",
+    "categoryType": 3,
+    "missionType": 2301,
+    "targetIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "name": "TRINITYAiLEのメンバーに{threshold}回プレゼント",
+    "shortDescription": "TRINITYAiLEのメンバーに{threshold}回プレゼント",
+    "longDescription": "TRINITYAiLEのメンバーに\n{threshold}回プレゼントしましょう。",
+    "order": 5,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-company_character_use_obtain_enjoy_point_item_count-3"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-company_character_use_obtain_enjoy_point_item_count-5"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0411",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0411-00-login_count",
+    "categoryType": 3,
+    "missionType": 1,
+    "name": "ログイン{threshold}回",
+    "shortDescription": "ログイン{threshold}回",
+    "longDescription": "ログインを{threshold}回しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-login_count-2"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-login_count-3"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-login_count-4"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0411",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0411-00-photo_expression_shooting_specified_character_shoot_count",
+    "categoryType": 3,
+    "missionType": 88,
+    "targetIds": [
+      "char-rui",
+      "char-yu",
+      "char-smr"
+    ],
+    "name": "TRINITYAiLEのメンバーでポーズ撮影を合計{threshold}回撮影",
+    "shortDescription": "TRINITYAiLEのメンバーでポーズ撮影を合計{threshold}回撮影",
+    "longDescription": "TRINITYAiLEのメンバーで\nポーズ撮影を合計{threshold}回撮影しましょう。",
+    "order": 3,
+    "linkType": 39,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-photo_expression_shooting_specified_character_shoot_count-3"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-photo_expression_shooting_specified_character_shoot_count-6"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd-event-ms-spr-26-0411-00-photo_expression_shooting_specified_character_shoot_count-9"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0411",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0411-01-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-spr-26-0411-00-login_count",
+      "event-ms-spr-26-0411-00-photo_expression_shooting_specified_character_shoot_count",
+      "event-ms-spr-26-0411-00-character_quest_all_clear_count",
+      "event-ms-spr-26-0411-00-company_character_use_obtain_enjoy_point_item_count",
+      "event-ms-spr-26-0411-00-character_start_activity_promotion_count",
+      "event-ms-spr-26-0411-00-character_start_activity_refreshment_count",
+      "event-ms-spr-26-0411-00-character_start_activity_fan_event_count"
+    ],
+    "name": "イベントミッションを{threshold}個クリア",
+    "shortDescription": "イベントミッションを{threshold}個クリア",
+    "longDescription": "イベントミッションを{threshold}個クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-spr-26-0411-01-mission_clear_count-15"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0411",
+    "viewConditionId": "",
+    "linkType": 0,
     "linkDetail": "",
     "companyEnjoyCharacterId": "",
     "companyEnjoyCharacterMissionCategoryType": 0,

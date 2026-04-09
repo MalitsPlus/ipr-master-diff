@@ -40,6 +40,27 @@
     "receiveConditionId": "cd-time-login-25-1127-1208"
   },
   {
+    "id": "info-news-login-26-0410-01",
+    "name": "スプリング",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0410-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-enjoy-present-general-02-01;2",
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-act_promotion_shorten;5",
+      "rd_auto;item;item-daily_quest_ticket_01;3"
+    ],
+    "openConditionId": "cd-time-login-26-0410-0416",
+    "receiveConditionId": "cd-time-login-26-0410-0423"
+  },
+  {
     "id": "login_bonus-campaign-21-0624-01",
     "name": "スタートダッシュ 第一弾",
     "description": "3日間の特別なログインボーナス",

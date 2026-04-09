@@ -57509,6 +57509,492 @@
     "assetId": ""
   },
   {
+    "id": "sk-kan-05-birt-02-1",
+    "name": "巨大珍魚を一本釣り",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "410%のスコア獲得\nセンターに7段階クリティカル係数上昇効果[26ビート]\nスコアラータイプ2人にAスキルスコア上昇超化効果[26ビート]\nスタミナ133消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ133消費 CT:50",
+        "stamina": 133,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-7-target-center-26",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-26",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "430%のスコア獲得\nセンターに7段階クリティカル係数上昇効果[31ビート]\nスコアラータイプ2人にAスキルスコア上昇超化効果[31ビート]\nスタミナ142消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ142消費 CT:50",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 142,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-7-target-center-31",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-31",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "450%のスコア獲得\nセンターに7段階クリティカル係数上昇効果[36ビート]\nスコアラータイプ2人にAスキルスコア上昇超化効果[36ビート]\nスタミナ151消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ151消費 CT:50",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 151,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-7-target-center-36",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-36",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "480%のスコア獲得\nセンターに8段階クリティカル係数上昇効果[36ビート]\nスコアラータイプ2人にAスキルスコア上昇超化効果[36ビート]\nスタミナ162消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ162消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 162,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-8-target-center-36",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-36",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "510%のスコア獲得\nセンターに8段階クリティカル係数上昇効果[41ビート]\nスコアラータイプ2人にAスキルスコア上昇超化効果[41ビート]\nスタミナ174消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ174消費 CT:50",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 174,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-8-target-center-41",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-41",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "540%のスコア獲得\nセンターに8段階クリティカル係数上昇効果[47ビート]\nスコアラータイプ2人にAスキルスコア上昇超化効果[47ビート]\nスタミナ187消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ187消費 CT:50",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 187,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-5400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-critical_bonus_permil_up-8-target-center-47",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-47",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-kan-05-birt-02-2",
+    "name": "kanaすず出没",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "センターの獲得スコアの10%のスコア獲得\n80コンボ以上時 ダンスタイプ2人のPスキルのCTをリセット\n80コンボ以上時 スコアラータイプ2人に7段階スコア上昇効果[20ビート]\nスタミナ143消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ143消費 CT:50",
+        "stamina": 143,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_score_ratio-100-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-passive_skill_cool_time_reset-target-dance-2",
+            "triggerId": "tg-combo-80"
+          },
+          {
+            "efficacyId": "ef-score_up-7-target-character_type-1-2-20",
+            "triggerId": "tg-combo-80"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "センターの獲得スコアの11%のスコア獲得\n80コンボ以上時 ダンスタイプ2人のPスキルのCTをリセット\n80コンボ以上時 スコアラータイプ2人に7段階スコア上昇効果[30ビート]\nスタミナ159消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ159消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 159,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_score_ratio-110-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-passive_skill_cool_time_reset-target-dance-2",
+            "triggerId": "tg-combo-80"
+          },
+          {
+            "efficacyId": "ef-score_up-7-target-character_type-1-2-30",
+            "triggerId": "tg-combo-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "センターの獲得スコアの11%のスコア獲得\n80コンボ以上時 ダンスタイプ2人のPスキルのCTをリセット\n80コンボ以上時 スコアラータイプ2人に8段階スコア上昇効果[30ビート]\nスタミナ161消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ161消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 161,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_score_ratio-110-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-passive_skill_cool_time_reset-target-dance-2",
+            "triggerId": "tg-combo-80"
+          },
+          {
+            "efficacyId": "ef-score_up-8-target-character_type-1-2-30",
+            "triggerId": "tg-combo-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "センターの獲得スコアの12%のスコア獲得\n80コンボ以上時 ダンスタイプ2人のPスキルのCTをリセット\n80コンボ以上時 スコアラータイプ2人に8段階スコア上昇効果[45ビート]\nスタミナ180消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ180消費 CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 180,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_score_ratio-120-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-passive_skill_cool_time_reset-target-dance-2",
+            "triggerId": "tg-combo-80"
+          },
+          {
+            "efficacyId": "ef-score_up-8-target-character_type-1-2-45",
+            "triggerId": "tg-combo-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "センターの獲得スコアの12%のスコア獲得\n80コンボ以上時 ダンスタイプ2人のPスキルのCTをリセット\n80コンボ以上時 スコアラータイプ2人に9段階スコア上昇効果[45ビート]\nスタミナ184消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ184消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 184,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_score_ratio-120-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-passive_skill_cool_time_reset-target-dance-2",
+            "triggerId": "tg-combo-80"
+          },
+          {
+            "efficacyId": "ef-score_up-9-target-character_type-1-2-45",
+            "triggerId": "tg-combo-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "センターの獲得スコアの13%のスコア獲得\n80コンボ以上時 ダンスタイプ2人のPスキルのCTをリセット\n80コンボ以上時 スコアラータイプ2人に9段階スコア上昇効果[60ビート]\nスタミナ204消費 CT:50",
+        "shortDescription": "\n \n \nスタミナ204消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 204,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_score_ratio-130-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-passive_skill_cool_time_reset-target-dance-2",
+            "triggerId": "tg-combo-80"
+          },
+          {
+            "efficacyId": "ef-score_up-9-target-character_type-1-2-60",
+            "triggerId": "tg-combo-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-kan-05-birt-02-3",
+    "name": "遙子のギャグを見たいファン？",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身に8段階のステルス効果[25ビート]\nスコアラータイプ2人に6段階Aスキルスコア上昇効果[25ビート]\nスタミナ141消費 CT:50",
+        "shortDescription": "\n\nスタミナ141消費 CT:50",
+        "stamina": 141,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_reduction-8-target-self-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-6-target-character_type-1-2-25",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身に8段階のステルス効果[29ビート]\nスコアラータイプ2人に6段階Aスキルスコア上昇効果[29ビート]\nスタミナ164消費 CT:50",
+        "shortDescription": "\n\nスタミナ164消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 164,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_reduction-8-target-self-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-6-target-character_type-1-2-29",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身に8段階のステルス効果[33ビート]\nスコアラータイプ2人に6段階Aスキルスコア上昇効果[33ビート]\nスタミナ187消費 CT:50",
+        "shortDescription": "\n\nスタミナ187消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 187,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_reduction-8-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-6-target-character_type-1-2-33",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身に9段階のステルス効果[33ビート]\nスコアラータイプ2人に7段階Aスキルスコア上昇効果[33ビート]\nスタミナ217消費 CT:50",
+        "shortDescription": "\n\nスタミナ217消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 217,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_reduction-9-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-7-target-character_type-1-2-33",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身に9段階のステルス効果[38ビート]\nスコアラータイプ2人に7段階Aスキルスコア上昇効果[38ビート]\nスタミナ250消費 CT:50",
+        "shortDescription": "\n\nスタミナ250消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 250,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_reduction-9-target-self-38",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-7-target-character_type-1-2-38",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身に9段階のステルス効果[43ビート]\nスコアラータイプ2人に7段階Aスキルスコア上昇効果[43ビート]\nスタミナ283消費 CT:50",
+        "shortDescription": "\n\nスタミナ283消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 283,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_reduction-9-target-self-43",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-7-target-character_type-1-2-43",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-kan-05-buny-00-1",
     "name": "あなただけに教えてあげる",
     "categoryType": 1,

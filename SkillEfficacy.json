@@ -7315,6 +7315,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-active_skill_score_up-7-target-character_type-1-2-43",
+    "name": "スコアラータイプ2人にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "スコアラータイプ2人に7段階Aスキルスコア上昇効果[43ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-active_skill_score_up-7-target-character_type-1-2-45",
     "name": "スコアラータイプ2人にAスキルスコア上昇効果",
     "type": 18,
@@ -9068,6 +9079,17 @@
     "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
     "type": 98,
     "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[46ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_active_skill_score_up-10-target-character_type-1-2-47",
+    "name": "スコアラータイプ2人にAスキルスコア上昇超化効果",
+    "type": 98,
+    "description": "スコアラータイプ2人にAスキルスコア上昇超化効果[47ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-character_type-1-2",
@@ -16313,10 +16335,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_reduction-8-target-self-25",
+    "name": "自身にステルス効果",
+    "type": 28,
+    "description": "自身に8段階のステルス効果[25ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_reduction-8-target-self-26",
     "name": "自身にステルス効果",
     "type": 28,
     "description": "自身に8段階のステルス効果[26ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_reduction-8-target-self-29",
+    "name": "自身にステルス効果",
+    "type": 28,
+    "description": "自身に8段階のステルス効果[29ビート]",
     "grade": 8,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -16339,6 +16383,17 @@
     "name": "自身にステルス効果",
     "type": 28,
     "description": "自身に8段階のステルス効果[32ビート]",
+    "grade": 8,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_reduction-8-target-self-33",
+    "name": "自身にステルス効果",
+    "type": 28,
+    "description": "自身に8段階のステルス効果[33ビート]",
     "grade": 8,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -16526,6 +16581,17 @@
     "name": "自身にステルス効果",
     "type": 28,
     "description": "自身に9段階のステルス効果[32ビート]",
+    "grade": 9,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_reduction-9-target-self-33",
+    "name": "自身にステルス効果",
+    "type": 28,
+    "description": "自身に9段階のステルス効果[33ビート]",
     "grade": 9,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -30899,6 +30965,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-7-target-center-26",
+    "name": "センターにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "センターに7段階クリティカル係数上昇効果[26ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-7-target-center-27",
     "name": "センターにクリティカル係数上昇効果",
     "type": 20,
@@ -31922,10 +31999,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-8-target-center-41",
+    "name": "センターにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "センターに8段階クリティカル係数上昇効果[41ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-8-target-center-46",
     "name": "センターにクリティカル係数上昇効果",
     "type": 20,
     "description": "センターに8段階クリティカル係数上昇効果[46ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-8-target-center-47",
+    "name": "センターにクリティカル係数上昇効果",
+    "type": 20,
+    "description": "センターに8段階クリティカル係数上昇効果[47ビート]",
     "grade": 8,
     "maxGrade": 20,
     "skillTargetId": "target-center",
@@ -57772,6 +57871,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-passive_skill_cool_time_reset-target-dance-2",
+    "name": "ダンスタイプ2人のPスキルのCTをリセット",
+    "type": 73,
+    "description": "ダンスタイプ2人のPスキルのCTをリセット",
+    "skillTargetId": "target-dance-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-passive_skill_cool_time_reset-target-neighbor",
     "name": "隣接するアイドルのPスキルのCTをリセット",
     "type": 73,
@@ -76307,6 +76417,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-score_up-8-target-character_type-1-2-45",
+    "name": "スコアラータイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ2人に8段階スコア上昇効果[45ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-8-target-character_type-1-2-50",
     "name": "スコアラータイプ2人にスコア上昇効果",
     "type": 16,
@@ -77308,10 +77429,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-score_up-9-target-character_type-1-2-45",
+    "name": "スコアラータイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ2人に9段階スコア上昇効果[45ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-score_up-9-target-character_type-1-2-50",
     "name": "スコアラータイプ2人にスコア上昇効果",
     "type": 16,
     "description": "スコアラータイプ2人に9段階スコア上昇効果[50ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-score_up-9-target-character_type-1-2-60",
+    "name": "スコアラータイプ2人にスコア上昇効果",
+    "type": 16,
+    "description": "スコアラータイプ2人に9段階スコア上昇効果[60ビート]",
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
