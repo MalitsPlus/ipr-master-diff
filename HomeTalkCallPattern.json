@@ -1765,6 +1765,13 @@
   },
   {
     "characterId": "char-mna",
+    "patternId": "call-pattern-card-mna-05-snro-00",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "どうしよう…\nどっちがいいかな…？\nでも、あんまり買い過ぎても…",
+    "characterArrivalVoiceAssetId": "sud_vo_home_mna-05-snro-00_talk-01-start"
+  },
+  {
+    "characterId": "char-mna",
     "patternId": "call-pattern-card-mna-05-vlnt-00",
     "managerCallText": "お疲れさま",
     "characterArrivalText": "ちょっといいかな？",
@@ -3372,6 +3379,13 @@
     "managerCallText": "お疲れさま",
     "characterArrivalText": "風邪で熱が出て\n寮の部屋で寝込んだ後…\n実は大変だった…",
     "characterArrivalVoiceAssetId": "sud_vo_home_szk-05-sail-00_talk-01-start"
+  },
+  {
+    "characterId": "char-szk",
+    "patternId": "call-pattern-card-szk-05-snro-00",
+    "managerCallText": "お疲れさま",
+    "characterArrivalText": "{user}さんって\n見た夢のことを起きても\nちゃんと覚えてる…？",
+    "characterArrivalVoiceAssetId": "sud_vo_home_szk-05-snro-00_talk-01-start"
   },
   {
     "characterId": "char-szk",

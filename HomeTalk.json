@@ -7092,6 +7092,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-mna-05-snro-00-talk-01",
+    "characterId": "char-mna",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mna-05-snro-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mna-05-snro-00",
+    "choiceText": "何をそんなに買うつもりなんだ？",
+    "managerText": "何をそんなに買うつもりなんだ？",
+    "reliability": 5,
+    "title": "手と手つないだ奇跡の共演",
+    "displayConditionDescription": "手と手つないだ奇跡の共演 長瀬麻奈\nストーリー3話を視聴",
+    "order": 519,
+    "releaseDate": "1777258800000",
+    "characterTalks": [
+      {
+        "text": "あのね、キティちゃんの\n新しいポーチと、\n新しいキーホルダー…",
+        "voiceAssetId": "sud_vo_home_mna-05-snro-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どっちを買おうかなって、\n悩んでたの。",
+        "voiceAssetId": "sud_vo_home_mna-05-snro-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あんまり多過ぎても、\n可愛さが分散してまとまりづらく\nなっちゃうかなーって。",
+        "voiceAssetId": "sud_vo_home_mna-05-snro-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あ、でも…カバンの内側と外側、\nどっちにもキティちゃんグッズを\n付けたら、元気が出そう。",
+        "voiceAssetId": "sud_vo_home_mna-05-snro-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "一緒にお仕事に行って\n一緒に遊びに行って…\nうん、いいかも！",
+        "voiceAssetId": "sud_vo_home_mna-05-snro-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そうと決まれば、\n早速買いに行こう！\nもちろん付き合ってくれるでしょ？",
+        "voiceAssetId": "sud_vo_home_mna-05-snro-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-mna-05-vlnt-00-talk-01",
     "characterId": "char-mna",
     "placeType": 1,
@@ -13645,6 +13700,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-szk-05-snro-00-talk-01",
+    "characterId": "char-szk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-szk-05-snro-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-szk-05-snro-00",
+    "choiceText": "どうしてそんなことを\n聞くんだ？",
+    "managerText": "どうしてそんなことを\n聞くんだ？",
+    "reliability": 5,
+    "title": "カップにたっぷり幸せを",
+    "displayConditionDescription": "カップにたっぷり幸せを 兵藤雫\nストーリー3話を視聴",
+    "order": 520,
+    "releaseDate": "1777258800000",
+    "characterTalks": [
+      {
+        "text": "この前、シナモンくん達と\n遊んだ夢を見たって\n話をしたよね…",
+        "voiceAssetId": "sud_vo_home_szk-05-snro-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "いつもなら、見た夢のことを\nそんなに覚えてないのに…\n今回は、はっきり覚えてた…",
+        "voiceAssetId": "sud_vo_home_szk-05-snro-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "覚えてる夢と覚えてない夢\nどういう違いがあるのか\n気になってて…",
+        "voiceAssetId": "sud_vo_home_szk-05-snro-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "印象の強さなのか、それとも\n忘れたくないって思えば\n忘れずに、済むのかな…",
+        "voiceAssetId": "sud_vo_home_szk-05-snro-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "現実での思い出みたいに\n私は、夢での事も\nずっと忘れたくないな…",
+        "voiceAssetId": "sud_vo_home_szk-05-snro-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんも\n私が出てきた夢は\n忘れないようにしてね…",
+        "voiceAssetId": "sud_vo_home_szk-05-snro-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-szk-05-yukt-00-talk-01",

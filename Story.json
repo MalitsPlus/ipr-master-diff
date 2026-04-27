@@ -10878,6 +10878,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-mna-05-snro-00-01",
+    "name": "それじゃあ、\n紹介するね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_10_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mna-05-snro-00-02",
+    "name": "まるで\n夢みたい！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_10_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mna-05-snro-00-03",
+    "name": "素敵な夢を\n見てたんだよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_10_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-mna-05-vlnt-00-01",
     "name": "経験ないのに",
     "rewardId": "rd_auto;stone;;30",
@@ -18968,6 +19022,60 @@
     ],
     "advAssetIds": [
       "card_szk_07_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-snro-00-01",
+    "name": "シナモン\nくん達との\n思い出",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_13_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-snro-00-02",
+    "name": "シナモン\nくん、\n遊園地だよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_13_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-snro-00-03",
+    "name": "ふわふわな\n手を握ると",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_13_03"
     ],
     "sectionName": "",
     "description": "",
@@ -28577,6 +28685,75 @@
       "char-rei",
       "char-aoi",
       "char-mei"
+    ],
+    "sectionName": "",
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2605-marathon-raid-001",
+    "name": "キティちゃん\n達！？",
+    "description": "とある遊園地のショーに出ることとなった、kana、こころ、雫、瑠依の四人。ただ、打ち合わせの最中に、なんだか眠くなってきてしまい……。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_01"
+    ],
+    "additionalDisplayCharacterIds": [
+      "char-kitty",
+      "char-cinnamo",
+      "char-melody",
+      "char-kuromi"
+    ],
+    "sectionName": "",
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2605-marathon-raid-002",
+    "name": "かわいい、\nなかよく、\nおもいやり",
+    "description": "kana達は、夢の世界の遊園地で、なんとキティちゃん達と出会うことに。現実世界では時間は経たないようなので、一同は一緒に遊ぶことにするのだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_02"
+    ],
+    "additionalDisplayCharacterIds": [
+      "char-kitty",
+      "char-cinnamo",
+      "char-melody",
+      "char-kuromi"
+    ],
+    "sectionName": "",
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-eve-2605-marathon-raid-003",
+    "name": "夢でつながる\nミラクル\nステージ",
+    "description": "メンバー達は、夢の遊園地でキティちゃん達とショーをすることに。みんなで、仲良く、楽しくパフォーマンスをする中で、kanaは昔のことを思い出し――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_03"
+    ],
+    "additionalDisplayCharacterIds": [
+      "char-kitty",
+      "char-cinnamo",
+      "char-melody",
+      "char-kuromi"
     ],
     "sectionName": "",
     "branchFirstText": "",
@@ -48907,6 +49084,60 @@
     "advAssetIds": [
       "event_2604_01_05_01",
       "event_2604_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0427-001-001",
+    "name": "キティ\nちゃん達\n！？",
+    "description": "とある遊園地のショーに出ることとなった、kana、こころ、雫、瑠依の四人。ただ、打ち合わせの最中に、なんだか眠くなってきてしまい……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0427-001-002",
+    "name": "かわいい、\nなかよく、\nおもいやり",
+    "description": "kana達は、夢の世界の遊園地で、なんとキティちゃん達と出会うことに。現実世界では時間は経たないようなので、一同は一緒に遊ぶことにするのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0427-001-003",
+    "name": "夢でつながる\nミラクル\nステージ",
+    "description": "メンバー達は、夢の遊園地でキティちゃん達とショーをすることに。みんなで、仲良く、楽しくパフォーマンスをする中で、kanaは昔のことを思い出し――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2605_01_03"
     ],
     "sectionName": "",
     "rewardId": "",

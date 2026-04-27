@@ -16915,6 +16915,330 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "event-ms-clb-26-0429-00-character_quest_all_clear_count",
+    "categoryType": 3,
+    "missionType": 66,
+    "targetIds": [
+      "char-mna",
+      "char-szk",
+      "char-kan",
+      "char-rui",
+      "char-kkr"
+    ],
+    "name": "麻奈、雫、こころ、kana、瑠依でライブを{threshold}回クリア",
+    "shortDescription": "麻奈、雫、こころ、kana、瑠依でライブを{threshold}回クリア",
+    "longDescription": "麻奈、雫、こころ、kana、瑠依で\nライブを{threshold}回クリアしましょう。",
+    "order": 12,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-character_quest_all_clear_count-10"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-character_quest_all_clear_count-15"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-character_quest_all_clear_count-20"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-clb-26-0429-00-character_start_activity_fan_event_count",
+    "categoryType": 3,
+    "missionType": 69,
+    "targetIds": [
+      "char-szk",
+      "char-kan",
+      "char-rui",
+      "char-kkr"
+    ],
+    "name": "雫、こころ、kana、瑠依でファンイベントを{threshold}回実施",
+    "shortDescription": "雫、こころ、kana、瑠依でファンイベントを{threshold}回実施",
+    "longDescription": "雫、こころ、kana、瑠依で\nファンイベントを{threshold}回実施しましょう。",
+    "order": 16,
+    "linkType": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-character_start_activity_fan_event_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-character_start_activity_fan_event_count-3"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-clb-26-0429-00-character_start_activity_promotion_count",
+    "categoryType": 3,
+    "missionType": 70,
+    "targetIds": [
+      "char-szk",
+      "char-kan",
+      "char-rui",
+      "char-kkr"
+    ],
+    "name": "雫、こころ、kana、瑠依でプロモーションを{threshold}回実施",
+    "shortDescription": "雫、こころ、kana、瑠依でプロモーションを{threshold}回実施",
+    "longDescription": "雫、こころ、kana、瑠依で\nプロモーションを{threshold}回実施しましょう。",
+    "order": 14,
+    "linkType": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-character_start_activity_promotion_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-character_start_activity_promotion_count-3"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-clb-26-0429-00-character_start_activity_refreshment_count",
+    "categoryType": 3,
+    "missionType": 71,
+    "targetIds": [
+      "char-szk",
+      "char-kan",
+      "char-rui",
+      "char-kkr"
+    ],
+    "name": "雫、こころ、kana、瑠依でリフレッシュを{threshold}回実施",
+    "shortDescription": "雫、こころ、kana、瑠依でリフレッシュを{threshold}回実施",
+    "longDescription": "雫、こころ、kana、瑠依で\nリフレッシュを{threshold}回実施しましょう。",
+    "order": 15,
+    "linkType": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-character_start_activity_refreshment_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-character_start_activity_refreshment_count-3"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-clb-26-0429-00-company_character_use_obtain_enjoy_point_item_count",
+    "categoryType": 3,
+    "missionType": 2301,
+    "targetIds": [
+      "char-szk",
+      "char-kan",
+      "char-rui",
+      "char-kkr"
+    ],
+    "name": "雫、こころ、kana、瑠依に{threshold}回プレゼント",
+    "shortDescription": "雫、こころ、kana、瑠依に{threshold}回プレゼント",
+    "longDescription": "雫、こころ、kana、瑠依に\n{threshold}回プレゼントしましょう。",
+    "order": 13,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-company_character_use_obtain_enjoy_point_item_count-3"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-company_character_use_obtain_enjoy_point_item_count-5"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-clb-26-0429-00-condition_clear",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-story-read-st-clb-2604-contest-001-003"
+    ],
+    "name": "イベントストーリーの1~3話を視聴",
+    "shortDescription": "イベントストーリーの1~3話を視聴",
+    "longDescription": "イベントストーリーの1~3話を視聴",
+    "order": 8,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-condition_clear-1"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-clb-26-0429-00-login_count",
+    "categoryType": 3,
+    "missionType": 1,
+    "name": "{threshold}日ログイン",
+    "shortDescription": "{threshold}日ログイン",
+    "longDescription": "{threshold}日ログインしましょう。",
+    "order": 9,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-login_count-2"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-login_count-3"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-login_count-4"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-clb-26-0429-00-photo_expression_shooting_specified_character_shoot_count",
+    "categoryType": 3,
+    "missionType": 88,
+    "targetIds": [
+      "char-mna",
+      "char-szk",
+      "char-kan",
+      "char-rui",
+      "char-kkr"
+    ],
+    "name": "麻奈、雫、こころ、kana、瑠依でポーズ撮影を{threshold}回実施",
+    "shortDescription": "麻奈、雫、こころ、kana、瑠依でポーズ撮影を{threshold}回実施",
+    "longDescription": "麻奈、雫、こころ、kana、瑠依で\nポーズ撮影を{threshold}回実施しましょう。",
+    "order": 11,
+    "linkType": 39,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-photo_expression_shooting_specified_character_shoot_count-3"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-photo_expression_shooting_specified_character_shoot_count-6"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-photo_expression_shooting_specified_character_shoot_count-9"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-clb-26-0429-00-photo_expression_shooting_specified_pose_shoot_count",
+    "categoryType": 3,
+    "missionType": 87,
+    "targetIds": [
+      "photo-pose-26-0427-05"
+    ],
+    "name": "ポーズ「キティと一緒に（座る）」で撮影を{threshold}回実施",
+    "shortDescription": "ポーズ「キティと一緒に（座る）」で撮影を{threshold}回実施",
+    "longDescription": "ポーズ「キティと一緒に（座る）」\nで撮影を{threshold}回実施しましょう。",
+    "order": 10,
+    "linkType": 39,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-photo_expression_shooting_specified_pose_shoot_count-3"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-photo_expression_shooting_specified_pose_shoot_count-6"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd-event-ms-clb-26-0429-00-photo_expression_shooting_specified_pose_shoot_count-9"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-clb-26-0429-01-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-clb-26-0429-00-condition_clear",
+      "event-ms-clb-26-0429-00-login_count",
+      "event-ms-clb-26-0429-00-photo_expression_shooting_specified_pose_shoot_count",
+      "event-ms-clb-26-0429-00-photo_expression_shooting_specified_character_shoot_count",
+      "event-ms-clb-26-0429-00-character_quest_all_clear_count",
+      "event-ms-clb-26-0429-00-company_character_use_obtain_enjoy_point_item_count",
+      "event-ms-clb-26-0429-00-character_start_activity_promotion_count",
+      "event-ms-clb-26-0429-00-character_start_activity_refreshment_count",
+      "event-ms-clb-26-0429-00-character_start_activity_fan_event_count"
+    ],
+    "name": "イベントミッションを{threshold}個クリア",
+    "shortDescription": "イベントミッションを{threshold}個クリア",
+    "longDescription": "イベントミッションを{threshold}個クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-clb-26-0429-01-mission_clear_count-15"
+      }
+    ],
+    "eventMissionId": "event_clb-mission-26-0429",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "event-ms-comeback-23-0428-condition_clear-1",
     "categoryType": 3,
     "missionType": 4,
@@ -36542,6 +36866,102 @@
     "targetIds": [],
     "viewConditionId": "",
     "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0429-login",
+    "categoryType": 1,
+    "missionType": 1,
+    "name": "ログイン1回",
+    "shortDescription": "ログイン1回",
+    "longDescription": "ログインを1回しましょう。",
+    "order": 2,
+    "viewConditionId": "cd-time-market-discount-day-26-0429",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-act_lesson-boost;2"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0429",
+    "targetIds": [],
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0429-mission_clear_count",
+    "categoryType": 1,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-idoly-pride-day-mission-26-0429-login",
+      "event-ms-idoly-pride-day-mission-26-0429-quest-all-clear-count",
+      "event-ms-idoly-pride-day-mission-26-0429-photo_expression_shooting_specified_character_shoot_count"
+    ],
+    "name": "イベントミッションを全てクリア",
+    "shortDescription": "イベントミッションを全てクリア",
+    "longDescription": "イベントミッションを全てクリアしましょう。",
+    "order": 1,
+    "viewConditionId": "cd-time-market-discount-day-26-0429",
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-daily_quest_ticket_sp-present-26-0429;1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0429",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0429-photo_expression_shooting_specified_character_shoot_count",
+    "categoryType": 1,
+    "missionType": 88,
+    "name": "ポーズ撮影を{threshold}回撮影",
+    "shortDescription": "ポーズ撮影を{threshold}回撮影",
+    "longDescription": "ポーズ撮影を{threshold}回しましょう。",
+    "order": 4,
+    "viewConditionId": "cd-time-market-discount-day-26-0429",
+    "linkType": 39,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-act_speed_up;2"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0429",
+    "targetIds": [],
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0429-quest-all-clear-count",
+    "categoryType": 1,
+    "missionType": 11,
+    "name": "ライブを{threshold}回クリア",
+    "shortDescription": "ライブを{threshold}回クリア",
+    "longDescription": "ライブを{threshold}回クリアしましょう。",
+    "order": 3,
+    "viewConditionId": "cd-time-market-discount-day-26-0429",
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-act_promotion_shorten;2"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0429",
+    "targetIds": [],
     "linkDetail": "",
     "companyEnjoyCharacterId": "",
     "companyEnjoyCharacterMissionCategoryType": 0,
@@ -69224,6 +69644,56 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "event-ms-normal-26-0427-mission_open_story-02",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-marathon-raid-26-0427-panel-story-02"
+    ],
+    "name": "ストーリー2話を解放",
+    "shortDescription": "ストーリー2話を解放",
+    "longDescription": "ストーリー2話を解放しましょう。",
+    "order": 5,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;100"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-26-0427",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-normal-26-0427-mission_open_story-03",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-date-event-ladder-marathon-raid-26-0427-panel-story-03"
+    ],
+    "name": "ストーリー3話を解放",
+    "shortDescription": "ストーリー3話を解放",
+    "longDescription": "ストーリー3話を解放しましょう。",
+    "order": 6,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;100"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-26-0427",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "event-ms-osip-24-0716-00-login_count",
     "categoryType": 3,
     "missionType": 1,
@@ -93298,6 +93768,189 @@
     ],
     "eventMissionId": "event-shelf-26-0327",
     "viewConditionId": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0427-photo-album-complete",
+    "categoryType": 3,
+    "missionType": 1903,
+    "targetIds": [
+      "shelf-26-0427"
+    ],
+    "name": "アルバムを完成させる",
+    "shortDescription": "アルバムを完成させる",
+    "longDescription": "アルバムを完成させましょう。",
+    "order": 6,
+    "linkType": 112,
+    "linkDetail": "shelf-26-0427",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0427;1"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0427",
+    "viewConditionId": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0427-photo-album-creating",
+    "categoryType": 3,
+    "missionType": 1904,
+    "targetIds": [
+      "shelf-26-0427"
+    ],
+    "name": "アルバムを1回現像",
+    "shortDescription": "アルバムを1回現像",
+    "longDescription": "アルバムを1回現像しましょう。",
+    "order": 7,
+    "linkType": 112,
+    "linkDetail": "shelf-26-0427",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_ink-basic-03;1"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0427",
+    "viewConditionId": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0427-photo-creating",
+    "categoryType": 3,
+    "missionType": 1902,
+    "targetIds": [
+      "shelf-26-0427"
+    ],
+    "name": "フォトを{threshold}回の現像",
+    "shortDescription": "フォトを{threshold}回現像",
+    "longDescription": "フォトを{threshold}回現像しましょう。",
+    "order": 5,
+    "linkType": 112,
+    "linkDetail": "shelf-26-0427",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0427;1"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0427",
+    "viewConditionId": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0427-photo-save",
+    "categoryType": 3,
+    "missionType": 1901,
+    "targetIds": [
+      "shelf-26-0427"
+    ],
+    "name": "フォトを{threshold}回保存",
+    "shortDescription": "フォトを{threshold}回保存",
+    "longDescription": "フォトを{threshold}回保存しましょう。",
+    "order": 4,
+    "linkType": 112,
+    "linkDetail": "shelf-26-0427",
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0427;1"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0427;1"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0427;1"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0427",
+    "viewConditionId": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0427-story-001",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-event-shelf-26-0427-story-001"
+    ],
+    "name": "マルチリンクスでイベントストーリー第1話を視聴",
+    "shortDescription": "マルチリンクスでイベントストーリー第1話を視聴",
+    "longDescription": "マルチリンクスでイベントストーリー第1話を\n視聴しましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0427;1"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0427",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0427-story-002",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-event-shelf-26-0427-story-002"
+    ],
+    "name": "マルチリンクスでイベントストーリー第2話を視聴",
+    "shortDescription": "マルチリンクスでイベントストーリー第2話を視聴",
+    "longDescription": "マルチリンクスでイベントストーリー第2話を\n視聴しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0427;1"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0427",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0427-story-003",
+    "categoryType": 3,
+    "missionType": 4,
+    "targetIds": [
+      "cd-event-shelf-26-0427-story-003"
+    ],
+    "name": "マルチリンクスでイベントストーリー第3話を視聴",
+    "shortDescription": "マルチリンクスでイベントストーリー第3話を視聴",
+    "longDescription": "マルチリンクスでイベントストーリー第3話を\n視聴しましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0427;1"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0427",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
     "companyEnjoyCharacterId": "",
     "companyEnjoyCharacterMissionCategoryType": 0,
     "companyTrustMissionCategoryType": 0
@@ -202671,6 +203324,29 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "ms-daily-event-marathon-raid-26-0427-marathon_raid_host_count",
+    "categoryType": 1,
+    "missionType": 1204,
+    "name": "【デイリー】自身で協力ライブを{threshold}回挑戦する",
+    "shortDescription": "【デイリー】自身で協力ライブを{threshold}回挑戦する",
+    "longDescription": "【デイリー】自身で協力ライブを{threshold}回挑戦しましょう。",
+    "order": 4,
+    "viewConditionId": "cd-event-ms-001-0427-0524",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;500"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-26-0427",
+    "targetIds": [],
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "ms-daily-event-mini-marathon-raid-23-1226-marathon_raid_host_count",
     "categoryType": 1,
     "missionType": 1204,
@@ -212006,6 +212682,130 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "ms-event-marathon-raid-26-0427-marathon_quest_clear_count",
+    "categoryType": 3,
+    "missionType": 1201,
+    "name": "いずれかの単独ライブを{threshold}回クリア",
+    "shortDescription": "いずれかの単独ライブを{threshold}回クリア",
+    "longDescription": "いずれかの単独ライブを{threshold}回クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "75",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "100",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "125",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;400"
+      },
+      {
+        "threshold": "150",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;400"
+      },
+      {
+        "threshold": "175",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;400"
+      },
+      {
+        "threshold": "200",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;400"
+      },
+      {
+        "threshold": "225",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;500"
+      },
+      {
+        "threshold": "250",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;500"
+      },
+      {
+        "threshold": "275",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;500"
+      },
+      {
+        "threshold": "300",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;500"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-26-0427",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "ms-event-marathon-raid-26-0427-marathon_quest_clear_difficulty-ep4",
+    "categoryType": 3,
+    "missionType": 1202,
+    "targetIds": [
+      "marathon-raid-26-0427-quest-4"
+    ],
+    "name": "No.4ステージの難易度Lv{threshold}以上をクリア",
+    "shortDescription": "No.4ステージの難易度Lv{threshold}以上をクリア",
+    "longDescription": "No.4ステージの難易度Lv{threshold}以上をクリアしましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;400"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;600"
+      },
+      {
+        "threshold": "7",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;800"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;1000"
+      },
+      {
+        "threshold": "12",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;1500"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-26-0427",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "ms-event-mini-marathon-22-0413-marathon_quest_clear_count_001",
     "categoryType": 3,
     "missionType": 1201,
@@ -217040,6 +217840,85 @@
       }
     ],
     "eventMissionId": "event-marathon-raid-25-0927",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "ms-normal-event-marathon-raid-26-0427-marathon_raid_clear_count",
+    "categoryType": 3,
+    "missionType": 1203,
+    "name": "協力ライブを{threshold}回クリア",
+    "shortDescription": "協力ライブを{threshold}回クリア",
+    "longDescription": "協力ライブを{threshold}回クリアしましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;100"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;100"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;200"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;300"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;300"
+      },
+      {
+        "threshold": "30",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;400"
+      },
+      {
+        "threshold": "35",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;400"
+      },
+      {
+        "threshold": "40",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;500"
+      },
+      {
+        "threshold": "45",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;500"
+      },
+      {
+        "threshold": "50",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;600"
+      },
+      {
+        "threshold": "55",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;600"
+      },
+      {
+        "threshold": "60",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;800"
+      },
+      {
+        "threshold": "65",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;800"
+      },
+      {
+        "threshold": "70",
+        "rewardSetId": "rd_auto;item;item-ladder_pt_26-0427-raid;1000"
+      }
+    ],
+    "eventMissionId": "event-marathon-raid-26-0427",
     "targetIds": [],
     "viewConditionId": "",
     "linkType": 0,

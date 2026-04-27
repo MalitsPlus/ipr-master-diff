@@ -61,6 +61,27 @@
     "receiveConditionId": "cd-time-login-26-0410-0423"
   },
   {
+    "id": "info-news-login-26-0428-01",
+    "name": "サンリオキャラ\nコラボ特別",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0428-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-exchange-collaboration-medal-26-0427;1",
+      "rd_auto;item;item-exchange-collaboration-medal-26-0427;1",
+      "rd_auto;item;item-exchange-collaboration-medal-26-0427;1",
+      "rd_auto;item;item-exchange-collaboration-medal-26-0427;1",
+      "rd_auto;item;item-exchange-collaboration-medal-26-0427;1",
+      "rd_auto;item;item-exchange-collaboration-medal-26-0427;1",
+      "rd_auto;item;item-exchange-collaboration-medal-26-0427;1"
+    ],
+    "openConditionId": "cd-time-login-26-0428-0504",
+    "receiveConditionId": "cd-time-login-26-0428-0511"
+  },
+  {
     "id": "login_bonus-campaign-21-0624-01",
     "name": "スタートダッシュ 第一弾",
     "description": "3日間の特別なログインボーナス",
@@ -2991,6 +3012,27 @@
     ],
     "openConditionId": "cd-time-login02-26-0213-0219",
     "receiveConditionId": "cd-time-login02-26-0213-0226"
+  },
+  {
+    "id": "login_bonus-campaign02-26-0430-01",
+    "name": "GW",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0504-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_sp-present-26-0429;3",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-act_fan-reward-up;2",
+      "rd_auto;item;item-act_refresh_shorten;3",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-26-0430-0506",
+    "receiveConditionId": "cd-time-login02-26-0430-0513"
   },
   {
     "id": "login_bonus-normal-01",

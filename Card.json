@@ -9985,6 +9985,55 @@
     "homeTalks": []
   },
   {
+    "id": "card-mna-05-snro-00",
+    "assetId": "mna-05-snro-00",
+    "name": "手と手つないだ奇跡の共演",
+    "description": "キティちゃん達と一緒に遊んで、歌って踊って\nこんな経験、夢じゃないと出来ないよね",
+    "type": 2,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 408,
+    "danceRatioPermil": 318,
+    "visualRatioPermil": 274,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-snro-00-1",
+    "skillId2": "sk-mna-05-snro-00-2",
+    "skillId3": "sk-mna-05-snro-00-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 569,
+    "releaseDate": "1777258800000",
+    "rewardCostumeId": "cos-mna-snro-00",
+    "rewardHairIds": [
+      "hair-mna-hair-40"
+    ],
+    "obtainMessage": "目が覚める前に、\nぎゅってしておきたかったんだ",
+    "rewardHairId": "hair-mna-hair-40",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-snro-00-01"
+      },
+      {
+        "storyId": "st-card-mna-05-snro-00-02"
+      },
+      {
+        "storyId": "st-card-mna-05-snro-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mna-05-snro-00",
+        "telephoneId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-mna-05-vlnt-00",
     "assetId": "mna-05-vlnt-00",
     "name": "胸に残るショコラの約束",
@@ -13529,6 +13578,38 @@
     "skillId3": "sk-rui-02-eve-04-3",
     "order": 511,
     "releaseDate": "1758942000000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-rui-02-eve-05",
+    "assetId": "rui-02-eve-05",
+    "name": "なかよし共演タイム！",
+    "description": "さぁ、みんな、気合いを入れるわよ\n夢の世界のショーとはいえ全力で臨みましょう",
+    "type": 3,
+    "characterId": "char-rui",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 410,
+    "danceRatioPermil": 330,
+    "visualRatioPermil": 290,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-02-eve-05-1",
+    "skillId2": "sk-rui-02-eve-05-2",
+    "skillId3": "sk-rui-02-eve-05-3",
+    "order": 573,
+    "releaseDate": "1777258800000",
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
@@ -19374,6 +19455,59 @@
     "activityAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-szk-05-snro-00",
+    "assetId": "szk-05-snro-00",
+    "name": "カップにたっぷり幸せを",
+    "description": "シナモンくんのふわふわな手を握ると\n心が落ち着いてくる",
+    "type": 3,
+    "characterId": "char-szk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 324,
+    "danceRatioPermil": 289,
+    "visualRatioPermil": 417,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-05-snro-00-1",
+    "skillId2": "sk-szk-05-snro-00-2",
+    "skillId3": "sk-szk-05-snro-00-3",
+    "activityAbilityId": "aab-lesson_manager_exp_up",
+    "order": 570,
+    "releaseDate": "1777258800000",
+    "rewardCostumeId": "cos-szk-snro-00",
+    "rewardHairIds": [
+      "hair-szk-hair-40"
+    ],
+    "obtainMessage": "シナモンくんのお手て、\nとってもふわふわ",
+    "rewardHairId": "hair-szk-hair-40",
+    "stories": [
+      {
+        "storyId": "st-card-szk-05-snro-00-01"
+      },
+      {
+        "storyId": "st-card-szk-05-snro-00-02"
+      },
+      {
+        "storyId": "st-card-szk-05-snro-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-szk-05-snro-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-szk-05-snro-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",
     "skillId4": "",
