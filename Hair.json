@@ -4346,6 +4346,24 @@
     "isDisableAdmin": false
   },
   {
+    "id": "hair-kan-hair-40",
+    "hairAssetId": "kan-hair-40",
+    "faceAssetId": "kan-base-00",
+    "sdHairAssetId": "kan-hair-40",
+    "characterId": "char-kan",
+    "notWearableCostumeIds": [
+      "cos-kan-sdpl-00",
+      "cos-kan-sdam-00"
+    ],
+    "fittingCostumeId": "cos-kan-snro-00",
+    "order": 1139,
+    "name": "ドリームカチューシャ",
+    "releaseTime": "1777863600000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
     "id": "hair-kan-idol-00",
     "hairAssetId": "kan-idol-00",
     "faceAssetId": "kan-base-00",
@@ -4655,6 +4673,25 @@
     "releaseTime": "1609426800000",
     "notWearableCostumeIds": [],
     "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-kan-snro-00",
+    "hairAssetId": "kan-snro-00",
+    "faceAssetId": "kan-base-00",
+    "sdHairAssetId": "kan-snro-00",
+    "characterId": "char-kan",
+    "wearableCostumeIds": [
+      "cos-kan-snro-00"
+    ],
+    "fittingCostumeId": "cos-kan-snro-00",
+    "order": 472,
+    "name": "ドリームパレード",
+    "releaseTime": "1777863600000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": [],
     "isDisableAdmin": false
   },
   {
@@ -5142,6 +5179,24 @@
     "isDisableAdmin": false
   },
   {
+    "id": "hair-kkr-hair-40",
+    "hairAssetId": "kkr-hair-40",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-hair-40",
+    "characterId": "char-kkr",
+    "notWearableCostumeIds": [
+      "cos-kkr-sdpl-00",
+      "cos-kkr-sdam-00"
+    ],
+    "fittingCostumeId": "cos-kkr-snro-00",
+    "order": 1143,
+    "name": "ドリームカチューシャ",
+    "releaseTime": "1777863600000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
     "id": "hair-kkr-idol-00",
     "hairAssetId": "kkr-idol-00",
     "faceAssetId": "kkr-base-00",
@@ -5540,6 +5595,25 @@
     "order": 1817,
     "name": "エンジェルブレッシング",
     "releaseTime": "1609426800000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-kkr-snro-00",
+    "hairAssetId": "kkr-snro-00",
+    "faceAssetId": "kkr-base-00",
+    "sdHairAssetId": "kkr-snro-00",
+    "characterId": "char-kkr",
+    "wearableCostumeIds": [
+      "cos-kkr-snro-00"
+    ],
+    "fittingCostumeId": "cos-kkr-snro-00",
+    "order": 471,
+    "name": "ドリームパレード",
+    "releaseTime": "1777863600000",
     "impossiblePhotoPoseTypes": [
       3
     ],
@@ -16229,6 +16303,78 @@
     "order": 1057,
     "name": "ツインお団子",
     "releaseTime": "1746370800000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-smr-hair-20",
+    "hairAssetId": "smr-hair-20",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "smr-hair-20",
+    "characterId": "char-smr",
+    "notWearableCostumeIds": [
+      "cos-smr-sdpl-00",
+      "cos-smr-sdam-00"
+    ],
+    "fittingCostumeId": "cos-smr-casl-00",
+    "order": 1155,
+    "name": "フリルツイン",
+    "releaseTime": "1777906800000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-smr-hair-21",
+    "hairAssetId": "smr-hair-21",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "ornament_hair_1",
+    "characterId": "char-smr",
+    "notWearableCostumeIds": [
+      "cos-smr-sdpl-00",
+      "cos-smr-sdam-00"
+    ],
+    "fittingCostumeId": "cos-smr-casl-00",
+    "order": 1066,
+    "name": "フラワーリース",
+    "releaseTime": "1777906800000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-smr-hair-22",
+    "hairAssetId": "smr-hair-22",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "ornament_hair_2",
+    "characterId": "char-smr",
+    "notWearableCostumeIds": [
+      "cos-smr-sdpl-00",
+      "cos-smr-sdam-00"
+    ],
+    "fittingCostumeId": "cos-smr-casl-00",
+    "order": 1067,
+    "name": "バースデークラウン",
+    "releaseTime": "1777906800000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-smr-hair-23",
+    "hairAssetId": "smr-hair-23",
+    "faceAssetId": "smr-base-00",
+    "sdHairAssetId": "ornament_hair_3",
+    "characterId": "char-smr",
+    "notWearableCostumeIds": [
+      "cos-smr-sdpl-00",
+      "cos-smr-sdam-00"
+    ],
+    "fittingCostumeId": "cos-smr-casl-00",
+    "order": 1068,
+    "name": "バースデーハット",
+    "releaseTime": "1777906800000",
     "wearableCostumeIds": [],
     "impossiblePhotoPoseTypes": [],
     "isDisableAdmin": false

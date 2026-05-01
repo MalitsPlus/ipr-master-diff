@@ -5598,6 +5598,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_smr-05",
+    "name": "【誕生日】奥山すみれ",
+    "assetId": "birthday_smr-05",
+    "autoProvideConditionId": "cd-birthday_emblem_smr-26-0505",
+    "order": 605130,
+    "description": "すみれの誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_suz-03",
     "name": "【誕生日】成宮すず",
     "assetId": "birthday_suz-03",
@@ -6260,6 +6269,33 @@
     "assetId": "ex-tower-005-sp-251201-001",
     "order": 141100,
     "description": "To LOVEるコラボ開催記念EXタワーをクリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-ex-tower-005-sp-26-0502-001",
+    "name": "GW記念EXタワー",
+    "assetId": "ex-tower-005-sp-26-0502-001",
+    "order": 141110,
+    "description": "GW記念EXタワーをクリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-ex-tower-005-sp-26-0502-004",
+    "name": "GW記念EXタワー星見プロからの挑戦状",
+    "assetId": "ex-tower-005-sp-26-0502-004",
+    "order": 141120,
+    "description": "GW記念EXタワー星見プロからの挑戦状をクリア",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-ex-tower-005-sp-26-0503-001",
+    "name": "サンリオキャラコラボ開催記念EXタワー",
+    "assetId": "ex-tower-005-sp-260503-001",
+    "order": 141130,
+    "description": "サンリオキャラコラボ開催記念EXタワーをクリア",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -10139,6 +10175,33 @@
     "assetId": "pvp-season-166-top100",
     "order": 316630,
     "description": "VENUSバトルシーズン166で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-167-top001",
+    "name": "VENUSシーズン167 No.1",
+    "assetId": "pvp-season-167-top001",
+    "order": 316710,
+    "description": "VENUSバトルシーズン167で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-167-top010",
+    "name": "VENUSシーズン167 TOP10",
+    "assetId": "pvp-season-167-top010",
+    "order": 316720,
+    "description": "VENUSバトルシーズン167で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-167-top100",
+    "name": "VENUSシーズン167 TOP100",
+    "assetId": "pvp-season-167-top100",
+    "order": 316730,
+    "description": "VENUSバトルシーズン167で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

@@ -4639,6 +4639,59 @@
     "homeTalks": []
   },
   {
+    "id": "card-kan-05-snro-00",
+    "assetId": "kan-05-snro-00",
+    "name": "願い叶える乙女の一歩",
+    "description": "この前、夢の遊園地でクロミちゃんに会ってさ\n昔、遊園地で楽しかったことを思い出せたから",
+    "type": 1,
+    "characterId": "char-kan",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 426,
+    "danceRatioPermil": 306,
+    "visualRatioPermil": 268,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kan-05-snro-00-1",
+    "skillId2": "sk-kan-05-snro-00-2",
+    "skillId3": "sk-kan-05-snro-00-3",
+    "liveAbilityId": "lba-critical_score_multiply",
+    "order": 572,
+    "releaseDate": "1777863600000",
+    "rewardCostumeId": "cos-kan-snro-00",
+    "rewardHairIds": [
+      "hair-kan-hair-40"
+    ],
+    "obtainMessage": "いい思い出になるように、\n頑張ってくるよ",
+    "rewardHairId": "hair-kan-hair-40",
+    "stories": [
+      {
+        "storyId": "st-card-kan-05-snro-00-01"
+      },
+      {
+        "storyId": "st-card-kan-05-snro-00-02"
+      },
+      {
+        "storyId": "st-card-kan-05-snro-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kan-05-snro-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kan-05-snro-00",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-kkr-02-eve-00",
     "assetId": "kkr-02-eve-00",
     "name": "こころのカワイイTV",
@@ -5552,6 +5605,59 @@
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",
     "skillId4": ""
+  },
+  {
+    "id": "card-kkr-05-snro-00",
+    "assetId": "kkr-05-snro-00",
+    "name": "心に響く素敵なメロディ",
+    "description": "メロディちゃんと同じくらい可愛いこころと\n遊べるなんて幸運ですね",
+    "type": 2,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 277,
+    "danceRatioPermil": 406,
+    "visualRatioPermil": 317,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-snro-00-1",
+    "skillId2": "sk-kkr-05-snro-00-2",
+    "skillId3": "sk-kkr-05-snro-00-3",
+    "activityAbilityId": "aab-lesson_gold_up",
+    "order": 571,
+    "releaseDate": "1777863600000",
+    "rewardCostumeId": "cos-kkr-snro-00",
+    "rewardHairIds": [
+      "hair-kkr-hair-40"
+    ],
+    "obtainMessage": "マネージャーさん、\nおねがい♪",
+    "rewardHairId": "hair-kkr-hair-40",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-snro-00-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-snro-00-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-snro-00-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-snro-00",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-snro-00",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
   },
   {
     "id": "card-kkr-05-trbl-00",
@@ -16790,6 +16896,53 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-smr-05-birt-02",
+    "assetId": "smr-05-birt-02",
+    "name": "wonderful day for すみれ",
+    "description": "そうだ！今から私の部屋で、このバレッタに合わせる\nお洋服とか選んでほしいな、千紗お姉ちゃん！",
+    "type": 1,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 431,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-birt-02-1",
+    "skillId2": "sk-smr-05-birt-02-2",
+    "skillId3": "sk-smr-05-birt-02-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 570,
+    "releaseDate": "1777906800000",
+    "rewardHairIds": [
+      "hair-smr-hair-20",
+      "hair-smr-hair-21",
+      "hair-smr-hair-22",
+      "hair-smr-hair-23"
+    ],
+    "obtainMessage": "お誕生日だし、\nちょっとくらいお行儀が悪くても……！",
+    "rewardHairId": "hair-smr-hair-20",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-birt-02-01"
+      },
+      {
+        "storyId": "st-card-smr-05-birt-02-02"
+      },
+      {
+        "storyId": "st-card-smr-05-birt-02-03"
+      }
+    ],
+    "activityAbilityId": "",
     "rewardCostumeId": "",
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",

@@ -1572,6 +1572,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-smr-26-0505",
+    "name": "奥山すみれ 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はすみれの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "ウォーターパークのチケット",
+        "advAssetId": "hbd_06_smr_01"
+      },
+      {
+        "index": 2,
+        "text": "おしるこ缶120本",
+        "advAssetId": "hbd_06_smr_02"
+      },
+      {
+        "index": 3,
+        "text": "子役時代のグッズ",
+        "advAssetId": "hbd_06_smr_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-suz-23-0913",
     "name": "成宮すず 誕生日2023",
     "advPlayTypes": [
@@ -6180,6 +6212,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-kan-05-snro-00-01",
+    "name": "はい、\nkanaと\n握手！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kan_11_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kan-05-snro-00-02",
+    "name": "大人気\nアイドルなん\nだけどな～",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kan_11_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kan-05-snro-00-03",
+    "name": "クロミちゃん\nに会ってさ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kan_11_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-kkr-05-birt-00-01",
     "name": "こころが\n主役の\nこころの\nための日",
     "rewardId": "rd_auto;stone;;30",
@@ -6980,6 +7066,60 @@
     ],
     "advAssetIds": [
       "card_kkr_02_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-snro-00-01",
+    "name": "マネージャー\nさん、\nおねがい♪",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_15_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-snro-00-02",
+    "name": "これを貸して\nあげましょう",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_15_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kkr-05-snro-00-03",
+    "name": "あの素敵な\n考え方を",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kkr_15_03"
     ],
     "sectionName": "",
     "description": "",
@@ -16592,6 +16732,60 @@
     ],
     "advAssetIds": [
       "card_smr_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-smr-05-birt-02-01",
+    "name": "千紗\nお姉ちゃん！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_smr_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-smr-05-birt-02-02",
+    "name": "大人に\nなりたい\nのに～",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_smr_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-smr-05-birt-02-03",
+    "name": "揚げ揚げ\nチキン",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_smr_53_03"
     ],
     "sectionName": "",
     "description": "",

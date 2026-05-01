@@ -9288,6 +9288,50 @@
     "focusCharacterId": ""
   },
   {
+    "id": "phot-prm-clb-26-0427-1",
+    "assetId": "phot-clb-gift-2604-1",
+    "name": "サンリオキャラコラボ",
+    "rarity": 5,
+    "placeName": "サンリオキャラコラボ",
+    "eventName": "メモリアルフォト",
+    "level": 35,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 200,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-active-skill-score-up_multiply_distribution-5",
+        "effectValue": 60,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-shop-5-02",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-rui",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
     "id": "phot-release-login-5-1",
     "assetId": "phot-login-5-0001",
     "name": "長瀬麻奈",
@@ -10252,6 +10296,50 @@
       }
     ],
     "focusCharacterId": "char-szk",
+    "characterIds": [],
+    "shootingTime": "0"
+  },
+  {
+    "id": "phot-shop-5-37",
+    "assetId": "phot-clb-shop-2605-01",
+    "name": "長瀬麻奈",
+    "rarity": 5,
+    "placeName": "見えてる？",
+    "eventName": "メモリアルフォト",
+    "level": 60,
+    "abilities": [
+      {
+        "photoAbilityId": "pab-vocal_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-dance_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-visual_multiply_distribution-5",
+        "effectValue": 250,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-stamina_multiply_distribution-5",
+        "effectValue": 70,
+        "grade": 1,
+        "missionId": ""
+      },
+      {
+        "photoAbilityId": "pab-passive-skill_sk-phot-release-login-5-01",
+        "effectValue": 1,
+        "grade": 1,
+        "missionId": ""
+      }
+    ],
+    "focusCharacterId": "char-mna",
     "characterIds": [],
     "shootingTime": "0"
   },

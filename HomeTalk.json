@@ -3369,6 +3369,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-kan-05-snro-00-talk-01",
+    "characterId": "char-kan",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kan-05-snro-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kan-05-snro-00",
+    "choiceText": "確かに、遊園地側にお願いして\nみれば良かったです。",
+    "managerText": "確かに、遊園地側にお願いして\nみれば良かったです。",
+    "reliability": 5,
+    "title": "願い叶える乙女の一歩",
+    "displayConditionDescription": "願い叶える乙女の一歩 kana\nストーリー3話を視聴",
+    "order": 522,
+    "releaseDate": "1777863600000",
+    "characterTalks": [
+      {
+        "text": "もし置くとしたら、\n山田さんのパネルの置き場所は\nもう、お化け屋敷一択でしょ。",
+        "voiceAssetId": "sud_vo_home_kan-05-snro-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あいつなら絶対、自分がどんな風に\n飾られてるかを見に行くし。\nお化け屋敷に行ったら、ふふ…",
+        "voiceAssetId": "sud_vo_home_kan-05-snro-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ただmihoをどこに置くかが困り\nものなのよねー。あの辛気くさい\n顔、どうしろってんだか。",
+        "voiceAssetId": "sud_vo_home_kan-05-snro-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_deny-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あいつはあいつでセコいし、\n駐車場料金の精算ボックスの脇に\nでも置いておくか…",
+        "voiceAssetId": "sud_vo_home_kan-05-snro-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "kana？ kanaのパネルは\nねえ、着ぐるみのパレードが一番\nよく見える所がいい。",
+        "voiceAssetId": "sud_vo_home_kan-05-snro-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そしたらお客さん達が、kana\nとも一緒に踊ってる気分に\nなれるでしょ。",
+        "voiceAssetId": "sud_vo_home_kan-05-snro-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-kkr-05-fest-00-talk-01",
     "characterId": "char-kkr",
     "placeType": 1,
@@ -4021,6 +4076,61 @@
       }
     ],
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-kkr-05-snro-00-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-snro-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-snro-00",
+    "choiceText": "何をすればいいんだ？",
+    "managerText": "何をすればいいんだ？",
+    "reliability": 5,
+    "title": "心に響く素敵なメロディ",
+    "displayConditionDescription": "心に響く素敵なメロディ 赤崎こころ\nストーリー3話を視聴",
+    "order": 521,
+    "releaseDate": "1777863600000",
+    "characterTalks": [
+      {
+        "text": "おお、素直ですねぇ。\nうむうむ、殊勝な心掛けで\n偉いじゃないですか～。",
+        "voiceAssetId": "sud_vo_home_kkr-05-snro-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なーんて、冗談ですよ～。\nまたメロディちゃんの\n真似をしてみただけです。",
+        "voiceAssetId": "sud_vo_home_kkr-05-snro-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あんなに可愛いおともだちに\nおねがいされたら…\n断れなくなっちゃいますよね。",
+        "voiceAssetId": "sud_vo_home_kkr-05-snro-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こころもあれぐらい可愛くなれば\n莉央さんも寛容になって、無茶な\nお願いでも聞いてくれますかね。",
+        "voiceAssetId": "sud_vo_home_kkr-05-snro-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そしたら悪戯し放題…！？\nふっふっふ…これは早急に\nもっと可愛くならなきゃですね。",
+        "voiceAssetId": "sud_vo_home_kkr-05-snro-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ということで、\nまた可愛さの探求に\n付き合って下さいね～。",
+        "voiceAssetId": "sud_vo_home_kkr-05-snro-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_wink-002_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-kkr-05-trbl-00-talk-01",
