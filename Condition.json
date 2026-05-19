@@ -72832,6 +72832,858 @@
     ]
   },
   {
+    "id": "cd-duty-26-0519-date",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780153199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-date-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779202800000",
+          "nowBefore": "1780153199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-date-accessory-1",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-manager_level_gte-20"
+        },
+        "term": {
+          "nowAfter": "1779202800000",
+          "nowBefore": "1780153199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-pose-medal",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780498799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-01",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-01-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-02",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-02-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-03",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-03-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-04",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-04-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-05",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-05-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-05"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-06",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-06-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-07",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-07-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-07"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-08",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-08-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-08"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-09",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-09-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-09"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-10",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-10-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-11",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-11-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-11"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-12",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-12-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-12"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-13",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-13-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-13"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-14",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-14-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-14"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-15",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-15-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-15"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-16",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-16-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-16"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-17",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-17-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-17"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-18",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-18-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-18"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-19",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-19-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-19"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-20",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-20-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-20"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-21",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-21-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-21"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-22",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-22-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-22"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-23",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-23-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-23"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-24",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-24-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-24"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-25",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-25-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-25"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-26",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-26-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-26"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-27",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-27-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-27"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-28",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-28-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-28"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-29",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-29-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-29"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-30",
+    "settings": [
+      {}
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-exchage-view-condition-30-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-exchage-view-condition-30"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-A-01-view",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-A-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-A-02",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-A-02-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-A-02"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-A-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-A-03",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "2"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-A-03-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-A-03"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-A-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-A-04",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "3"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-A-04-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-A-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-B-01",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "4"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-B-01-view",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-B-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-B-02",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "5"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-B-02-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-B-02"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-B-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-B-03",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "6"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-B-03-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-B-03"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-B-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-B-04",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "7"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-B-04-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-B-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-C-01",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "8"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-C-01-view",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-C-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-C-02",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "9"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-C-02-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-C-02"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-C-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-C-03",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "10"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-C-03-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-C-03"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-C-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-C-04",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "11"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-C-04-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-C-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-D-01",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "12"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-D-01-view",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-D-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-D-02",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "13"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-D-02-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-D-02"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-D-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-D-03",
+    "settings": [
+      {
+        "dutyExchangeReward": {
+          "dutyId": "duty-26-0519",
+          "dutyExchangeRewardNumber": "14"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-duty-26-0519-step-D-03-view",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-duty-26-0519-step-D-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-event-22-1003-banner",
     "settings": [
       {
@@ -116442,6 +117294,21 @@
     ]
   },
   {
+    "id": "cd-gacha-pick-set-bloom-26-0519-ticket",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780196399000"
+        },
+        "itemAmount": {
+          "itemId": "item-gacha_ticket-26-0519-01",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-gacha-ticket-24-0624-01-r5",
     "settings": [
       {
@@ -155260,6 +156127,16 @@
       {
         "finishedMessage": {
           "messageId": "message-card-mei-05-xmas-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-ms-read-message-card-mhk-05-chna-00",
+    "settings": [
+      {
+        "finishedMessage": {
+          "messageId": "message-card-mhk-05-chna-00"
         }
       }
     ]
@@ -202786,6 +203663,39 @@
     ]
   },
   {
+    "id": "cd-shop-pack-26-0519",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-26-0519-0531",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780196399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-shop-pack-26-0519-0531-dokan",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780196399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-shop-pack1-23-0809",
     "settings": [
       {
@@ -211222,6 +212132,23 @@
         "term": {
           "nowAfter": "1742266800000",
           "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-showcase-cover-music--0123",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "0"
+        },
+        "obtainItem": {
+          "itemId": "item-cd_cover-music-0123"
         }
       }
     ]
@@ -231390,6 +232317,16 @@
       {
         "readStory": {
           "storyId": "st-card-mei-05-xmas-00-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-read-st-card-mhk-05-chna-00-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-mhk-05-chna-00-03"
         }
       }
     ]
@@ -258493,6 +259430,43 @@
     ]
   },
   {
+    "id": "cd-time-gacha-fixed-26-0519",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780196399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-26-0519-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-26-0519-banner-end"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780196399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-fixed-26-0519-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-fixed-26-0519-total"
+          ]
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fixed-selection-23-0328",
     "settings": [
       {
@@ -265480,6 +266454,17 @@
       {
         "itemAmount": {
           "itemId": "item-gacha-free-ticket-1s-26-0510",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-free-ticket-1s-26-0520",
+    "settings": [
+      {
+        "itemAmount": {
+          "itemId": "item-gacha-free-ticket-1s-26-0520",
           "amountGte": "1"
         }
       }
@@ -273010,6 +273995,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-normal-26-0519",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780628400000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-pick-set-bloom-21-1112",
     "settings": [
       {
@@ -274812,6 +275808,31 @@
         "term": {
           "nowAfter": "1776394800000",
           "nowBefore": "1777517999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-26-0519",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780196399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-pick-set-bloom-26-0519-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-fixed-26-0519-banner-end"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1780196399000"
         }
       }
     ]
@@ -278856,6 +279877,39 @@
     ]
   },
   {
+    "id": "cd-time-gacha-premium-26-0524",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779591600000",
+          "nowBefore": "1782269999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0524-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779591600000",
+          "nowBefore": "1779893999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0524-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1781967599000",
+          "nowBefore": "1782269999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-premium-shop-23-1024",
     "settings": [
       {
@@ -279269,6 +280323,17 @@
         "term": {
           "nowAfter": "1776999600000",
           "nowBefore": "1779591599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop-26-0524",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779591600000",
+          "nowBefore": "1782269999000"
         }
       }
     ]
@@ -297351,8 +298416,8 @@
       },
       {
         "term": {
-          "nowAfter": "1776610800000",
-          "nowBefore": "1776697199000"
+          "nowAfter": "1779202800000",
+          "nowBefore": "1779289199000"
         }
       },
       {
@@ -297953,6 +299018,17 @@
         "term": {
           "nowAfter": "1778338800000",
           "nowBefore": "1778425199000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-market-discount-day-26-0520",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779202800000",
+          "nowBefore": "1779289199000"
         }
       }
     ]
@@ -301678,6 +302754,124 @@
         },
         "term": {
           "nowAfter": "1656385200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-thrx-001-unit-26-0519",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-thrx-001-unit-26-0519-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "1779461999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-thrx-001-unit-26-0519-close-shoot",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-thrx-001-unit-26-0519-possession",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "0"
+        },
+        "obtainItem": {
+          "itemId": "item-cd_cover-music-0123"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-thrx-001-unit-26-0519-possession-01",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "0"
+        },
+        "obtainItem": {
+          "itemId": "item-cd_cover-music-0123"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-thrx-001-unit-26-0519-possession-02",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-tutorial-finish-photo-create-shooting"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "0"
+        },
+        "obtainItem": {
+          "itemId": "item-cd_cover-music-0123"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-thrx-001-unit-26-0519-possession-03",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-thrx-001-unit-26-0519-showcase-music",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1779159600000",
           "nowBefore": "0"
         }
       }
@@ -308563,6 +309757,17 @@
     ]
   },
   {
+    "id": "cd-time-shop-premium-26-0524-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779591600000",
+          "nowBefore": "1782269999000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-showcase-music-shop",
     "settings": [
       {
@@ -309208,6 +310413,17 @@
       {
         "term": {
           "nowAfter": "1776913200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-tower-26-0525",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779678000000",
           "nowBefore": "0"
         }
       }
@@ -344879,6 +346095,16 @@
       {
         "wearCostume": {
           "costumeId": "cos-mei-xmas-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-wear-costume-cos-mhk-chna-00",
+    "settings": [
+      {
+        "wearCostume": {
+          "costumeId": "cos-mhk-chna-00"
         }
       }
     ]

@@ -324,6 +324,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-cd_cover-music-0123",
+    "name": "カバー楽曲「Bang Bang(すず、沙季、雫 ver.)」",
+    "assetId": "cover-music-0123",
+    "description": "カバー楽曲「Bang Bang(すず、沙季、雫 ver.)」\nの鑑賞や撮影を、【撮影 > ライブ】から行うことができます。",
+    "howToGet": "ショップ",
+    "type": 3001,
+    "value": 1,
+    "order": 3000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-cd_cover-music-0922",
     "name": "カバー楽曲「Daytime Moon(サニーピースver.)」",
     "assetId": "cover-music-0922",
@@ -4440,6 +4452,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-26-0520",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -4789,6 +4813,18 @@
   },
   {
     "id": "item-gacha-premium-ticket-free-26-0424",
+    "name": "無料プレミアムガチャチケ",
+    "assetId": "gacha-ticket-premium-free",
+    "description": "プレミアムガチャを引くことができる",
+    "howToGet": "プレミアムガチャに遷移",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-premium-ticket-free-26-0524",
     "name": "無料プレミアムガチャチケ",
     "assetId": "gacha-ticket-premium-free",
     "description": "プレミアムガチャを引くことができる",
@@ -9072,6 +9108,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-26-0519",
+    "name": "いつかの彩りを纏ってガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -11716,6 +11764,18 @@
     "name": "「The Mad Tea Party」専用ガチャチケット",
     "assetId": "gacha-ticket-just",
     "description": "「The Mad Tea Party」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-26-0519-01",
+    "name": "「いつかの彩りを纏って」専用ガチャチケット",
+    "assetId": "gacha-ticket-just",
+    "description": "「いつかの彩りを纏って」ガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "アイドル活動ミッション",
     "type": 8,
     "value": 1,
@@ -14689,6 +14749,18 @@
   },
   {
     "id": "item-pose_medal-26-0417-01",
+    "name": "ポーズメダル",
+    "assetId": "medal-pose-26-0310",
+    "description": "ポーズメダル交換所でポーズなどと交換できる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 3001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-pose_medal-26-0519-01",
     "name": "ポーズメダル",
     "assetId": "medal-pose-26-0310",
     "description": "ポーズメダル交換所でポーズなどと交換できる\n使用期限終了後は消失します",

@@ -52708,6 +52708,667 @@
     "rarityType": 0
   },
   {
+    "id": "message-card-mhk-05-chna-00",
+    "messageGroupId": "message_group_mhk",
+    "name": "「紫扇が舞う夜」",
+    "type": 1,
+    "characterId": "char-mhk",
+    "unlockConditionId": "cd-st-read-st-card-mhk-05-chna-00-03",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-mhk",
+        "text": "一応、ご報告しておきますが",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-mhk",
+        "text": "以前の台湾行きの時は、大変申し訳なかったと伝えたかったそうで",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-mhk",
+        "text": "確かに、当時は恨みましたけどね",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-mhk",
+        "text": "実際あの後、大喧嘩して事務所を辞めましたし",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-mhk",
+        "text": "ただ葉ちゃんの要望を優先した結果だというのは、今なら分かります",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-mhk",
+        "text": "もう、あの人にわだかまりはありませんよ",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-mhk",
+        "text": "まあ、意外と冷静に返事が出来て、自分でもちょっと驚きましたが",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-mhk",
+        "text": "あの時は、一生許さないと思いましたけど",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-mhk",
+        "text": "時間が解決してくれることもあるものですね",
+        "nextMessageDetailIds": [
+          "18-1",
+          "18-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18-1",
+        "text": "そうですね",
+        "choiceText": "そうですね",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18-2",
+        "text": "本当ですね",
+        "choiceText": "本当ですね",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-mhk",
+        "text": "ただし",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-mhk",
+        "text": "昔の事務所のマネージャーから、久々に連絡が来ました",
+        "nextMessageDetailIds": [
+          "3-1",
+          "3-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-mhk",
+        "text": "解決までに数十年、もしかしたら一生かかるケースもありますけどね",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-mhk",
+        "text": "誰のこととは、あえて言いませんが",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-mhk",
+        "text": "あぁ、それと",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23",
+        "characterId": "char-mhk",
+        "text": "別で話していたソロ曲の件、よろしくお願いしますね",
+        "nextMessageDetailIds": [
+          "24-1",
+          "24-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24-1",
+        "text": "要望はありますか？",
+        "choiceText": "要望はありますか？",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24-2",
+        "text": "イメージはありますか？",
+        "choiceText": "イメージはありますか？",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25",
+        "characterId": "char-mhk",
+        "text": "要望はいろいろあって",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26",
+        "characterId": "char-mhk",
+        "text": "『Friend Glass』のイントロに寄せることで、歩き続けた道を引き継いで進むことを表現したり",
+        "nextMessageDetailIds": [
+          "27"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27",
+        "characterId": "char-mhk",
+        "text": "曲調も、ⅢXというよりは、アイドルソングを意識していただいて",
+        "nextMessageDetailIds": [
+          "28"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28",
+        "characterId": "char-mhk",
+        "text": "まぁ、後でまとめて送ります",
+        "nextMessageDetailIds": [
+          "29"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "29",
+        "characterId": "char-mhk",
+        "text": "今回のことと、琴乃のアンサーソングのことで",
+        "nextMessageDetailIds": [
+          "30"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-1",
+        "text": "もしかしてプレタポルテの？",
+        "choiceText": "もしかしてプレタポルテの？",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-2",
+        "text": "もしかして姫野さん！？",
+        "choiceText": "もしかして姫野さん！？",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "30",
+        "characterId": "char-mhk",
+        "text": "私にも思うことがあったので",
+        "nextMessageDetailIds": [
+          "31-1",
+          "31-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "31-1",
+        "text": "思うこと？",
+        "choiceText": "思うこと？",
+        "nextMessageDetailIds": [
+          "32"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "31-2",
+        "text": "どういうことですか？",
+        "choiceText": "どういうことですか？",
+        "nextMessageDetailIds": [
+          "32"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "32",
+        "characterId": "char-mhk",
+        "text": "過去の歌を、もう一度歌うだけでなく、私も新たな一歩を見せたいんです",
+        "nextMessageDetailIds": [
+          "33"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "33",
+        "characterId": "char-mhk",
+        "text": "想いを継ぎつつ、今の私らしく、クールで、少しだけ強気な曲で",
+        "nextMessageDetailIds": [
+          "34"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "34",
+        "characterId": "char-mhk",
+        "text": "一番素敵な姿を見せてあげたいんです",
+        "nextMessageDetailIds": [
+          "35-1",
+          "35-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "35-1",
+        "text": "力を尽くします",
+        "choiceText": "力を尽くします",
+        "nextMessageDetailIds": [
+          "36"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "35-2",
+        "text": "任せて下さい",
+        "choiceText": "任せて下さい",
+        "nextMessageDetailIds": [
+          "36"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "36",
+        "characterId": "char-mhk",
+        "text": "言質とりましたから",
+        "nextMessageDetailIds": [
+          "37"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "37",
+        "characterId": "char-mhk",
+        "text": "お願いしますね",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-mhk",
+        "text": "違います",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-mhk",
+        "text": "それより前の、Sundance時代にお世話になった方です",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-mhk",
+        "text": "まあ葉ちゃんが亡くなった後、私もプレタポルテに移りましたし",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-mhk",
+        "text": "今まで何年も音沙汰なかったのですが",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-mhk",
+        "text": "私の台湾ライブの記事を読んだらしく",
+        "nextMessageDetailIds": [
+          "9-1",
+          "9-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9-1",
+        "text": "それで連絡を…？",
+        "choiceText": "それで連絡を…？",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9-2",
+        "text": "なんと仰ってましたか？",
+        "choiceText": "なんと仰ってましたか？",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
     "id": "message-card-mhk-05-circ-00",
     "messageGroupId": "message_group_mhk",
     "name": "「ホイールオブマッハ」",

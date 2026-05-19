@@ -6230,6 +6230,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-mhk-05-chna-00-talk-01",
+    "characterId": "char-mhk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mhk-05-chna-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mhk-05-chna-00",
+    "choiceText": "それはお世辞じゃなくて、本当に\nそう思ってらっしゃるんですよ。",
+    "managerText": "それはお世辞じゃなくて、本当に\nそう思ってらっしゃるんですよ。",
+    "reliability": 5,
+    "title": "紫扇が舞う夜",
+    "displayConditionDescription": "紫扇が舞う夜 miho\nストーリー3話を視聴",
+    "order": 524,
+    "releaseDate": "1779159600000",
+    "characterTalks": [
+      {
+        "text": "まぁアメリカにも行きましたし、\n海外での知名度が上がるに越した\nことはないのですけど。",
+        "voiceAssetId": "sud_vo_home_mhk-05-chna-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-003_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "ただ個人的に、\nちょっと複雑な気分なだけです。",
+        "voiceAssetId": "sud_vo_home_mhk-05-chna-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-008_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-045_in"
+      },
+      {
+        "text": "まぁ…もし、あの子達と一緒に、\n台湾に行く機会があったとしても…",
+        "voiceAssetId": "sud_vo_home_mhk-05-chna-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "やたらと自分のブランドを\n売り込もうとする、\n厚顔無恥なfranを止めて。",
+        "voiceAssetId": "sud_vo_home_mhk-05-chna-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "SNSでウケそうな写真ばかり\n撮っているkanaを、\n叱ってばかりでしょうし。",
+        "voiceAssetId": "sud_vo_home_mhk-05-chna-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_sad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "また目が回るほど忙しくて、\n感傷に浸っている暇などないかも\nしれませんね。",
+        "voiceAssetId": "sud_vo_home_mhk-05-chna-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_deny-006_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-mhk-05-circ-00-talk-01",
     "characterId": "char-mhk",
     "placeType": 1,
