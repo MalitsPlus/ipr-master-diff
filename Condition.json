@@ -25568,6 +25568,28 @@
     ]
   },
   {
+    "id": "cd-dokan-broadcast-26-0526-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779789600000",
+          "nowBefore": "1779796800000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-broadcast-26-0526-01-pre",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1779703200000",
+          "nowBefore": "1779789599000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-dokan-campaign-22-0103",
     "settings": [
       {
@@ -309268,6 +309290,20 @@
         "term": {
           "nowAfter": "1778943600000",
           "nowBefore": "1779202799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-pvp-26-0527-0529_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1779807600000",
+          "nowBefore": "1780066799000"
         }
       }
     ]
