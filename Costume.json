@@ -648,6 +648,23 @@
     "isDisableAdmin": false
   },
   {
+    "id": "cos-ai-wedd-00",
+    "bodyAssetId": "ai-wedd-00",
+    "characterId": "char-ai",
+    "order": 476,
+    "name": "パワフル・ブライド",
+    "releaseDate": "1779850800000",
+    "costumeTypeId": "idol",
+    "sdAssetId": "ai-wedd-00",
+    "motifAssetId": "wedd-00",
+    "defaultHairId": "hair-ai-wedd-00",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "isUserUnavailable": false,
+    "isDisableAdmin": false
+  },
+  {
     "id": "cos-ai-yukt-00",
     "bodyAssetId": "ai-yukt-00",
     "characterId": "char-ai",
@@ -3108,6 +3125,23 @@
     "sdAssetId": "hrk-vlnt-00",
     "motifAssetId": "vlnt-00",
     "defaultHairId": "hair-hrk-vlnt-00",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "isUserUnavailable": false,
+    "isDisableAdmin": false
+  },
+  {
+    "id": "cos-hrk-wedd-00",
+    "bodyAssetId": "hrk-wedd-00",
+    "characterId": "char-hrk",
+    "order": 475,
+    "name": "エターナル・ブライド",
+    "releaseDate": "1779850800000",
+    "costumeTypeId": "idol",
+    "sdAssetId": "hrk-wedd-00",
+    "motifAssetId": "wedd-00",
+    "defaultHairId": "hair-hrk-wedd-00",
     "impossiblePhotoPoseTypes": [
       3
     ],

@@ -856,6 +856,25 @@
     "isDisableAdmin": false
   },
   {
+    "id": "hair-ai-wedd-00",
+    "hairAssetId": "ai-wedd-00",
+    "faceAssetId": "ai-base-00",
+    "sdHairAssetId": "ai-wedd-00",
+    "characterId": "char-ai",
+    "wearableCostumeIds": [
+      "cos-ai-wedd-00"
+    ],
+    "fittingCostumeId": "cos-ai-wedd-00",
+    "order": 476,
+    "name": "パワフル・ブライド",
+    "releaseTime": "1779850800000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": [],
+    "isDisableAdmin": false
+  },
+  {
     "id": "hair-ai-yukt-00",
     "hairAssetId": "ai-yukt-00",
     "faceAssetId": "ai-base-00",
@@ -3968,6 +3987,25 @@
     "order": 345,
     "name": "ラブリーバレンタイン",
     "releaseTime": "1738033200000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-hrk-wedd-00",
+    "hairAssetId": "hrk-wedd-00",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-wedd-00",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-wedd-00"
+    ],
+    "fittingCostumeId": "cos-hrk-wedd-00",
+    "order": 475,
+    "name": "エターナル・ブライド",
+    "releaseTime": "1779850800000",
     "impossiblePhotoPoseTypes": [
       3
     ],

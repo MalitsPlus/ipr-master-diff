@@ -642,6 +642,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ai-05-wedd-00-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-wedd-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-wedd-00",
+    "choiceText": "何を悩んでるんだ？",
+    "managerText": "何を悩んでるんだ？",
+    "reliability": 5,
+    "title": "困難砕く愛の誓い",
+    "displayConditionDescription": "困難砕く愛の誓い 小美山愛\nストーリー3話を視聴",
+    "order": 501,
+    "releaseDate": "1779850800000",
+    "characterTalks": [
+      {
+        "text": "実は…先日式を挙げた\n俳優さんから、メッセで\n理想の結婚相手を聞かれたんです。",
+        "voiceAssetId": "sud_vo_home_ai-05-wedd-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-015_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "「私のドレス姿に感動してたし」\nって、結婚願望があるのかと\n思われちゃって。",
+        "voiceAssetId": "sud_vo_home_ai-05-wedd-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私、そんなこと、\n今まで考えたこともないので\nどう答えたらいいのやら…",
+        "voiceAssetId": "sud_vo_home_ai-05-wedd-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "例えば、お父さんや\n{user}さんみたいに\n頼れる人とか…",
+        "voiceAssetId": "sud_vo_home_ai-05-wedd-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emb-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それと、元気な私についてきて、\n不安な時には寄り添ってくれて。\nあ、それって…",
+        "voiceAssetId": "sud_vo_home_ai-05-wedd-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "リズノワのみんなと、\n{user}さん…？\nなんて。えへへ",
+        "voiceAssetId": "sud_vo_home_ai-05-wedd-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-yukt-00-talk-01",
     "characterId": "char-ai",
     "placeType": 1,
@@ -2770,6 +2825,61 @@
         "text": "あのさ、もし私達が同じ学校に通う\nクラスメイトだったら……今頃、\nどんな関係になってたのかな。",
         "voiceAssetId": "sud_vo_home_hrk-05-vlnt-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-hrk-05-wedd-00-talk-01",
+    "characterId": "char-hrk",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-hrk-05-wedd-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-hrk-05-wedd-00",
+    "choiceText": "いきなりどうしたんですか？",
+    "managerText": "いきなりどうしたんですか？",
+    "reliability": 5,
+    "title": "ぬくもりに隠す本音",
+    "displayConditionDescription": "ぬくもりに隠す本音 佐伯遙子\nストーリー3話を視聴",
+    "order": 500,
+    "releaseDate": "1779850800000",
+    "characterTalks": [
+      {
+        "text": "私、この前『お嫁さんにしたい\nアイドル』ランキングでまた一位を\n取ったじゃない？",
+        "voiceAssetId": "sud_vo_home_hrk-05-wedd-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-017_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "周りでの結婚ラッシュもあって\n最近結婚について考えることが\n多くなってきたの",
+        "voiceAssetId": "sud_vo_home_hrk-05-wedd-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "もし私が結婚したら…\nみんなはどう思うんだろうって",
+        "voiceAssetId": "sud_vo_home_hrk-05-wedd-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なーんて、ちょっと結婚について\nついつい考えちゃう\nお年頃なのよね",
+        "voiceAssetId": "sud_vo_home_hrk-05-wedd-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "このままずっと結婚しないまま\n年齢を重ねていった時は\nキミと同盟でも結ぼうかしら",
+        "voiceAssetId": "sud_vo_home_hrk-05-wedd-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_talk-001_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-014_in"
+      },
+      {
+        "text": "って、これじゃあキミに\n結婚して欲しくないみたいに\n聞こえちゃうわね…ふふっ",
+        "voiceAssetId": "sud_vo_home_hrk-05-wedd-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
         "additionMotionAssetId": ""
       }
     ],
