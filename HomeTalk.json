@@ -13390,6 +13390,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-suz-05-wedd-00-talk-01",
+    "characterId": "char-suz",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-suz-05-wedd-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-suz-05-wedd-00",
+    "choiceText": "すずにも結婚願望があるのか？",
+    "managerText": "すずにも結婚願望があるのか？",
+    "reliability": 5,
+    "title": "背伸びで誓うマリアージュ",
+    "displayConditionDescription": "背伸びで誓うマリアージュ 成宮すず\nストーリー3話を視聴",
+    "order": 527,
+    "releaseDate": "1780628400000",
+    "characterTalks": [
+      {
+        "text": "それは、ありますわよ。\n素敵な方と出会い、\n愛を育み、結ばれる…",
+        "voiceAssetId": "sud_vo_home_suz-05-wedd-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_glad-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そんな理想の恋愛結婚を\n頭の中で何度、\n思い描いたことか…",
+        "voiceAssetId": "sud_vo_home_suz-05-wedd-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今も目を閉じれば、\n結婚式でウエディングドレスを着た\n幸せそうな私の姿が目に浮かびます",
+        "voiceAssetId": "sud_vo_home_suz-05-wedd-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そして私の隣では、大きな愛で\n包んでくれる、世界一の花婿が\n優しく微笑んでいるのですわ。",
+        "voiceAssetId": "sud_vo_home_suz-05-wedd-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　その花婿はどんな人か？\nそうですわね…目を閉じた時に\n思い浮かぶ相手の顔は…",
+        "voiceAssetId": "sud_vo_home_suz-05-wedd-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "べ、別にどんな相手でも\nいいではありませんか！\nあ、あなたには関係ありませんわ！",
+        "voiceAssetId": "sud_vo_home_suz-05-wedd-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-016_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-suz-05-xmas-00-talk-01",
     "characterId": "char-suz",
     "placeType": 1,

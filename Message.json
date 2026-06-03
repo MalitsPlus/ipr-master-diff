@@ -113296,6 +113296,562 @@
     "rarityType": 0
   },
   {
+    "id": "message-card-suz-05-wedd-00",
+    "messageGroupId": "message_group_suz",
+    "name": "「背伸びで誓うマリアージュ」",
+    "type": 1,
+    "characterId": "char-suz",
+    "unlockConditionId": "cd-st-read-st-card-suz-05-wedd-00-03",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-suz",
+        "text": "ウエディングドレスでの練習に付き合ってくれてありがとうございました",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10-1",
+        "text": "琴乃と結婚式をしたのか",
+        "choiceText": "琴乃と結婚式をしたのか",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10-2",
+        "text": "新郎役が似合いそうだ",
+        "choiceText": "新郎役が似合いそうだ",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-suz",
+        "text": "ですが練習中にいきなり渚が乱入して",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-suz",
+        "text": "琴乃ちゃんは渡さないよ！",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-suz",
+        "text": "などと訳の分からないことを言い出して",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-suz",
+        "text": "結婚式の途中で花婿を連れ去られてしまったのですわ",
+        "nextMessageDetailIds": [
+          "15-1",
+          "15-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-1",
+        "text": "相手が悪かったな",
+        "choiceText": "相手が悪かったな",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15-2",
+        "text": "新郎の人選ミスだな",
+        "choiceText": "新郎の人選ミスだな",
+        "nextMessageDetailIds": [
+          "16"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16",
+        "characterId": "char-suz",
+        "stampAssetId": "dog-tears",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-suz",
+        "text": "その後、別の人とも練習したんです",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-suz",
+        "text": "今度は寮で一番背の高い瑠依さんに新郎役をお願いしたのですわ",
+        "nextMessageDetailIds": [
+          "19-1",
+          "19-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19-1",
+        "text": "その人選は…",
+        "choiceText": "その人選は…",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19-2",
+        "text": "嫌な予感がするな",
+        "choiceText": "嫌な予感がするな",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-suz",
+        "text": "おかげで本番ではスムーズに撮影出来ましたわ",
+        "nextMessageDetailIds": [
+          "3-1",
+          "3-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-suz",
+        "text": "それで瑠依さんと結婚式をしていたら",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-suz",
+        "text": "優が乱入して愛し合う二人の仲は引き裂かれたのですわ",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-suz",
+        "stampAssetId": "cat-angry",
+        "nextMessageDetailIds": [
+          "23-1",
+          "23-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23-1",
+        "text": "そうなると思ったよ",
+        "choiceText": "そうなると思ったよ",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23-2",
+        "text": "新郎の人選ミスだな",
+        "choiceText": "新郎の人選ミスだな",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-suz",
+        "text": "結局私とちゃんと結婚出来た相手は{user}さんだけでした",
+        "nextMessageDetailIds": [
+          "25"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25",
+        "characterId": "char-suz",
+        "text": "訂正！",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26",
+        "characterId": "char-suz",
+        "text": "結婚式を練習出来た相手、ですわ",
+        "nextMessageDetailIds": [
+          "27"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27",
+        "characterId": "char-suz",
+        "text": "改めて感謝申し上げます",
+        "nextMessageDetailIds": [
+          "28"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28",
+        "characterId": "char-suz",
+        "text": "私と結婚してくださってありがとうございました",
+        "nextMessageDetailIds": [
+          "29"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "29",
+        "characterId": "char-suz",
+        "stampAssetId": "cat-wow",
+        "nextMessageDetailIds": [
+          "30"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-1",
+        "text": "役に立てて良かった",
+        "choiceText": "役に立てて良かった",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-2",
+        "text": "いつでも手伝うよ",
+        "choiceText": "いつでも手伝うよ",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "30",
+        "characterId": "char-suz",
+        "text": "結婚の練習をしてくださって、ですわ！",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-suz",
+        "text": "練習では{user}さんに新郎役をお願いしましたが",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-suz",
+        "text": "実は他の人にも練習を手伝ってもらったんです",
+        "nextMessageDetailIds": [
+          "6-1",
+          "6-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6-1",
+        "text": "他の人？",
+        "choiceText": "他の人？",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6-2",
+        "text": "誰なんだ？",
+        "choiceText": "誰なんだ？",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-suz",
+        "text": "月ストで一番背が高い琴乃に新郎役をお願いして",
+        "nextMessageDetailIds": [
+          "8"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8",
+        "characterId": "char-suz",
+        "text": "二人で結婚式の練習をしたのですわ",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-suz",
+        "stampAssetId": "dog-love",
+        "nextMessageDetailIds": [
+          "10-1",
+          "10-2"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
     "id": "message-card-suz-05-xmas-00",
     "messageGroupId": "message_group_suz",
     "name": "「恵みを運ぶアイドルサンタ」",
