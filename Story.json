@@ -608,6 +608,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-kor-26-0611",
+    "name": "fran 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はfranさんの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "動画配信サイトのギフト券",
+        "advAssetId": "hbd_06_kor_01"
+      },
+      {
+        "index": 2,
+        "text": "ピカピカお掃除セット",
+        "advAssetId": "hbd_06_kor_02"
+      },
+      {
+        "index": 3,
+        "text": "kanaのレアカード",
+        "advAssetId": "hbd_06_kor_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-ktn-23-1225",
     "name": "長瀬琴乃 誕生日2023",
     "advPlayTypes": [
@@ -7444,6 +7476,60 @@
     ],
     "advAssetIds": [
       "card_kor_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kor-05-birt-02-01",
+    "name": "なんで\n莉央が\n不機嫌に",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kor-05-birt-02-02",
+    "name": "手作りの\nチケット？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-kor-05-birt-02-03",
+    "name": "私らしい\n誕生日",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_kor_53_03"
     ],
     "sectionName": "",
     "description": "",
