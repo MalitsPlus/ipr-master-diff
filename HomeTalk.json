@@ -7850,6 +7850,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ngs-05-link-00-talk-01",
+    "characterId": "char-ngs",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ngs-05-link-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ngs-05-link-00",
+    "choiceText": "急だな…",
+    "managerText": "急だな…",
+    "reliability": 5,
+    "title": "二人の絆が照らす今",
+    "displayConditionDescription": "二人の絆が照らす今 伊吹渚\nストーリー3話を視聴",
+    "order": 526,
+    "releaseDate": "1781233200000",
+    "characterTalks": [
+      {
+        "text": "いえいえ、そんなことないですよ！\nいつも頑張ってて\nとっても偉いと思いまして。",
+        "voiceAssetId": "sud_vo_home_ngs-05-link-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "琴乃ちゃんの看病をした時\n琴乃ちゃんに甘えてもらって\nなんだかいいなって思いまして。",
+        "voiceAssetId": "sud_vo_home_ngs-05-link-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "頑張ってる人は頑張ってるねって\nちゃんと誰かが褒めてあげて\nよしよししてあげるべき！",
+        "voiceAssetId": "sud_vo_home_ngs-05-link-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そう改めて思ったんです。\nだから{user}さんも\n甘えていいんですよ？",
+        "voiceAssetId": "sud_vo_home_ngs-05-link-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "さぁ、遠慮はいりませんよ？\nでも、{user}さんが\n良ければ…",
+        "voiceAssetId": "sud_vo_home_ngs-05-link-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私のこともよしよししてほしいな…\nって思ったり。ふふふっ。",
+        "voiceAssetId": "sud_vo_home_ngs-05-link-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_moji-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ngs-05-maid-01-talk-01",
     "characterId": "char-ngs",
     "placeType": 1,

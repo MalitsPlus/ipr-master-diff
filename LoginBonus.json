@@ -3077,6 +3077,48 @@
     "receiveConditionId": "cd-time-login02-26-0430-0513"
   },
   {
+    "id": "login_bonus-campaign02-26-0613-01",
+    "name": "絆シリーズ\n開催記念",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0613-01",
+    "topColorCode": "f685b6",
+    "bottomColorCode": "84a5f2",
+    "priority": 9,
+    "rewardIds": [
+      "rd_auto;decoration;deco-login-campaign-26-0613-01;1",
+      "rd_auto;item;item-daily_quest_ticket_02;3",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-26-0613-0619",
+    "receiveConditionId": "cd-time-login02-26-0613-0626"
+  },
+  {
+    "id": "login_bonus-campaign02-26-0613-02",
+    "name": "もうすぐ\n5周年記念 第2弾",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0613-02",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 9,
+    "rewardIds": [
+      "rd_auto;item;item-exchange-5th-anniversary-medal-26-0527;10",
+      "rd_auto;item;item-daily_quest_ticket_03;3",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;item;item-act_promotion_shorten;5",
+      "rd_auto;item;item-exchange-5th-anniversary-medal-26-0527;10",
+      "rd_auto;item;item-daily_quest_ticket_01;3",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-26-0613-0619-02",
+    "receiveConditionId": "cd-time-login02-26-0613-0626-02"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",

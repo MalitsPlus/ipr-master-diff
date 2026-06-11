@@ -66376,6 +66376,651 @@
     "rarityType": 0
   },
   {
+    "id": "message-card-ngs-05-link-00",
+    "messageGroupId": "message_group_ngs",
+    "name": "「二人の絆が照らす今」",
+    "type": 1,
+    "characterId": "char-ngs",
+    "unlockConditionId": "cd-st-read-st-card-ngs-05-link-00-03",
+    "details": [
+      {
+        "messageDetailId": "1",
+        "characterId": "char-ngs",
+        "text": "{user}さん",
+        "nextMessageDetailIds": [
+          "2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "10",
+        "characterId": "char-ngs",
+        "text": "どこかで桃缶が最適という話を聞いたのを思い出したんです",
+        "nextMessageDetailIds": [
+          "11"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "11",
+        "characterId": "char-ngs",
+        "text": "それで改めて調べ直して、琴乃ちゃんにプレゼントしました",
+        "nextMessageDetailIds": [
+          "12"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "12",
+        "characterId": "char-ngs",
+        "text": "おかげで琴乃ちゃんはすぐ元気になりましたし",
+        "nextMessageDetailIds": [
+          "13"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "13",
+        "characterId": "char-ngs",
+        "text": "桃缶はすごいですね",
+        "nextMessageDetailIds": [
+          "14"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "14",
+        "characterId": "char-ngs",
+        "text": "それで、結論出ましたか？",
+        "nextMessageDetailIds": [
+          "15"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "15",
+        "characterId": "char-ngs",
+        "text": "体調を崩したとき、{user}さんが欲しいもの",
+        "nextMessageDetailIds": [
+          "16-1",
+          "16-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16-1",
+        "text": "消化にいいものがいいかな",
+        "choiceText": "消化にいいものがいいかな",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "16-2",
+        "text": "おかゆ、とか？",
+        "choiceText": "おかゆ、とか？",
+        "nextMessageDetailIds": [
+          "17"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "17",
+        "characterId": "char-ngs",
+        "text": "ではもし{user}さんが体調を崩しちゃったら",
+        "nextMessageDetailIds": [
+          "18"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "18",
+        "characterId": "char-ngs",
+        "text": "私が手作りのおかゆを作りにいってあげます！",
+        "nextMessageDetailIds": [
+          "19"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "19",
+        "characterId": "char-ngs",
+        "text": "つまり私自身が差し入れ？",
+        "nextMessageDetailIds": [
+          "20"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "2",
+        "characterId": "char-ngs",
+        "text": "体調を崩したとき、何をもらったら嬉しいですか？",
+        "nextMessageDetailIds": [
+          "3-1",
+          "3-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "20",
+        "characterId": "char-ngs",
+        "stampAssetId": "dog-wow",
+        "nextMessageDetailIds": [
+          "21"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "21",
+        "characterId": "char-ngs",
+        "text": "な",
+        "nextMessageDetailIds": [
+          "22"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "22",
+        "characterId": "char-ngs",
+        "text": "なぜ気づかなかったんでしょうか",
+        "nextMessageDetailIds": [
+          "23"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "23",
+        "characterId": "char-ngs",
+        "text": "そういう形で琴乃ちゃんを看病しに行っていれば",
+        "nextMessageDetailIds": [
+          "24"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "24",
+        "characterId": "char-ngs",
+        "text": "もっともっともっともっと琴乃ちゃんに甘えてもらえたかも！？",
+        "nextMessageDetailIds": [
+          "25-1",
+          "25-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25-1",
+        "text": "話が飛躍しているぞ",
+        "choiceText": "話が飛躍しているぞ",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "25-2",
+        "text": "とりあえず落ち着いてくれ",
+        "choiceText": "とりあえず落ち着いてくれ",
+        "nextMessageDetailIds": [
+          "26"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "26",
+        "characterId": "char-ngs",
+        "text": "では、とりあえず",
+        "nextMessageDetailIds": [
+          "27"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "27",
+        "characterId": "char-ngs",
+        "text": "それは次の機会に取っておきます",
+        "nextMessageDetailIds": [
+          "28"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "28",
+        "characterId": "char-ngs",
+        "text": "{user}さんも楽しみにしていて下さいね",
+        "nextMessageDetailIds": [
+          "29-1",
+          "29-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "29-1",
+        "text": "俺も？",
+        "choiceText": "俺も？",
+        "nextMessageDetailIds": [
+          "30"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "29-2",
+        "text": "もし体調を崩したら頼むよ",
+        "choiceText": "もし体調を崩したら頼むよ",
+        "nextMessageDetailIds": [
+          "30"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-1",
+        "text": "うーん、なんだろう",
+        "choiceText": "うーん、なんだろう",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "3-2",
+        "text": "悩むなぁ",
+        "choiceText": "悩むなぁ",
+        "nextMessageDetailIds": [
+          "4"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "30",
+        "characterId": "char-ngs",
+        "text": "かわりに私が体調を崩したら",
+        "nextMessageDetailIds": [
+          "31"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "31",
+        "characterId": "char-ngs",
+        "text": "{user}さん自身が差し入れになってくれたら",
+        "nextMessageDetailIds": [
+          "32"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "32",
+        "characterId": "char-ngs",
+        "text": "えっとつまり1日傍にいてくれたら、心強いなぁ",
+        "nextMessageDetailIds": [
+          "33"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "33",
+        "characterId": "char-ngs",
+        "stampAssetId": "bear-love",
+        "nextMessageDetailIds": [
+          "34"
+        ],
+        "text": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "34",
+        "characterId": "char-ngs",
+        "text": "その時が来たら、一杯甘やかしてくださいね",
+        "nextMessageDetailIds": [
+          "35"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "35",
+        "characterId": "char-ngs",
+        "text": "まずはお互い体調を崩さないこと",
+        "nextMessageDetailIds": [
+          "36"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "36",
+        "characterId": "char-ngs",
+        "text": "それが第一ですけどね",
+        "nextMessageDetailIds": [
+          "37"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "37",
+        "characterId": "char-ngs",
+        "text": "これからも元気に頑張りましょうね！",
+        "reliability": 2,
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "nextMessageDetailIds": []
+      },
+      {
+        "messageDetailId": "4",
+        "characterId": "char-ngs",
+        "text": "私が琴乃ちゃんに持って行った、桃缶は",
+        "nextMessageDetailIds": [
+          "5"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "5",
+        "characterId": "char-ngs",
+        "text": "栄養豊富で食べやすくて",
+        "nextMessageDetailIds": [
+          "6"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "6",
+        "characterId": "char-ngs",
+        "text": "喉が痛い時でもスッと食べれるので",
+        "nextMessageDetailIds": [
+          "7"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "7",
+        "characterId": "char-ngs",
+        "text": "差し入れとして重宝されていたみたいなんです",
+        "nextMessageDetailIds": [
+          "8-1",
+          "8-2"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8-1",
+        "text": "詳しいな",
+        "choiceText": "詳しいな",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "8-2",
+        "text": "甘い味なのもいいよな",
+        "choiceText": "甘い味なのもいいよな",
+        "nextMessageDetailIds": [
+          "9"
+        ],
+        "characterId": "",
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      },
+      {
+        "messageDetailId": "9",
+        "characterId": "char-ngs",
+        "text": "はい。琴乃ちゃんに最高の差し入れをしようと思いまして",
+        "nextMessageDetailIds": [
+          "10"
+        ],
+        "stampAssetId": "",
+        "imageAssetId": "",
+        "telephoneId": "",
+        "choiceText": "",
+        "delayMinutes": 0,
+        "readMinutes": 0,
+        "reliability": 0
+      }
+    ],
+    "instantType": 0,
+    "rarityType": 0
+  },
+  {
     "id": "message-card-ngs-05-maid-01",
     "messageGroupId": "message_group_ngs",
     "name": "「二人で萌え萌えきゅん！」",
