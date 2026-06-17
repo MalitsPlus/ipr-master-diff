@@ -13501,6 +13501,444 @@
     "assetId": ""
   },
   {
+    "id": "sk-aoi-05-birt-02-1",
+    "name": "大きくな～れ成長牛乳",
+    "categoryType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "description": "900%のスコア獲得、テンションUP状態の段階数が多い程効果上昇\nスタミナ590消費 ",
+        "shortDescription": "\nスタミナ590消費 ",
+        "stamina": 590,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-tension_up-9000-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "1000%のスコア獲得、テンションUP状態の段階数が多い程効果上昇\nスタミナ655消費 ",
+        "shortDescription": "\nスタミナ655消費 ",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 655,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-tension_up-10000-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "1100%のスコア獲得、テンションUP状態の段階数が多い程効果上昇\nスタミナ721消費 ",
+        "shortDescription": "\nスタミナ721消費 ",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 721,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-tension_up-11000-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "1200%のスコア獲得、テンションUP状態の段階数が多い程効果上昇\nスタミナ786消費 ",
+        "shortDescription": "\nスタミナ786消費 ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 786,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-tension_up-12000-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "1350%のスコア獲得、テンションUP状態の段階数が多い程効果上昇\nスタミナ885消費 ",
+        "shortDescription": "\nスタミナ885消費 ",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 885,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-tension_up-13500-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "1500%のスコア獲得、テンションUP状態の段階数が多い程効果上昇\nスタミナ983消費 ",
+        "shortDescription": "\nスタミナ983消費 ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 983,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_status_effect_type_grade-tension_up-15000-chart_dependence",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": "sk-aoi-05-birt-02-1"
+  },
+  {
+    "id": "sk-aoi-05-birt-02-2",
+    "name": "呼び込み用の着ぐるみ",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "350%のスコア獲得 \n自身に6段階の集目効果[21ビート]とテンションUP超化効果[21ビート]\nスタミナ112消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-6-target-self-21",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_tension_up-10-target-self-21",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "370%のスコア獲得 \n自身に6段階の集目効果[27ビート]とテンションUP超化効果[27ビート] \nスタミナ122消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ122消費 CT:30",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 122,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-6-target-self-27",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_tension_up-10-target-self-27",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "390%のスコア獲得 \n自身に6段階の集目効果[33ビート]とテンションUP超化効果[33ビート] \nスタミナ131消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ131消費 CT:30",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 131,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-6-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_tension_up-10-target-self-33",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "410%のスコア獲得 \n自身に7段階の集目効果[33ビート]とテンションUP超化効果[33ビート] \nスタミナ137消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ137消費 CT:30",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 137,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_tension_up-10-target-self-33",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "430%のスコア獲得 \n自身に7段階の集目効果[39ビート]とテンションUP超化効果[39ビート] \nスタミナ147消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ147消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 147,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-self-39",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_tension_up-10-target-self-39",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "450%のスコア獲得 \n自身に7段階の集目効果[46ビート]とテンションUP超化効果[46ビート] \nスタミナ157消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ157消費 CT:30",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 157,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-self-46",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_tension_up-10-target-self-46",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-aoi-05-birt-02-3",
+    "name": "こころと分けたい豆乳",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身がダンスレーンの時 \n自身に3段階テンションUP効果[27ビート]と3段階ダンス上昇効果[27ビート] \nスタミナ167消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ167消費 CT:50",
+        "stamina": 167,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-3-target-self-27",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-3-target-self-27",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身がダンスレーンの時 \n自身に3段階テンションUP効果[30ビート]と3段階ダンス上昇効果[30ビート] \nスタミナ186消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ186消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 186,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-3-target-self-30",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-3-target-self-30",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身がダンスレーンの時 \n自身に3段階テンションUP効果[33ビート]と3段階ダンス上昇効果[33ビート] \nスタミナ204消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ204消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 204,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-3-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-3-target-self-33",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身がダンスレーンの時 \n自身に4段階テンションUP効果[33ビート]と4段階ダンス上昇効果[33ビート] \nスタミナ272消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ272消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 272,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-4-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-4-target-self-33",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身がダンスレーンの時 \n自身に4段階テンションUP効果[36ビート]と4段階ダンス上昇効果[36ビート] \nスタミナ297消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ297消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 297,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-4-target-self-36",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-4-target-self-36",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身がダンスレーンの時 \n自身に4段階テンションUP効果[40ビート]と4段階ダンス上昇効果[40ビート]\nスタミナ330消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ330消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 330,
+        "triggerId": "tg-position_attribute_dance",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-tension_up-4-target-self-40",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-dance_up-4-target-self-40",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-aoi-05-circ-00-1",
     "name": "やるなら悪役を",
     "categoryType": 2,

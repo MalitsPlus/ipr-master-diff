@@ -11550,6 +11550,61 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_tension_up-10-target-self-21",
+    "name": "自身にテンションUP超化",
+    "type": 110,
+    "description": "自身にテンションUP超化効果[21ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_tension_up-10-target-self-27",
+    "name": "自身にテンションUP超化",
+    "type": 110,
+    "description": "自身にテンションUP超化効果[27ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_tension_up-10-target-self-33",
+    "name": "自身にテンションUP超化",
+    "type": 110,
+    "description": "自身にテンションUP超化効果[33ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_tension_up-10-target-self-39",
+    "name": "自身にテンションUP超化",
+    "type": 110,
+    "description": "自身にテンションUP超化効果[39ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_tension_up-10-target-self-46",
+    "name": "自身にテンションUP超化",
+    "type": 110,
+    "description": "自身にテンションUP超化効果[46ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_visual_up-10-target-all-23",
     "name": "全員にビジュアル上昇超化効果",
     "type": 96,
@@ -98927,6 +98982,17 @@
     "name": "自身にテンションUP効果",
     "type": 38,
     "description": "自身に3段階テンションUP効果[26ビート]",
+    "grade": 3,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-3-target-self-27",
+    "name": "自身にテンションUP効果",
+    "type": 38,
+    "description": "自身に3段階テンションUP効果[27ビート]",
     "grade": 3,
     "maxGrade": 10,
     "skillTargetId": "target-self",

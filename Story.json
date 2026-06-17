@@ -160,6 +160,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-aoi-26-0619",
+    "name": "井川葵 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は葵の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "『BEIJU』のライブチケット",
+        "advAssetId": "hbd_06_aoi_01"
+      },
+      {
+        "index": 2,
+        "text": "平島エリカのダンスライブチケット",
+        "advAssetId": "hbd_06_aoi_02"
+      },
+      {
+        "index": 3,
+        "text": "子犬型のおもちゃ",
+        "advAssetId": "hbd_06_aoi_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-chs-23-1122",
     "name": "白石千紗 誕生日2023",
     "advPlayTypes": [
@@ -2994,6 +3026,60 @@
     ],
     "advAssetIds": [
       "card_aoi_52_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-aoi-05-birt-02-01",
+    "name": "mihoは\nAIの達人\nだね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_53_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-aoi-05-birt-02-02",
+    "name": "ごあん\nなーい！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_53_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-aoi-05-birt-02-03",
+    "name": "好き\nじゃないの？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_aoi_53_03"
     ],
     "sectionName": "",
     "description": "",
@@ -41232,6 +41318,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-01-limited",
+    "sectionName": "To Soar High",
+    "name": "密着取材",
+    "description": "星見プロ所属グループのリーダー達に密着したテレビ番組が放送されることに。関係者として取材を受けていたあなたも番組を見つめ、星見プロのアイドル達とこれまでの出来事を振り返るのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_01_01"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-02",
     "sectionName": "To Soar High",
     "name": "星見プロの\n歩み",
@@ -41243,6 +41347,24 @@
     "advAssetIds": [
       "main_04_01_02"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-02-limited",
+    "sectionName": "To Soar High",
+    "name": "星見プロの\n歩み",
+    "description": "番組は過去の映像を交えながら進行。星見プロの歩みを辿っていくような演出に、集まって視聴していたアイドル達は感動した様子を見せる。そして番組終盤、ついに関係者としてあなたの紹介パートへと差し掛かるが……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_01_02"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41268,6 +41390,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-03-limited",
+    "sectionName": "To Soar High",
+    "name": "VENUS\nグランプリ",
+    "description": "残念ながら密着番組のあなたの出番はカットされていた。その翌日、ナンバーワンアイドルを決めるVENUSグランプリ開催の告知が届く。その大会に琴乃とさくらが闘志を燃やす中、瑠依からは不穏なメッセージが届いていた。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_01_03"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-04",
     "sectionName": "To Soar High",
     "name": "前に進む\nために",
@@ -41279,6 +41419,24 @@
     "advAssetIds": [
       "main_04_01_04"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-04-limited",
+    "sectionName": "To Soar High",
+    "name": "前に進む\nために",
+    "description": "瑠依からのメッセージ――それは、あるグループとのライブバトルを申し出るものだった。グランプリの舞台を待てないと言う彼女達に、あなたは許可するべきか頭を悩ませる。そんな折、意外な二人の姿を目撃して……？",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_01_04"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41304,6 +41462,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-05-limited",
+    "sectionName": "To Soar High",
+    "name": "隠し事",
+    "description": "三枝とどりきゅんの密会がどうしても気になるあなた。しかし、トリエルとサニピの対戦についても結論を出さなければならない。そこで意を決して三枝のもとを訪れるが、突如どりきゅんと相対することになる――。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_01_05"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-06",
     "sectionName": "Nemophila",
     "name": "信じて見守ること",
@@ -41315,6 +41491,24 @@
     "advAssetIds": [
       "main_04_02_01"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-06-limited",
+    "sectionName": "Nemophila",
+    "name": "信じて見守ること",
+    "description": "どりきゅんと予期せぬ再会を果たしたあなた。BIG4として戦い続けてきた二人に、あなたはあることを相談する。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_02_01"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41340,6 +41534,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-07-limited",
+    "sectionName": "Nemophila",
+    "name": "約束を果たす時",
+    "description": "どりきゅんの二人や遙子と話し、心を決めたあなたは、サニーピースにTRINITYAiLEが対戦を申し込んできていることを伝える。NEXT VENUSグランプリ以来の直接対決に向け、両者は動き出す。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_02_02"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-08",
     "sectionName": "Nemophila",
     "name": "最高のライブバトルに",
@@ -41351,6 +41563,24 @@
     "advAssetIds": [
       "main_04_02_03"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-08-limited",
+    "sectionName": "Nemophila",
+    "name": "最高のライブバトルに",
+    "description": "サニーピースとの対決に向けて、熱が入っているTRINITYAiLE。そんな彼女達を中心に、mihoなど周囲の者達の想いも交錯していく。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_02_03"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41376,6 +41606,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-09-limited",
+    "sectionName": "Nemophila",
+    "name": "最強の挑戦者",
+    "description": "ライブバトル当日。百連勝を成し遂げ、ランキング五位にまで上り詰めた最強の挑戦者、TRINITYAiLE。それを迎え撃つ、王者サニーピース。両者は持てる力の全てを出し切って、ぶつかり合うが――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_02_04"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-10",
     "sectionName": "Nemophila",
     "name": "持つ者と持たざる者",
@@ -41387,6 +41635,24 @@
     "advAssetIds": [
       "main_04_02_05"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-10-limited",
+    "sectionName": "Nemophila",
+    "name": "持つ者と持たざる者",
+    "description": "ライブバトル終了後。様々な想いが交わる中、これまでBIG4の一角、サニーピースのリーダーとして走り続けてきたさくらにも、変化が見えるのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_02_05"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41412,6 +41678,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-11-limited",
+    "sectionName": "To Fly Higher",
+    "name": "諦めない\nために",
+    "description": "サニーピースに敗北し、思い悩む瑠依。どうしたら彼女達に追いつけるのか、道が見えずにいると、予期せぬ人物に声を掛けられる。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_03_01"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-12",
     "sectionName": "To Fly Higher",
     "name": "輝くための\n答え",
@@ -41423,6 +41707,24 @@
     "advAssetIds": [
       "main_04_03_02"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-12-limited",
+    "sectionName": "To Fly Higher",
+    "name": "輝くための\n答え",
+    "description": "敗北の衝撃は、瑠依だけでなく、優とすみれにも響いていた。思い悩む二人だが、そんな彼女達に、同じ星見プロの仲間が寄り添う。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_03_02"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41448,6 +41750,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-13-limited",
+    "sectionName": "To Fly Higher",
+    "name": "もっと高く",
+    "description": "それぞれ思い悩み、改めて三人で話し合うことにしたTRINITYAiLE。彼女達が出した答えは、あなたにとっては衝撃的な内容で――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_03_03"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-14",
     "sectionName": "To Fly Higher",
     "name": "仲間で友達",
@@ -41459,6 +41779,24 @@
     "advAssetIds": [
       "main_04_03_04"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-14-limited",
+    "sectionName": "To Fly Higher",
+    "name": "仲間で友達",
+    "description": "活動休止。それはアイドルにとっては非常に重く、デメリットも多い。だが、それだけの決断をしたTRINITYAiLEの想いを、同じ事務所の仲間達は誰よりも理解していた。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_03_04"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41484,6 +41822,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-15-limited",
+    "sectionName": "To Fly Higher",
+    "name": "心からの笑顔",
+    "description": "TRINITYAiLEのことだけでなく、さくらのことも気になっているあなた。彼女の変化に気付いているのは、あなただけではないようで――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_03_05"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-16",
     "sectionName": "Hoshimi's Festival",
     "name": "海渡る黒百合",
@@ -41495,6 +41851,24 @@
     "advAssetIds": [
       "main_04_04_01"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-16-limited",
+    "sectionName": "Hoshimi's Festival",
+    "name": "海渡る黒百合",
+    "description": "あなたの主導により、星見プロ主催のフェスの企画が進んでいた。そんな中、BIG4になってから海外で活動していた、あのグループが帰国してくる。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_04_01"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41520,6 +41894,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-17-limited",
+    "sectionName": "Hoshimi's Festival",
+    "name": "私達の居場所",
+    "description": "TRINITYAiLEがフェスに参加しないことを知り、様々な思いを抱くアイドル達。さくらもまた、複雑な心境だった。そんな彼女に、莉央と琴乃が声を掛ける。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_04_02"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-18",
     "sectionName": "Hoshimi's Festival",
     "name": "笑顔に\nなれるように",
@@ -41531,6 +41923,24 @@
     "advAssetIds": [
       "main_04_04_03"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-18-limited",
+    "sectionName": "Hoshimi's Festival",
+    "name": "笑顔に\nなれるように",
+    "description": "フェスに向けて、アイドル達はそれぞれ企画を考えていた。どれも独創的で、来てくれる人々を楽しませようという思いに溢れている。さらに、フェスにはⅢXも参加するようで――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_04_03"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41556,6 +41966,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-19-limited",
+    "sectionName": "Hoshimi's Festival",
+    "name": "アイドル\nフェス\nティバル",
+    "description": "いよいよフェス当日。アイドル達が準備してきた成果を、あなたも空き時間を使って見て回ることにする。そこには、コラボメニューなど、様々なものがあり――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_04_04"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-20",
     "sectionName": "Hoshimi's Festival",
     "name": "みんなに\n感謝を込めて",
@@ -41567,6 +41995,24 @@
     "advAssetIds": [
       "main_04_04_05"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-20-limited",
+    "sectionName": "Hoshimi's Festival",
+    "name": "みんなに\n感謝を込めて",
+    "description": "フェスも大詰め。ステージでは、それぞれのグループがパフォーマンスを披露していた。その中にはもちろん、BIG4の一角、見る者を笑顔にする太陽のようなアイドルグループ、サニーピースもおり――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_04_05"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41592,6 +42038,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-21-limited",
+    "sectionName": "We Are The Sun",
+    "name": "四人のピース",
+    "description": "フェスの終了直後、突然倒れてしまったさくら。サニピメンバーは、『病気が再発したんじゃないか』、『もうアイドルを続けられないんじゃないか』と不安を募らせる。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_01"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-22",
     "sectionName": "We Are The Sun",
     "name": "大きな負担",
@@ -41603,6 +42067,24 @@
     "advAssetIds": [
       "main_04_05_02"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-22-limited",
+    "sectionName": "We Are The Sun",
+    "name": "大きな負担",
+    "description": "四人でも、BIG4に恥じないパフォーマンスを見せたサニーピース。ただその分、一人ひとりへの負担も非常に大きなものだった。そんな彼女達の姿に、あなたは、ある決断をする。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_02"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41628,6 +42110,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-23-limited",
+    "sectionName": "We Are The Sun",
+    "name": "丸一日の\nオフ",
+    "description": "丸一日、オフをもらったサニーピース。久々にリフレッシュ出来ると、それぞれ思い思いのことをすることに。ただ、頭によぎるのは、太陽のように明るい少女のことで……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_03"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-24",
     "sectionName": "We Are The Sun",
     "name": "さくらが\n笑顔に\nなれるように",
@@ -41639,6 +42139,24 @@
     "advAssetIds": [
       "main_04_05_04"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-24-limited",
+    "sectionName": "We Are The Sun",
+    "name": "さくらが\n笑顔に\nなれるように",
+    "description": "自然と、さくらの元に集まる、サニピメンバー達。他愛のない会話に花を咲かせながらも、自然と話題は、さくらの抱えているものへと向かい――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_04"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41664,6 +42182,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-25-limited",
+    "sectionName": "We Are The Sun",
+    "name": "頂点を\n目指して",
+    "description": "抱えていたものを言葉にすることで、あらためてピースを繋げた、さくら達。想いを一つに、前へと進む決意を固める。そんな中、とあるグループから連絡を受けたあなたは――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_05_05"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-26",
     "sectionName": "Will Of The Underdogs",
     "name": "伸びしろを\n探して",
@@ -41675,6 +42211,24 @@
     "advAssetIds": [
       "main_04_06_01"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-26-limited",
+    "sectionName": "Will Of The Underdogs",
+    "name": "伸びしろを\n探して",
+    "description": "時はさかのぼり、星見プロアイドルフェスティバル当日。活動休止中のTRINITYAiLEは、より上を目指すために三人だけで努力を続けていた。そんなところに、予想外の二人が現れ――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_06_01"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41700,6 +42254,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-27-limited",
+    "sectionName": "Will Of The Underdogs",
+    "name": "友達の言葉",
+    "description": "どりきゅんの二人に、まさかの真実を伝えられた瑠依達。二人が言うには、今のTRINITYAiLEには『能力』以外のものが必要だという。そんな指摘に、優は渚にかけてもらった言葉を思い出す。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_06_02"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-28",
     "sectionName": "Will Of The Underdogs",
     "name": "核になる想い",
@@ -41711,6 +42283,24 @@
     "advAssetIds": [
       "main_04_06_03"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-28-limited",
+    "sectionName": "Will Of The Underdogs",
+    "name": "核になる想い",
+    "description": "必要なのは、闇雲な努力ではなく、『核』になる『想い』を見つけること。それに気付いた瑠依達は、自分達の想いと向き合うために踏み出す決意を固める。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_06_03"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41736,6 +42326,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-29-limited",
+    "sectionName": "Will Of The Underdogs",
+    "name": "はじまりの\n理由",
+    "description": "自分達の『核』になる『想い』を見つけるため、自己分析を重ねる瑠依達。過去を振り返り、自分達がなんのためにアイドルを目指したのかを語り合う。そんな中、すみれが三人の共通点に気付き――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_06_04"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-30",
     "sectionName": "Will Of The Underdogs",
     "name": "家族という鍵",
@@ -41747,6 +42355,24 @@
     "advAssetIds": [
       "main_04_06_05"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-30-limited",
+    "sectionName": "Will Of The Underdogs",
+    "name": "家族という鍵",
+    "description": "三人の共通点である『家族』が、自分達の『想い』に繋がり、現状を打破する鍵になるんじゃないかと考える瑠依達。そんな彼女達に、どりきゅんの二人は、ある人物を引き合わせ――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_06_05"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41772,6 +42398,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-31-limited",
+    "sectionName": "Repaying Kindness",
+    "name": "荒療治",
+    "description": "どりきゅんが連れてきたのは、なんとバンプロダクションの社長にして瑠依の父、朝倉恭一だった。しかも、なんと彼と一泊二日の旅行に行かねばならず――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_01"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-32",
     "sectionName": "Repaying Kindness",
     "name": "難しい\n課題",
@@ -41783,6 +42427,24 @@
     "advAssetIds": [
       "main_04_07_02"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-32-limited",
+    "sectionName": "Repaying Kindness",
+    "name": "難しい\n課題",
+    "description": "旅行に出発するも、瑠依達三人はどりきゅんから出された課題に悩む。全力で朝倉にお土産をおねだりすること。全力で大爆笑させること。そして、パパと呼ぶこと。瑠依達は戸惑いつつも、覚悟を決める。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_02"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41808,6 +42470,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-33-limited",
+    "sectionName": "Repaying Kindness",
+    "name": "娘として\n社長として",
+    "description": "夜、旅館のロビーで朝倉と向き合う瑠依。自分がアイドルを目指した理由、これまでのお互いの関係、そして長瀬麻奈について。二人は初めて、本心を打ち明ける。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_03"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-34",
     "sectionName": "Repaying Kindness",
     "name": "父として",
@@ -41819,6 +42499,24 @@
     "advAssetIds": [
       "main_04_07_04"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-34-limited",
+    "sectionName": "Repaying Kindness",
+    "name": "父として",
+    "description": "朝倉の不器用な本心を聞いた、瑠依。これまで面と向かって呼んでこなかったが、気づくと初めて朝倉のことを『パパ』と呼んでいた。朝倉は、隠れて聞いていた優とすみれにも気づいており――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_04"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41844,6 +42542,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-35-limited",
+    "sectionName": "Repaying Kindness",
+    "name": "見つけた\n想い",
+    "description": "朝倉の言葉を聞いた瑠依達は、ついに自分達の核となる想いを見つける。その話は、あなたの耳にも届いており――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_07_05"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-36",
     "sectionName": "Opening of Grand Prix",
     "name": "対戦したい\n相手",
@@ -41855,6 +42571,24 @@
     "advAssetIds": [
       "main_04_08_01"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-36-limited",
+    "sectionName": "Opening of Grand Prix",
+    "name": "対戦したい\n相手",
+    "description": "活動を再開してからというもの、絶好調のTRINITYAiLE。そんな中、VENUSグランプリの運営から、エキシビションマッチのオファーがやってくる。三人が対戦相手に選んだのは――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_08_01"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41880,6 +42614,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-37-limited",
+    "sectionName": "Opening of Grand Prix",
+    "name": "心通わせる\n戦い",
+    "description": "すみれを支えた、すず。優を支えた、渚。そんな大切な友達への『恩返し』の意味も込めて、ステージに立つTRINITYAiLE。その姿を、客席からさくらも見ており――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_08_02"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-38",
     "sectionName": "Opening of Grand Prix",
     "name": "ここが\nスタート地点",
@@ -41891,6 +42643,24 @@
     "advAssetIds": [
       "main_04_08_03"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-38-limited",
+    "sectionName": "Opening of Grand Prix",
+    "name": "ここが\nスタート地点",
+    "description": "ステージの上で、想いをぶつけあったTRINITYAiLEと月のテンペスト。対戦の後、星見プロの仲間達は、それぞれが成長を遂げて戻ってきた瑠依達に、優しい言葉を掛ける。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_08_03"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41916,6 +42686,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-39-limited",
+    "sectionName": "Opening of Grand Prix",
+    "name": "VENUS\nグランプリ\n開幕",
+    "description": "いよいよ始まった、VENUSグランプリ本戦。NEXT VENUSグランプリの時と同じくトーナメント形式となっており、それぞれのグループの代表がステージで組み合わせの抽選に臨む。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_08_04"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-40",
     "sectionName": "Opening of Grand Prix",
     "name": "決勝で\n会いましょう",
@@ -41927,6 +42715,24 @@
     "advAssetIds": [
       "main_04_08_05"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-40-limited",
+    "sectionName": "Opening of Grand Prix",
+    "name": "決勝で\n会いましょう",
+    "description": "LizNoir、月のテンペスト、サニーピースの抽選も終わり、ついに全ての組み合わせが決定した。数々の優勝候補が並ぶ中、星見プロ同士で最初に対戦することになりそうなのは――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_08_05"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41952,6 +42758,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-41-limited",
+    "sectionName": "Challenge for Friend",
+    "name": "星見プロ\n同士の戦い",
+    "description": "VENUSグランプリ本戦にて、ついにぶつかることになった、TRINITYAiLEとⅢX。その戦いの様子を、琴乃と渚、そしてどりきゅんの二人も見届けに来ていた。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_09_01"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-42",
     "sectionName": "Challenge for Friend",
     "name": "これ以上ない\nアドバイス",
@@ -41963,6 +42787,24 @@
     "advAssetIds": [
       "main_04_09_02"
     ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-42-limited",
+    "sectionName": "Challenge for Friend",
+    "name": "これ以上ない\nアドバイス",
+    "description": "TRINITYAiLEに対して、まったく負けるつもりのないⅢXの三人。海外のフェスにて飛躍を遂げた三人だが、あなたは彼女達に、トリエルを侮らないよう伝える。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_09_02"
+    ],
+    "rewardId": "",
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",
     "branchCautionText": "",
@@ -41988,6 +42830,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-43-limited",
+    "sectionName": "Challenge for Friend",
+    "name": "トリエル\nvs\nスリクス",
+    "description": "ⅢXとは因縁のあるTRINITYAiLE。ただ、彼女達はそんな過去すらも前向きに捉え、感謝と愛と想いを込めてステージに立つ。一方でⅢXの三人も、何やら作戦があるようで――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_09_03"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-44",
     "sectionName": "Challenge for Friend",
     "name": "完璧ではない\nステージを",
@@ -42006,6 +42866,24 @@
     "branchChoices": []
   },
   {
+    "id": "st-main-cmn-03-01-44-limited",
+    "sectionName": "Challenge for Friend",
+    "name": "完璧ではない\nステージを",
+    "description": "いつもの完璧さとは違うが、むしろ、より目の離せない圧巻のパフォーマンスをするⅢX。そのスコアは自己ベストを上回り、TRINITYAiLEと接戦を繰り広げる。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_09_04"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-main-cmn-03-01-45",
     "sectionName": "Challenge for Friend",
     "name": "そうよね？\n葉ちゃん",
@@ -42016,6 +42894,114 @@
     ],
     "advAssetIds": [
       "main_04_09_05"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-45-limited",
+    "sectionName": "Challenge for Friend",
+    "name": "そうよね？\n葉ちゃん",
+    "description": "成長したTRINITYAiLEを迎え撃つため、mihoも新たな挑戦をすることに。仲が良いとは言えないが、だからこそ出来るⅢXなりの輝き方を見つけるのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_09_05"
+    ],
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-46",
+    "sectionName": "Miraculous Beat",
+    "name": "サニピ\nvs\nリズノワ",
+    "description": "TRINITYAiLEとⅢXの戦いに決着がつき、VENUSグランプリ準々決勝も残るは最後の一試合のみ。だがそれもまた、サニーピースとLizNoirという、同じ星見プロ同士の戦いだった。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_10_01"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-47",
+    "sectionName": "Miraculous Beat",
+    "name": "胸の高鳴り",
+    "description": "先攻はサニーピース。ステージに上がり、パフォーマンスを始める彼女達の姿を、LizNoirのメンバー達は舞台袖で見守っていた。それはいつものサニピらしい笑顔あふれるものだったが――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_10_02"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-48",
+    "sectionName": "Miraculous Beat",
+    "name": "うまく\nなったね",
+    "description": "胸の鼓動に導かれ、背中を押されたように、調子を上げるさくら。そんなサニーピースの底力を見たLizNoirだが、負けじと全てを懸けて戦いに臨む。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_10_03"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-49",
+    "sectionName": "Miraculous Beat",
+    "name": "さくらが\n起こした奇跡",
+    "description": "見事に勝利を収め、準決勝に進むこととなったサニーピース。ただ、さくらにはまだ、その実感が湧いていなかった。突然体が軽くなった理由が分からず、呆然としているさくらを、琴乃が見つけ――",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_10_04"
+    ],
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-main-cmn-03-01-50",
+    "sectionName": "Miraculous Beat",
+    "name": "後悔のない\n決断",
+    "description": "VENUSグランプリセミファイナル当日。サニーピースとTRINITYAiLEの試合が控える中、瑠依は一人、大切な友人にしてライバル……さくらのことで悩み続けていた。",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "main_04_10_05"
     ],
     "additionalDisplayCharacterIds": [],
     "branchFirstText": "",

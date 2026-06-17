@@ -38814,6 +38814,166 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "event-ms-idoly-pride-day-mission-26-0618-01-mission_clear_count",
+    "categoryType": 1,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-idoly-pride-day-mission-26-0618-login",
+      "event-ms-idoly-pride-day-mission-26-0618-quest_daily_clear_count",
+      "event-ms-idoly-pride-day-mission-26-0618-market_exchange_count",
+      "event-ms-idoly-pride-day-mission-26-0618-card_skill_level_up_count",
+      "event-ms-idoly-pride-day-mission-26-0618-02-mission_clear_count"
+    ],
+    "name": "イベントミッションを全てクリア",
+    "shortDescription": "イベントミッションを全てクリア",
+    "longDescription": "イベントミッションを全てクリアしましょう。",
+    "order": 1,
+    "viewConditionId": "cd-time-market-discount-day-26-0618",
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-idoly-pride-day-mission-26-0618-01-mission_clear_count-5"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0618",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0618-02-mission_clear_count",
+    "categoryType": 1,
+    "missionType": 3,
+    "targetIds": [
+      "ms-daily-phase-003_photo_shoot_count-1",
+      "ms-daily-phase-003_photo_shoot_count-20",
+      "ms-daily-phase-003_photo_shoot_count-40",
+      "ms-daily-phase-003_photo_shoot_count-50",
+      "ms-daily-phase-003_photo_shoot_count-60",
+      "ms-daily-phase-003_photo_shoot_count-70",
+      "ms-daily-phase-003_photo_shoot_count-80",
+      "ms-daily-phase-003_photo_shoot_count-90",
+      "ms-daily-phase-003_photo_shoot_count-100",
+      "ms-daily-phase-003_photo_shoot_count-110",
+      "ms-daily-phase-003_photo_shoot_count-120",
+      "ms-daily-phase-003_photo_shoot_count-130",
+      "ms-daily-phase-003_photo_shoot_count-140",
+      "ms-daily-phase-003_photo_shoot_count-150",
+      "ms-daily-phase-003_photo_shoot_count-160"
+    ],
+    "name": "デイリーミッション「フォト撮影1回」を{threshold}回クリア",
+    "shortDescription": "デイリーミッション「フォト撮影1回」を{threshold}回クリア",
+    "longDescription": "デイリーミッション「フォト撮影1回」を\n{threshold}回クリアしましょう。",
+    "order": 6,
+    "viewConditionId": "cd-time-market-discount-day-26-0618",
+    "linkType": 32,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-idoly-pride-day-mission-26-0618-02-mission_clear_count-1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0618",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0618-card_skill_level_up_count",
+    "categoryType": 1,
+    "missionType": 14,
+    "name": "スキル強化{threshold}回",
+    "shortDescription": "スキル強化{threshold}回",
+    "longDescription": "アイドルのスキル強化を{threshold}回しましょう。",
+    "order": 5,
+    "viewConditionId": "cd-time-market-discount-day-26-0618",
+    "linkType": 11,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-idoly-pride-day-mission-26-0618-card_skill_level_up_count-1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0618",
+    "targetIds": [],
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0618-login",
+    "categoryType": 1,
+    "missionType": 1,
+    "name": "ログイン1回",
+    "shortDescription": "ログイン1回",
+    "longDescription": "ログインを1回しましょう。",
+    "order": 2,
+    "viewConditionId": "cd-time-market-discount-day-26-0618",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-idoly-pride-day-mission-26-0618-login-1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0618",
+    "targetIds": [],
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0618-market_exchange_count",
+    "categoryType": 1,
+    "missionType": 31,
+    "name": "マーケットで{threshold}回アイテム購入",
+    "shortDescription": "マーケットで{threshold}回アイテム購入",
+    "longDescription": "マーケットで{threshold}回アイテムを購入しましょう。",
+    "order": 4,
+    "viewConditionId": "cd-time-market-discount-day-26-0618",
+    "linkType": 36,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-idoly-pride-day-mission-26-0618-market_exchange_count-1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0618",
+    "targetIds": [],
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0618-quest_daily_clear_count",
+    "categoryType": 1,
+    "missionType": 7,
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア",
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "order": 3,
+    "viewConditionId": "cd-time-market-discount-day-26-0618",
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-idoly-pride-day-mission-26-0618-quest_daily_clear_count-1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0618",
+    "targetIds": [],
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "event-ms-live-23-0503-condition_clear-1",
     "categoryType": 3,
     "missionType": 4,
