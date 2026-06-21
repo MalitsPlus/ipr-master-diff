@@ -231883,6 +231883,161 @@
     ]
   },
   {
+    "id": "cd-st-main-cmn-03-01-51-unlock",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-50"
+        },
+        "term": {
+          "nowAfter": "1782043200000",
+          "nowBefore": "0"
+        },
+        "clearArea": {
+          "areaId": "area-main-026"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-51-view",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-50"
+        },
+        "term": {
+          "nowAfter": "1782043200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-52-unlock",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-51"
+        },
+        "term": {
+          "nowAfter": "1782097200000",
+          "nowBefore": "0"
+        },
+        "clearArea": {
+          "areaId": "area-main-026"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-52-view",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-51"
+        },
+        "term": {
+          "nowAfter": "1782097200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-53-unlock",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-52"
+        },
+        "term": {
+          "nowAfter": "1782183600000",
+          "nowBefore": "0"
+        },
+        "clearArea": {
+          "areaId": "area-main-026"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-53-view",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-52"
+        },
+        "term": {
+          "nowAfter": "1782183600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-54-unlock",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-53"
+        },
+        "term": {
+          "nowAfter": "1782270000000",
+          "nowBefore": "0"
+        },
+        "clearArea": {
+          "areaId": "area-main-026"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-54-view",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-53"
+        },
+        "term": {
+          "nowAfter": "1782270000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-55-unlock",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-54"
+        },
+        "term": {
+          "nowAfter": "1782356400000",
+          "nowBefore": "0"
+        },
+        "clearArea": {
+          "areaId": "area-main-026"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-st-main-cmn-03-01-55-view",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-main-cmn-03-01-54"
+        },
+        "term": {
+          "nowAfter": "1782356400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-main-cmn-03-01-prologue-view",
     "settings": [
       {
@@ -308777,6 +308932,56 @@
         },
         "term": {
           "nowAfter": "1735959600000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-010-26-0625",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1782356400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-010-26-0625-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1782356400000",
+          "nowBefore": "1782658799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-010-26-0625-close-shoot",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1782356400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-tri-010-26-0625-showcase-music",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1782356400000",
           "nowBefore": "0"
         }
       }

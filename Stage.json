@@ -83,10 +83,27 @@
     "order": 1,
     "timeDifference": "noon",
     "overrideAssetVariationId": "000",
+    "cameraPositions": [
+      {
+        "name": "中央",
+        "index": 0
+      },
+      {
+        "name": "下手",
+        "index": 1
+      },
+      {
+        "name": "上手",
+        "index": 2
+      },
+      {
+        "name": "スタンド",
+        "index": 3
+      }
+    ],
     "description": "",
     "isHideWithPhotoShooting": false,
     "additionalAssetIds": [],
-    "cameraPositions": [],
     "openingAssetId": ""
   },
   {
