@@ -14380,6 +14380,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-rui-05-fest-04",
+    "assetId": "rui-05-fest-04",
+    "name": "ありのままの恩返し",
+    "description": "大切な人達へ、これからも私達は恩返しを続けます\n歌に込めた想い、見届けて下さい",
+    "type": 1,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 314,
+    "danceRatioPermil": 279,
+    "visualRatioPermil": 437,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-fest-04-1",
+    "skillId2": "sk-rui-05-fest-04-2",
+    "skillId3": "sk-rui-05-fest-04-3",
+    "activityAbilityId": "aab-promotion_gold_up",
+    "order": 581,
+    "releaseDate": "1782356400000",
+    "rewardCostumeId": "cos-rui-fest-03",
+    "obtainMessage": "万感の想いを胸に、\n私達は未来へ羽ばたきます！",
+    "stories": [
+      {
+        "storyId": "st-card-rui-05-fest-04-01"
+      },
+      {
+        "storyId": "st-card-rui-05-fest-04-02"
+      },
+      {
+        "storyId": "st-card-rui-05-fest-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rui-05-fest-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rui-05-fest-04",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rui-05-idol-00",
     "assetId": "rui-05-idol-00",
     "name": "ありのままの姿で",
@@ -14696,6 +14747,38 @@
     "releaseDate": "1724468400000",
     "obtainMessage": "私達TRINITYAiLEは、\n必ず勝利を掴んで\nBIG4になります！",
     "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-rui-05-prem-02",
+    "assetId": "rui-05-prem-02",
+    "name": "手を取る頂点",
+    "description": "ありがとう、さくら\nあなたがいたから、私はここまで来れた……！\nふふ、あのパパが素直に言ってくれたのよ\nよくやった、って",
+    "type": 3,
+    "characterId": "char-rui",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 296,
+    "danceRatioPermil": 378,
+    "visualRatioPermil": 326,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rui-05-prem-02-1",
+    "skillId2": "sk-rui-05-prem-02-2",
+    "skillId3": "sk-rui-05-prem-02-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 580,
+    "releaseDate": "1782270000000",
+    "obtainMessage": "ありがとう、さくら",
+    "activityAbilityId": "",
     "rewardCostumeId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
@@ -17343,6 +17426,57 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-smr-05-fest-04",
+    "assetId": "smr-05-fest-04",
+    "name": "誰よりも輝くヒロイン",
+    "description": "今日は来てくれて、勇気をくれて、ありがと～！！\n楽しい思い出、たっくさん作ってほしいっちゃ～！！",
+    "type": 3,
+    "characterId": "char-smr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 362,
+    "danceRatioPermil": 335,
+    "visualRatioPermil": 303,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-smr-05-fest-04-1",
+    "skillId2": "sk-smr-05-fest-04-2",
+    "skillId3": "sk-smr-05-fest-04-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 583,
+    "releaseDate": "1782356400000",
+    "rewardCostumeId": "cos-smr-fest-03",
+    "obtainMessage": "今日はいつも以上に、\nファンのみんなのことが見える",
+    "stories": [
+      {
+        "storyId": "st-card-smr-05-fest-04-01"
+      },
+      {
+        "storyId": "st-card-smr-05-fest-04-02"
+      },
+      {
+        "storyId": "st-card-smr-05-fest-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-smr-05-fest-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-smr-05-fest-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",
@@ -20234,6 +20368,38 @@
     "homeTalks": []
   },
   {
+    "id": "card-yu-02-eve-03",
+    "assetId": "yu-02-eve-03",
+    "name": "恩返しは何度でも",
+    "description": "ちょい待ちぃ～……話、聞いてました？\n今日は『みんなで』鍋パ言いましたよね？",
+    "type": 1,
+    "characterId": "char-yu",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 428,
+    "danceRatioPermil": 308,
+    "visualRatioPermil": 264,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-02-eve-03-1",
+    "skillId2": "sk-yu-02-eve-03-2",
+    "skillId3": "sk-yu-02-eve-03-3",
+    "order": 584,
+    "releaseDate": "1782356400000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-yu-02-miku-00",
     "assetId": "yu-02-miku-00",
     "name": "セレブレイトサウンド",
@@ -20661,6 +20827,57 @@
       }
     ],
     "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-yu-05-fest-04",
+    "assetId": "yu-05-fest-04",
+    "name": "奇跡へ羽ばたく純白の翼",
+    "description": "これからもうちらのこと、信じててな！\n末永くよろしゅう頼みます～！！",
+    "type": 2,
+    "characterId": "char-yu",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 276,
+    "danceRatioPermil": 407,
+    "visualRatioPermil": 317,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-yu-05-fest-04-1",
+    "skillId2": "sk-yu-05-fest-04-2",
+    "skillId3": "sk-yu-05-fest-04-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 582,
+    "releaseDate": "1782356400000",
+    "rewardCostumeId": "cos-yu-fest-03",
+    "obtainMessage": "うちにこんな景色を見せてくれて、\nありがとうな～",
+    "stories": [
+      {
+        "storyId": "st-card-yu-05-fest-04-01"
+      },
+      {
+        "storyId": "st-card-yu-05-fest-04-02"
+      },
+      {
+        "storyId": "st-card-yu-05-fest-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-yu-05-fest-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-yu-05-fest-04",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",

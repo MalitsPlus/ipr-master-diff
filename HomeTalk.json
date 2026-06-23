@@ -10057,6 +10057,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-rui-05-fest-04-talk-01",
+    "characterId": "char-rui",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rui-05-fest-04",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rui-05-fest-04",
+    "choiceText": "…どういうことだ？",
+    "managerText": "…どういうことだ？",
+    "reliability": 5,
+    "title": "ありのままの恩返し",
+    "displayConditionDescription": "ありのままの恩返し 天動瑠依\nストーリー3話を視聴",
+    "order": 531,
+    "releaseDate": "1782356400000",
+    "characterTalks": [
+      {
+        "text": "いえ、以前の私は\nその言葉にすぐ、うろたえて\nしまっていたので…",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_moji-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "今の私はどうなのかなって\n気になっただけです。\n…ええ、本当に、それだけ。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_emb-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "なんなら…『好き』って\n言葉でもいいですよ。\n投げかけてみて下さい。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emb-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "言葉を扱うアイドルたるもの\nいちいちうろたえず、言葉を言葉の\nまま、受け止められなくちゃ…",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-032_in"
+      },
+      {
+        "text": "…う…{user}さん…\nあ、あの…えっと…\nそ、その沈黙は、ダメです。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_emb-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ごめんなさい、やっぱり全部なし！\n今は何も言わないで下さい…\n心の準備をしてからまた改めてで。",
+        "voiceAssetId": "sud_vo_home_rui-05-fest-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-009_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-rui-05-idol-00-talk-01",
     "characterId": "char-rui",
     "placeType": 1,
@@ -12063,6 +12118,61 @@
         "text": "私がこんなことを言ってたって\nこころちゃんに知られたら\n多分凄く照れちゃうと思うので！",
         "voiceAssetId": "sud_vo_home_smr-05-fest-03_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-smr-05-fest-04-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-fest-04",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-fest-04",
+    "choiceText": "もちろん、あるよ。",
+    "managerText": "もちろん、あるよ。",
+    "reliability": 5,
+    "title": "誰よりも輝くヒロイン",
+    "displayConditionDescription": "誰よりも輝くヒロイン 奥山すみれ\nストーリー3話を視聴",
+    "order": 533,
+    "releaseDate": "1782356400000",
+    "characterTalks": [
+      {
+        "text": "そうですよね。\n私よりうんと大人で\nお兄ちゃんですもんね…",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_think-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "こっちを選んだら\nあっちは諦めなきゃいけない…\nそれって、やっぱり苦しいです。",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_think-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どっちも大事だから両方取れる方が\nいいのは間違いないけど、\nそう簡単な話じゃなくて…",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でもだからこそ、選ばなかった方に\n失礼のないよう、選んだ方を\n大事にしないと…ですよね！",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "それが、片一方を切り捨てた人が\n背負わないといけない\n責任だと思うから…！",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "よし、決めました！　今日の\n収録のロケ弁、お肉系は我慢して\nヘルシーなお魚系にします！",
+        "voiceAssetId": "sud_vo_home_smr-05-fest-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
         "additionMotionAssetId": ""
       }
     ],
@@ -14458,6 +14568,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-yu-05-fest-04-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-fest-04",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-fest-04",
+    "choiceText": "自分でも信じ過ぎたと思う",
+    "managerText": "自分でも信じ過ぎたと思う",
+    "reliability": 5,
+    "title": "奇跡へ羽ばたく純白の翼",
+    "displayConditionDescription": "奇跡へ羽ばたく純白の翼 鈴村優\nストーリー3話を視聴",
+    "order": 532,
+    "releaseDate": "1782356400000",
+    "characterTalks": [
+      {
+        "text": "ほんまやで？\nうちの可愛い嘘やったから\n良かったものの…",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-019_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "世の中、エグい嘘を平気で\nつくような人もいるんです。\n気ぃつけや？",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "…けどそれだけうちのこと\n信頼してくれてるって\n裏返しなんやろな…",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emb-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "うちは、好きですよ。\nそんなドの付くような超お人好しの\n{user}さんのこと。",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "せや、{user}さんが\n今後悪い人に騙されたりせんよう\nうちがずっとそばにおりましょか？",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "朝から晩まで、健やかなる時も\n病める時も、ずーっと…ふふっ。\nこれは冗談と本気、どっちやろな？",
+        "voiceAssetId": "sud_vo_home_yu-05-fest-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-yu-05-idol-00-talk-01",
