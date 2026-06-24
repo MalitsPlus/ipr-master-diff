@@ -254639,6 +254639,32 @@
     ]
   },
   {
+    "id": "cd-time-event-ms-fes-26-0626-0702",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1782399600000",
+          "nowBefore": "1783004399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-event-ms-fes-26-0626-0702-mlv20",
+    "settings": [
+      {
+        "managerLevel": {
+          "levelGte": 20,
+          "levelLte": 0
+        },
+        "term": {
+          "nowAfter": "1782399600000",
+          "nowBefore": "1783004399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-event-ms-goch-24-1129-1206",
     "settings": [
       {
