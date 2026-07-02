@@ -301795,6 +301795,41 @@
     ]
   },
   {
+    "id": "cd-time-gacha-rev-select-01-26-0703",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1783047600000",
+          "nowBefore": "1783565999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-26-0703-banner",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1783047600000",
+          "nowBefore": "1783565999000"
+        },
+        "satisfyConditions": {
+          "conditions": [
+            {
+              "conditionId": "cd-time-gacha-rev-step-rockon-26-0703-2nd-banner-end"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-select-01-26-0703-banner-end",
+    "settings": [
+      {}
+    ]
+  },
+  {
     "id": "cd-time-gacha-rev-select-24-1130",
     "settings": [
       {
@@ -305306,6 +305341,86 @@
         "drawGacha": {
           "gachaButtonIds": [
             "btn-10-gacha-rev-step-rockon-26-0530-2nd"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0703-1st",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1783047600000",
+          "nowBefore": "1783565999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0703-1st-banner",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-step-rockon-26-0703-1st-banner-end"
+        },
+        "term": {
+          "nowAfter": "1783047600000",
+          "nowBefore": "1783565999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0703-1st-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-rev-step-rockon-26-0703-1st"
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0703-2nd",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-step-rockon-26-0703-1st-banner-end"
+        },
+        "term": {
+          "nowAfter": "1783047600000",
+          "nowBefore": "1783565999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0703-2nd-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-step-rockon-26-0703-1st-banner-end"
+        },
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-rev-step-rockon-26-0703-2nd-banner-end"
+        },
+        "term": {
+          "nowAfter": "1783047600000",
+          "nowBefore": "1783565999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-rev-step-rockon-26-0703-2nd-banner-end",
+    "settings": [
+      {
+        "drawGacha": {
+          "gachaButtonIds": [
+            "btn-10-gacha-rev-step-rockon-26-0703-2nd"
           ]
         }
       }
@@ -323252,6 +323367,17 @@
     ]
   },
   {
+    "id": "cd-time-period-2570-end-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1641006000000",
+          "nowBefore": "1641049199000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-photo-aj-00-01",
     "settings": [
       {
@@ -326401,6 +326527,20 @@
         "term": {
           "nowAfter": "1782399600000",
           "nowBefore": "1782658799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-pvp-26-0706-0708_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1783263600000",
+          "nowBefore": "1783522799000"
         }
       }
     ]
