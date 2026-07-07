@@ -2803,6 +2803,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-chs-05-mizg-04",
+    "assetId": "chs-05-mizg-04",
+    "name": "常夏ウォータービーム",
+    "description": "せっかくの夏ですから、『成り行き任せでマジおっけー』です！",
+    "type": 2,
+    "characterId": "char-chs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 398,
+    "danceRatioPermil": 321,
+    "visualRatioPermil": 281,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-chs-05-mizg-04-1",
+    "skillId2": "sk-chs-05-mizg-04-2",
+    "skillId3": "sk-chs-05-mizg-04-3",
+    "activityAbilityId": "aab-fan_event_manager_exp_up",
+    "order": 586,
+    "releaseDate": "1783479600000",
+    "rewardCostumeId": "cos-chs-mizg-04",
+    "obtainMessage": "夏ですから、\n『成り行き任せでマジおっけー』です！",
+    "stories": [
+      {
+        "storyId": "st-card-chs-05-mizg-04-01"
+      },
+      {
+        "storyId": "st-card-chs-05-mizg-04-02"
+      },
+      {
+        "storyId": "st-card-chs-05-mizg-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-chs-05-mizg-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-chs-05-mizg-04",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-chs-05-pajm-00",
     "assetId": "chs-05-pajm-00",
     "name": "お姫様抱っこで夢の中",
@@ -16848,6 +16899,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-skr-05-mizg-04",
+    "assetId": "skr-05-mizg-04",
+    "name": "魚魚っと！サマーバレー",
+    "description": "そんなこと言わずに、魚魚っとさんボールでビーチバレーをやりましょう！\nざっぱーんと海に飛び込んで、ばしゃばしゃと水をかけあって、一緒にびしょびしょになりましょう！",
+    "type": 3,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 308,
+    "danceRatioPermil": 267,
+    "visualRatioPermil": 425,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-mizg-04-1",
+    "skillId2": "sk-skr-05-mizg-04-2",
+    "skillId3": "sk-skr-05-mizg-04-3",
+    "liveAbilityId": "lba-stamina_add",
+    "order": 585,
+    "releaseDate": "1783479600000",
+    "rewardCostumeId": "cos-skr-mizg-04",
+    "obtainMessage": "今日の川咲さくらは、\n太陽サンサン、元気は満タンです！",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-mizg-04-01"
+      },
+      {
+        "storyId": "st-card-skr-05-mizg-04-02"
+      },
+      {
+        "storyId": "st-card-skr-05-mizg-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-mizg-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-mizg-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-skr-05-newy-00",
     "assetId": "skr-05-newy-00",
     "name": "笑う門には福来るだよ！",
@@ -19321,6 +19423,38 @@
     "skillId3": "sk-szk-02-eve-03-3",
     "order": 363,
     "releaseDate": "1708916400000",
+    "liveAbilityId": "",
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "rewardHairIds": [],
+    "obtainMessage": "",
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "stories": [],
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-szk-02-eve-04",
+    "assetId": "szk-02-eve-04",
+    "name": "水際のクイズマスター",
+    "description": "24センチ！　ちなみに踵は普通の人より小さめだけど\n指周りは大きくてダンスの影響で土踏まずが発達してる",
+    "type": 3,
+    "characterId": "char-szk",
+    "initialRarity": 2,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 272,
+    "danceRatioPermil": 413,
+    "visualRatioPermil": 315,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-02-eve-04-1",
+    "skillId2": "sk-szk-02-eve-04-2",
+    "skillId3": "sk-szk-02-eve-04-3",
+    "order": 587,
+    "releaseDate": "1783479600000",
     "liveAbilityId": "",
     "activityAbilityId": "",
     "rewardCostumeId": "",
