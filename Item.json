@@ -3844,7 +3844,7 @@
     "name": "10連ガチャチケ",
     "assetId": "gacha-endless-22-1224",
     "description": "有効期限：入手後7日\n10連ガチャを1回引くことができる",
-    "howToGet": "5周年記念引き放題ガチャ",
+    "howToGet": "引き放題ガチャ",
     "type": 8,
     "value": 1,
     "order": 140,
@@ -4789,6 +4789,18 @@
   },
   {
     "id": "item-gacha-free-ticket-1s-26-0710",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha-free-ticket-1s-26-0720",
     "name": "無料10連ガチャチケ",
     "assetId": "gacha-endless-22-1224",
     "description": "10連チケットガチャを1回引くことができる",
@@ -9660,6 +9672,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-pick-set-bloom-26-0718",
+    "name": "君と味わう夏景色ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-pickup-21-0712",
     "name": "光射す海宴ガチャPt",
     "assetId": "gacha-point",
@@ -12084,6 +12108,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-select-01-26-0720",
+    "name": "選べる★5ダンスガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_ticket",
     "name": "ガチャチケ",
     "assetId": "gacha-ticket-normal",
@@ -12452,6 +12488,18 @@
     "type": 8,
     "value": 1,
     "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_ticket-26-0718-01",
+    "name": "「君と味わう夏景色」専用ガチャチケット",
+    "assetId": "gacha-ticket-just",
+    "description": "「君と味わう夏景色」ガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 8,
+    "value": 1,
+    "order": 1000,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
@@ -15529,6 +15577,18 @@
   },
   {
     "id": "item-pose_medal-26-0519-01",
+    "name": "ポーズメダル",
+    "assetId": "medal-pose-26-0310",
+    "description": "ポーズメダル交換所でポーズなどと交換できる\n使用期限終了後は消失します",
+    "howToGet": "アイドル活動ミッション",
+    "type": 3001,
+    "value": 1,
+    "order": 1000,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-pose_medal-26-0718-01",
     "name": "ポーズメダル",
     "assetId": "medal-pose-26-0310",
     "description": "ポーズメダル交換所でポーズなどと交換できる\n使用期限終了後は消失します",

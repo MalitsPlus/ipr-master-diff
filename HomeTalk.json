@@ -5643,6 +5643,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-ktn-05-yukt-00-talk-01",
+    "characterId": "char-ktn",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ktn-05-yukt-00-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ktn-05-yukt-00",
+    "choiceText": "二人で叩けるのか？",
+    "managerText": "二人で叩けるのか？",
+    "reliability": 5,
+    "title": "夏晴れと甘いご褒美",
+    "displayConditionDescription": "夏晴れと甘いご褒美 長瀬琴乃\nストーリー3話を視聴",
+    "order": 545,
+    "releaseDate": "1784343600000",
+    "characterTalks": [
+      {
+        "text": "はい。二人で叩く、\n八丈太鼓というものが\nあるらしいんです。",
+        "voiceAssetId": "sud_vo_home_ktn-05-yukt-00_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-005_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "向かい合って叩いて\nお互いの音を聞きながら\n合わせていくみたいで…",
+        "voiceAssetId": "sud_vo_home_ktn-05-yukt-00_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "下拍子、上拍子と\nそれぞれ役割も\nあるらしいんですよ。",
+        "voiceAssetId": "sud_vo_home_ktn-05-yukt-00_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも片方には決まったリズムは\nなくて自由に叩いていいみたいで…\n楽しそうじゃないですか？",
+        "voiceAssetId": "sud_vo_home_ktn-05-yukt-00_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emot-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "一緒に演奏して和太鼓の魅力を\n{user}さんにも\n感じてもらえたら嬉しいです…！",
+        "voiceAssetId": "sud_vo_home_ktn-05-yukt-00_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "基礎的なことなら\n私にも教えられますから\nなんでも聞いて下さいね！",
+        "voiceAssetId": "sud_vo_home_ktn-05-yukt-00_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-mei-05-casl-02-talk-01",
     "characterId": "char-mei",
     "placeType": 1,
