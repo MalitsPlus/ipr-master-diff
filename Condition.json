@@ -25866,6 +25866,28 @@
     ]
   },
   {
+    "id": "cd-dokan-broadcast-26-0727-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1785146400000",
+          "nowBefore": "1785153600000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-dokan-broadcast-26-0727-01-pre",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1785060000000",
+          "nowBefore": "1785146399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-dokan-campaign-22-0103",
     "settings": [
       {
@@ -180294,6 +180316,26 @@
     ]
   },
   {
+    "id": "cd-possession-hair-rui-hair-00",
+    "settings": [
+      {
+        "obtainHair": {
+          "hairId": "hair-rui-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-possession-hair-rui-hair-00-not",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-possession-hair-rui-hair-00"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-possession-hair-smr-hair-00",
     "settings": [
       {
@@ -285108,6 +285150,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-free-ticket-1s-26-0730",
+    "settings": [
+      {
+        "itemAmount": {
+          "itemId": "item-gacha-free-ticket-1s-26-0730",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fs-select-22-0628",
     "settings": [
       {
@@ -299300,6 +299353,343 @@
     ]
   },
   {
+    "id": "cd-time-gacha-premium-26-0724",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "1787540399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "1785164399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-02",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1787237999000",
+          "nowBefore": "1787540399000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-mei-hair-00",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-07"
+        },
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "obtainHair": {
+          "hairId": "hair-mei-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-mei-hair-00-not",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "notAllObtainHairs": {
+          "hairIds": [
+            "hair-mei-hair-00"
+          ]
+        }
+      },
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-07"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-mna-hair-00",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-06"
+        },
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "obtainHair": {
+          "hairId": "hair-mna-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-mna-hair-00-not",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "notAllObtainHairs": {
+          "hairIds": [
+            "hair-mna-hair-00"
+          ]
+        }
+      },
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-ngs-hair-00",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-02"
+        },
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "obtainHair": {
+          "hairId": "hair-ngs-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-ngs-hair-00-not",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "notAllObtainHairs": {
+          "hairIds": [
+            "hair-ngs-hair-00"
+          ]
+        }
+      },
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-rei-hair-00",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-08"
+        },
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "obtainHair": {
+          "hairId": "hair-rei-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-rei-hair-00-not",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "notAllObtainHairs": {
+          "hairIds": [
+            "hair-rei-hair-00"
+          ]
+        }
+      },
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-08"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-rui-hair-00",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-01"
+        },
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "obtainHair": {
+          "hairId": "hair-rui-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-rui-hair-00-not",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "notAllObtainHairs": {
+          "hairIds": [
+            "hair-rui-hair-00"
+          ]
+        }
+      },
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-smr-hair-00",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-03"
+        },
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "obtainHair": {
+          "hairId": "hair-smr-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-smr-hair-00-not",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "notAllObtainHairs": {
+          "hairIds": [
+            "hair-smr-hair-00"
+          ]
+        }
+      },
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-suz-hair-00",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-05"
+        },
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "obtainHair": {
+          "hairId": "hair-suz-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-suz-hair-00-not",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "notAllObtainHairs": {
+          "hairIds": [
+            "hair-suz-hair-00"
+          ]
+        }
+      },
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-05"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-yu-hair-00",
+    "settings": [
+      {
+        "notSatisfyCondition": {
+          "conditionId": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-04"
+        },
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "obtainHair": {
+          "hairId": "hair-yu-hair-00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-26-0724-possession-hair-yu-hair-00-not",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "0"
+        },
+        "notAllObtainHairs": {
+          "hairIds": [
+            "hair-yu-hair-00"
+          ]
+        }
+      },
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-04"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-premium-shop-23-1024",
     "settings": [
       {
@@ -299740,6 +300130,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-premium-shop-26-0724",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "1787540399000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-23-0624-01",
     "settings": [
       {
@@ -300155,6 +300556,86 @@
       {
         "purchaseShop": {
           "shopItemId": "shop_top_premium-shop-pack-26-0624-07"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-01",
+    "settings": [
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-01"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-02",
+    "settings": [
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-02"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-03",
+    "settings": [
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-03"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-04",
+    "settings": [
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-04"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-05",
+    "settings": [
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-05"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-06",
+    "settings": [
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-06"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-07",
+    "settings": [
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-07"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-gacha-premium-shop_top_premium-shop-pack-26-0724-08",
+    "settings": [
+      {
+        "purchaseShop": {
+          "shopItemId": "shop_top_premium-shop-pack-26-0724-08"
         }
       }
     ]
@@ -318573,8 +319054,8 @@
       },
       {
         "term": {
-          "nowAfter": "1782745200000",
-          "nowBefore": "1782831599000"
+          "nowAfter": "1785337200000",
+          "nowBefore": "1785423599000"
         }
       }
     ]
@@ -319246,6 +319727,17 @@
         "term": {
           "nowAfter": "1784473200000",
           "nowBefore": "1784559599000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-market-discount-day-26-0730",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1785337200000",
+          "nowBefore": "1785423599000"
         }
       }
     ]
@@ -329950,6 +330442,20 @@
     ]
   },
   {
+    "id": "cd-time-pvp-26-0726-0728_s-banner",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-011"
+        },
+        "term": {
+          "nowAfter": "1784991600000",
+          "nowBefore": "1785250799000"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-questionnaire-21-0702-0709_s-banner",
     "settings": [
       {
@@ -330451,6 +330957,17 @@
         "term": {
           "nowAfter": "1782270000000",
           "nowBefore": "1784861999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-shop-premium-26-0724-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784862000000",
+          "nowBefore": "1787540399000"
         }
       }
     ]
@@ -331145,6 +331662,17 @@
       {
         "term": {
           "nowAfter": "1782788400000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-tower-26-0725",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1784948400000",
           "nowBefore": "0"
         }
       }
