@@ -346,6 +346,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-ai-05-casl-04",
+    "assetId": "ai-05-casl-04",
+    "name": "笑顔あふれる大自然の休日",
+    "description": "えへへ、どんどん食べて下さいね\nはい、あーん、これもあーん！　これもこれも～！",
+    "type": 1,
+    "characterId": "char-ai",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 436,
+    "danceRatioPermil": 319,
+    "visualRatioPermil": 275,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ai-05-casl-04-1",
+    "skillId2": "sk-ai-05-casl-04-2",
+    "skillId3": "sk-ai-05-casl-04-3",
+    "liveAbilityId": "lba-vocal_multiply",
+    "order": 598,
+    "releaseDate": "1785466800000",
+    "rewardCostumeId": "cos-ai-casl-04",
+    "obtainMessage": "えへへ、\nどんどん食べて下さいね、\nはい、あーん",
+    "stories": [
+      {
+        "storyId": "st-card-ai-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-ai-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-ai-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ai-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ai-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ai-05-chna-01",
     "assetId": "ai-05-chna-01",
     "name": "桃園グランドマッチ",
@@ -1328,6 +1379,57 @@
     "cardEvolutionLevelGroupId": "",
     "skillId4": "",
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-aoi-05-casl-04",
+    "assetId": "aoi-05-casl-04",
+    "name": "君と抜け出す秘密の休日",
+    "description": "君がデートだと思ったのなら、それはデートだよ\nそれじゃああれは……僕にとっての初デートだね",
+    "type": 3,
+    "characterId": "char-aoi",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 292,
+    "danceRatioPermil": 407,
+    "visualRatioPermil": 331,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-aoi-05-casl-04-1",
+    "skillId2": "sk-aoi-05-casl-04-2",
+    "skillId3": "sk-aoi-05-casl-04-3",
+    "liveAbilityId": "lba-mental_add",
+    "order": 597,
+    "releaseDate": "1785466800000",
+    "rewardCostumeId": "cos-aoi-casl-04",
+    "obtainMessage": "今日は僕にとっての\n初デートだ",
+    "stories": [
+      {
+        "storyId": "st-card-aoi-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-aoi-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-aoi-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-aoi-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-aoi-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {
@@ -5184,6 +5286,57 @@
     "cardEvolutionLevelGroupId": "",
     "skillId4": "",
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-kkr-05-casl-04",
+    "assetId": "kkr-05-casl-04",
+    "name": "大事な傘と雨上がりの休日",
+    "description": "えっと……虹だけじゃなくてこころも見てくれます？\nどうです……？　似合ってます？　可愛いです？",
+    "type": 3,
+    "characterId": "char-kkr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 332,
+    "danceRatioPermil": 290,
+    "visualRatioPermil": 408,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-kkr-05-casl-04-1",
+    "skillId2": "sk-kkr-05-casl-04-2",
+    "skillId3": "sk-kkr-05-casl-04-3",
+    "activityAbilityId": "aab-lesson_gold_up",
+    "order": 599,
+    "releaseDate": "1785466800000",
+    "rewardCostumeId": "cos-kkr-casl-04",
+    "obtainMessage": "スーパーおねだりタイムの\n開始じゃーいっ！",
+    "stories": [
+      {
+        "storyId": "st-card-kkr-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-kkr-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-kkr-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-kkr-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-kkr-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {
@@ -13270,6 +13423,57 @@
       },
       {
         "telephoneId": "tel-card-rio-05-casl-02",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-05-casl-04",
+    "assetId": "rio-05-casl-04",
+    "name": "未来を夢見る甘い休日",
+    "description": "ふふっ、あんな風に焦った彼が見れるなんて新鮮だわ\nもし、二人でこのお店を継いだらきっとこんな日々が\nって私のバカ！　仕事中になんて妄想してるのよ！？",
+    "type": 2,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 407,
+    "danceRatioPermil": 317,
+    "visualRatioPermil": 276,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-casl-04-1",
+    "skillId2": "sk-rio-05-casl-04-2",
+    "skillId3": "sk-rio-05-casl-04-3",
+    "activityAbilityId": "aab-lesson_manager_exp_up",
+    "order": 596,
+    "releaseDate": "1785466800000",
+    "rewardCostumeId": "cos-rio-casl-04",
+    "obtainMessage": "もし貴方がマネージャーを\n辞めたら、ここで働かない？",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-rio-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-rio-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rio-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rio-05-casl-04",
         "messageId": ""
       }
     ],

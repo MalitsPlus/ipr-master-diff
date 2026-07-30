@@ -1164,6 +1164,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-daily_quest_ticket_sp-26-0731",
+    "name": "スペシャルパス",
+    "assetId": "quest-daily-special",
+    "description": "デイリーライブ【スペシャル】に挑戦できる",
+    "howToGet": "ショップなど",
+    "type": 2006,
+    "value": 1,
+    "order": 220,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-daily_quest_ticket_sp-present",
     "name": "プレゼントデイリーパス",
     "assetId": "quest-daily-special-pr",
@@ -1380,6 +1392,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_gold-26-0731",
+    "name": "すごろくコイン",
+    "assetId": "gold-dice",
+    "description": "マップ内のショップでアイテムを購入することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_medal-24-0404",
     "name": "すごろくメダル",
     "assetId": "medal-dice",
@@ -1536,6 +1560,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-dice_medal-26-0731",
+    "name": "すごろくメダル",
+    "assetId": "medal-dice",
+    "description": "イベント報酬と交換することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント",
+    "type": 3001,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-dice_stamina_recovery-24-0404",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
@@ -1681,6 +1717,18 @@
   },
   {
     "id": "item-dice_stamina_recovery-26-0625",
+    "name": "すごろくキャンディ",
+    "assetId": "dice-stamina-recovery",
+    "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
+    "howToGet": "すごろくイベント、ファンイベント、プロモーション など",
+    "type": 3001,
+    "value": 10,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-dice_stamina_recovery-26-0731",
     "name": "すごろくキャンディ",
     "assetId": "dice-stamina-recovery",
     "description": "すごろくスタミナを回復することができます\nイベント終了後はコインに変換されます",
@@ -2701,6 +2749,18 @@
   },
   {
     "id": "item-exchange-dress-medal-26-0605",
+    "name": "復刻衣装メダル",
+    "assetId": "medal-dress",
+    "description": "復刻衣装メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-exchange-dress-medal-26-0731",
     "name": "復刻衣装メダル",
     "assetId": "medal-dress",
     "description": "復刻衣装メダル交換所で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
@@ -4824,6 +4884,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-26-0810",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -6516,6 +6588,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-26-0731",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「黒百合達の\noff time Ⅰ」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point",
     "name": "共通ガチャPt",
     "assetId": "gacha-point",
@@ -7274,6 +7358,18 @@
   {
     "id": "item-gacha_point-birthday-26-0707",
     "name": "芽衣誕生日ガチャ2026Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-excursion-01-26-0731",
+    "name": "黒百合達のoff timeガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -11556,6 +11652,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-26-0803",
+    "name": "選べる★5アイドルガチャ\nLizNoir ver.Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -12605,6 +12713,30 @@
     "assetId": "gacha-ticket-piece-5",
     "description": "30枚で★5確定補助券ガチャを1回引くことができる",
     "howToGet": "VENUSタワーなど",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gift-gacha-ticket-10-r5-26-0731-01",
+    "name": "黒百合達のoff timeⅠ･Ⅱ 1人★5確定無料ガチャチケ",
+    "assetId": "shop-gacha-ticket-r5",
+    "description": "黒百合達のoff timeⅠ･Ⅱ 1人★5確定無料チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gift-gacha-ticket-10-r5-26-0817-01",
+    "name": "黒百合達のoff timeⅠ･Ⅱ1人★5確定チケットガチャ",
+    "assetId": "shop-gacha-ticket-r5",
+    "description": "黒百合達のoff timeⅠ･Ⅱ1人★5確定チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
     "type": 8,
     "value": 1,
     "order": 100,
@@ -15300,6 +15432,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-photo_contest_create-26-0731",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -17739,6 +17883,30 @@
     "id": "item-shop-gacha-ticket-10-r5-26-0708-01",
     "name": "弾ける笑顔と波打ち際1人★5確定10連ガチャチケ",
     "assetId": "shop-gacha-ticket-10-r5",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-26-0731-01",
+    "name": "黒百合達のoff timeⅠ1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-1226-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-26-0731-02",
+    "name": "黒百合達のoff timeⅡ1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-1230-01",
     "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ショップ",
     "type": 8,

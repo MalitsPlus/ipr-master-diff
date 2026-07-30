@@ -5096,6 +5096,32 @@
     ]
   },
   {
+    "id": "con-paid_free-ticket-1s-01-26-0731",
+    "resources": [
+      {
+        "resourceType": 1,
+        "resourceIds": [
+          "item-shop-gacha-ticket-10-r5-26-0731-01"
+        ],
+        "amount": 1,
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
+    "id": "con-paid_free-ticket-1s-02-26-0731",
+    "resources": [
+      {
+        "resourceType": 1,
+        "resourceIds": [
+          "item-shop-gacha-ticket-10-r5-26-0731-02"
+        ],
+        "amount": 1,
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
     "id": "con-paid_free-ticket-1s-23-0131",
     "resources": [
       {
@@ -7046,12 +7072,38 @@
     ]
   },
   {
+    "id": "con-paid_free-ticket-1s-26-0810",
+    "resources": [
+      {
+        "resourceType": 1,
+        "resourceIds": [
+          "item-gacha-free-ticket-1s-26-0810"
+        ],
+        "amount": 1,
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
     "id": "con-paid_free-ticket-2s-24-1230",
     "resources": [
       {
         "resourceType": 1,
         "resourceIds": [
           "item-gacha-free-ticket-1s-24-1230"
+        ],
+        "amount": 1,
+        "subResourceIds": []
+      }
+    ]
+  },
+  {
+    "id": "con-paid_gift-ticket-1s-01-26-0731",
+    "resources": [
+      {
+        "resourceType": 1,
+        "resourceIds": [
+          "item-gift-gacha-ticket-10-r5-26-0731-01"
         ],
         "amount": 1,
         "subResourceIds": []

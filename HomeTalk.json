@@ -55,6 +55,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-ai-05-casl-04-talk-01",
+    "characterId": "char-ai",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-ai-05-casl-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-ai-05-casl-04",
+    "choiceText": "何を悩んでるんだ？",
+    "managerText": "何を悩んでるんだ？",
+    "reliability": 5,
+    "title": "笑顔あふれる大自然の休日",
+    "displayConditionDescription": "笑顔あふれる大自然の休日 小美山愛\nストーリー3話を視聴",
+    "order": 548,
+    "releaseDate": "1785466800000",
+    "characterTalks": [
+      {
+        "text": "この前のグランピング、\n日が落ちる前に帰りましたよね。",
+        "voiceAssetId": "sud_vo_home_ai-05-casl-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-012_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "実は夜にキャンプファイヤーが\n楽しめたそうでして。\nそれに星空が綺麗との噂も…！",
+        "voiceAssetId": "sud_vo_home_ai-05-casl-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_deny-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "体験してみたいんですけど\n長時間{user}さんを\n付き合わせちゃうのは…むむむ",
+        "voiceAssetId": "sud_vo_home_ai-05-casl-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "けど、キャンプファイヤーでは\n焼きマシュマロや焼きリンゴも\n出来ちゃうらしいんです。",
+        "voiceAssetId": "sud_vo_home_ai-05-casl-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-019_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あぁ、考えれば考えるほど\n魅力的です…！",
+        "voiceAssetId": "sud_vo_home_ai-05-casl-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-007_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}さんさえ\n良ければ、次は夜までいませんか？",
+        "voiceAssetId": "sud_vo_home_ai-05-casl-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_emb-001_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-ai-05-chna-01-talk-01",
     "characterId": "char-ai",
     "placeType": 1,
@@ -801,6 +856,61 @@
         "text": "そんなことない？\nじゃあ一度、試してみようよ。\nせっかくだし愛も誘ってさ。",
         "voiceAssetId": "sud_vo_home_aoi-05-arab-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-aoi-05-casl-04-talk-01",
+    "characterId": "char-aoi",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-aoi-05-casl-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-aoi-05-casl-04",
+    "choiceText": "気になることでもあるのか？",
+    "managerText": "気になることでもあるのか？",
+    "reliability": 5,
+    "title": "君と抜け出す秘密の休日",
+    "displayConditionDescription": "君と抜け出す秘密の休日 井川葵\nストーリー3話を視聴",
+    "order": 547,
+    "releaseDate": "1785466800000",
+    "characterTalks": [
+      {
+        "text": "あの記事を読んだ女性読者から\n手紙で恋愛相談をされるように\nなったんだ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-casl-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_think-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、僕には\n気の利いた返事が出来ない。\n恋愛経験がある訳じゃないからね。",
+        "voiceAssetId": "sud_vo_home_aoi-05-casl-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_trouble-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だから、正直困ってるんだ。\nどう答えたらいいのか\n本当に分からないよ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-casl-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "リズノワのメンバーに相談？　\nいや、ウチのメンバーはみんな\nそっち方面には疎いから。",
+        "voiceAssetId": "sud_vo_home_aoi-05-casl-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_ask-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "君は大人なんだから\n経験、あるんでしょ？\n少し協力してくれないかな。",
+        "voiceAssetId": "sud_vo_home_aoi-05-casl-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "え？　そんなに経験がない？\n僕は嘘とカニカマは嫌いなんだ。\nしっかり相談に乗ってもらうよ。",
+        "voiceAssetId": "sud_vo_home_aoi-05-casl-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_angry-002_in",
         "additionMotionAssetId": ""
       }
     ],
@@ -3583,6 +3693,61 @@
         "text": "そしたらお客さん達が、kana\nとも一緒に踊ってる気分に\nなれるでしょ。",
         "voiceAssetId": "sud_vo_home_kan-05-snro-00_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-kkr-05-casl-04-talk-01",
+    "characterId": "char-kkr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-kkr-05-casl-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-kkr-05-casl-04",
+    "choiceText": "かなり良かったと聞いているよ",
+    "managerText": "かなり良かったと聞いているよ",
+    "reliability": 5,
+    "title": "大事な傘と雨上がりの休日",
+    "displayConditionDescription": "大事な傘と雨上がりの休日 赤崎こころ\nストーリー3話を視聴",
+    "order": 549,
+    "releaseDate": "1785466800000",
+    "characterTalks": [
+      {
+        "text": "良かったです～！\nまあ、当たり前ですよね。",
+        "voiceAssetId": "sud_vo_home_kkr-05-casl-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-008_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "可愛いこころが可愛い服を着て\n世界中の珍獣達と触れ合う番組\nなんて…",
+        "voiceAssetId": "sud_vo_home_kkr-05-casl-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "面白くない訳ないじゃないですか！\n最初は愛ちゃん向きのお仕事だな\nって思ってましたけど…あ…",
+        "voiceAssetId": "sud_vo_home_kkr-05-casl-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "別に不安とかはなかったですよ？\nでも、愛ちゃんの方がうまく\n出来るんじゃないかな、とか…",
+        "voiceAssetId": "sud_vo_home_kkr-05-casl-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_deny-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "そういうのは少し脳裏をよぎり\nましたけど、こころの新しい魅力を\n見せれたので結果オーライです！",
+        "voiceAssetId": "sud_vo_home_kkr-05-casl-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_pos-002_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これからも新しいお仕事には\nどんどん挑戦していこうって\n思ってるので、よろしくでーす！",
+        "voiceAssetId": "sud_vo_home_kkr-05-casl-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-003_in",
         "additionMotionAssetId": ""
       }
     ],
@@ -9305,6 +9470,61 @@
         "text": "「営業の女性は綺麗な人が多いから\n間違えても仕方ないわね」って私が\n言ったらみんなも笑ってくれたわ。",
         "voiceAssetId": "sud_vo_home_rio-05-casl-02_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_pos-017_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-rio-05-casl-04-talk-01",
+    "characterId": "char-rio",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rio-05-casl-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rio-05-casl-04",
+    "choiceText": "SNSで見ましたよ。\n今も大繁盛してるみたいですけど\n…営業は大丈夫なんですか？",
+    "managerText": "SNSで見ましたよ。\n今も大繁盛してるみたいですけど\n…営業は大丈夫なんですか？",
+    "reliability": 5,
+    "title": "未来を夢見る甘い休日",
+    "displayConditionDescription": "未来を夢見る甘い休日 神崎莉央\nストーリー3話を視聴",
+    "order": 546,
+    "releaseDate": "1785466800000",
+    "characterTalks": [
+      {
+        "text": "そうなの。\nアルバイトを二人も雇ったのに、\nまだ人手が足りないみたい。",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_talk-006_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "だから、母も早々に\nアルバイトの追加募集を始めたの。\nそうしたらね…",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "リズノワのメンバーが、\n持ち回りで手伝いに行くって\n言い出したのよ。",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-011_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-003_in"
+      },
+      {
+        "text": "…そりゃ、もちろん止めたわよ。\nどう考えても無理でしょう。\n岡山と東京を往復するのよ？",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_ask-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも、葵もこころも愛も\n私を心配して言ってくれてるのが\n分かるから、叱れないのよね。",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "ふふっ、いい仲間と…\nいいマネージャーに恵まれて\n私は幸せね。",
+        "voiceAssetId": "sud_vo_home_rio-05-casl-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
         "additionMotionAssetId": ""
       }
     ],

@@ -3159,6 +3159,27 @@
     "receiveConditionId": "cd-time-login02-26-0613-0626-02"
   },
   {
+    "id": "login_bonus-campaign02-26-0802-01",
+    "name": "おでかけ",
+    "description": "7日間の特別なログインボーナス",
+    "type": 2,
+    "assetId": "login-campaign-26-0802-01",
+    "topColorCode": "00CEFF",
+    "bottomColorCode": "D0FFA0",
+    "priority": 10,
+    "rewardIds": [
+      "rd_auto;item;item-daily_quest_ticket_sp-26-0731;3",
+      "rd_auto;item;item-enjoy-present-general-02-01;2",
+      "rd_auto;item;item-act_promotion_shorten;5",
+      "rd_auto;item;item-card_skill;10000",
+      "rd_auto;item;item-daily_quest_ticket_sp-26-0731;3",
+      "rd_auto;item;item-act_promotion_shorten-sp;2",
+      "rd_auto;stone;;500"
+    ],
+    "openConditionId": "cd-time-login02-26-0802-0808",
+    "receiveConditionId": "cd-time-login02-26-0802-0815"
+  },
+  {
     "id": "login_bonus-normal-01",
     "name": "デイリー",
     "description": "毎日もらえるログインボーナス",
