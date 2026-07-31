@@ -7967,7 +7967,7 @@
     "skillId2": "sk-ktn-05-yukt-00-2",
     "skillId3": "sk-ktn-05-yukt-00-3",
     "liveAbilityId": "lba-special_skill_score_multiply",
-    "order": 595,
+    "order": 589,
     "releaseDate": "1784343600000",
     "rewardCostumeId": "cos-ktn-yukt-00",
     "obtainMessage": "お父さんとお母さんに、\n一杯褒めてもらっちゃいました",
@@ -11121,6 +11121,53 @@
       }
     ],
     "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-ngs-05-birt-03",
+    "assetId": "ngs-05-birt-03",
+    "name": "dear precious 渚",
+    "description": "待って。私の……知らない……琴乃ちゃんの一面……？\nそれは芽衣ちゃんでも聞き捨てならないなぁ",
+    "type": 1,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 276,
+    "danceRatioPermil": 436,
+    "visualRatioPermil": 318,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-birt-03-1",
+    "skillId2": "sk-ngs-05-birt-03-2",
+    "skillId3": "sk-ngs-05-birt-03-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 590,
+    "releaseDate": "1785682800000",
+    "rewardHairIds": [
+      "hair-ngs-hair-30",
+      "hair-ngs-hair-31",
+      "hair-ngs-hair-32",
+      "hair-ngs-hair-33"
+    ],
+    "obtainMessage": "すずちゃん、私のために\n恋愛小説を書いてくれたの！？",
+    "rewardHairId": "hair-ngs-hair-30",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-birt-03-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-birt-03-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-birt-03-03"
+      }
+    ],
+    "activityAbilityId": "",
     "rewardCostumeId": "",
     "cardEvolutionLevelReleaseGroupId": "",
     "cardEvolutionLevelGroupId": "",

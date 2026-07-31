@@ -5472,6 +5472,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_ngs-06",
+    "name": "【誕生日】伊吹渚",
+    "assetId": "birthday_ngs-06",
+    "autoProvideConditionId": "cd-birthday_emblem_ngs-26-0803",
+    "order": 606020,
+    "description": "渚の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_rei-03",
     "name": "【誕生日】一ノ瀬怜",
     "assetId": "birthday_rei-03",
@@ -7088,6 +7097,24 @@
     "assetId": "gvg-season-061-top010",
     "order": 406120,
     "description": "ユニオンライブシーズン61 で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-062-top001",
+    "name": "ユニオンシーズン62 No.1",
+    "assetId": "gvg-season-062-top001",
+    "order": 406210,
+    "description": "ユニオンライブシーズン62 で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-gvg-season-062-top010",
+    "name": "ユニオンシーズン62 TOP10",
+    "assetId": "gvg-season-062-top010",
+    "order": 406220,
+    "description": "ユニオンライブシーズン62 で10位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
@@ -10553,6 +10580,33 @@
     "assetId": "pvp-season-176-top100",
     "order": 317630,
     "description": "VENUSバトルシーズン176で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-177-top001",
+    "name": "VENUSシーズン177 No.1",
+    "assetId": "pvp-season-177-top001",
+    "order": 317710,
+    "description": "VENUSバトルシーズン177で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-177-top010",
+    "name": "VENUSシーズン177 TOP10",
+    "assetId": "pvp-season-177-top010",
+    "order": 317720,
+    "description": "VENUSバトルシーズン177で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-177-top100",
+    "name": "VENUSシーズン177 TOP100",
+    "assetId": "pvp-season-177-top100",
+    "order": 317730,
+    "description": "VENUSバトルシーズン177で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
