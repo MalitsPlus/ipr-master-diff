@@ -40986,6 +40986,102 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "event-ms-idoly-pride-day-mission-26-0820-login",
+    "categoryType": 1,
+    "missionType": 4,
+    "name": "ログイン1回",
+    "shortDescription": "ログイン1回",
+    "longDescription": "ログインを1回しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-daily_quest_ticket_01;1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0820",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0820-mission_clear_count",
+    "categoryType": 1,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-idoly-pride-day-mission-26-0820-login",
+      "event-ms-idoly-pride-day-mission-26-0820-quest-daily-clear-count",
+      "event-ms-idoly-pride-day-mission-26-0820-photo_shoot_count"
+    ],
+    "name": "イベントミッションを全てクリア",
+    "shortDescription": "イベントミッションを全てクリア",
+    "longDescription": "イベントミッションを全てクリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_event-ms-idoly-pride-day-mission-26-0820-mission_clear_count"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0820",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0820-photo_shoot_count",
+    "categoryType": 1,
+    "missionType": 33,
+    "name": "フォト撮影{threshold}回",
+    "shortDescription": "フォト撮影{threshold}回",
+    "longDescription": "フォト撮影を{threshold}回しましょう。",
+    "order": 4,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-act_promotion_shorten;1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0820",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-idoly-pride-day-mission-26-0820-quest-daily-clear-count",
+    "categoryType": 1,
+    "missionType": 7,
+    "name": "デイリーライブ{threshold}回クリア",
+    "shortDescription": "デイリーライブ{threshold}回クリア",
+    "longDescription": "デイリーライブを{threshold}回クリアしましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-act_lesson-boost;1"
+      }
+    ],
+    "eventMissionId": "event_idoly-pride-day-mission-26-0820",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "event-ms-live-23-0503-condition_clear-1",
     "categoryType": 3,
     "missionType": 4,
@@ -80732,6 +80828,262 @@
     "companyTrustMissionCategoryType": 0
   },
   {
+    "id": "event-ms-spr-26-0826-00-character_quest_all_clear_count",
+    "categoryType": 3,
+    "missionType": 66,
+    "targetIds": [
+      "char-kor",
+      "char-mhk",
+      "char-kan"
+    ],
+    "name": "ⅢXのメンバーでライブを合計{threshold}回クリア",
+    "shortDescription": "ⅢXのメンバーでライブを合計{threshold}回クリア",
+    "longDescription": "ⅢXのメンバーで\nライブを合計{threshold}回クリアしましょう。",
+    "order": 4,
+    "linkType": 2,
+    "progresses": [
+      {
+        "threshold": "10",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-character_quest_all_clear_count-10"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-character_quest_all_clear_count-15"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-character_quest_all_clear_count-20"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0826",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0826-00-character_start_activity_fan_event_count",
+    "categoryType": 3,
+    "missionType": 69,
+    "targetIds": [
+      "char-kor",
+      "char-mhk",
+      "char-kan"
+    ],
+    "name": "ⅢXのメンバーでファンイベントを\n{threshold}回実施",
+    "shortDescription": "ⅢXのメンバーでファンイベントを{threshold}回実施",
+    "longDescription": "ⅢXのメンバーで\nファンイベントを{threshold}回実施しましょう。",
+    "order": 8,
+    "linkType": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-character_start_activity_fan_event_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-character_start_activity_fan_event_count-3"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0826",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0826-00-character_start_activity_promotion_count",
+    "categoryType": 3,
+    "missionType": 70,
+    "targetIds": [
+      "char-kor",
+      "char-mhk",
+      "char-kan"
+    ],
+    "name": "ⅢXのメンバーでプロモーションを\n{threshold}回実施",
+    "shortDescription": "ⅢXのメンバーでプロモーションを{threshold}回実施",
+    "longDescription": "ⅢXのメンバーで\nプロモーションを{threshold}回実施しましょう。",
+    "order": 6,
+    "linkType": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-character_start_activity_promotion_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-character_start_activity_promotion_count-3"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0826",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0826-00-character_start_activity_refreshment_count",
+    "categoryType": 3,
+    "missionType": 71,
+    "targetIds": [
+      "char-kor",
+      "char-mhk",
+      "char-kan"
+    ],
+    "name": "ⅢXのメンバーでリフレッシュを\n{threshold}回実施",
+    "shortDescription": "ⅢXのメンバーでリフレッシュを{threshold}回実施",
+    "longDescription": "ⅢXのメンバーで\nリフレッシュを{threshold}回実施しましょう。",
+    "order": 7,
+    "linkType": 1,
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-character_start_activity_refreshment_count-1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-character_start_activity_refreshment_count-3"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0826",
+    "viewConditionId": "",
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0826-00-company_character_use_obtain_enjoy_point_item_count",
+    "categoryType": 3,
+    "missionType": 2301,
+    "targetIds": [
+      "char-kor",
+      "char-mhk",
+      "char-kan"
+    ],
+    "name": "ⅢXのメンバーに{threshold}回プレゼント",
+    "shortDescription": "ⅢXのメンバーに{threshold}回プレゼント",
+    "longDescription": "ⅢXのメンバーに\n{threshold}回プレゼントしましょう。",
+    "order": 5,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-company_character_use_obtain_enjoy_point_item_count-3"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-company_character_use_obtain_enjoy_point_item_count-5"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0826",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0826-00-excursion_clear_count",
+    "categoryType": 3,
+    "missionType": 2401,
+    "targetIds": [
+      "char-kor",
+      "char-mhk",
+      "char-kan"
+    ],
+    "name": "ⅢXのメンバーと\nおでかけを{threshold}回する",
+    "shortDescription": "ⅢXのメンバーとおでかけを{threshold}回する",
+    "longDescription": "ⅢXのメンバーと\nおでかけを{threshold}回しましょう。",
+    "order": 3,
+    "progresses": [
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-excursion_clear_count-3"
+      },
+      {
+        "threshold": "6",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-excursion_clear_count-6"
+      },
+      {
+        "threshold": "9",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-excursion_clear_count-9"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0826",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0826-00-login_count",
+    "categoryType": 3,
+    "missionType": 1,
+    "name": "ログイン{threshold}回",
+    "shortDescription": "ログイン{threshold}回",
+    "longDescription": "ログインを{threshold}回しましょう。",
+    "order": 2,
+    "progresses": [
+      {
+        "threshold": "2",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-login_count-2"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-login_count-3"
+      },
+      {
+        "threshold": "4",
+        "rewardSetId": "rd-event-ms-spr-26-0826-00-login_count-4"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0826",
+    "targetIds": [],
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-ms-spr-26-0826-01-mission_clear_count",
+    "categoryType": 3,
+    "missionType": 3,
+    "targetIds": [
+      "event-ms-spr-26-0826-00-login_count",
+      "event-ms-spr-26-0826-00-excursion_clear_count",
+      "event-ms-spr-26-0826-00-character_quest_all_clear_count",
+      "event-ms-spr-26-0826-00-company_character_use_obtain_enjoy_point_item_count",
+      "event-ms-spr-26-0826-00-character_start_activity_promotion_count",
+      "event-ms-spr-26-0826-00-character_start_activity_refreshment_count",
+      "event-ms-spr-26-0826-00-character_start_activity_fan_event_count"
+    ],
+    "name": "イベントミッションを{threshold}個クリア",
+    "shortDescription": "イベントミッションを{threshold}個クリア",
+    "longDescription": "イベントミッションを{threshold}個クリアしましょう。",
+    "order": 1,
+    "progresses": [
+      {
+        "threshold": "15",
+        "rewardSetId": "rd-event-ms-spr-26-0826-01-mission_clear_count-15"
+      }
+    ],
+    "eventMissionId": "event_spr-mission-26-0826",
+    "viewConditionId": "",
+    "linkType": 0,
+    "linkDetail": "",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
     "id": "event-ms-thanks-22-0413-00-00-accessory_enhance_count",
     "categoryType": 3,
     "missionType": 28,
@@ -100905,6 +101257,138 @@
       }
     ],
     "eventMissionId": "event-shelf-26-0731",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0820-photo-album-complete-1",
+    "categoryType": 3,
+    "missionType": 1903,
+    "targetIds": [
+      "shelf-26-0820"
+    ],
+    "name": "アルバムを完成させる",
+    "shortDescription": "{threshold}つのイベントのアルバムを完成",
+    "longDescription": "{threshold}つのイベントのアルバムを完成させましょう。",
+    "order": 3,
+    "viewConditionId": "cd-event_story-mission-26-0820",
+    "linkType": 112,
+    "linkDetail": "shelf-26-0820",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;3"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0820",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0820-photo-album-creating-1",
+    "categoryType": 3,
+    "missionType": 1904,
+    "targetIds": [
+      "shelf-26-0820"
+    ],
+    "name": "アルバムを現像",
+    "shortDescription": "アルバムを{threshold}回現像",
+    "longDescription": "アルバムを{threshold}回現像しましょう。",
+    "order": 4,
+    "viewConditionId": "cd-event_story-mission-26-0820",
+    "linkType": 112,
+    "linkDetail": "shelf-26-0820",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;3"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0820",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0820-photo-creating-1",
+    "categoryType": 3,
+    "missionType": 1902,
+    "targetIds": [
+      "shelf-26-0820"
+    ],
+    "name": "フォトを{threshold}回の現像",
+    "shortDescription": "フォトを{threshold}回現像",
+    "longDescription": "フォトを{threshold}回現像しましょう。",
+    "order": 2,
+    "viewConditionId": "cd-event_story-mission-26-0820",
+    "linkType": 112,
+    "linkDetail": "shelf-26-0820",
+    "progresses": [
+      {
+        "threshold": "1",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;1"
+      },
+      {
+        "threshold": "3",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;2"
+      },
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;3"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0820",
+    "companyEnjoyCharacterId": "",
+    "companyEnjoyCharacterMissionCategoryType": 0,
+    "companyTrustMissionCategoryType": 0
+  },
+  {
+    "id": "event-shelf-26-0820-photo-save-1",
+    "categoryType": 3,
+    "missionType": 1901,
+    "targetIds": [
+      "shelf-26-0820"
+    ],
+    "name": "フォトを{threshold}回保存",
+    "shortDescription": "フォトを{threshold}回保存",
+    "longDescription": "フォトを{threshold}回保存しましょう。",
+    "order": 1,
+    "viewConditionId": "cd-event_story-mission-26-0820",
+    "linkType": 112,
+    "linkDetail": "shelf-26-0820",
+    "progresses": [
+      {
+        "threshold": "5",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;1"
+      },
+      {
+        "threshold": "10",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;2"
+      },
+      {
+        "threshold": "15",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;2"
+      },
+      {
+        "threshold": "20",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;3"
+      },
+      {
+        "threshold": "25",
+        "rewardSetId": "rd_auto;item;item-photo_contest_create-26-0820;3"
+      }
+    ],
+    "eventMissionId": "event-shelf-26-0820",
     "companyEnjoyCharacterId": "",
     "companyEnjoyCharacterMissionCategoryType": 0,
     "companyTrustMissionCategoryType": 0
