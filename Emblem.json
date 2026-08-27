@@ -5535,6 +5535,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_rio-06",
+    "name": "【誕生日】神崎莉央",
+    "assetId": "birthday_rio-06",
+    "autoProvideConditionId": "cd-birthday_emblem_rio-26-0828",
+    "order": 606140,
+    "description": "莉央の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_rui-03",
     "name": "【誕生日】天動瑠依",
     "assetId": "birthday_rui-03",
@@ -10634,6 +10643,33 @@
     "assetId": "pvp-season-178-top100",
     "order": 317830,
     "description": "VENUSバトルシーズン178で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-179-top001",
+    "name": "VENUSシーズン179 No.1",
+    "assetId": "pvp-season-179-top001",
+    "order": 317910,
+    "description": "VENUSバトルシーズン179で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-179-top010",
+    "name": "VENUSシーズン179 TOP10",
+    "assetId": "pvp-season-179-top010",
+    "order": 317920,
+    "description": "VENUSバトルシーズン179で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-179-top100",
+    "name": "VENUSシーズン179 TOP100",
+    "assetId": "pvp-season-179-top100",
+    "order": 317930,
+    "description": "VENUSバトルシーズン179で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },

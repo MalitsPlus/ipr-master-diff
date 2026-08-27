@@ -1348,6 +1348,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-rio-26-0828",
+    "name": "神崎莉央 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は莉央さんの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "フットマッサージャー",
+        "advAssetId": "hbd_06_rio_01"
+      },
+      {
+        "index": 2,
+        "text": "温泉ペア宿泊券",
+        "advAssetId": "hbd_06_rio_02"
+      },
+      {
+        "index": 3,
+        "text": "等身大、莉央さんフィギュア",
+        "advAssetId": "hbd_06_rio_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-rui-23-1111",
     "name": "天動瑠依 誕生日2023",
     "advPlayTypes": [
@@ -4288,6 +4320,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-chs-05-casl-04-01",
+    "name": "リフレッシュ\nさせちゃい\nます",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_chs_15_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-chs-05-casl-04-02",
+    "name": "クリームが\n付いてます",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_chs_15_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-chs-05-casl-04-03",
+    "name": "約束しました\nからね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_chs_15_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-chs-05-chia-00-01",
     "name": "物持ちが\nいいんですね",
     "rewardId": "rd_auto;stone;;30",
@@ -5196,6 +5282,60 @@
     ],
     "advAssetIds": [
       "card_hrk_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-casl-04-01",
+    "name": "久しぶりに\nデート\nしましょう",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_16_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-casl-04-02",
+    "name": "二人きりで\n飲み明かす\nわよ～",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_16_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-hrk-05-casl-04-03",
+    "name": "とっても\n可愛かった\nわよ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_hrk_16_03"
     ],
     "sectionName": "",
     "description": "",
@@ -13252,6 +13392,60 @@
     "branchChoices": []
   },
   {
+    "id": "st-card-rei-05-casl-04-01",
+    "name": "増やしたい\n思い出",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rei_17_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rei-05-casl-04-02",
+    "name": "最後に\n行きたい場所",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rei_17_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rei-05-casl-04-03",
+    "name": "大人に\nなっていく\n私を",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rei_17_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
     "id": "st-card-rei-05-chia-00-01",
     "name": "恋愛相談が\nあるんです\nけど",
     "rewardId": "rd_auto;stone;;30",
@@ -14268,6 +14462,60 @@
     ],
     "advAssetIds": [
       "card_rio_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rio-05-birt-03-01",
+    "name": "『グミ師匠』\nって何？",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rio_54_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rio-05-birt-03-02",
+    "name": "神崎莉央、\n十七歳\nですっ！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rio_54_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-rio-05-birt-03-03",
+    "name": "永遠の\nライバルさん",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_rio_54_03"
     ],
     "sectionName": "",
     "description": "",
@@ -17130,6 +17378,60 @@
     ],
     "advAssetIds": [
       "card_skr_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-casl-04-01",
+    "name": "北海道を堪能\nしちゃうぞ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_15_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-casl-04-02",
+    "name": "あの空の\n向こうまで",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_15_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-skr-05-casl-04-03",
+    "name": "まだ\n終わりじゃ\nありません",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_skr_15_03"
     ],
     "sectionName": "",
     "description": "",
@@ -20046,6 +20348,60 @@
     ],
     "advAssetIds": [
       "card_szk_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-casl-04-01",
+    "name": "一緒に釣りを\nする……！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_14_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-casl-04-02",
+    "name": "釣りは面白い",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_14_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-casl-04-03",
+    "name": "沢山、\nありがとう",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_14_03"
     ],
     "sectionName": "",
     "description": "",
@@ -54226,6 +54582,916 @@
     "advAssetIds": [
       "event_2601_01_05_01",
       "event_2601_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-001-001",
+    "name": "サニピ初の\n全国ツアー",
+    "description": "初の全国ツアーをすることが決まった、サニーピース。早速、会議室に集まり、ツアータイトルやDVDの特典映像について考えることに。結果、ツアータイトルは『繋ぐ』に決定。メンバー達は全国を回りながら、ファンレターに書かれていたファンの夢を叶えていくことになるのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-001-002",
+    "name": "沖縄＆福岡",
+    "description": "沖縄と福岡にて。メンバー達は現地で、ファンの夢を叶えることに。一緒に釣りをしたり、スーパーの呼び込みに協力するのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-001-003",
+    "name": "広島＆名古屋",
+    "description": "広島、名古屋にて。ファンと交流し、夢を叶えていくサニーピース。ただ、広島では、怜には酷なことが待っており……",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-001-004",
+    "name": "仙台＆札幌",
+    "description": "仙台、札幌でも、メンバーは合間の時間に、ファンの夢を叶えていく。さくら達の温かな想いに、ファンは元気をもらうのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-001-005",
+    "name": "サニーピース\n＆みんな",
+    "description": "全国ツアー終了後。各地で触れ合ったファンから、またファンレターが届いていた。そこに書かれていたのは、サニーピースへの感謝の言葉。手紙を読んだメンバー達は、ツアータイトルの意味を改めて噛みしめる。",
+    "advPlayTypes": [
+      1,
+      1
+    ],
+    "advAssetIds": [
+      "event_2403_01_05_01",
+      "event_2403_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-002-001",
+    "name": "決戦前夜",
+    "description": "どりきゅんとの決戦前夜。寮の庭にて、琴乃とさくらは顔を合わせる。琴乃が月のテンペストを脱退した時、さくらがどう思っていたのか。そして、琴乃達が新曲にどんな想いを込めているのか。月明かりの下、二人は改めて言葉を交わすのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2406_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-002-002",
+    "name": "漠然とした\nイメージ",
+    "description": "ⅢXとの特訓の裏で、月のテンペストは新曲作りを進めていた。限られた時間の中、なんとか歌詞のイメージを固めようと奮闘するも、まだ漠然とした、ぼんやりとしたイメージしか持てずにいた。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2406_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-002-003",
+    "name": "私の道",
+    "description": "どりきゅんとの再戦が決まり、良くも悪くも注目が集まっている月のテンペスト。そんな彼女達に、あなたはあえてライブバトルを提案する。復帰してから初のライブバトルのため、琴乃は不安を覚えていたが……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2406_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-002-004",
+    "name": "道を照らす\nアイドル",
+    "description": "自分達を受け入れてくれた人々。そして、月のテンペストのパフォーマンスに影響を受けた二人の人物。自分達の道を見つけ、前へと進み、そんな姿が、今度は誰かに勇気を与え……アイドルとしてのあり方を改めて見つめ直した琴乃達は、ついに新曲のイメージを掴むのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2406_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-002-005",
+    "name": "待ってるよ",
+    "description": "サニーピースと月のテンペスト。太陽の光を受けた月は、一層明るく、自分達だけの輝きを手に、決戦へと臨むのだった。その先に待つ、頂点を目指して。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2406_01_05"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-003-001",
+    "name": "誰が雑魚\nアイドルよ",
+    "description": "BIG4として活躍するサニーピース。そんな彼女達の元に、まさかの無人島ロケのオファーが舞い込んでくる。過酷なロケながらも、やる気満々なメンバー達だが、千紗だけは少し不安を覚えていた。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2407_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-003-002",
+    "name": "一人でも\n平気だから",
+    "description": "サバイバルロケ本番。持ち前の明るさで、元気一杯に突き進むさくら達。千紗も、過去のトラウマから海に入るのが苦手ながらも、足手まといにならないよう努力を誓う。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2407_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-003-003",
+    "name": "魚だけに、\nうおー",
+    "description": "海への恐怖から、脱出用のイカダにも乗れるか分からない千紗。それでも過去のトラウマを乗り越えようと、海に入ることにするも、どうしても足がすくんでしまい……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2407_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-003-004",
+    "name": "千紗はやりた\nいんでしょ",
+    "description": "足手まといにならないよう、やりたいことも言わず、我慢を続ける千紗。そんな千紗に手を差し伸べたのは怜だった。怜に背中を押され、千紗は自分の気持ちを伝える大切さに気づき……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2407_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-003-005",
+    "name": "サニーピース\n号、出航！！",
+    "description": "千紗の手により、脱出用のイカダは、綺麗な装飾が施される。千紗に感謝したメンバー達は、改めて、一緒にイカダで脱出しないかと千紗を誘い――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2407_01_05"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-004-001",
+    "name": "仲良し\nユニット\n決定戦",
+    "description": "星見プロと製菓会社共同の『星見フレンドフェス』の開催が決まり、その中の『ニコイチ仲良しユニット決定戦』にこころとkanaの新ユニットを組んで出場してほしいと頼むあなた。だが、売り言葉に買い言葉で「絶対にユニットなんか組まない」と二人は喧嘩してしまい……？",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2411_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-004-002",
+    "name": "本物よりも\n本物の仲良し",
+    "description": "利害関係が一致し、ついにフェスへの出場を決めたこころとkana。本当は不仲なことがバレないよう、新ユニットをお披露目する生放送に向けて作戦会議を開く。しかし、こころはあまり協力的ではない様子で……",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2411_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-004-003",
+    "name": "こころの\n学校生活",
+    "description": "生放送終了後、ゲームで大敗したことが原因で大喧嘩してしまうこころとkana。居合わせた芽衣と雫に言い過ぎだと指摘されたkanaは、成り行きから忘れ物をしたこころのために学校へと赴く。そこには、意外なこころの姿があって――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2411_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-004-004",
+    "name": "天使と悪魔",
+    "description": "仲直りしたこころとkanaは、生配信でユニットのコンセプトを発表する。SNSトレンドを独占し、上機嫌に『仲良しアピール』の話をしていると、それを陰から聞いていた人物がいて……？",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2411_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-004-005",
+    "name": "最強の\nニコイチ",
+    "description": "一緒にダンス練習をしたり、kanaがこころに勉強を教えてあげたりと、少しずつ仲を深めた二人。そして『星見フレンドフェス』当日。こころとkanaの新ユニットは息がぴったり合った掛け合いを披露するのだった。",
+    "advPlayTypes": [
+      1,
+      1
+    ],
+    "advAssetIds": [
+      "event_2411_01_05_01",
+      "event_2411_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-005-001",
+    "name": "サニピ達の\nバレンタイン",
+    "description": "バレンタインのテレビCMに出ることになったサニーピース。さらに、それにちなんだイベントも開催されることが決まる。メンバー達は、早速企画会議を開き、イベントの内容について話し合うのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2502_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-005-002",
+    "name": "秘密の\nチョコレート",
+    "description": "あなたは、サニピのメンバー達が、こそこそと手作りでチョコレートを用意しようとしていることに気付く。アイドルということもあり、誰にあげるのか気が気でないあなただが……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2502_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-005-003",
+    "name": "とろける\nような青春",
+    "description": "バレンタインデー当日。あなたは、メンバーが誰にチョコレートをあげるつもりなのか、どうしても気になってしまう。一方でメンバー達は、学校でいろいろなことがあったようで――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2502_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-005-004",
+    "name": "ドキドキ\n告白タイム",
+    "description": "ついに始まった、サニーピースによるバレンタインイベント。メンバー達は、自分達の曲をメドレーで歌ったり、この日のために用意した企画をやったりと、集まったファン達に沢山のプレゼントを贈る。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2502_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-005-005",
+    "name": "あなたに\nハッピー\nバレンタイン",
+    "description": "バレンタインイベントもいよいよ大詰め。サニーピースによる、新曲が披露される。そしてついに、あなたもメンバー達が誰にチョコレートを用意していたのか、知ることとなり――",
+    "advPlayTypes": [
+      1,
+      1
+    ],
+    "advAssetIds": [
+      "event_2502_01_05_01",
+      "event_2502_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-006-001",
+    "name": "『劇団★見』\n旗揚げ！",
+    "description": "TRINITYAiLEが主演を務める2.5次元舞台『ぷりてぃー★エンジェル』。その出来栄えに感動した雫達は、自分達も舞台の仕事に挑戦してみたい、とあなたにお願いするが――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2504_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-006-002",
+    "name": "思い出の物語",
+    "description": "雫、すず、さくら、琴乃、優の五人で結成した、『劇団★見』。まずは、どんな舞台にしようか、どんなお話にしようか、配役はどうしようか、など、みんなで集まって意見を出し合うことに。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2504_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-006-003",
+    "name": "アリスオーデ\nィション",
+    "description": "演目は『不思議の国のアリス』に決定。次は配役を決めることになるも、主役は自分がやりたい、と雫もすずも譲らない。メンバー達は話し合い、主役はオーディションで決めることとなるが――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2504_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-006-004",
+    "name": "始まった\n初公演",
+    "description": "舞台当日。雫とすずを中心に、工夫をこらした楽しい舞台が幕を開ける。あなたは、優の大胆な脚本のアレンジに感心しつつ、舞台袖からそれぞれの活躍を見守るのだった。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2504_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-006-005",
+    "name": "めでたし\nめでたし",
+    "description": "ついにハートの女王様が登場し、絶体絶命となる雫アリスとすずアリス。ステージの上で、『劇団★見』のメンバー達は楽しみながらも全力で演じ、物語はクライマックスへと向かっていく。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2504_01_05"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-007-001",
+    "name": "星見プロ\n全国ツアー！",
+    "description": "星見プロのアイドル全員による、全国ツアー。そんな夢が、ついに実現することに。メンバーは早速、ツアーに向けて衣装を用意する班と、新曲を用意する班に分かれて準備を進めることになる。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2506_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-007-002",
+    "name": "チーム\nリーダー\n愛ちゃん",
+    "description": "新曲制作のリーダーを務めることになった、愛。最初は緊張でガチガチになっていたが、勇気を出して自分の意見を伝え――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2506_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-007-003",
+    "name": "お楽しみの\nくじ引き",
+    "description": "ついに始まる、星見プロ全国ツアー。ただ、グループの垣根を越えて交流するいいチャンスだと、ホテルの部屋割りをくじで決めることになり――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2506_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-007-004",
+    "name": "とっても\n目立って\nました",
+    "description": "愛知公演、福岡公演、宮城公演と、全国を回るアイドル達。ローカルテレビの番組に出たり、御当地グルメを楽しもうと出掛けたり、ツアーならではの日々を過ごしていく。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2506_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-007-005",
+    "name": "世界一美しい\n星空",
+    "description": "ついにツアー最終日、東京公演が始まる。星見プロのアイドル達は、ステージの上で、夜空に浮かぶ星々のように輝き、みんなに感謝を届ける。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2506_01_05"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-008-001",
+    "name": "アンサー\nソング",
+    "description": "麻奈の誕生日に合わせて、『song for you』のアンサーソング、『With your songs』の歌詞を作り上げた琴乃。ただ、作曲の方は思うように進んでおらず――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2603_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-008-002",
+    "name": "歌うように",
+    "description": "すずと協力して、メロディを作ることとなった琴乃。麻奈との思い出を語りつつも、お互いにピアノの経験があることから、試しに弾いてみることになり――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2603_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-008-003",
+    "name": "長瀬麻奈と\nお姉ちゃん",
+    "description": "思い出の場所で、麻奈の誕生日にあげたネックレスについて話す琴乃。アイドルとしての長瀬麻奈、姉としての長瀬麻奈……すずと琴乃は、お互いが知る長瀬麻奈について振り返る。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2603_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-008-004",
+    "name": "寄り添う\n想いを大切に",
+    "description": "アイドルとしての長瀬麻奈について、かつては知るのを避けていた琴乃。だが、改めて遙子や莉央、そして同じ心臓を持つさくらから、麻奈について聞くことに。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2603_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-008-005",
+    "name": "大切な人への\n曲",
+    "description": "ついに、お互いに新曲を作り上げた、琴乃とすず。『With your songs』と、『星屑カンパネラ』……大切な人に向けて、二つの曲をライブで披露する。",
+    "advPlayTypes": [
+      1,
+      1
+    ],
+    "advAssetIds": [
+      "event_2603_01_05_01",
+      "event_2603_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-009-001",
+    "name": "出掛けた先は",
+    "description": "最近、葵が夜な夜な寮を抜け出しているらしい。何をしに出掛けているのかも分からず、そんな葵のことを沙季は心配に思っていた。そこで芽衣は、葵が何をしているのか突き止めてあげることにするが――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2604_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-009-002",
+    "name": "野生の野良\nアイドル？",
+    "description": "葵が夜な夜な通っていたのは、なんと、腕に覚えのある猛者達が、ルール無用で戦う、弱肉強食の世界……『アイドル地下闘技場』だった。そこでは、日々、野生の野良アイドル達が激闘を繰り広げているようで――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2604_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-009-003",
+    "name": "よく\n分からない\nセンス",
+    "description": "『アイドル地下闘技場』の戦いを見るうちに、すっかり虜になってしまった、葵と怜と芽衣の三人。飛び入り参加歓迎の大会が開かれることを知り、自分達も参加しようと、楽曲や衣装の準備を始め――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2604_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-009-004",
+    "name": "最強アイドル\nトーナメント",
+    "description": "大会当日。楽曲や衣装を準備して、ついに『地下闘技場』の舞台に立った三人。BIG4ということもあり、抜群の実力で勝ち進んでいき、ついに決勝まで進出する。ただ、決勝の相手は、驚くような人達で……。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2604_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-009-005",
+    "name": "激闘！\nDJばぁば＆\nBEIJU",
+    "description": "決勝戦。DJばぁば率いる、『BEIJU』との戦いがついに始まる。DJがなんなのかも分かっていなさそうな相手だが、その底知れなさに、三人はBIG4のプライドを懸けて立ち向かう。",
+    "advPlayTypes": [
+      1,
+      1
+    ],
+    "advAssetIds": [
+      "event_2604_01_05_01",
+      "event_2604_01_05_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-010-001",
+    "name": "合同練習\nの条件",
+    "description": "どりきゅんと合同練習がしたいさくらは、二人に猛アピールを繰り返す。その真っ直ぐな熱意に呆れつつも、れもんは「一つ条件を呑むなら」と合同練習を承諾し――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2607_01_01"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-010-002",
+    "name": "五番勝負、\n開幕！",
+    "description": "合同練習のためプールへやってきたサニピ。しかし、どりきゅんの真の目的は、配信企画でサニピをぶちのめすことだった。サニピは強さを証明するため五番勝負を受けることにする。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2607_01_02"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-010-003",
+    "name": "五番勝負\nの行方",
+    "description": "ついに幕を開けた五番勝負。初戦に臨む怜だが、予想外の対決内容に大苦戦。続く二戦目は遙子が運試しに挑み、三戦目には雫が出陣する。それぞれの対決で、勝利を掴むのは――",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2607_01_03"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-010-004",
+    "name": "チームワーク\nと\nサバイバル",
+    "description": "勝負の行方は、さくらと千紗のペアによるココナッツジュース早飲み対決に託された。やしの実を取るのに苦戦するさくら達だが、サニピのチームワークとサバイバル術で対抗する。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2607_01_04"
+    ],
+    "sectionName": "",
+    "rewardId": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-shelf-26-0831-010-005",
+    "name": "世界一の\nアイドルに！",
+    "description": "どりきゅんとの対決や、合同練習を経て、迎えた単独ライブ当日。あなたや、密かに視察に訪れた、れもんと来夢が見守る中、サニピは眩しく輝くステージを披露する。",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "event_2607_01_05"
     ],
     "sectionName": "",
     "rewardId": "",

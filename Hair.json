@@ -2335,6 +2335,25 @@
     "isDisableAdmin": false
   },
   {
+    "id": "hair-chs-casl-04",
+    "hairAssetId": "chs-casl-04",
+    "faceAssetId": "chs-base-00",
+    "sdHairAssetId": "chs-casl-04",
+    "characterId": "char-chs",
+    "wearableCostumeIds": [
+      "cos-chs-casl-04"
+    ],
+    "fittingCostumeId": "cos-chs-casl-04",
+    "order": 503,
+    "name": "おでかけスタイル",
+    "releaseTime": "1788145200000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": [],
+    "isDisableAdmin": false
+  },
+  {
     "id": "hair-chs-chia-00",
     "hairAssetId": "chs-chia-00",
     "faceAssetId": "chs-base-00",
@@ -3444,6 +3463,25 @@
     "order": 377,
     "name": "ニコイチスタイル",
     "releaseTime": "1766718000000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-hrk-casl-04",
+    "hairAssetId": "hrk-casl-04",
+    "faceAssetId": "hrk-base-00",
+    "sdHairAssetId": "hrk-casl-04",
+    "characterId": "char-hrk",
+    "wearableCostumeIds": [
+      "cos-hrk-casl-04"
+    ],
+    "fittingCostumeId": "cos-hrk-casl-04",
+    "order": 505,
+    "name": "おでかけスタイル",
+    "releaseTime": "1788145200000",
     "impossiblePhotoPoseTypes": [
       3
     ],
@@ -12123,6 +12161,25 @@
     "isDisableAdmin": false
   },
   {
+    "id": "hair-rei-casl-04",
+    "hairAssetId": "rei-casl-04",
+    "faceAssetId": "rei-base-00",
+    "sdHairAssetId": "rei-casl-04",
+    "characterId": "char-rei",
+    "wearableCostumeIds": [
+      "cos-rei-casl-04"
+    ],
+    "fittingCostumeId": "cos-rei-casl-04",
+    "order": 504,
+    "name": "おでかけスタイル",
+    "releaseTime": "1788145200000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": [],
+    "isDisableAdmin": false
+  },
+  {
     "id": "hair-rei-chia-00",
     "hairAssetId": "rei-chia-00",
     "faceAssetId": "rei-base-00",
@@ -13512,6 +13569,78 @@
     "order": 1065,
     "name": "バースデーハット",
     "releaseTime": "1756306800000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-rio-hair-30",
+    "hairAssetId": "rio-hair-30",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "rio-hair-30",
+    "characterId": "char-rio",
+    "notWearableCostumeIds": [
+      "cos-rio-sdpl-00",
+      "cos-rio-sdam-00"
+    ],
+    "fittingCostumeId": "cos-rio-casl-00",
+    "order": 1173,
+    "name": "ミニウルフ",
+    "releaseTime": "1787842800000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-rio-hair-31",
+    "hairAssetId": "rio-hair-31",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "ornament_hair_1",
+    "characterId": "char-rio",
+    "notWearableCostumeIds": [
+      "cos-rio-sdpl-00",
+      "cos-rio-sdam-00"
+    ],
+    "fittingCostumeId": "cos-rio-casl-00",
+    "order": 1066,
+    "name": "ピルボックスハット",
+    "releaseTime": "1787842800000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-rio-hair-32",
+    "hairAssetId": "rio-hair-32",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "ornament_hair_2",
+    "characterId": "char-rio",
+    "notWearableCostumeIds": [
+      "cos-rio-sdpl-00",
+      "cos-rio-sdam-00"
+    ],
+    "fittingCostumeId": "cos-rio-casl-00",
+    "order": 1067,
+    "name": "バースデーリボン",
+    "releaseTime": "1787842800000",
+    "wearableCostumeIds": [],
+    "impossiblePhotoPoseTypes": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-rio-hair-33",
+    "hairAssetId": "rio-hair-33",
+    "faceAssetId": "rio-base-00",
+    "sdHairAssetId": "ornament_hair_3",
+    "characterId": "char-rio",
+    "notWearableCostumeIds": [
+      "cos-rio-sdpl-00",
+      "cos-rio-sdam-00"
+    ],
+    "fittingCostumeId": "cos-rio-casl-00",
+    "order": 1068,
+    "name": "ラウンドメガネ",
+    "releaseTime": "1787842800000",
     "wearableCostumeIds": [],
     "impossiblePhotoPoseTypes": [],
     "isDisableAdmin": false
@@ -16185,6 +16314,25 @@
     "order": 1,
     "name": "カジュアルスタイル",
     "releaseTime": "1609426800000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-skr-casl-04",
+    "hairAssetId": "skr-casl-04",
+    "faceAssetId": "skr-base-00",
+    "sdHairAssetId": "skr-casl-04",
+    "characterId": "char-skr",
+    "wearableCostumeIds": [
+      "cos-skr-casl-04"
+    ],
+    "fittingCostumeId": "cos-skr-casl-04",
+    "order": 501,
+    "name": "おでかけスタイル",
+    "releaseTime": "1788145200000",
     "impossiblePhotoPoseTypes": [
       3
     ],
@@ -19418,6 +19566,25 @@
     "order": 377,
     "name": "ニコイチスタイル",
     "releaseTime": "1767063600000",
+    "impossiblePhotoPoseTypes": [
+      3
+    ],
+    "notWearableCostumeIds": [],
+    "isDisableAdmin": false
+  },
+  {
+    "id": "hair-szk-casl-04",
+    "hairAssetId": "szk-casl-04",
+    "faceAssetId": "szk-base-00",
+    "sdHairAssetId": "szk-casl-04",
+    "characterId": "char-szk",
+    "wearableCostumeIds": [
+      "cos-szk-casl-04"
+    ],
+    "fittingCostumeId": "cos-szk-casl-04",
+    "order": 502,
+    "name": "おでかけスタイル",
+    "releaseTime": "1788145200000",
     "impossiblePhotoPoseTypes": [
       3
     ],

@@ -2493,6 +2493,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-chs-05-casl-04",
+    "assetId": "chs-05-casl-04",
+    "name": "特別に綺麗でいたい休日",
+    "description": "綺麗になったって言ってもらえるの、\n凄く嬉しいです\nでも、一つ分かってないです\n今日の私が、目一杯オシャレしてるのは……",
+    "type": 3,
+    "characterId": "char-chs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 308,
+    "danceRatioPermil": 268,
+    "visualRatioPermil": 424,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-chs-05-casl-04-1",
+    "skillId2": "sk-chs-05-casl-04-2",
+    "skillId3": "sk-chs-05-casl-04-3",
+    "activityAbilityId": "aab-refresh_stamina_up",
+    "order": 603,
+    "releaseDate": "1788145200000",
+    "rewardCostumeId": "cos-chs-casl-04",
+    "obtainMessage": "私と、映画を観に行きませんか？",
+    "stories": [
+      {
+        "storyId": "st-card-chs-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-chs-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-chs-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-chs-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-chs-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-chs-05-chia-00",
     "assetId": "chs-05-chia-00",
     "name": "燃える頬と熱い心",
@@ -3475,6 +3526,57 @@
     "cardEvolutionLevelGroupId": "",
     "skillId4": "",
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-hrk-05-casl-04",
+    "assetId": "hrk-05-casl-04",
+    "name": "グラス越しに語る休日",
+    "description": "私はあなたが誇れるようなアイドルになれたかしら",
+    "type": 3,
+    "characterId": "char-hrk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 298,
+    "danceRatioPermil": 375,
+    "visualRatioPermil": 327,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-hrk-05-casl-04-1",
+    "skillId2": "sk-hrk-05-casl-04-2",
+    "skillId3": "sk-hrk-05-casl-04-3",
+    "liveAbilityId": "lba-beat_score_multiply",
+    "order": 605,
+    "releaseDate": "1788145200000",
+    "rewardCostumeId": "cos-hrk-casl-04",
+    "obtainMessage": "私が酔い潰れても、\nイタズラしちゃダメよ？",
+    "stories": [
+      {
+        "storyId": "st-card-hrk-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-hrk-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-hrk-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-hrk-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-hrk-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {
@@ -12378,6 +12480,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-rei-05-casl-04",
+    "assetId": "rei-05-casl-04",
+    "name": "隣で輝く特等席の休日",
+    "description": "こっちの席からだと花火がよく見えなくて……\nだから……そっちに座ってもいいですか？",
+    "type": 1,
+    "characterId": "char-rei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 320,
+    "danceRatioPermil": 286,
+    "visualRatioPermil": 424,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rei-05-casl-04-1",
+    "skillId2": "sk-rei-05-casl-04-2",
+    "skillId3": "sk-rei-05-casl-04-3",
+    "liveAbilityId": "lba-critical_score_multiply",
+    "order": 604,
+    "releaseDate": "1788145200000",
+    "rewardCostumeId": "cos-rei-casl-04",
+    "obtainMessage": "大人になっていく私を、\nそばで見ていて下さい",
+    "stories": [
+      {
+        "storyId": "st-card-rei-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-rei-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-rei-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-rei-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-rei-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-rei-05-chia-00",
     "assetId": "rei-05-chia-00",
     "name": "ダンシングキューピッド",
@@ -13573,6 +13726,53 @@
       },
       {
         "storyId": "st-card-rio-05-birt-02-03"
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-rio-05-birt-03",
+    "assetId": "rio-05-birt-03",
+    "name": "dear precious 莉央",
+    "description": "貴方も、そっちで頑張ることね。\nそしていつか決着をつけましょう。\n私の、永遠のライバルさん",
+    "type": 2,
+    "characterId": "char-rio",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 321,
+    "danceRatioPermil": 285,
+    "visualRatioPermil": 394,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-rio-05-birt-03-1",
+    "skillId2": "sk-rio-05-birt-03-2",
+    "skillId3": "sk-rio-05-birt-03-3",
+    "liveAbilityId": "lba-technique_add",
+    "order": 600,
+    "releaseDate": "1787842800000",
+    "rewardHairIds": [
+      "hair-rio-hair-30",
+      "hair-rio-hair-31",
+      "hair-rio-hair-32",
+      "hair-rio-hair-33"
+    ],
+    "obtainMessage": "はぁ！？　遙子がやれって\n言ったんでしょ！？",
+    "rewardHairId": "hair-rio-hair-30",
+    "stories": [
+      {
+        "storyId": "st-card-rio-05-birt-03-01"
+      },
+      {
+        "storyId": "st-card-rio-05-birt-03-02"
+      },
+      {
+        "storyId": "st-card-rio-05-birt-03-03"
       }
     ],
     "activityAbilityId": "",
@@ -16989,6 +17189,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-skr-05-casl-04",
+    "assetId": "skr-05-casl-04",
+    "name": "夢を叶える笑顔の休日",
+    "description": "いい天気ですね。空は青く澄み渡って\n今ならどこまででも飛んで行けそうです",
+    "type": 1,
+    "characterId": "char-skr",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 412,
+    "danceRatioPermil": 314,
+    "visualRatioPermil": 274,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-skr-05-casl-04-1",
+    "skillId2": "sk-skr-05-casl-04-2",
+    "skillId3": "sk-skr-05-casl-04-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 601,
+    "releaseDate": "1788145200000",
+    "rewardCostumeId": "cos-skr-casl-04",
+    "obtainMessage": "今ならどこまででも\n飛んで行けそうです",
+    "stories": [
+      {
+        "storyId": "st-card-skr-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-skr-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-skr-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-skr-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-skr-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-skr-05-chia-00",
     "assetId": "skr-05-chia-00",
     "name": "スマイル・コネクト！",
@@ -20254,6 +20505,57 @@
     "cardEvolutionLevelGroupId": "",
     "skillId4": "",
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-szk-05-casl-04",
+    "assetId": "szk-05-casl-04",
+    "name": "潮風と思い出の休日",
+    "description": "期待してて。\n今度は私が大物を釣り上げてみせるから\n誰も見たことのないような大物を……！",
+    "type": 2,
+    "characterId": "char-szk",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 280,
+    "danceRatioPermil": 395,
+    "visualRatioPermil": 325,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-szk-05-casl-04-1",
+    "skillId2": "sk-szk-05-casl-04-2",
+    "skillId3": "sk-szk-05-casl-04-3",
+    "activityAbilityId": "aab-promotion_manager_exp_up",
+    "order": 602,
+    "releaseDate": "1788145200000",
+    "rewardCostumeId": "cos-szk-casl-04",
+    "obtainMessage": "これは大物、\n初めてでこれは幸先がいい……！",
+    "stories": [
+      {
+        "storyId": "st-card-szk-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-szk-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-szk-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-szk-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-szk-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {

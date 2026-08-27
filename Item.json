@@ -2784,6 +2784,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-exchange-dress-medal-26-0831",
+    "name": "復刻衣装メダル(サニーピース)",
+    "assetId": "medal-dress",
+    "description": "復刻衣装メダル交換所(サニーピース)で様々なアイテムと交換できる\n交換所終了後はコインに変換されます",
+    "howToGet": "ショップなど",
+    "type": 10,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-exchange-fes-medal-23-0927",
     "name": "フェスメダル",
     "assetId": "medal-fes",
@@ -4920,6 +4932,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha-free-ticket-1s-26-0830",
+    "name": "無料10連ガチャチケ",
+    "assetId": "gacha-endless-22-1224",
+    "description": "10連チケットガチャを1回引くことができる",
+    "howToGet": "「0のつく日はアイプラの日」限定ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha-free-valentine-ticket-10s-25-0214",
     "name": "サニピからのプレゼント10連ガチャチケ",
     "assetId": "gacha-free-valentine-ticket-10s-25-0214",
@@ -6048,6 +6072,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_medal-buttonbadge-birthday-26-0828",
+    "name": "誕生日缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge-birthday",
+    "description": "誕生日缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「莉央誕生日ガチャ2026」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_medal-buttonbadge-fs-set-bloom-24-0626",
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
@@ -6652,6 +6688,18 @@
     "name": "限定缶バッジメダル",
     "assetId": "medal-gacha-buttonbadge",
     "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「交差する\nsecret days」など",
+    "howToGet": "ガチャ",
+    "type": 3001,
+    "value": 1,
+    "order": 140,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_medal-buttonbadge-lm-set-bloom-26-0831",
+    "name": "限定缶バッジメダル",
+    "assetId": "medal-gacha-buttonbadge",
+    "description": "限定缶バッジメダル交換所で缶バッジと交換できる\n使用期限終了後はコインに変換されます\n対象ガチャ：「陽だまりの\n休日Ⅰ」など",
     "howToGet": "ガチャ",
     "type": 3001,
     "value": 1,
@@ -7440,6 +7488,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-birthday-26-0828",
+    "name": "莉央誕生日ガチャ2026Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-excursion-01-26-0731",
     "name": "黒百合達のoff timeガチャPt",
     "assetId": "gacha-point",
@@ -7454,6 +7514,18 @@
   {
     "id": "item-gacha_point-excursion-01-26-0817",
     "name": "交差するsecret daysガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gacha_point-excursion-01-26-0831",
+    "name": "陽だまりの休日ガチャPt",
     "assetId": "gacha-point",
     "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
     "type": 9,
@@ -11760,6 +11832,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-rev-select-01-26-0903",
+    "name": "選べる★5アイドルガチャ\nサニーピース ver.Pt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_point-select-01-21-1206",
     "name": "選べる★5バッファーガチャPt",
     "assetId": "gacha-point",
@@ -12372,6 +12456,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-gacha_point-select-01-26-0828",
+    "name": "【復刻】選べる莉央誕生日ガチャPt",
+    "assetId": "gacha-point",
+    "description": "該当するガチャページの「ガチャPt」から\nガチャPtを消費してアイドルを獲得できる",
+    "type": 9,
+    "value": 1,
+    "order": 140,
+    "howToGet": "",
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-gacha_ticket",
     "name": "ガチャチケ",
     "assetId": "gacha-ticket-normal",
@@ -12856,6 +12952,18 @@
     "name": "交差するsecret days 1人★5確定無料ガチャチケ",
     "assetId": "shop-gacha-ticket-r5",
     "description": "交差するsecret days 1人★5確定無料チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ギフト",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-gift-gacha-ticket-10-r5-26-0831-01",
+    "name": "陽だまりの休日Ⅰ･Ⅱ 1人★5確定無料ガチャチケ",
+    "assetId": "shop-gacha-ticket-r5",
+    "description": "陽だまりの休日Ⅰ･Ⅱ 1人★5確定無料チケットガチャを1回引くことができる\n使用期限終了後は消失します",
     "howToGet": "ギフト",
     "type": 8,
     "value": 1,
@@ -15576,6 +15684,18 @@
     "isPhotoShootingCharacterOnly": false
   },
   {
+    "id": "item-photo_contest_create-26-0831",
+    "name": "イベント現像フィルム",
+    "assetId": "photo-shooting-contest",
+    "description": "フォトオーディションの写真やフォトアルバムの写真を現像できる\nイベント終了後はコインに変換されます",
+    "howToGet": "フォトオーディション、フォトアルバム、ショップなど",
+    "type": 12001,
+    "value": 1,
+    "order": 99,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
     "id": "item-photo_enhance",
     "name": "アドバンスフィルム",
     "assetId": "photo-enhance",
@@ -17396,6 +17516,30 @@
     "type": 3001,
     "value": 1,
     "order": 2001,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-0831-01",
+    "name": "陽だまりの休日Ⅰ1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-1226-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
+    "salePrice": 0,
+    "isPhotoShootingCharacterOnly": false
+  },
+  {
+    "id": "item-shop-gacha-ticket-10-r5-0831-02",
+    "name": "陽だまりの休日Ⅱ1人★5確定10連ガチャチケ",
+    "assetId": "shop-gacha-ticket-10-r5-24-1230-01",
+    "description": "★5アイドル1人確定10連チケットガチャを1回引くことができる\n使用期限終了後は消失します",
+    "howToGet": "ショップ",
+    "type": 8,
+    "value": 1,
+    "order": 100,
     "salePrice": 0,
     "isPhotoShootingCharacterOnly": false
   },
