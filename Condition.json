@@ -290279,6 +290279,17 @@
     ]
   },
   {
+    "id": "cd-time-gacha-free-ticket-1s-26-0910",
+    "settings": [
+      {
+        "itemAmount": {
+          "itemId": "item-gacha-free-ticket-1s-26-0910",
+          "amountGte": "1"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-gacha-fs-select-22-0628",
     "settings": [
       {
@@ -324827,8 +324838,8 @@
     "settings": [
       {
         "term": {
-          "nowAfter": "1786287600000",
-          "nowBefore": "1786373999000"
+          "nowAfter": "1788966000000",
+          "nowBefore": "1789052399000"
         }
       },
       {
@@ -325556,6 +325567,17 @@
         "term": {
           "nowAfter": "1788015600000",
           "nowBefore": "1788101999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-market-discount-day-26-0910",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1788966000000",
+          "nowBefore": "1789052399000"
         }
       }
     ]
