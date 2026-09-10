@@ -1860,6 +1860,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-suz-26-0913",
+    "name": "成宮すず 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日はすずの誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "ポテトチップスとコーラ",
+        "advAssetId": "hbd_06_suz_01"
+      },
+      {
+        "index": 2,
+        "text": "山盛りドーナツ",
+        "advAssetId": "hbd_06_suz_02"
+      },
+      {
+        "index": 3,
+        "text": "ハルバード",
+        "advAssetId": "hbd_06_suz_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-szk-23-1015",
     "name": "兵藤雫 誕生日2023",
     "advPlayTypes": [
@@ -19430,6 +19462,60 @@
     ],
     "advAssetIds": [
       "card_suz_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-suz-05-birt-03-01",
+    "name": "麻奈様の曲も\n歌うのですわ",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_suz_54_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-suz-05-birt-03-02",
+    "name": "『二代目\n星降る奇跡』\nですもの",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_suz_54_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-suz-05-birt-03-03",
+    "name": "あなたからも\n見える\nくらいに",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_suz_54_03"
     ],
     "sectionName": "",
     "description": "",

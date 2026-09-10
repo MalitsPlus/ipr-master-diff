@@ -266598,6 +266598,492 @@
     "assetId": ""
   },
   {
+    "id": "sk-suz-05-birt-03-1",
+    "name": "星見アンバサダー！",
+    "categoryType": 1,
+    "levels": [
+      {
+        "level": 1,
+        "description": "960%のスコア獲得、コンボ数が少ない程効果上昇 \n80コンボ以下の時 自身に7段階の集目効果[45ビート]と5段階コンボスコア上昇効果[45ビート] \nスタミナ341消費",
+        "shortDescription": "\n \n \nスタミナ341消費 ",
+        "stamina": 341,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_less_combo_count-9600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-self-45",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-combo_score_up-5-target-self-45",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "1080%のスコア獲得、コンボ数が少ない程効果上昇 \n80コンボ以下の時 自身に7段階の集目効果[50ビート]と5段階コンボスコア上昇効果[50ビート] \nスタミナ384消費",
+        "shortDescription": "\n \n \nスタミナ384消費 ",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 384,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_less_combo_count-10800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-self-50",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-combo_score_up-5-target-self-50",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "1210%のスコア獲得、コンボ数が少ない程効果上昇 \n80コンボ以下の時 自身に8段階の集目効果[50ビート]と6段階コンボスコア上昇効果[50ビート] \nスタミナ430消費",
+        "shortDescription": "\n \n \nスタミナ430消費 ",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 430,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_less_combo_count-12100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-8-target-self-50",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-combo_score_up-6-target-self-50",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "1340%のスコア獲得、コンボ数が少ない程効果上昇 \n80コンボ以下の時 自身に8段階の集目効果[55ビート]と6段階コンボスコア上昇効果[55ビート] \nスタミナ476消費",
+        "shortDescription": "\n \n \nスタミナ476消費 ",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 476,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_less_combo_count-13400-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-8-target-self-55",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-combo_score_up-6-target-self-55",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "1470%のスコア獲得、コンボ数が少ない程効果上昇 \n80コンボ以下の時 自身に9段階の集目効果[55ビート]と7段階コンボスコア上昇効果[55ビート]\nスタミナ523消費",
+        "shortDescription": "\n \n \nスタミナ523消費 ",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 523,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_less_combo_count-14700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-9-target-self-55",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-combo_score_up-7-target-self-55",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "1600%のスコア獲得、コンボ数が少ない程効果上昇 \n80コンボ以下の時 自身に9段階の集目効果[60ビート]と7段階コンボスコア上昇効果[60ビート] \nスタミナ564消費",
+        "shortDescription": "\n \n \nスタミナ564消費 ",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 564,
+        "probabilityPermil": 1000,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_less_combo_count-16000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-audience_amount_increase-9-target-self-60",
+            "triggerId": "tg-combo_less_equal-80"
+          },
+          {
+            "efficacyId": "ef-combo_score_up-7-target-self-60",
+            "triggerId": "tg-combo_less_equal-80"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "coolTime": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": "sk-suz-05-birt-03-1"
+  },
+  {
+    "id": "sk-suz-05-birt-03-2",
+    "name": "麻奈様リスペクトの髪型",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "250%のスコア獲得、強化効果が多い程効果上昇 \n自身に10段階ボーカル上昇上限解放効果[25ビート]と6段階Aスキルスコア上昇効果[25ビート] \nスタミナ112消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-2500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_up-10-target-self-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-6-target-self-25",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "260%のスコア獲得、強化効果が多い程効果上昇 \n自身に10段階ボーカル上昇上限解放効果[28ビート]と6段階Aスキルスコア上昇効果[28ビート]\nスタミナ119消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ119消費 CT:30",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 119,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-2600-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_up-10-target-self-28",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-6-target-self-28",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "270%のスコア獲得、強化効果が多い程効果上昇 \n自身に10段階ボーカル上昇上限解放効果[31ビート]と6段階Aスキルスコア上昇効果[31ビート]\nスタミナ126消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ126消費 CT:30",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 126,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-2700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_up-10-target-self-31",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-6-target-self-31",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "280%のスコア獲得、強化効果が多い程効果上昇 \n自身に10段階ボーカル上昇上限解放効果[31ビート]と7段階Aスキルスコア上昇効果[31ビート] \nスタミナ133消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ133消費 CT:30",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 133,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-2800-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_up-10-target-self-31",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-7-target-self-31",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "300%のスコア獲得、強化効果が多い程効果上昇 \n自身に10段階ボーカル上昇上限解放効果[35ビート]と7段階Aスキルスコア上昇効果[35ビート] \nスタミナ145消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ145消費 CT:30",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 145,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-3000-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_up-10-target-self-35",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-7-target-self-35",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "320%のスコア獲得、強化効果が多い程効果上昇 \n自身に10段階ボーカル上昇上限解放効果[39ビート]と7段階Aスキルスコア上昇効果[39ビート] \nスタミナ157消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ157消費 CT:30",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 157,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get_by_strength_effect_count-3200-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_up-10-target-self-39",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-active_skill_score_up-7-target-self-39",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-suz-05-birt-03-3",
+    "name": "成宮すずは『本物』",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身に5段階ボーカル上昇効果[25ビート]と3段階スコア上昇効果[25ビート] \nスタミナ138消費 CT:50",
+        "shortDescription": "\n\nスタミナ138消費 CT:50",
+        "stamina": 138,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-5-target-self-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-3-target-self-25",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身に5段階ボーカル上昇効果[29ビート]と3段階スコア上昇効果[29ビート] \nスタミナ160消費 CT:50",
+        "shortDescription": "\n\nスタミナ160消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 160,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-5-target-self-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-3-target-self-29",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身に5段階ボーカル上昇効果[33ビート]と3段階スコア上昇効果[33ビート] \nスタミナ183消費 CT:50",
+        "shortDescription": "\n\nスタミナ183消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 183,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-5-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-3-target-self-33",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身に6段階ボーカル上昇効果[33ビート]と4段階スコア上昇効果[33ビート] \nスタミナ225消費 CT:50",
+        "shortDescription": "\n\nスタミナ225消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 225,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-6-target-self-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-4-target-self-33",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身に6段階ボーカル上昇効果[37ビート]と4段階スコア上昇効果[37ビート] \nスタミナ252消費 CT:50",
+        "shortDescription": "\n\nスタミナ252消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 252,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-6-target-self-37",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-4-target-self-37",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身に6段階ボーカル上昇効果[41ビート]と4段階スコア上昇効果[41ビート] \nスタミナ280消費 CT:50",
+        "shortDescription": "\n\nスタミナ280消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 280,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_up-6-target-self-41",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-score_up-4-target-self-41",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-suz-05-fest-02-1",
     "name": "誰にも譲れない歌",
     "categoryType": 2,
