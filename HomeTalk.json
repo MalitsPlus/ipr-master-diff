@@ -10558,6 +10558,61 @@
     "releaseDate": "0"
   },
   {
+    "homeTalkId": "home-talk-card-rui-05-casl-04-talk-01",
+    "characterId": "char-rui",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-rui-05-casl-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-rui-05-casl-04",
+    "choiceText": "ベネチアで買った仮面だよな？",
+    "managerText": "ベネチアで買った仮面だよな？",
+    "reliability": 5,
+    "title": "憧れ叶える水の休日",
+    "displayConditionDescription": "憧れ叶える水の休日 天動瑠依\nストーリー3話を視聴",
+    "order": 554,
+    "releaseDate": "1789700400000",
+    "characterTalks": [
+      {
+        "text": "はい。すみれには可愛い感じので、\n優には目元を隠すだけの\nドミノマスクを…",
+        "voiceAssetId": "sud_vo_home_rui-05-casl-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "思っていた以上に似合ってて\n沢山自撮りしてSNSに\n上げていましたね。",
+        "voiceAssetId": "sud_vo_home_rui-05-casl-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-019_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "怪しげな雰囲気がファンに\n刺さったのか、凄いバズって\n困惑してましたけど…",
+        "voiceAssetId": "sud_vo_home_rui-05-casl-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_glad-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "すみれはご両親やお兄さんに\n沢山写真を送ったみたいです。\n家族にも評判みたいですよ。",
+        "voiceAssetId": "sud_vo_home_rui-05-casl-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_pos-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "あんな風に喜んでくれると\n買って良かったなって\n心から思います…",
+        "voiceAssetId": "sud_vo_home_rui-05-casl-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_think-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "これも一つの恩返しですよね。\nもっともっと、\n積み重ねていかないと。",
+        "voiceAssetId": "sud_vo_home_rui-05-casl-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-010_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-rui-05-date-00-talk-01",
     "characterId": "char-rui",
     "placeType": 1,
@@ -12776,6 +12831,61 @@
     ],
     "cardId": "",
     "releaseDate": "0"
+  },
+  {
+    "homeTalkId": "home-talk-card-smr-05-casl-04-talk-01",
+    "characterId": "char-smr",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-smr-05-casl-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-smr-05-casl-04",
+    "choiceText": "そうなんだ。なんて？",
+    "managerText": "そうなんだ。なんて？",
+    "reliability": 5,
+    "title": "思い出咲く故郷の休日",
+    "displayConditionDescription": "思い出咲く故郷の休日 奥山すみれ\nストーリー3話を視聴",
+    "order": 556,
+    "releaseDate": "1789700400000",
+    "characterTalks": [
+      {
+        "text": "{user}さんは\n次はいつ、うちに来て\nくれるんだ？　って。",
+        "voiceAssetId": "sud_vo_home_smr-05-casl-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_ask-006_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "この前、一緒にお酒を飲んだのが\n凄く楽しかったみたいで…\n早く連れてきてくれって。",
+        "voiceAssetId": "sud_vo_home_smr-05-casl-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "お仕事あるからそんな頻繁には\n無理だよ～って返したんですけど。",
+        "voiceAssetId": "sud_vo_home_smr-05-casl-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_talk-014_in",
+        "additionMotionAssetId": "mot_all_chr_cmn_facial-034_in"
+      },
+      {
+        "text": "次はもっと美味しいお酒とお料理で\nもてなしてあげたいって\n張り切っちゃってて…あはは。",
+        "voiceAssetId": "sud_vo_home_smr-05-casl-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_glad-012_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "でも私は嬉しいんです。\n{user}さんのこと\n家族も好きになってくれて。",
+        "voiceAssetId": "sud_vo_home_smr-05-casl-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "だから、また絶対、\n一緒に山形行きましょうね！",
+        "voiceAssetId": "sud_vo_home_smr-05-casl-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_pos-013_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
   },
   {
     "homeTalkId": "home-talk-card-smr-05-fest-00-talk-01",
@@ -15218,6 +15328,61 @@
         "text": "もし標準語やったら…もっと\n頑張って習得して、沢山\nドキッとさせたりますね…ふふっ。",
         "voiceAssetId": "sud_vo_home_yu-05-casl-02_talk-01-06",
         "motionAssetId": "mot_adv_chr_cmn_glad-011_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
+    "homeTalkId": "home-talk-card-yu-05-casl-04-talk-01",
+    "characterId": "char-yu",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-yu-05-casl-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-yu-05-casl-04",
+    "choiceText": "ど、どうした…\n随分、前のめりだな。",
+    "managerText": "ど、どうした…\n随分、前のめりだな。",
+    "reliability": 5,
+    "title": "好きが溢れる聖地の休日",
+    "displayConditionDescription": "好きが溢れる聖地の休日 鈴村優\nストーリー3話を視聴",
+    "order": 555,
+    "releaseDate": "1789700400000",
+    "characterTalks": [
+      {
+        "text": "好きな作品に関われるチャンスが\n目の前に転がってるなら、\nこれぐらい普通やんか！",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "アニメ化決まっていろいろ\nプロモーションかけな\nあかん時期…",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-011_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "声優さんの配信番組とか、\nポップアップストアとか、\n先行上映の舞台挨拶とか…！",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_pos-021_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "どれか一個でもええ…！\n作品ファンとして盛り上げるのに\n一役買いたいんやって…！",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_emot-004_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "…べ、別にあれですよ？\n推しの声優さんに会えるかも…\nなんて思ってないですからね？",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_glad-013_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "純粋に、応援したい気持ちで\nお仕事受けたいんです。\nだから…よろしく頼みますね。",
+        "voiceAssetId": "sud_vo_home_yu-05-casl-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
         "additionMotionAssetId": ""
       }
     ],

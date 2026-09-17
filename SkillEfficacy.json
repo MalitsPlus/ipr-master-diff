@@ -40128,6 +40128,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-6-target-character_type-1-2-25",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に6段階クリティカル率上昇効果[25ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-6-target-character_type-1-2-27",
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
@@ -40139,10 +40150,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-critical_rate_up-6-target-character_type-1-2-28",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に6段階クリティカル率上昇効果[28ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-critical_rate_up-6-target-character_type-1-2-30",
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
     "description": "スコアラータイプ2人に6段階クリティカル率上昇効果[30ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-6-target-character_type-1-2-31",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に6段階クリティカル率上昇効果[31ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -40616,6 +40649,17 @@
     "name": "自身にクリティカル率上昇効果",
     "type": 19,
     "description": "自身に6段階クリティカル率上昇効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-6-target-self-33",
+    "name": "自身にクリティカル率上昇効果",
+    "type": 19,
+    "description": "自身に6段階クリティカル率上昇効果[33ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -41683,6 +41727,17 @@
     "name": "スコアラータイプ2人にクリティカル率上昇効果",
     "type": 19,
     "description": "スコアラータイプ2人に7段階クリティカル率上昇効果[32ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-critical_rate_up-7-target-character_type-1-2-34",
+    "name": "スコアラータイプ2人にクリティカル率上昇効果",
+    "type": 19,
+    "description": "スコアラータイプ2人に7段階クリティカル率上昇効果[34ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -45621,6 +45676,17 @@
     "name": "自身にダンスブースト効果",
     "type": 57,
     "description": "自身に7段階ダンスブースト効果[43ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_boost-7-target-self-45",
+    "name": "自身にダンスブースト効果",
+    "type": 57,
+    "description": "自身に7段階ダンスブースト効果[45ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -50611,6 +50677,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-5-target-self-23",
+    "name": "自身にダンス上昇効果",
+    "type": 13,
+    "description": "自身に5段階ダンス上昇効果[23ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-5-target-self-24",
     "name": "自身にダンス上昇効果",
     "type": 13,
@@ -51946,6 +52023,17 @@
     "name": "自身にダンス上昇効果",
     "type": 13,
     "description": "自身に6段階ダンス上昇効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-dance_up-6-target-self-33",
+    "name": "自身にダンス上昇効果",
+    "type": 13,
+    "description": "自身に6段階ダンス上昇効果[33ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -59565,6 +59653,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_dance_up-10-target-self-23",
+    "name": "自身にダンス上昇上限解放",
+    "type": 76,
+    "description": "自身に10段階ダンス上昇上限解放効果[23ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_dance_up-10-target-self-25",
     "name": "自身にダンス上昇上限解放",
     "type": 76,
@@ -59598,10 +59697,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_dance_up-10-target-self-33",
+    "name": "自身にダンス上昇上限解放",
+    "type": 76,
+    "description": "自身に10段階ダンス上昇上限解放効果[33ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_dance_up-10-target-self-36",
     "name": "自身にダンス上昇上限解放",
     "type": 76,
     "description": "自身に10段階ダンス上昇上限解放効果[36ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_dance_up-10-target-self-38",
+    "name": "自身にダンス上昇上限解放",
+    "type": 76,
+    "description": "自身に10段階ダンス上昇上限解放効果[38ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-self",
@@ -70697,6 +70818,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-dance_up-10400-chart_dependence",
+    "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1040%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-dance_up-10500-chart_dependence",
     "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
     "type": 36,
@@ -70917,6 +71049,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-dance_up-14500-chart_dependence",
+    "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1450%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-dance_up-15000-chart_dependence",
     "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
     "type": 36,
@@ -70950,10 +71093,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-score_get_by_status_effect_type_grade-dance_up-15900-chart_dependence",
+    "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1590%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-score_get_by_status_effect_type_grade-dance_up-16600-chart_dependence",
     "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1660%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-dance_up-17300-chart_dependence",
+    "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "1730%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -70976,6 +71141,28 @@
     "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
     "type": 36,
     "description": "1810%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-dance_up-2200-chart_dependence",
+    "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "220%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "skillTargetId": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-score_get_by_status_effect_type_grade-dance_up-2300-chart_dependence",
+    "name": "スコア獲得-ダンス上昇状態の段階数が多い程効果上昇",
+    "type": 36,
+    "description": "230%のスコア獲得、ダンス上昇状態の段階数が多い程効果上昇",
     "shortDescription": "",
     "grade": 0,
     "maxGrade": 0,
@@ -95029,10 +95216,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_consumption_reduction-6-target-self-26",
+    "name": "自身に消費スタミナ低下効果",
+    "type": 11,
+    "description": "自身に6段階消費スタミナ低下効果[26ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_consumption_reduction-6-target-self-27",
     "name": "自身に消費スタミナ低下効果",
     "type": 11,
     "description": "自身に6段階消費スタミナ低下効果[27ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-6-target-self-30",
+    "name": "自身に消費スタミナ低下効果",
+    "type": 11,
+    "description": "自身に6段階消費スタミナ低下効果[30ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -95055,6 +95264,17 @@
     "name": "自身に消費スタミナ低下効果",
     "type": 11,
     "description": "自身に6段階消費スタミナ低下効果[34ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-6-target-self-35",
+    "name": "自身に消費スタミナ低下効果",
+    "type": 11,
+    "description": "自身に6段階消費スタミナ低下効果[35ビート]",
     "grade": 6,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -95304,6 +95524,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_consumption_reduction-7-target-self-35",
+    "name": "自身に消費スタミナ低下効果",
+    "type": 11,
+    "description": "自身に7段階消費スタミナ低下効果[35ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_consumption_reduction-7-target-self-36",
     "name": "自身に消費スタミナ低下効果",
     "type": 11,
@@ -95315,10 +95546,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_consumption_reduction-7-target-self-40",
+    "name": "自身に消費スタミナ低下効果",
+    "type": 11,
+    "description": "自身に7段階消費スタミナ低下効果[40ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_consumption_reduction-7-target-self-41",
     "name": "自身に消費スタミナ低下効果",
     "type": 11,
     "description": "自身に7段階消費スタミナ低下効果[41ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_consumption_reduction-7-target-self-45",
+    "name": "自身に消費スタミナ低下効果",
+    "type": 11,
+    "description": "自身に7段階消費スタミナ低下効果[45ビート]",
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-self",
@@ -96096,6 +96349,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_consumption-5-target-opponent_dance-3-45",
+    "name": "相手のダンスタイプ3人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のダンスタイプ3人に5段階スタミナ継続消費効果[45ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_dance-3",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-5-target-opponent_dance-3-50",
+    "name": "相手のダンスタイプ3人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のダンスタイプ3人に5段階スタミナ継続消費効果[50ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_dance-3",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_consumption-5-target-opponent_same_position-22",
     "name": "同じレーンの相手にスタミナ継続消費効果",
     "type": 63,
@@ -96294,6 +96569,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_dance-3-50",
+    "name": "相手のダンスタイプ3人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のダンスタイプ3人に6段階スタミナ継続消費効果[50ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_dance-3",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-6-target-opponent_dance-3-55",
+    "name": "相手のダンスタイプ3人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のダンスタイプ3人に6段階スタミナ継続消費効果[55ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_dance-3",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-stamina_continuous_consumption-6-target-opponent_same_position-28",
     "name": "同じレーンの相手にスタミナ継続消費効果",
     "type": 63,
@@ -96433,6 +96730,28 @@
     "grade": 7,
     "maxGrade": 20,
     "skillTargetId": "target-opponent_character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-7-target-opponent_dance-3-55",
+    "name": "相手のダンスタイプ3人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のダンスタイプ3人に7段階スタミナ継続消費効果[55ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_dance-3",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-stamina_continuous_consumption-7-target-opponent_dance-3-60",
+    "name": "相手のダンスタイプ3人にスタミナ継続消費効果",
+    "type": 63,
+    "description": "[ライブバトルのみ]相手のダンスタイプ3人に7段階スタミナ継続消費効果[60ビート]",
+    "grade": 7,
+    "maxGrade": 20,
+    "skillTargetId": "target-opponent_dance-3",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
@@ -102476,6 +102795,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-2-target-character_type-1-2-31",
+    "name": "スコアラータイプ2人にテンションUP効果",
+    "type": 38,
+    "description": "スコアラータイプ2人に2段階テンションUP効果[31ビート]",
+    "grade": 2,
+    "maxGrade": 10,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-2-target-character_type-1-2-32",
     "name": "スコアラータイプ2人にテンションUP効果",
     "type": 38,
@@ -102994,7 +103324,7 @@
   },
   {
     "id": "ef-tension_up-3-target-character_type-1-2-34",
-    "name": "スコアラータイプ2人にテンションUP",
+    "name": "スコアラータイプ2人にテンションUP効果",
     "type": 38,
     "description": "スコアラータイプ2人に3段階テンションUP効果[34ビート]",
     "grade": 3,
@@ -121374,6 +121704,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-3-target-vocal-1-18",
+    "name": "ボーカルタイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "ボーカルタイプ1人に3段階ボーカル上昇効果[18ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-3-target-vocal-1-22",
+    "name": "ボーカルタイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "ボーカルタイプ1人に3段階ボーカル上昇効果[22ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-3-target-vocal-1-26",
+    "name": "ボーカルタイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "ボーカルタイプ1人に3段階ボーカル上昇効果[26ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-3-target-vocal-1-32",
     "name": "ボーカルタイプ1人にボーカル上昇効果",
     "type": 14,
@@ -122404,6 +122767,39 @@
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-trigger",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-4-target-vocal-1-26",
+    "name": "ボーカルタイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "ボーカルタイプ1人に4段階ボーカル上昇効果[26ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-4-target-vocal-1-30",
+    "name": "ボーカルタイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "ボーカルタイプ1人に4段階ボーカル上昇効果[30ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-4-target-vocal-1-34",
+    "name": "ボーカルタイプ1人にボーカル上昇効果",
+    "type": 14,
+    "description": "ボーカルタイプ1人に4段階ボーカル上昇効果[34ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-1",
     "limitBreakMaxGrade": 30,
     "shortDescription": ""
   },
@@ -126324,6 +126720,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-8-target-self-21",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に8段階ボーカル上昇効果[21ビート]",
+    "grade": 8,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-8-target-self-25",
     "name": "自身にボーカル上昇効果",
     "type": 14,
@@ -126819,6 +127226,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_up-9-target-self-29",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に9段階ボーカル上昇効果[29ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_up-9-target-self-30",
     "name": "自身にボーカル上昇効果",
     "type": 14,
@@ -126845,6 +127263,17 @@
     "name": "自身にボーカル上昇効果",
     "type": 14,
     "description": "自身に9段階ボーカル上昇効果[32ビート]",
+    "grade": 9,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_up-9-target-self-33",
+    "name": "自身にボーカル上昇効果",
+    "type": 14,
+    "description": "自身に9段階ボーカル上昇効果[33ビート]",
     "grade": 9,
     "maxGrade": 20,
     "skillTargetId": "target-self",
