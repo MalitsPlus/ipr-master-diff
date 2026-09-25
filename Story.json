@@ -1572,6 +1572,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-ski-26-0926",
+    "name": "白石沙季 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は沙季の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "気になっていた帽子",
+        "advAssetId": "hbd_06_ski_01"
+      },
+      {
+        "index": 2,
+        "text": "銘菓・星見焼",
+        "advAssetId": "hbd_06_ski_02"
+      },
+      {
+        "index": 3,
+        "text": "すみれの魔法少女の衣装",
+        "advAssetId": "hbd_06_ski_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-skr-24-0403",
     "name": "川咲さくら 誕生日2024",
     "advPlayTypes": [
@@ -16492,6 +16524,60 @@
     ],
     "advAssetIds": [
       "card_ski_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-birt-03-01",
+    "name": "早く降りて\n下さーい！",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_54_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-birt-03-02",
+    "name": "お財布大丈夫\nなのかしら",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_54_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-ski-05-birt-03-03",
+    "name": "皆のことが\n大好きです",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_ski_54_03"
     ],
     "sectionName": "",
     "description": "",

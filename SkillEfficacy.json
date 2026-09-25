@@ -1133,6 +1133,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-active_score_multiplier_add-5-target-character_type-1-2-22",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果",
+    "type": 60,
+    "description": "スコアラータイプ2人に5段階Aスキルスコア追加効果[22ビート]",
+    "grade": 5,
+    "maxGrade": 30,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-5-target-character_type-1-2-27",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果",
+    "type": 60,
+    "description": "スコアラータイプ2人に5段階Aスキルスコア追加効果[27ビート]",
+    "grade": 5,
+    "maxGrade": 30,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-active_score_multiplier_add-5-target-character_type-1-2-37",
     "name": "スコアラータイプ2人にAスキルスコア追加効果",
     "type": 60,
@@ -1408,6 +1430,28 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-active_score_multiplier_add-6-target-character_type-1-2-27",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果",
+    "type": 60,
+    "description": "スコアラータイプ2人に6段階Aスキルスコア追加効果[27ビート]",
+    "grade": 6,
+    "maxGrade": 30,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-6-target-character_type-1-2-32",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果",
+    "type": 60,
+    "description": "スコアラータイプ2人に6段階Aスキルスコア追加効果[32ビート]",
+    "grade": 6,
+    "maxGrade": 30,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-active_score_multiplier_add-6-target-position_attribute_vocal-3-35",
     "name": "ボーカルレーン3人にAスキルスコア追加効果",
     "type": 60,
@@ -1492,6 +1536,28 @@
     "grade": 7,
     "maxGrade": 30,
     "skillTargetId": "target-all",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-7-target-character_type-1-2-32",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果",
+    "type": 60,
+    "description": "スコアラータイプ2人に7段階Aスキルスコア追加効果[32ビート]",
+    "grade": 7,
+    "maxGrade": 30,
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-active_score_multiplier_add-7-target-character_type-1-2-38",
+    "name": "スコアラータイプ2人にAスキルスコア追加効果",
+    "type": 60,
+    "description": "スコアラータイプ2人に7段階Aスキルスコア追加効果[38ビート]",
+    "grade": 7,
+    "maxGrade": 30,
+    "skillTargetId": "target-character_type-1-2",
     "shortDescription": "",
     "limitBreakMaxGrade": 0
   },
@@ -4987,6 +5053,17 @@
     "name": "スコアラータイプ2人にAスキルスコア上昇効果",
     "type": 18,
     "description": "スコアラータイプ2人に5段階Aスキルスコア上昇効果[24ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-active_skill_score_up-5-target-character_type-1-2-25",
+    "name": "スコアラータイプ2人にAスキルスコア上昇効果",
+    "type": 18,
+    "description": "スコアラータイプ2人に5段階Aスキルスコア上昇効果[25ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -25872,6 +25949,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-cool_time_reduction-11-target-character_type-1-2",
+    "name": "スコアラータイプ2人のCTを減少",
+    "type": 27,
+    "description": "スコアラータイプ2人のCTを11減少",
+    "skillTargetId": "target-character_type-1-2",
+    "shortDescription": "",
+    "grade": 0,
+    "maxGrade": 0,
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-cool_time_reduction-11-target-character_type-2-1",
     "name": "バッファータイプ1人のCTを減少",
     "type": 27,
@@ -29986,6 +30074,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-4-target-character_type-1-2-22",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[22ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-4-target-character_type-1-2-23",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果",
     "type": 20,
@@ -30056,6 +30155,17 @@
     "name": "スコアラータイプ2人にクリティカル係数上昇効果",
     "type": 20,
     "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[30ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-4-target-character_type-1-2-31",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "スコアラータイプ2人に4段階クリティカル係数上昇効果[31ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
@@ -31130,6 +31240,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-critical_bonus_permil_up-5-target-character_type-1-2-31",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[31ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-critical_bonus_permil_up-5-target-character_type-1-2-33",
     "name": "スコアラータイプ2人にクリティカル係数上昇効果",
     "type": 20,
@@ -31189,6 +31310,17 @@
     "name": "スコアラータイプ2人にクリティカル係数上昇効果",
     "type": 20,
     "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[39ビート]",
+    "grade": 5,
+    "maxGrade": 20,
+    "skillTargetId": "target-character_type-1-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-critical_bonus_permil_up-5-target-character_type-1-2-41",
+    "name": "スコアラータイプ2人にクリティカル係数上昇効果",
+    "type": 20,
+    "description": "スコアラータイプ2人に5段階クリティカル係数上昇効果[41ビート]",
     "grade": 5,
     "maxGrade": 20,
     "skillTargetId": "target-character_type-1-2",
