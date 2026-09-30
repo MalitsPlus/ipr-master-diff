@@ -7451,6 +7451,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-ktn-05-casl-04",
+    "assetId": "ktn-05-casl-04",
+    "name": "心安らぐ星空の休日",
+    "description": "私の理想のタイプは、一緒にいて落ち着けて心地いい人\nそれこそ家族みたいな……あれ、それって",
+    "type": 3,
+    "characterId": "char-ktn",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 416,
+    "danceRatioPermil": 328,
+    "visualRatioPermil": 286,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ktn-05-casl-04-1",
+    "skillId2": "sk-ktn-05-casl-04-2",
+    "skillId3": "sk-ktn-05-casl-04-3",
+    "liveAbilityId": "lba-active_skill_score_multiply",
+    "order": 610,
+    "releaseDate": "1790910000000",
+    "rewardCostumeId": "cos-ktn-casl-04",
+    "obtainMessage": "私と、デートして下さい！",
+    "stories": [
+      {
+        "storyId": "st-card-ktn-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-ktn-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-ktn-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ktn-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ktn-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ktn-05-circ-00",
     "assetId": "ktn-05-circ-00",
     "name": "カットバックタンデム",
@@ -8558,6 +8609,57 @@
       }
     ],
     "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-mei-05-casl-04",
+    "assetId": "mei-05-casl-04",
+    "name": "にゃん！と楽しい休日",
+    "description": "にゃ～、ごろごろ～\n芽衣のこと、もっとにゃでにゃでして～",
+    "type": 2,
+    "characterId": "char-mei",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 273,
+    "danceRatioPermil": 407,
+    "visualRatioPermil": 320,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mei-05-casl-04-1",
+    "skillId2": "sk-mei-05-casl-04-2",
+    "skillId3": "sk-mei-05-casl-04-3",
+    "activityAbilityId": "aab-lesson_card_enhance_item_up",
+    "order": 614,
+    "releaseDate": "1790910000000",
+    "rewardCostumeId": "cos-mei-casl-04",
+    "obtainMessage": "芽衣のこと、\nもっとにゃでにゃでして～",
+    "stories": [
+      {
+        "storyId": "st-card-mei-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-mei-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-mei-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-mei-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-mei-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
     "rewardHairIds": [],
     "rewardHairId": "",
     "cardEvolutionLevelReleaseGroupId": "",
@@ -11470,6 +11572,57 @@
       },
       {
         "telephoneId": "tel-card-ngs-05-casl-02",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
+    "id": "card-ngs-05-casl-04",
+    "assetId": "ngs-05-casl-04",
+    "name": "桃コーデで弾ける休日",
+    "description": "ほら、私と手を重ねて。手のひら全体でそっと包み込むように\n優しく、優しく、ですよ？",
+    "type": 3,
+    "characterId": "char-ngs",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 288,
+    "danceRatioPermil": 416,
+    "visualRatioPermil": 326,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ngs-05-casl-04-1",
+    "skillId2": "sk-ngs-05-casl-04-2",
+    "skillId3": "sk-ngs-05-casl-04-3",
+    "liveAbilityId": "lba-dance_multiply",
+    "order": 611,
+    "releaseDate": "1790910000000",
+    "rewardCostumeId": "cos-ngs-casl-04",
+    "obtainMessage": "マネージャーの手、\nやっぱりとっても温かいですね",
+    "stories": [
+      {
+        "storyId": "st-card-ngs-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-ngs-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-ngs-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ngs-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ngs-05-casl-04",
         "messageId": ""
       }
     ],
@@ -16187,6 +16340,57 @@
     "homeTalks": []
   },
   {
+    "id": "card-ski-05-casl-04",
+    "assetId": "ski-05-casl-04",
+    "name": "浪漫息づく麗らかな休日",
+    "description": "一緒に食べてみませんか？\n周りのご迷惑にならないように、立ち止まって道の端で食べるのが鉄則ですが",
+    "type": 1,
+    "characterId": "char-ski",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 318,
+    "danceRatioPermil": 275,
+    "visualRatioPermil": 437,
+    "staminaRatioPermil": 900,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-ski-05-casl-04-1",
+    "skillId2": "sk-ski-05-casl-04-2",
+    "skillId3": "sk-ski-05-casl-04-3",
+    "liveAbilityId": "lba-visual_multiply",
+    "order": 612,
+    "releaseDate": "1790910000000",
+    "rewardCostumeId": "cos-ski-casl-04",
+    "obtainMessage": "口元に蜜がついていますね\n……はい、取れました",
+    "stories": [
+      {
+        "storyId": "st-card-ski-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-ski-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-ski-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-ski-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-ski-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "activityAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "homeTalks": []
+  },
+  {
     "id": "card-ski-05-chsk-00",
     "assetId": "ski-05-chsk-00",
     "name": "絆深まる姉妹のステージ",
@@ -19620,6 +19824,57 @@
     "cardEvolutionLevelGroupId": "",
     "skillId4": "",
     "messages": [],
+    "homeTalks": []
+  },
+  {
+    "id": "card-suz-05-casl-04",
+    "assetId": "suz-05-casl-04",
+    "name": "ElegantなLadyの休日",
+    "description": "……っ、な、なら、あなたの気持ちを汲んで\n『対等なLady』として甘えて差し上げますわ",
+    "type": 1,
+    "characterId": "char-suz",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 412,
+    "danceRatioPermil": 310,
+    "visualRatioPermil": 278,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-suz-05-casl-04-1",
+    "skillId2": "sk-suz-05-casl-04-2",
+    "skillId3": "sk-suz-05-casl-04-3",
+    "activityAbilityId": "aab-lesson_gold_up",
+    "order": 613,
+    "releaseDate": "1790910000000",
+    "rewardCostumeId": "cos-suz-casl-04",
+    "obtainMessage": "ふわふわで、\nもこもこで、\nたまりませんわ～！",
+    "stories": [
+      {
+        "storyId": "st-card-suz-05-casl-04-01"
+      },
+      {
+        "storyId": "st-card-suz-05-casl-04-02"
+      },
+      {
+        "storyId": "st-card-suz-05-casl-04-03"
+      }
+    ],
+    "messages": [
+      {
+        "messageId": "message-card-suz-05-casl-04",
+        "telephoneId": ""
+      },
+      {
+        "telephoneId": "tel-card-suz-05-casl-04",
+        "messageId": ""
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardHairIds": [],
+    "rewardHairId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
     "homeTalks": []
   },
   {
