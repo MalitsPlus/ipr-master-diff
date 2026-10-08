@@ -143965,6 +143965,468 @@
     "assetId": ""
   },
   {
+    "id": "sk-mna-05-birt-03-1",
+    "name": "きみと紡いだ青春",
+    "categoryType": 2,
+    "levels": [
+      {
+        "level": 1,
+        "description": "330%のスコア獲得 \nセンターの強化効果を4延長と集目超化効果[32ビート]\nスタミナ112消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ112消費 CT:30",
+        "stamina": 112,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-4-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_audience_amount_increase-10-target-center-32",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "350%のスコア獲得\nセンターの強化効果を5延長と集目超化効果[35ビート]\nスタミナ121消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ121消費 CT:30",
+        "requiredItemAmount": 500,
+        "requiredCardLevel": 40,
+        "stamina": 121,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3500-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-5-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_audience_amount_increase-10-target-center-35",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "370%のスコア獲得 \nセンターの強化効果を6延長と集目超化効果[38ビート]\nスタミナ130消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ130消費 CT:30",
+        "requiredItemAmount": 2000,
+        "requiredCardLevel": 60,
+        "stamina": 130,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3700-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-6-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_audience_amount_increase-10-target-center-38",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "390%のスコア獲得 \nセンターの強化効果を7延長と集目超化効果[41ビート] \nスタミナ139消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ139消費 CT:30",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 90,
+        "stamina": 139,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-3900-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-7-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_audience_amount_increase-10-target-center-41",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "410%のスコア獲得 \nセンターの強化効果を8延長と集目超化効果[45ビート]\nスタミナ149消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ149消費 CT:30",
+        "requiredItemAmount": 100000,
+        "requiredCardLevel": 150,
+        "stamina": 149,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4100-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-8-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_audience_amount_increase-10-target-center-45",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "430%のスコア獲得 \nセンターの強化効果を9延長と集目超化効果[49ビート]\nスタミナ158消費 CT:30",
+        "shortDescription": "\n\n\nスタミナ158消費 CT:30",
+        "requiredItemAmount": 230000,
+        "requiredCardLevel": 180,
+        "stamina": 158,
+        "probabilityPermil": 1000,
+        "coolTime": 30,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-score_get-4300-chart_dependence",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-strength_effect_count_increase-9-target-center",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-add_effect_value_audience_amount_increase-10-target-center-49",
+            "triggerId": ""
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-mna-05-birt-03-2",
+    "name": "アルバムに溢れる思い出",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "ボーカルタイプ2人に3段階ボーカルブースト効果[18ビート]\n誰かのボーカルブースト状態が10段階以上の時 ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[18ビート]\nスタミナ169消費 CT:50",
+        "shortDescription": "\n \nスタミナ169消費 CT:50",
+        "stamina": 169,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_boost-3-target-vocal-2-18",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_boost-10-target-vocal-2-18",
+            "triggerId": "tg-someone_status_effect_grade_higher_vocal_boost-10"
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "ボーカルタイプ2人に3段階ボーカルブースト効果[21ビート]\n誰かのボーカルブースト状態が10段階以上の時 ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[21ビート]\nスタミナ196消費 CT:50",
+        "shortDescription": "\n \nスタミナ196消費 CT:50",
+        "requiredItemAmount": 1000,
+        "requiredCardLevel": 50,
+        "stamina": 196,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_boost-3-target-vocal-2-21",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_boost-10-target-vocal-2-21",
+            "triggerId": "tg-someone_status_effect_grade_higher_vocal_boost-10"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "ボーカルタイプ2人に3段階ボーカルブースト効果[24ビート]\n誰かのボーカルブースト状態が10段階以上の時 ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[24ビート]\nスタミナ225消費 CT:50",
+        "shortDescription": "\n \nスタミナ225消費 CT:50",
+        "requiredItemAmount": 4000,
+        "requiredCardLevel": 70,
+        "stamina": 225,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_boost-3-target-vocal-2-24",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_boost-10-target-vocal-2-24",
+            "triggerId": "tg-someone_status_effect_grade_higher_vocal_boost-10"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[24ビート]\n誰かのボーカルブースト状態が10段階以上の時 ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[24ビート]\nスタミナ248消費 CT:50",
+        "shortDescription": "\n \nスタミナ248消費 CT:50",
+        "requiredItemAmount": 30000,
+        "requiredCardLevel": 110,
+        "stamina": 248,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_boost-4-target-vocal-2-24",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_boost-10-target-vocal-2-24",
+            "triggerId": "tg-someone_status_effect_grade_higher_vocal_boost-10"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[28ビート]\n誰かのボーカルブースト状態が10段階以上の時 ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[28ビート]\nスタミナ289消費 CT:50",
+        "shortDescription": "\n \nスタミナ289消費 CT:50",
+        "requiredItemAmount": 140000,
+        "requiredCardLevel": 160,
+        "stamina": 289,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_boost-4-target-vocal-2-28",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_boost-10-target-vocal-2-28",
+            "triggerId": "tg-someone_status_effect_grade_higher_vocal_boost-10"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[32ビート]\n誰かのボーカルブースト状態が10段階以上の時 ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[32ビート]\nスタミナ331消費 CT:50",
+        "shortDescription": "\n \nスタミナ331消費 CT:50",
+        "requiredItemAmount": 280000,
+        "requiredCardLevel": 200,
+        "stamina": 331,
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-vocal_boost-4-target-vocal-2-32",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-limit_break_vocal_boost-10-target-vocal-2-32",
+            "triggerId": "tg-someone_status_effect_grade_higher_vocal_boost-10"
+          }
+        ],
+        "triggerId": "",
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
+    "id": "sk-mna-05-birt-03-3",
+    "name": "はじまりの学園祭",
+    "categoryType": 3,
+    "levels": [
+      {
+        "level": 1,
+        "description": "自身がボーカルレーンの時 \nセンターに7段階の集目効果[21ビート]と5段階テンションUP効果[21ビート]\nスタミナ161消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ161消費 CT:50",
+        "stamina": 161,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-center-21",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-5-target-center-21",
+            "triggerId": ""
+          }
+        ],
+        "requiredItemAmount": 0,
+        "requiredCardLevel": 0,
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 2,
+        "description": "自身がボーカルレーンの時 \nセンターに7段階の集目効果[25ビート]と5段階テンションUP効果[25ビート]\nスタミナ192消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ192消費 CT:50",
+        "requiredItemAmount": 15000,
+        "requiredCardLevel": 100,
+        "stamina": 192,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-center-25",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-5-target-center-25",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 3,
+        "description": "自身がボーカルレーンの時 \nセンターに7段階の集目効果[29ビート]と5段階テンションUP効果[29ビート] \nスタミナ221消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ221消費 CT:50",
+        "requiredItemAmount": 60000,
+        "requiredCardLevel": 130,
+        "stamina": 221,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-7-target-center-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-5-target-center-29",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 4,
+        "description": "自身がボーカルレーンの時 \nセンターに8段階の集目効果[29ビート]と6段階テンションUP効果[29ビート] \nスタミナ261消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ261消費 CT:50",
+        "requiredItemAmount": 180000,
+        "requiredCardLevel": 170,
+        "stamina": 261,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-8-target-center-29",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-6-target-center-29",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 5,
+        "description": "自身がボーカルレーンの時 \nセンターに8段階の集目効果[33ビート]と6段階テンションUP効果[33ビート] \nスタミナ297消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ297消費 CT:50",
+        "requiredItemAmount": 330000,
+        "requiredCardLevel": 210,
+        "stamina": 297,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-8-target-center-33",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-6-target-center-33",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      },
+      {
+        "level": 6,
+        "description": "自身がボーカルレーンの時 \nセンターに8段階の集目効果[37ビート]と6段階テンションUP効果[37ビート] \nスタミナ333消費 CT:50",
+        "shortDescription": "\n\n\nスタミナ333消費 CT:50",
+        "requiredItemAmount": 380000,
+        "requiredCardLevel": 230,
+        "stamina": 333,
+        "triggerId": "tg-position_attribute_vocal",
+        "probabilityPermil": 1000,
+        "coolTime": 50,
+        "skillDetails": [
+          {
+            "efficacyId": "ef-audience_amount_increase-8-target-center-37",
+            "triggerId": ""
+          },
+          {
+            "efficacyId": "ef-tension_up-6-target-center-37",
+            "triggerId": ""
+          }
+        ],
+        "limitCount": 0,
+        "staminaPermil": 0
+      }
+    ],
+    "assetId": ""
+  },
+  {
     "id": "sk-mna-05-fest-00-1",
     "name": "最っ高のライブにします！",
     "categoryType": 1,

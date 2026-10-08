@@ -10230,6 +10230,72 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-center-32",
+    "name": "センターに集目超化",
+    "type": 100,
+    "description": "センターに集目超化効果[32ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-center-35",
+    "name": "センターに集目超化",
+    "type": 100,
+    "description": "センターに集目超化効果[35ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-center-38",
+    "name": "センターに集目超化",
+    "type": 100,
+    "description": "センターに集目超化効果[38ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-center-41",
+    "name": "センターに集目超化",
+    "type": 100,
+    "description": "センターに集目超化効果[41ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-center-45",
+    "name": "センターに集目超化",
+    "type": 100,
+    "description": "センターに集目超化効果[45ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-add_effect_value_audience_amount_increase-10-target-center-49",
+    "name": "センターに集目超化",
+    "type": 100,
+    "description": "センターに集目超化効果[49ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-add_effect_value_audience_amount_increase-10-target-character_type-1-1-16",
     "name": "スコアラータイプ1人に集目超化",
     "type": 100,
@@ -15433,10 +15499,32 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-7-target-center-21",
+    "name": "センターに集目効果",
+    "type": 21,
+    "description": "センターに7段階の集目効果[21ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-7-target-center-24",
     "name": "センターに集目効果",
     "type": 21,
     "description": "センターに7段階の集目効果[24ビート]",
+    "grade": 7,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-audience_amount_increase-7-target-center-25",
+    "name": "センターに集目効果",
+    "type": 21,
+    "description": "センターに7段階の集目効果[25ビート]",
     "grade": 7,
     "maxGrade": 10,
     "skillTargetId": "target-center",
@@ -62007,10 +62095,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_vocal_boost-10-target-vocal-2-18",
+    "name": "ボーカルタイプ2人にボーカルブースト上限解放",
+    "type": 88,
+    "description": "ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[18ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_vocal_boost-10-target-vocal-2-20",
     "name": "ボーカルタイプ2人にボーカルブースト上限解放",
     "type": 88,
     "description": "ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[20ビート]",
+    "grade": 10,
+    "maxGrade": 10,
+    "skillTargetId": "target-vocal-2",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_vocal_boost-10-target-vocal-2-21",
+    "name": "ボーカルタイプ2人にボーカルブースト上限解放",
+    "type": 88,
+    "description": "ボーカルタイプ2人に10段階ボーカルブースト上限解放効果[21ビート]",
     "grade": 10,
     "maxGrade": 10,
     "skillTargetId": "target-vocal-2",
@@ -105699,6 +105809,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-tension_up-5-target-center-21",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに5段階テンションUP効果[21ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-5-target-center-25",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに5段階テンションUP効果[25ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-5-target-center-29",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに5段階テンションUP効果[29ビート]",
+    "grade": 5,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-tension_up-5-target-character_type-1-1-27",
     "name": "スコアラータイプ1人にテンションUP効果",
     "type": 38,
@@ -106278,6 +106421,39 @@
     "grade": 6,
     "maxGrade": 10,
     "skillTargetId": "target-all",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-6-target-center-29",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに6段階テンションUP効果[29ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-6-target-center-33",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに6段階テンションUP効果[33ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-tension_up-6-target-center-37",
+    "name": "センターにテンションUP効果",
+    "type": 38,
+    "description": "センターに6段階テンションUP効果[37ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-center",
     "limitBreakMaxGrade": 20,
     "shortDescription": ""
   },
@@ -118382,6 +118558,39 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-vocal_boost-3-target-vocal-2-18",
+    "name": "ボーカルタイプ2人にボーカルブースト効果",
+    "type": 56,
+    "description": "ボーカルタイプ2人に3段階ボーカルブースト効果[18ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-3-target-vocal-2-21",
+    "name": "ボーカルタイプ2人にボーカルブースト効果",
+    "type": 56,
+    "description": "ボーカルタイプ2人に3段階ボーカルブースト効果[21ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-3-target-vocal-2-24",
+    "name": "ボーカルタイプ2人にボーカルブースト効果",
+    "type": 56,
+    "description": "ボーカルタイプ2人に3段階ボーカルブースト効果[24ビート]",
+    "grade": 3,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-vocal_boost-4-target-all-37",
     "name": "全員にボーカルブースト効果",
     "type": 56,
@@ -118639,6 +118848,39 @@
     "name": "ボーカルタイプ2人にボーカルブースト効果",
     "type": 56,
     "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[23ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-4-target-vocal-2-24",
+    "name": "ボーカルタイプ2人にボーカルブースト効果",
+    "type": 56,
+    "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[24ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-4-target-vocal-2-28",
+    "name": "ボーカルタイプ2人にボーカルブースト効果",
+    "type": 56,
+    "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[28ビート]",
+    "grade": 4,
+    "maxGrade": 20,
+    "skillTargetId": "target-vocal-2",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
+    "id": "ef-vocal_boost-4-target-vocal-2-32",
+    "name": "ボーカルタイプ2人にボーカルブースト効果",
+    "type": 56,
+    "description": "ボーカルタイプ2人に4段階ボーカルブースト効果[32ビート]",
     "grade": 4,
     "maxGrade": 20,
     "skillTargetId": "target-vocal-2",

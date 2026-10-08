@@ -1028,6 +1028,38 @@
     "branchChoices": []
   },
   {
+    "id": "st-birthday-branch-mna-26-1009",
+    "name": "長瀬麻奈 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は麻奈の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "感謝の手紙",
+        "advAssetId": "hbd_06_mna_01"
+      },
+      {
+        "index": 2,
+        "text": "数量限定★魚魚っとさんカレー",
+        "advAssetId": "hbd_06_mna_02"
+      },
+      {
+        "index": 3,
+        "text": "手作りした俺のカレー",
+        "advAssetId": "hbd_06_mna_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-ngs-23-0803",
     "name": "伊吹渚 誕生日2023",
     "advPlayTypes": [
@@ -11826,6 +11858,60 @@
     ],
     "advAssetIds": [
       "card_mna_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mna-05-birt-03-01",
+    "name": "あの時の\n学園祭",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_54_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mna-05-birt-03-02",
+    "name": "写真展の\n看板",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_54_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-mna-05-birt-03-03",
+    "name": "一杯\n思い出して\nよね",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_mna_54_03"
     ],
     "sectionName": "",
     "description": "",

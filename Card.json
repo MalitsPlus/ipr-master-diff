@@ -10532,6 +10532,53 @@
     "homeTalks": []
   },
   {
+    "id": "card-mna-05-birt-03",
+    "assetId": "mna-05-birt-03",
+    "name": "軌跡たどるバースデー",
+    "description": "どんなに忙しくても、星見プロが大きくなっても\nこの日だけは、私のことを一杯思い出してよね",
+    "type": 2,
+    "characterId": "char-mna",
+    "initialRarity": 5,
+    "cardParameterId": "card-param-01",
+    "vocalRatioPermil": 408,
+    "danceRatioPermil": 313,
+    "visualRatioPermil": 279,
+    "staminaRatioPermil": 1000,
+    "cardLevelReleaseId": "card_level_release_1",
+    "skillId1": "sk-mna-05-birt-03-1",
+    "skillId2": "sk-mna-05-birt-03-2",
+    "skillId3": "sk-mna-05-birt-03-3",
+    "activityAbilityId": "aab-promotion_accessory_multi_step_reward_up",
+    "order": 615,
+    "releaseDate": "1791471600000",
+    "rewardHairIds": [
+      "hair-mna-hair-30",
+      "hair-mna-hair-31",
+      "hair-mna-hair-32",
+      "hair-mna-hair-33"
+    ],
+    "obtainMessage": "この日だけは、\n私のことを\n一杯思い出してよね",
+    "rewardHairId": "hair-mna-hair-30",
+    "stories": [
+      {
+        "storyId": "st-card-mna-05-birt-03-01"
+      },
+      {
+        "storyId": "st-card-mna-05-birt-03-02"
+      },
+      {
+        "storyId": "st-card-mna-05-birt-03-03"
+      }
+    ],
+    "liveAbilityId": "",
+    "rewardCostumeId": "",
+    "cardEvolutionLevelReleaseGroupId": "",
+    "cardEvolutionLevelGroupId": "",
+    "skillId4": "",
+    "messages": [],
+    "homeTalks": []
+  },
+  {
     "id": "card-mna-05-fest-00",
     "assetId": "mna-05-fest-00",
     "name": "ただ、手を繋ぐだけ",

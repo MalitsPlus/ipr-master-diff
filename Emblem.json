@@ -5445,6 +5445,15 @@
     "isViewableInInactive": false
   },
   {
+    "id": "emb-birthday_mna-06",
+    "name": "【誕生日】長瀬麻奈",
+    "assetId": "birthday_mna-06",
+    "autoProvideConditionId": "cd-birthday_emblem_mna-26-1009",
+    "order": 606210,
+    "description": "麻奈の誕生日を迎える",
+    "isViewableInInactive": false
+  },
+  {
     "id": "emb-birthday_ngs-03",
     "name": "【誕生日】伊吹渚",
     "assetId": "birthday_ngs-03",
@@ -10814,6 +10823,33 @@
     "assetId": "pvp-season-182-top100",
     "order": 318230,
     "description": "VENUSバトルシーズン182で100位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-183-top001",
+    "name": "VENUSシーズン183 No.1",
+    "assetId": "pvp-season-183-top001",
+    "order": 318310,
+    "description": "VENUSバトルシーズン183で1位獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-183-top010",
+    "name": "VENUSシーズン183 TOP10",
+    "assetId": "pvp-season-183-top010",
+    "order": 318320,
+    "description": "VENUSバトルシーズン183で10位以内獲得",
+    "autoProvideConditionId": "",
+    "isViewableInInactive": false
+  },
+  {
+    "id": "emb-pvp-season-183-top100",
+    "name": "VENUSシーズン183 TOP100",
+    "assetId": "pvp-season-183-top100",
+    "order": 318330,
+    "description": "VENUSバトルシーズン183で100位以内獲得",
     "autoProvideConditionId": "",
     "isViewableInInactive": false
   },
