@@ -15169,6 +15169,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-audience_amount_increase-6-target-self-22",
+    "name": "自身に集目効果",
+    "type": 21,
+    "description": "自身に6段階の集目効果[22ビート]",
+    "grade": 6,
+    "maxGrade": 10,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 20,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-audience_amount_increase-6-target-self-24",
     "name": "自身に集目効果",
     "type": 21,
@@ -52536,6 +52547,17 @@
     "shortDescription": ""
   },
   {
+    "id": "ef-dance_up-6-target-self-22",
+    "name": "自身にダンス上昇効果",
+    "type": 13,
+    "description": "自身に6段階ダンス上昇効果[22ビート]",
+    "grade": 6,
+    "maxGrade": 20,
+    "skillTargetId": "target-self",
+    "limitBreakMaxGrade": 30,
+    "shortDescription": ""
+  },
+  {
     "id": "ef-dance_up-6-target-self-23",
     "name": "自身にダンス上昇効果",
     "type": 13,
@@ -59334,10 +59356,32 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-22",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[22ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_audience_amount_increase-5-target-self-24",
     "name": "自身に集目上昇上限解放",
     "type": 82,
     "description": "自身に5段階集目上昇上限解放効果[24ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-26",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[26ビート]",
     "grade": 5,
     "maxGrade": 5,
     "skillTargetId": "target-self",
@@ -59378,6 +59422,17 @@
     "limitBreakMaxGrade": 0
   },
   {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-34",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[34ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
     "id": "ef-limit_break_audience_amount_increase-5-target-self-36",
     "name": "自身に集目上昇上限解放",
     "type": 82,
@@ -59393,6 +59448,17 @@
     "name": "自身に集目上昇上限解放",
     "type": 82,
     "description": "自身に5段階集目上昇上限解放効果[37ビート]",
+    "grade": 5,
+    "maxGrade": 5,
+    "skillTargetId": "target-self",
+    "shortDescription": "",
+    "limitBreakMaxGrade": 0
+  },
+  {
+    "id": "ef-limit_break_audience_amount_increase-5-target-self-39",
+    "name": "自身に集目上昇上限解放",
+    "type": 82,
+    "description": "自身に5段階集目上昇上限解放効果[39ビート]",
     "grade": 5,
     "maxGrade": 5,
     "skillTargetId": "target-self",

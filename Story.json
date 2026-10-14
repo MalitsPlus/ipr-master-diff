@@ -2052,6 +2052,38 @@
     "additionalDisplayCharacterIds": []
   },
   {
+    "id": "st-birthday-branch-szk-26-1015",
+    "name": "兵藤雫 誕生日2026",
+    "advPlayTypes": [
+      6
+    ],
+    "branchFirstText": "今日は雫の誕生日だな\n何をプレゼントしよう？",
+    "branchCautionText": "後で再度選択可能です",
+    "branchBgmAssetId": "sud_bgm_cmn_home-01",
+    "branchChoices": [
+      {
+        "index": 1,
+        "text": "手作りのルアー",
+        "advAssetId": "hbd_06_szk_01"
+      },
+      {
+        "index": 2,
+        "text": "手作りのぬいぐるみ",
+        "advAssetId": "hbd_06_szk_02"
+      },
+      {
+        "index": 3,
+        "text": "三枝さんの足のサイズ情報",
+        "advAssetId": "hbd_06_szk_03"
+      }
+    ],
+    "sectionName": "",
+    "description": "",
+    "rewardId": "",
+    "advAssetIds": [],
+    "additionalDisplayCharacterIds": []
+  },
+  {
     "id": "st-birthday-branch-yu-24-0227",
     "name": "鈴村優 誕生日2024",
     "advPlayTypes": [
@@ -20984,6 +21016,60 @@
     ],
     "advAssetIds": [
       "card_szk_53_03"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-birt-03-01",
+    "name": "兵藤雫の\nサニピマニア",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_54_01"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-birt-03-02",
+    "name": "ただし\nメン限で",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_54_02"
+    ],
+    "sectionName": "",
+    "description": "",
+    "additionalDisplayCharacterIds": [],
+    "branchFirstText": "",
+    "branchCautionText": "",
+    "branchBgmAssetId": "",
+    "branchChoices": []
+  },
+  {
+    "id": "st-card-szk-05-birt-03-03",
+    "name": "ずっと\n一緒だから",
+    "rewardId": "rd_auto;stone;;30",
+    "advPlayTypes": [
+      1
+    ],
+    "advAssetIds": [
+      "card_szk_54_03"
     ],
     "sectionName": "",
     "description": "",
