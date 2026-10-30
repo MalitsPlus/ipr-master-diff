@@ -4688,26 +4688,24 @@
     "name": "2nd Anniversary SPECIAL STAGE",
     "description": "特別コンテンツに移動します。",
     "order": 30,
-    "viewConditionId": "cd-anniversary-01-23-0624-start",
-    "unlockConditionId": "cd-anniversary-01-23-0624-start",
     "episodes": [
       {
         "episode": 1,
         "assetId": "event_2306_02_00",
         "storyId": "st-ex-story-part-anniversary-01-23-0624-01",
-        "viewConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-01-view",
-        "unlockConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-01-unlock",
         "afterReadAssetId": "event_2306_02_00",
         "isPrologue": true,
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false
       },
       {
         "episode": 2,
         "assetId": "event_2306_02_00",
         "storyId": "st-ex-story-part-anniversary-01-23-0624-02",
-        "viewConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-02-view",
-        "unlockConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-02-unlock",
         "afterReadAssetId": "event_2306_02_01_after",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4715,9 +4713,9 @@
         "episode": 3,
         "assetId": "event_2306_02_00",
         "storyId": "st-ex-story-part-anniversary-01-23-0624-03",
-        "viewConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-02-view",
-        "unlockConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-03-unlock",
         "afterReadAssetId": "event_2306_02_02_after",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4725,9 +4723,9 @@
         "episode": 4,
         "assetId": "event_2306_02_00",
         "storyId": "st-ex-story-part-anniversary-01-23-0624-04",
-        "viewConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-02-view",
-        "unlockConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-04-unlock",
         "afterReadAssetId": "event_2306_02_03_after",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4735,9 +4733,9 @@
         "episode": 5,
         "assetId": "event_2306_02_00",
         "storyId": "st-ex-story-part-anniversary-01-23-0624-05",
-        "viewConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-02-view",
-        "unlockConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-05-unlock",
         "afterReadAssetId": "event_2306_02_04_after",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4745,9 +4743,9 @@
         "episode": 6,
         "assetId": "event_2306_02_00",
         "storyId": "st-ex-story-part-anniversary-01-23-0624-06",
-        "viewConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-02-view",
-        "unlockConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-06-unlock",
         "afterReadAssetId": "event_2306_02_05_after",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4755,9 +4753,9 @@
         "episode": 7,
         "assetId": "event_2306_02_00",
         "storyId": "st-ex-story-part-anniversary-01-23-0624-07",
-        "viewConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-02-view",
-        "unlockConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-07-unlock",
         "afterReadAssetId": "event_2306_02_06_after",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4765,17 +4763,19 @@
         "episode": 8,
         "assetId": "event_2306_02_07",
         "storyId": "st-ex-story-part-anniversary-01-23-0624-08",
-        "viewConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-08-unlock",
-        "unlockConditionId": "cd-st-ex-story-part-anniversary-01-23-0624-08-unlock",
         "afterReadAssetId": "event_2306_02_07",
         "isSecret": true,
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isPrologue": false
       }
     ],
     "extraStoryType": 2,
     "iconAssetId": "23-0624",
     "backgroundAssetId": "23-0624",
-    "secretEffectColorCode": "F252B0"
+    "secretEffectColorCode": "F252B0",
+    "viewConditionId": "",
+    "unlockConditionId": ""
   },
   {
     "id": "ex-story-anniversary-01-24-0624",
@@ -4784,16 +4784,14 @@
     "name": "星見プロ共有フォルダ",
     "description": "特別コンテンツに移動します。",
     "order": 31,
-    "viewConditionId": "cd-anniversary-01-24-0624-start",
-    "unlockConditionId": "cd-anniversary-01-24-0624-start",
     "episodes": [
       {
         "episode": 1,
         "assetId": "event_2406_02_01",
         "storyId": "st-ex-story-part-anniversary-01-24-0624-01",
-        "viewConditionId": "cd-anniversary-01-24-0624-start",
-        "unlockConditionId": "cd-anniversary-01-24-0624-start",
         "afterReadAssetId": "event_2406_02_01",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4801,9 +4799,9 @@
         "episode": 2,
         "assetId": "event_2406_02_02",
         "storyId": "st-ex-story-part-anniversary-01-24-0624-02",
-        "viewConditionId": "cd-anniversary-01-24-0624-start",
-        "unlockConditionId": "cd-anniversary-01-24-0624-start",
         "afterReadAssetId": "event_2406_02_02",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4811,9 +4809,9 @@
         "episode": 3,
         "assetId": "event_2406_02_03",
         "storyId": "st-ex-story-part-anniversary-01-24-0624-03",
-        "viewConditionId": "cd-anniversary-01-24-0624-start",
-        "unlockConditionId": "cd-anniversary-01-24-0624-start",
         "afterReadAssetId": "event_2406_02_03",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4821,9 +4819,9 @@
         "episode": 4,
         "assetId": "event_2406_02_04",
         "storyId": "st-ex-story-part-anniversary-01-24-0624-04",
-        "viewConditionId": "cd-anniversary-01-24-0624-start",
-        "unlockConditionId": "cd-anniversary-01-24-0624-start",
         "afterReadAssetId": "event_2406_02_04",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       },
@@ -4831,9 +4829,9 @@
         "episode": 5,
         "assetId": "event_2406_02_05",
         "storyId": "st-ex-story-part-anniversary-01-24-0624-05",
-        "viewConditionId": "cd-anniversary-01-24-0624-start",
-        "unlockConditionId": "cd-anniversary-01-24-0624-start",
         "afterReadAssetId": "event_2406_02_05",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "isSecret": false,
         "isPrologue": false
       }
@@ -4841,7 +4839,9 @@
     "extraStoryType": 2,
     "iconAssetId": "24-0624",
     "backgroundAssetId": "24-0624",
-    "secretEffectColorCode": "F252B0"
+    "secretEffectColorCode": "F252B0",
+    "viewConditionId": "",
+    "unlockConditionId": ""
   },
   {
     "id": "ex-story-part-special-01-24-0624-aniv",
@@ -4850,21 +4850,21 @@
     "name": "3周年",
     "description": "再生するストーリーを選択してください。",
     "order": 35,
-    "viewConditionId": "cd-anniversary-01-24-0624-start",
-    "unlockConditionId": "cd-anniversary-01-24-0624-start",
     "episodes": [
       {
         "episode": 1,
         "assetId": "event_2406_03_01",
         "storyId": "st-ex-story-part-special-01-24-0624-aniv-01",
-        "viewConditionId": "cd-anniversary-01-24-0624-start",
-        "unlockConditionId": "cd-anniversary-01-24-0624-start",
+        "viewConditionId": "",
+        "unlockConditionId": "",
         "afterReadAssetId": "",
         "isSecret": false,
         "isPrologue": false
       }
     ],
     "extraStoryType": 1,
+    "viewConditionId": "",
+    "unlockConditionId": "",
     "iconAssetId": "",
     "backgroundAssetId": "",
     "secretEffectColorCode": ""
