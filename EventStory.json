@@ -2858,5 +2858,63 @@
         "viewConditionId": ""
       }
     ]
+  },
+  {
+    "id": "st-eve-2610-dice",
+    "assetId": "event-dice-26-1030",
+    "name": "イベントストーリー",
+    "description": "After Story ～輝きは海を越えて～",
+    "order": 261030,
+    "viewConditionId": "cd-event-story-26-1030",
+    "episodes": [
+      {
+        "episode": 1,
+        "assetId": "main_04_15_01",
+        "storyId": "st-eve-2610-dice-001",
+        "unlockConditionId": "cd-event-dice-26-1030-story-01-unlock",
+        "viewConditionId": "",
+        "isAppeal": false
+      },
+      {
+        "episode": 2,
+        "assetId": "main_04_15_02",
+        "storyId": "st-eve-2610-dice-002",
+        "unlockConditionId": "cd-event-dice-26-1030-story-02-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 3,
+        "assetId": "main_04_15_03",
+        "storyId": "st-eve-2610-dice-003",
+        "unlockConditionId": "cd-event-dice-26-1030-story-03-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 4,
+        "assetId": "main_04_15_04",
+        "storyId": "st-eve-2610-dice-004",
+        "unlockConditionId": "cd-event-dice-26-1030-story-04-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 5,
+        "assetId": "main_04_15_05",
+        "storyId": "st-eve-2610-dice-005",
+        "unlockConditionId": "cd-event-dice-26-1030-story-05-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      },
+      {
+        "episode": 6,
+        "assetId": "main_04_15_06",
+        "storyId": "st-eve-2610-dice-006",
+        "unlockConditionId": "cd-event-dice-26-1030-story-06-unlock",
+        "isAppeal": true,
+        "viewConditionId": ""
+      }
+    ]
   }
 ]
