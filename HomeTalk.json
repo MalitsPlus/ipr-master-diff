@@ -7642,6 +7642,61 @@
     "cardId": ""
   },
   {
+    "homeTalkId": "home-talk-card-mna-05-casl-04-talk-01",
+    "characterId": "char-mna",
+    "placeType": 1,
+    "conditionId": "cd-st-read-st-card-mna-05-casl-04-03",
+    "firstPriority": 9900,
+    "weight": 1,
+    "callPatternId": "call-pattern-card-mna-05-casl-04",
+    "choiceText": "何か心配なことがあるのか？",
+    "managerText": "何か心配なことがあるのか？",
+    "reliability": 5,
+    "title": "星の海で繋がる休日",
+    "displayConditionDescription": "星の海で繋がる休日 長瀬麻奈\nストーリー3話を視聴",
+    "order": 557,
+    "releaseDate": "1794754800000",
+    "characterTalks": [
+      {
+        "text": "{user}くん\n今年の一月すっごく忙しそうに\nしてたでしょ？",
+        "voiceAssetId": "sud_vo_home_mna-05-casl-04_talk-01-01",
+        "motionAssetId": "mot_adv_chr_cmn_pos-020_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "日曜日に制服で「学校に遅れるぞ」\nってうちに呼びに来るくらい\n曜日感覚もなくなっててさ。",
+        "voiceAssetId": "sud_vo_home_mna-05-casl-04_talk-01-02",
+        "motionAssetId": "mot_adv_chr_cmn_pos-003_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "私のために頑張ってくれるのは\nすっごく嬉しいんだけど、もう少し\n自分を大事にしてほしいの。",
+        "voiceAssetId": "sud_vo_home_mna-05-casl-04_talk-01-03",
+        "motionAssetId": "mot_adv_chr_cmn_think-009_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "{user}くんには\nこれからも末永く\n私のそばにいてほしいから。",
+        "voiceAssetId": "sud_vo_home_mna-05-casl-04_talk-01-04",
+        "motionAssetId": "mot_adv_chr_cmn_empa-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "天才アイドル長瀬麻奈の\nマネージャーが私よりも先に\n芸能界引退をするなんて…",
+        "voiceAssetId": "sud_vo_home_mna-05-casl-04_talk-01-05",
+        "motionAssetId": "mot_adv_chr_cmn_deny-001_in",
+        "additionMotionAssetId": ""
+      },
+      {
+        "text": "絶対に許さないからね！\n100歳を超えてもアイドルを\n続けられるといいな～、なんて。",
+        "voiceAssetId": "sud_vo_home_mna-05-casl-04_talk-01-06",
+        "motionAssetId": "mot_adv_chr_cmn_glad-005_in",
+        "additionMotionAssetId": ""
+      }
+    ],
+    "cardId": ""
+  },
+  {
     "homeTalkId": "home-talk-card-mna-05-fest-00-talk-01",
     "characterId": "char-mna",
     "placeType": 1,

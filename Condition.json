@@ -141742,7 +141742,7 @@
         },
         "term": {
           "nowAfter": "1700838000000",
-          "nowBefore": "0"
+          "nowBefore": "1796050799000"
         }
       }
     ]
@@ -186295,6 +186295,17 @@
         },
         "clearArea": {
           "areaId": "area-main-002"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-photo_expression_shooting-2026-11-open-01",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1794798000000",
+          "nowBefore": "0"
         }
       }
     ]
@@ -266456,6 +266467,16 @@
     ]
   },
   {
+    "id": "cd-st-read-st-card-mna-05-casl-04-03",
+    "settings": [
+      {
+        "readStory": {
+          "storyId": "st-card-mna-05-casl-04-03"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-st-read-st-card-mna-05-fest-00-03",
     "settings": [
       {
@@ -272123,6 +272144,10 @@
         },
         "notSatisfyCondition": {
           "conditionId": "cd-time-beginner-72h-gacha-dream-23-0329-check"
+        },
+        "term": {
+          "nowBefore": "1796050799000",
+          "nowAfter": "0"
         }
       }
     ]
@@ -272142,7 +272167,7 @@
         },
         "term": {
           "nowAfter": "1735354800000",
-          "nowBefore": "0"
+          "nowBefore": "1796050799000"
         },
         "gameStartTerm": {
           "gameStartDatetimeAfter": "1735354800000",
@@ -272176,7 +272201,18 @@
         },
         "term": {
           "nowAfter": "1680058800000",
-          "nowBefore": "1680145199000"
+          "nowBefore": "1796050799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-banner-friend-close",
+    "settings": [
+      {
+        "term": {
+          "nowBefore": "1796050799000",
+          "nowAfter": "0"
         }
       }
     ]
@@ -272752,7 +272788,7 @@
         },
         "term": {
           "nowAfter": "1784343600000",
-          "nowBefore": "1798037999000"
+          "nowBefore": "1796050799000"
         }
       }
     ]
@@ -282926,7 +282962,7 @@
         },
         "term": {
           "nowAfter": "1766502000000",
-          "nowBefore": "0"
+          "nowBefore": "1796050799000"
         }
       }
     ]
@@ -287497,11 +287533,11 @@
         },
         "term": {
           "nowAfter": "1784343600000",
-          "nowBefore": "1798037999000"
+          "nowBefore": "1796050799000"
         },
         "gameStartTerm": {
           "gameStartDatetimeAfter": "1784084400000",
-          "gameStartDatetimeBefore": "1798037999000"
+          "gameStartDatetimeBefore": "1796050799000"
         }
       }
     ]
@@ -287512,12 +287548,16 @@
       {
         "term": {
           "nowAfter": "1784343600000",
-          "nowBefore": "0"
+          "nowBefore": "1796050799000"
         },
         "drawGacha": {
           "gachaButtonIds": [
             "btn-01-gacha-continuous-26-0624"
           ]
+        },
+        "gameStartTerm": {
+          "gameStartDatetimeAfter": "1784084400000",
+          "gameStartDatetimeBefore": "1796050799000"
         }
       }
     ]
@@ -343234,6 +343274,56 @@
         },
         "term": {
           "nowAfter": "1788145200000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-hsm-018-26-1115",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1794798000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-hsm-018-26-1115-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1794798000000",
+          "nowBefore": "1795013999000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-hsm-018-26-1115-close-shoot",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-007"
+        },
+        "term": {
+          "nowAfter": "1794798000000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-music-hsm-018-26-1115-showcase-music",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-function_lock-showcase"
+        },
+        "term": {
+          "nowAfter": "1794798000000",
           "nowBefore": "0"
         }
       }
