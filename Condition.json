@@ -279622,6 +279622,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-26-1201-close",
+    "settings": [
+      {
+        "term": {
+          "nowBefore": "1796050799000",
+          "nowAfter": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-gacha_point-21-0624-0731",
     "settings": [
       {
@@ -280332,6 +280343,17 @@
         "term": {
           "nowAfter": "1793458800000",
           "nowBefore": "1796050799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-gacha_point-26-1201-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1796050800000",
+          "nowBefore": "0"
         }
       }
     ]
@@ -281052,6 +281074,17 @@
     ]
   },
   {
+    "id": "cd-time-exchange-idle_medal-26-1201-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1796050800000",
+          "nowBefore": "0"
+        }
+      }
+    ]
+  },
+  {
     "id": "cd-time-exchange-idol_medal-21-0630-0831",
     "settings": [
       {
@@ -281741,6 +281774,20 @@
         "term": {
           "nowAfter": "1793458800000",
           "nowBefore": "1796050799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-league_medal-26-1201-close",
+    "settings": [
+      {
+        "satisfyCondition": {
+          "conditionId": "cd-clear-area-main-015"
+        },
+        "term": {
+          "nowAfter": "1796050800000",
+          "nowBefore": "0"
         }
       }
     ]
@@ -282725,6 +282772,17 @@
         "term": {
           "nowAfter": "1793458800000",
           "nowBefore": "1796050799000"
+        }
+      }
+    ]
+  },
+  {
+    "id": "cd-time-exchange-pvp_medal-26-1201-close",
+    "settings": [
+      {
+        "term": {
+          "nowAfter": "1796050800000",
+          "nowBefore": "0"
         }
       }
     ]
